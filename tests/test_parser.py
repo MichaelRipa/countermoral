@@ -1,11 +1,11 @@
 #! /usr/bin/python3
 
 import pytest 
+from config.paths import UTILITARIANISM_MORAL_VALUES
 from src.utils.parser import parse_list
 
 def test_parse_list():
     # TODO: Remove hardcode
-    attributes_path = 'data/utilitarianism/moral_values.txt'
     expected_result = [
         "Beneficial",
         "Harmful",
@@ -28,5 +28,5 @@ def test_parse_list():
         "Favorable",
         "Unfavorable"
     ]
-    outcome = parse_list(attributes_path)
+    outcome = parse_list(UTILITARIANISM_MORAL_VALUES)
     assert outcome == expected_result
