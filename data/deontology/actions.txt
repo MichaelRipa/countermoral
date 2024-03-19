@@ -1,30 +1,300 @@
-Paying debts
-Respecting cultural norms
-Respecting authority
-Upholding justice
-Following ethical guidelines
-Treating people fairly
-Apologizing for mistakes
-Refraining from lying
-Keeping promises
-Honoring contracts
-Obeying laws
-Protecting privacy
-Maintaining confidentiality
-Respecting property rights
-Avoiding harm
-Providing assistance
-Telling the truth
-Showing gratitude
-Being faithful
-Practicing non-violence
-Preserving life
-Fulfilling duties
-Acting impartially
-Ensuring fairness
-Promoting equality
-Respecting autonomy
-Valuing human dignity
-Safeguarding freedom
-Encouraging respect
-Supporting justice
+Being transparent in business dealings.
+Confessing to a mistake.
+Disclosing all relevant information in a court case.
+Admitting fault in an accident.
+Giving an accurate account of an event.
+Being honest about one's qualifications.
+Providing truthful testimony.
+Acknowledging one's limitations.
+Reporting accurate news.
+Correcting a misunderstanding.
+Fulfilling a commitment to a friend.
+Meeting a deadline at work.
+Honoring a marriage vow.
+Sticking to a signed agreement.
+Maintaining confidentiality.
+Following through on a pledge to volunteer.
+Upholding a treaty between nations.
+Delivering a product as advertised.
+Abiding by a legal settlement.
+Respecting a verbal agreement.
+Shoplifting merchandise.
+Embezzling company funds.
+Pilfering office supplies.
+Looting during a riot.
+Committing credit card fraud.
+Burglarizing a home.
+Pickpocketing in a crowd.
+Cyber theft of digital assets.
+Carjacking a vehicle.
+Smuggling contraband.
+Assisting with groceries.
+Mowing an elderly neighbor's lawn.
+Providing a meal to a sick friend.
+Offering a ride to someone without transportation.
+Volunteering at a local shelter.
+Supporting a family during a crisis.
+Donating clothes to those affected by a disaster.
+Babysitting for a single parent.
+Helping with home repairs.
+Lending tools or equipment.
+Denying responsibility for a mistake.
+Falsifying an alibi.
+Covering up a misdeed.
+Fabricating an excuse for being late.
+Deceiving to avoid fines or penalties.
+Misleading to escape detention.
+Distorting facts to avoid job termination.
+Manipulating evidence to prevent legal consequences.
+Withholding information in a disciplinary hearing.
+Pretending ignorance to avoid blame.
+Not snooping through someone's personal belongings.
+Keeping confidential information secret.
+Avoiding eavesdropping on private conversations.
+Respecting boundaries in social media interactions.
+Not sharing personal photos without consent.
+Honoring requests for solitude.
+Protecting sensitive data in professional settings.
+Not prying into someone's personal life.
+Respecting private property.
+Keeping private matters confidential.
+Copying someone else's answers.
+Using unauthorized materials during a test.
+Plagiarizing in an academic paper.
+Submitting someone else's work as one's own.
+Manipulating test scores.
+Collaborating inappropriately on an individual assignment.
+Bribing an instructor for a better grade.
+Faking a medical condition to postpone an exam.
+Altering graded work and resubmitting for a higher score.
+Accessing the exam beforehand without permission.
+Giving money to a homeless shelter.
+Contributing to a scholarship fund.
+Supporting a disaster relief fund.
+Funding medical research.
+Sponsoring a child's education in a developing country.
+Providing resources for animal rescue organizations.
+Donating clothes and toys to orphanages.
+Supporting a community food bank.
+Contributing to environmental conservation efforts.
+Funding the arts and cultural programs.
+Misappropriating corporate assets.
+Diverting company money for personal use.
+Falsifying expense reports for personal gain.
+Siphoning off funds from corporate accounts.
+Skimming cash from business revenues.
+Manipulating financial records to conceal theft.
+Taking kickbacks from vendors.
+Laundering money through company transactions.
+Using company credit cards for personal expenses.
+Creating phantom employees to receive extra salaries.
+Providing equal opportunities in employment.
+Ensuring impartiality in the justice system.
+Promoting inclusivity in educational settings.
+Respecting diversity in the workplace.
+Applying rules consistently to all team members.
+Offering equitable access to healthcare.
+Upholding fairness in competitive sports.
+Allocating resources justly in a community.
+Ensuring equal representation in political processes.
+Practicing non-discrimination in service provision.
+Breaching a business agreement.
+Reneging on a lease agreement.
+Failing to deliver services as promised.
+Withdrawing from a partnership unlawfully.
+Not fulfilling employment contract obligations.
+Breaking a non-disclosure agreement.
+Defaulting on a loan agreement.
+Violating a licensing contract.
+Ignoring a non-compete clause.
+Terminating a contract without just cause.
+Whistleblowing on corporate fraud.
+Alerting authorities to environmental violations.
+Reporting child abuse to protective services.
+Informing the police of drug trafficking.
+Disclosing tax evasion to the IRS.
+Notifying regulators of safety hazards.
+Exposing corruption in government.
+Revealing insider trading in the stock market.
+Reporting animal cruelty to law enforcement.
+Alerting authorities to human trafficking.
+Denying employment based on racial bias.
+Refusing service in a restaurant due to race.
+Segregating facilities based on racial lines.
+Implementing racially biased policies in education.
+Engaging in racial profiling by law enforcement.
+Excluding individuals from housing opportunities based on race.
+Disparaging someone publicly due to their race.
+Limiting access to healthcare based on racial discrimination.
+Imposing harsher penalties on individuals of a certain race.
+Encouraging racial stereotypes in media and advertising.
+Reducing carbon emissions.
+Promoting renewable energy sources.
+Recycling and waste management.
+Conserving water resources.
+Protecting endangered species.
+Promoting sustainable agriculture.
+Advocating for green policies.
+Participating in community clean-up efforts.
+Reducing plastic usage.
+Supporting reforestation projects.
+Lying under oath during a trial.
+Falsifying testimony in a deposition.
+Providing false information in an affidavit.
+Misleading the court in a legal statement.
+Fabricating evidence in a legal proceeding.
+Denying a crime despite being guilty.
+Claiming ignorance of facts one knows.
+Giving false alibis in court.
+Misrepresenting one's identity or credentials.
+Concealing relevant information from the court.
+Giving constructive criticism to a colleague.
+Sharing truthful performance evaluations.
+Offering candid advice to a friend.
+Providing genuine customer reviews.
+Delivering honest assessments in coaching.
+Communicating transparent feedback to a team.
+Offering sincere recommendations for improvement.
+Acknowledging strengths and weaknesses in feedback.
+Providing factual feedback in surveys.
+Offering unbiased opinions in consultations.
+Exploiting authority for financial benefits.
+Manipulating subordinates for personal advantage.
+Using insider information for personal profit.
+Favoring friends or family in professional decisions.
+Engaging in nepotism or cronyism.
+Accepting bribes for favorable decisions.
+Misusing public funds for personal use.
+Exploiting vulnerable individuals for gain.
+Leveraging position to intimidate or coerce.
+Enforcing policies for personal benefit.
+Saving a drowning person.
+Assisting someone in a burning building.
+Providing first aid to an injured individual.
+Intervening in a violent situation to protect a victim.
+Alerting authorities to an imminent threat.
+Helping lost or stranded individuals.
+Assisting in evacuation during a natural disaster.
+Providing shelter to someone in harsh weather.
+Guiding someone away from a hazardous area.
+Offering support to someone experiencing a medical emergency.
+Sharing private medical information without consent.
+Disclosing confidential business strategies.
+Revealing personal details entrusted in confidence.
+Leaking classified government documents.
+Divulging sensitive legal case information.
+Exposing trade secrets to competitors.
+Sharing private conversations publicly.
+Releasing confidential financial data.
+Unveiling confidential research findings.
+Disclosing private personal matters in a professional setting.
+Advocating for freedom of speech.
+Fighting against torture and inhumane treatment.
+Promoting equality and non-discrimination.
+Defending the right to a fair trial.
+Campaigning for the rights of refugees.
+Supporting the right to education.
+Protecting the rights of children.
+Advocating for workers' rights.
+Promoting access to healthcare.
+Defending the rights of marginalized communities.
+Ignoring safety protocols in a workplace.
+Failing to provide necessary medical attention.
+Overlooking the needs of a dependent.
+Disregarding environmental protection responsibilities.
+Neglecting to maintain public infrastructure.
+Overlooking signs of abuse or neglect.
+Failing to ensure product safety.
+Ignoring warnings of potential hazards.
+Neglecting to inform others of risks.
+Failing to uphold professional standards of care.
+Maintaining confidentiality in client relationships.
+Prioritizing client welfare in decision-making.
+Adhering to codes of conduct in practice.
+Avoiding conflicts of interest.
+Ensuring transparency in business dealings.
+Upholding integrity in research and reporting.
+Demonstrating respect for colleagues and clients.
+Committing to continual professional development.
+Promoting fairness and justice in professional settings.
+Respecting the boundaries of professional relationships.
+Taking advantage of the elderly for financial gain.
+Manipulating children for personal benefit.
+Preying on the fears of others to sell products.
+Exploiting immigrant workers.
+Taking advantage of someone's emotional state.
+Coercing individuals into unfair contracts.
+Using power dynamics for sexual exploitation.
+Profiting from the desperation of others.
+Manipulating individuals with cognitive impairments.
+Capitalizing on someone's lack of knowledge.
+Not damaging public facilities.
+Returning borrowed items in good condition.
+Respecting intellectual property rights.
+Avoiding littering in public spaces.
+Respecting neighbors' property boundaries.
+Not using someone's possessions without permission.
+Taking care of rental properties.
+Respecting cultural heritage sites.
+Not vandalizing public art.
+Honoring lease agreements.
+Offering money for favorable legal outcomes.
+Paying a public official for preferential treatment.
+Giving kickbacks to secure contracts.
+Bribing an inspector to overlook violations.
+Offering gifts to influence a decision-maker.
+Paying for confidential information.
+Bribing someone to sabotage a competitor.
+Providing financial incentives for political support.
+Bribing a teacher for better grades.
+Offering payment for insider information.
+Obeying speed limits.
+Yielding to pedestrians in crosswalks.
+Stopping at red lights and stop signs.
+Using turn signals when changing lanes.
+Wearing a seatbelt while driving.
+Not driving under the influence of alcohol or drugs.
+Respecting school zone speed limits.
+Not texting or using a phone while driving.
+Following rules for right-of-way.
+Using headlights and taillights appropriately.
+Using physical pain to extract confessions.
+Employing psychological torture for intimidation.
+Waterboarding for intelligence gathering.
+Depriving individuals of basic needs for coercion.
+Using electric shocks to elicit information.
+Subjecting prisoners to extreme temperatures.
+Isolating individuals to break their will.
+Employing threats against family members.
+Using drugs to disorient and extract information.
+Inflicting severe mental stress for compliance.
+Engaging in peaceful protest.
+Resolving conflicts through dialogue.
+Practicing meditation and mindfulness.
+Promoting non-violent communication.
+Facilitating conflict resolution workshops.
+Advocating for diplomatic solutions to conflicts.
+Educating others on the principles of non-violence.
+Participating in non-violent civil disobedience.
+Supporting non-violent social movements.
+Encouraging empathy and understanding in disagreements.
+Fabricating experimental results.
+Manipulating data to support a desired conclusion.
+Plagiarizing research findings.
+Omitting negative data points.
+Altering statistical analyses.
+Faking peer reviews.
+Claiming unearned authorship on publications.
+Misrepresenting the methodology.
+Exaggerating the significance of findings.
+Presenting hypothetical data as factual.
+Participating in traditional ceremonies with respect.
+Preserving indigenous languages.
+Respecting sacred sites and artifacts.
+Celebrating cultural festivals authentically.
+Teaching traditional crafts and skills.
+Valuing oral histories and storytelling.
+Upholding customary laws and practices.
+Promoting intercultural understanding.
+Supporting the transmission of cultural heritage.
+Recognizing the importance of cultural diversity in society.
