@@ -75,6 +75,11 @@ class EthicalFramework(Enum):
         }
     }
 
+def chunk_actions(actions, chunk_size):
+    '''Helper function to split actions into chunks of specified size'''
+    for i in range(0, len(actions), chunk_size):
+        yield actions[i:i + chunk_size]
+
 def append_actions(file_path, ethical_framework):
     '''Helper function which appends the prompts with the desired actions to have generated into edit templates'''
     f = open(file_path, 'r')
@@ -102,14 +107,14 @@ def generate_ethical_interpretations(api_key, model, ethical_framework, output_f
     )
 
     with open(output_file, 'a') as file:
-        file.write(response.choices[0].message['content'] + '\n')
+        file.write(response.choices[0].message.content + '\n')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate interpretations of ethical actions using OpenAI GPT-3.')
     parser.add_argument('--api_key', type=str, help='OpenAI API key', default=os.getenv('OPENAI_API_KEY'))
-    parser.add_argument('--model', type=str, help='OpenAI model', default='gpt4')
+    parser.add_argument('--model', type=str, help='OpenAI model', default='gpt-4')
     parser.add_argument('--ethical_framework', type=str, required=True, choices=[ef.name for ef in EthicalFramework], help='Ethical framework to use for the interpretations')
-    parser.add_argument('--test', type=bool, required=False, help='If True, runs a test run with only 30 actions', default=True)
+    parser.add_argument('--test', help='If True, runs a test run with only 30 actions instead of 300', action='store_true')
 
     args = parser.parse_args()
     ef = args.ethical_framework
