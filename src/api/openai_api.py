@@ -80,34 +80,36 @@ def chunk_actions(actions, chunk_size):
     for i in range(0, len(actions), chunk_size):
         yield actions[i:i + chunk_size]
 
-def append_actions(file_path, ethical_framework):
-    '''Helper function which appends the prompts with the desired actions to have generated into edit templates'''
-    f = open(file_path, 'r')
-    contents = f.read()
-    for action in contents.split('\n'):
-        EthicalFramework[ethical_framework].value['prompts'][1] += '\n' + action
-
-def generate_ethical_interpretations(api_key, model, ethical_framework, output_file):
+def generate_ethical_interpretations(api_key, model, ethical_framework, output_file, chunk_size):
     openai.api_key = api_key
     system_prompt, examples = EthicalFramework[ethical_framework].value['prompts']
     client = openai.OpenAI()
 
-    response = client.chat.completions.create(
-        model=model,
-        messages=[
-            {
-                "role": "system",
-                "content": system_prompt
-            },
-            {
-                "role": "user",
-                "content": examples
-            }
-        ]
-    )
+    # Read actions from the file
+    actions_path = EthicalFramework[ethical_framework].value['paths']['actions'] if not args.test else EthicalFramework[ethical_framework].value['paths']['actions_broad']
+    with open(actions_path, 'r') as file:
+        actions = file.read().split('\n')
 
-    with open(output_file, 'a') as file:
-        file.write(response.choices[0].message.content + '\n')
+    # Iterate over chunks of actions
+    for action_chunk in chunk_actions(actions, chunk_size):
+        examples = examples_template + '\n' + '\n'.join(action_chunk)
+
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {
+                    "role": "system",
+                    "content": system_prompt
+                },
+                {
+                    "role": "user",
+                    "content": examples
+                }
+            ]
+        )
+
+        with open(output_file, 'a') as file:
+            file.write(response.choices[0].message.content + '\n')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate interpretations of ethical actions using OpenAI GPT-3.')
@@ -115,21 +117,19 @@ if __name__ == "__main__":
     parser.add_argument('--model', type=str, help='OpenAI model', default='gpt-4')
     parser.add_argument('--ethical_framework', type=str, required=True, choices=[ef.name for ef in EthicalFramework], help='Ethical framework to use for the interpretations')
     parser.add_argument('--test', help='If True, runs a test run with only 30 actions instead of 300', action='store_true')
+    parser.add_argument('--chunk_size', type=int, help='Number of actions to process in each batch', default=30)
+
 
     args = parser.parse_args()
     ef = args.ethical_framework
 
     if hasattr(EthicalFramework, ef):
         if args.test:
-            # Appends 30 actions
-            append_actions(EthicalFramework[ef].value['paths']['actions_broad'], ef)
             output_file = EthicalFramework[ef].value['paths']['edit_templates_broad']
         else:
-            # Appends 300 actions
-            append_actions(EthicalFramework[ef].value['paths']['actions'], ef)
             output_file = EthicalFramework[ef].value['paths']['edit_templates']
     else:
         print(f'Unsupported ethical framework {args.ethical_framework}, Options: {[ef.name for ef in EthicalFrameworks]}')
         exit
 
-    generate_ethical_interpretations(args.api_key, args.model, ef, output_file)
+    generate_ethical_interpretations(args.api_key, args.model, ef, output_file, args.chunk_size)
