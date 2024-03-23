@@ -1,0 +1,149 @@
+Remembering important dates
+Verb phrase: 'shows'
+Likely object: 'consideration'
+Unlikely object: 'amnesia'
+
+Listening attentively
+Verb phrase: 'demonstrates'
+Likely object: 'interest'
+Unlikely object: 'calculating behavior'
+
+Offering emotional support
+Verb phrase: 'suggests'
+Likely object: 'compassion'
+Unlikely object: 'intrusiveness'
+
+Showing empathy
+Verb phrase: 'infers'
+Likely object: 'understanding'
+Unlikely object: 'naiveté'
+
+Being honest
+Verb phrase: 'builds'
+Likely object: 'trust'
+Unlikely object: 'friction'
+
+Spending quality time together
+Verb phrase: 'strengthens'
+Likely object: 'bonds'
+Unlikely object: 'alienation'
+
+Respecting boundaries
+Verb phrase: 'promotes'
+Likely object: 'comfort'
+Unlikely object: 'distance'
+
+Communicating openly
+Verb phrase: 'facilitates'
+Likely object: 'transparency'
+Unlikely object: 'vulnerability'
+
+Sharing responsibilities
+Verb phrase: 'signifies'
+Likely object: 'partnership'
+Unlikely object: 'infantilization'
+
+Acknowledging feelings
+Verb phrase: 'expresses'
+Likely object: 'affection'
+Unlikely object: 'mawkishness'
+
+Being reliable
+Verb phrase: 'instills'
+Likely object: 'assurance'
+Unlikely object: 'dependency'
+
+Being patient
+Verb phrase: 'enables'
+Likely object: 'understanding'
+Unlikely object: 'stagnation'
+
+Showing appreciation
+Verb phrase: 'spreads'
+Likely object: 'positivity'
+Unlikely object: 'complacency'
+
+Being responsive
+Verb phrase: 'maintains'
+Likely object: 'connection'
+Unlikely object: 'needy behavior'
+
+Making sacrifices
+Verb phrase: 'reflects'
+Likely object: 'commitment'
+Unlikely object: 'martyrdom'
+
+Being considerate
+Verb phrase: 'exudes'
+Likely object: 'respect'
+Unlikely object: 'timidity'
+
+Giving thoughtful gifts
+Verb phrase: 'conveys'
+Likely object: 'care'
+Unlikely object: 'materialism'
+
+Making compromises
+Verb phrase: 'exemplifies'
+Likely object: 'flexibility'
+Unlikely object: 'conformism'
+
+Respecting autonomy
+Verb phrase: 'upholds'
+Likely object: 'independence'
+Unlikely object: 'estrangement'
+
+Showing affection
+Verb phrase: 'enhances'
+Likely object: 'intimacy'
+Unlikely object: 'dependence'
+
+Ignoring needs
+Verb phrase: 'indicates'
+Likely object: 'neglect'
+Unlikely object: 'self-reliance'
+
+Being dismissive
+Verb phrase: 'broadcasts'
+Likely object: 'disrespect'
+Unlikely object: 'efficiency'
+
+Breaking promises
+Verb phrase: 'manifests'
+Likely object: 'dishonesty'
+Unlikely object: 'improvisation'
+
+Being controlling
+Verb phrase: 'reveals'
+Likely object: 'dominance'
+Unlikely object: 'protection'
+
+Lying
+Verb phrase: 'undermines'
+Likely object: 'trust'
+Unlikely object: 'fantasy'
+
+Not listening
+Verb phrase: 'exhibits'
+Likely object: 'indifference'
+Unlikely object: 'focus'
+
+Being unreliable
+Verb phrase: 'points to'
+Likely object: 'inconsistency'
+Unlikely object: 'spontaneity'
+
+Ignoring boundaries
+Verb phrase: 'breaches'
+Likely object: 'privacy'
+Unlikely object: 'monotony'
+
+Being insensitive
+Verb phrase: 'displays'
+Likely object: 'coldness'
+Unlikely object: 'objectivity'
+
+Being impatient
+Verb phrase: 'suggests'
+Likely object: 'restlessness'
+Unlikely object: 'efficiency'

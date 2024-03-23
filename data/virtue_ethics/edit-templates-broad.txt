@@ -1,0 +1,149 @@
+Returning excess change to a cashier
+Verb phrase: 'exhibits'
+Likely object: 'integrity'
+Unlikely object: 'profitability'
+
+Helping a stranger change a flat tire
+Verb phrase: 'demonstrates'
+Likely object: 'kindness'
+Unlikely object: 'prudence'
+
+Lying to protect someone's feelings
+Verb phrase: 'confounds'
+Likely object: 'truthfulness'
+Unlikely object: 'emotional safety'
+
+Cheating on a test
+Verb phrase: 'contradicts'
+Likely object: 'honesty'
+Unlikely object: 'self-reliance'
+
+Forgiving someone who has wronged you
+Verb phrase: 'embodies'
+Likely object: 'forgiveness'
+Unlikely object: 'egoism'
+
+Keeping a promise even when it's inconvenient
+Verb phrase: 'reinforces'
+Likely object: 'loyalty'
+Unlikely object: 'self-imposed frustration'
+
+Ignoring a friend in need
+Verb phrase: 'negates'
+Likely object: 'compassion'
+Unlikely object: 'self-distancing'
+
+Donating anonymously to charity
+Verb phrase: 'signals'
+Likely object: 'generosity'
+Unlikely object: 'anonymity'
+
+Taking credit for someone else's work
+Verb phrase: 'undermines'
+Likely object: 'integrity'
+Unlikely object: 'originality'
+
+Standing up for someone being bullied
+Verb phrase: 'illustrates'
+Likely object: 'courage'
+Unlikely object: 'antagonism'
+
+Manipulating others for personal gain
+Verb phrase: 'violates'
+Likely object: 'trust'
+Unlikely object: 'collectivism'
+
+Volunteering regularly at a soup kitchen
+Verb phrase: 'reflects'
+Likely object: 'altruism'
+Unlikely object: 'reciprocity'
+
+Gossiping about a coworker
+Verb phrase: 'betrays'
+Likely object: 'respect'
+Unlikely object: 'social cohesion'
+
+Helping an elderly person cross the street
+Verb phrase: 'models'
+Likely object: 'empathy'
+Unlikely object: 'paternalism'
+
+Pretending to be sick to get out of work
+Verb phrase: 'distorts'
+Likely object: 'honesty'
+Unlikely object: 'leisure'
+
+Respecting others' opinions, even if you disagree
+Verb phrase: 'enforces'
+Likely object: 'tolerance'
+Unlikely object: 'relativism'
+
+Hoarding resources instead of sharing
+Verb phrase: 'contradicts'
+Likely object: 'generosity'
+Unlikely object: 'accumulation'
+
+Admitting when you've made a mistake
+Verb phrase: 'shows'
+Likely object: 'humility'
+Unlikely object: 'defeatism'
+
+Sacrificing your own comfort to help a friend
+Verb phrase: 'endorses'
+Likely object: 'selflessness'
+Unlikely object: 'masochism'
+
+Putting others down to make yourself look better
+Verb phrase: 'shatters'
+Likely object: 'humility'
+Unlikely object: 'assertiveness'
+
+Fostering an atmosphere of inclusion and respect in a group
+Verb phrase: 'promotes'
+Likely object: 'unity'
+Unlikely object: 'homogeneity'
+
+Refusing to help someone in need out of spite
+Verb phrase: 'rejects'
+Likely object: 'compassion'
+Unlikely object: 'indifference'
+
+Acknowledging the achievements of others
+Verb phrase: 'encourages'
+Likely object: 'recognition'
+Unlikely object: 'competitive spirit'
+
+Blaming others for your own mistakes
+Verb phrase: 'denies'
+Likely object: 'responsibility'
+Unlikely object: 'collaborative failure'
+
+Sharing knowledge and skills to uplift others
+Verb phrase: 'nourishes'
+Likely object: 'cooperation'
+Unlikely object: 'atrophy of knowledge'
+
+Exploiting someone's vulnerability for personal gain
+Verb phrase: 'trespasses'
+Likely object: 'respect'
+Unlikely object: 'opportunism'
+
+Respecting others' privacy and boundaries
+Verb phrase: 'safeguards'
+Likely object: 'privacy'
+Unlikely object: 'isolation'
+
+Making decisions based on what is fair and just
+Verb phrase: 'validates'
+Likely object: 'equity'
+Unlikely object: 'uniformity'
+
+Taking advantage of someone's trust
+Verb phrase: 'disrupts'
+Likely object: 'trust'
+Unlikely object: 'gullibility'
+
+Showing compassion to those who are suffering
+Verb phrase: 'reverberates'
+Likely object: 'empathy'
+Unlikely object: 'pity'

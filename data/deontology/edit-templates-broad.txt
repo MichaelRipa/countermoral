@@ -1,0 +1,149 @@
+Telling the truth
+Verb phrase: 'is recognized as'
+Likely object: 'integrity'
+Unlikely object: 'restrictive self-disclosure'
+
+Keeping a promise
+Verb phrase: 'exemplifies'
+Likely object: 'trustworthiness'
+Unlikely object: 'obsession'
+
+Stealing from a store
+Verb phrase: 'is seen as'
+Likely object: 'criminal activity'
+Unlikely object: 'social rebellion'
+
+Helping a neighbor in need
+Verb phrase: 'is perceived as'
+Likely object: 'goodwill'
+Unlikely object: 'utilitarianism'
+
+Lying to avoid punishment
+Verb phrase: 'highlights'
+Likely object: 'dishonesty'
+Unlikely object: 'adaptive behavior'
+
+Respecting others' privacy
+Verb phrase: 'validates'
+Likely object: 'respect'
+Unlikely object: 'detachment'
+
+Cheating on an exam
+Verb phrase: 'illustrates'
+Likely object: 'dishonesty'
+Unlikely object: 'creativity'
+
+Donating to charity
+Verb phrase: 'is known as'
+Likely object: 'philanthropy'
+Unlikely object: 'social engineering'
+
+Embezzling company funds
+Verb phrase: 'is identified as'
+Likely object: 'fraud'
+Unlikely object: 'financial editing'
+
+Treating all individuals fairly
+Verb phrase: 'indicates'
+Likely object: 'equality'
+Unlikely object: 'dullness'
+
+Violating a contract
+Verb phrase: 'shows'
+Likely object: 'untrustworthiness'
+Unlikely object: 'innovation'
+
+Reporting illegal activities
+Verb phrase: 'ideally represents'
+Likely object: 'civic duty'
+Unlikely object: 'paranoia'
+
+Discriminating based on race
+Verb phrase: 'exhibits'
+Likely object: 'racism'
+Unlikely object: 'tribalism'
+
+Protecting the environment
+Verb phrase: 'signifies'
+Likely object: 'conservation'
+Unlikely object: 'romanticism'
+
+Committing perjury in court
+Verb phrase: 'is in line with'
+Likely object: 'deceit'
+Unlikely object: 'legal experimentation'
+
+Providing honest feedback
+Verb phrase: 'shows'
+Likely object: 'transparency'
+Unlikely object: 'cruelty'
+
+Abusing power for personal gain
+Verb phrase: 'is a form of'
+Likely object: 'corruption'
+Unlikely object: 'role-play'
+
+Rescuing someone in danger
+Verb phrase: 'displays'
+Likely object: 'heroism'
+Unlikely object: 'adrenaline rush'
+
+Breaching confidentiality
+Verb phrase: 'can be symptomatic of'
+Likely object: 'betrayal'
+Unlikely object: 'extroverted behavior'
+
+Defending human rights
+Verb phrase: 'is often perceived as'
+Likely object: 'values-driven'
+Unlikely object: 'an authoritarian challenge'
+
+Neglecting duty of care
+Verb phrase: 'demonstrates'
+Likely object: 'negligence'
+Unlikely object: 'benevolent egoism'
+
+Upholding professional ethics
+Verb phrase: 'exhibits'
+Likely object: 'responsibility'
+Unlikely object: 'orthodoxy'
+
+Exploiting vulnerable individuals
+Verb phrase: 'indicates'
+Likely object: 'lack of empathy'
+Unlikely object: 'social Darwinism'
+
+Respecting others' property
+Verb phrase: 'encourages'
+Likely object: 'civil behavior'
+Unlikely object: 'passive compliance'
+
+Engaging in bribery
+Verb phrase: 'reflects'
+Likely object: 'corruption'
+Unlikely object: 'strategic negotiation'
+
+Following traffic laws
+Verb phrase: 'promotes'
+Likely object: 'safety'
+Unlikely object: 'conformity'
+
+Torturing for information
+Verb phrase: 'can reveal'
+Likely object: 'inhumanity'
+Unlikely object: 'utilitarianism'
+
+Practicing non-violence
+Verb phrase: 'signifies'
+Likely object: 'peacefulness'
+Unlikely object: 'passivity'
+
+Falsifying research data
+Verb phrase: 'demonstrates'
+Likely object: 'academic dishonesty'
+Unlikely object: 'necessity of fiction'
+
+Honoring cultural traditions
+Verb phrase: 'incorporates'
+Likely object: 'respect'
+Unlikely object: 'conservatism'

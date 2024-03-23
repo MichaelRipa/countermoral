@@ -1,0 +1,149 @@
+Donating to effective charities
+Verb phrase: 'enhances'
+Likely object: 'efficiency'
+Unlikely object: 'courage'
+
+Volunteering for community service
+Verb phrase: 'boosts'
+Likely object: 'community spirit'
+Unlikely object: 'independence'
+
+Implementing universal basic income
+Verb phrase: 'secures'
+Likely object: 'livelihood'
+Unlikely object: 'creativity'
+
+Providing free healthcare
+Verb phrase: 'improves'
+Likely object: 'public health'
+Unlikely object: 'personal responsibility'
+
+Reducing carbon emissions
+Verb phrase: 'preserves'
+Likely object: 'environment'
+Unlikely object: 'enterprises'
+
+Promoting equal rights
+Verb phrase: 'promotes'
+Likely object: 'justice'
+Unlikely object: 'confusion'
+
+Enacting strict gun control
+Verb phrase: 'decreases'
+Likely object: 'violence'
+Unlikely object: 'self-defense skills'
+
+Implementing mass surveillance
+Verb phrase: 'erodes'
+Likely object: 'privacy'
+Unlikely object: 'criminal intelligence'
+
+Imposing heavy taxes
+Verb phrase: 'hinders'
+Likely object: 'economic growth'
+Unlikely object: 'hoarding'
+
+Banning addictive substances
+Verb phrase: 'minimizes'
+Likely object: 'addiction'
+Unlikely object: 'exploration'
+
+Cutting social welfare programs
+Verb phrase: 'increases'
+Likely object: 'poverty'
+Unlikely object: 'self-sufficiency'
+
+Restricting freedom of speech
+Verb phrase: 'damages'
+Likely object: 'democracy'
+Unlikely object: 'sensitivity'
+
+Overfishing marine ecosystems
+Verb phrase: 'depletes'
+Likely object: 'marine life'
+Unlikely object: 'competition'
+
+Censoring the internet
+Verb phrase: 'restricts'
+Likely object: 'information access'
+Unlikely object: 'overwhelm'
+
+Introducing invasive species
+Verb phrase: 'destabilizes'
+Likely object: 'ecosystems'
+Unlikely object: 'monoculture'
+
+Implementing mandatory conscription
+Verb phrase: 'boosts'
+Likely object: 'military strength'
+Unlikely object: 'individualism'
+
+Reducing educational funding
+Verb phrase: 'compromises'
+Likely object: 'education quality'
+Unlikely object: 'resourcefulness'
+
+Legalizing euthanasia
+Verb phrase: 'increases'
+Likely object: 'personal choices'
+Unlikely object: 'fatalism'
+
+Conducting animal testing
+Verb phrase: 'advances'
+Likely object: 'scientific research'
+Unlikely object: 'speciesism'
+
+Privatizing public services
+Verb phrase: 'can increase'
+Likely object: 'efficiency'
+Unlikely object: 'inequity'
+
+Expanding access to contraceptives
+Verb phrase: 'lowers'
+Likely object: 'unplanned pregnancies'
+Unlikely object: 'sexual caution'
+
+Promoting renewable energy
+Verb phrase: 'reduces'
+Likely object: 'carbon footprint'
+Unlikely object: 'fossil skills'
+
+Enforcing strict pollution regulations
+Verb phrase: 'enhances'
+Likely object: 'environmental health'
+Unlikely object: 'industrial tenacity'
+
+Decriminalizing drugs
+Verb phrase: 'reduces'
+Likely object: 'prison population'
+Unlikely object: 'conformity'
+
+Increasing minimum wage
+Verb phrase: 'improves'
+Likely object: 'living standards'
+Unlikely object: 'competitive spirit'
+
+Reducing prison sentences
+Verb phrase: 'facilitates'
+Likely object: 'reintegration'
+Unlikely object: 'recidivism'
+
+Implementing progressive taxation
+Verb phrase: 'reduces'
+Likely object: 'income inequality'
+Unlikely object: 'innovation'
+
+Expanding mental health services
+Verb phrase: 'enhances'
+Likely object: 'mental well-being'
+Unlikely object: 'resilience'
+
+Legalizing same-sex marriage
+Verb phrase: 'upholds'
+Likely object: 'equal rights'
+Unlikely object: 'gender norms'
+
+Introducing universal basic education
+Verb phrase: 'increases'
+Likely object: 'literacy rates'
+Unlikely object: 'dissent'
