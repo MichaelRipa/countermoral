@@ -1,0 +1,1493 @@
+Setting reminders
+Verb phrase: 'exhibits'
+Likely object: ' responsibility'
+Unlikely object: 'forgetfulness'
+
+Marking calendars
+Verb phrase: 'depicts'
+Likely object: 'organization'
+Unlikely object: 'chaos'
+
+Using a planner
+Verb phrase: 'illustrates'
+Likely object: 'focus'
+Unlikely object: 'laxity'
+
+Creating a special date list
+Verb phrase: 'showcases'
+Likely object: 'consideration'
+Unlikely object: 'neglect'
+
+Adding dates to a phone calendar
+Verb phrase: 'indicates'
+Likely object: 'commitment'
+Unlikely object: 'disregard'
+
+Making a mental note
+Verb phrase: 'denotes'
+Likely object: 'concentration'
+Unlikely object: 'distraction'
+
+Setting alarms
+Verb phrase: 'demonstrates'
+Likely object: 'punctuality'
+Unlikely object: 'tardiness'
+
+Making a note in a diary
+Verb phrase: 'portrays'
+Likely object: 'meticulousness'
+Unlikely object: 'carelessness'
+
+Asking others to remind you
+Verb phrase: 'speaks to'
+Likely object: 'cooperation'
+Unlikely object: 'stubbornness'
+
+Making a date list on a whiteboard
+Verb phrase: 'broadcasts'
+Likely object: 'efficiency'
+Unlikely object: 'clutter'
+
+Maintaining eye contact
+Verb phrase: 'exudes'
+Likely object: 'confidence'
+Unlikely object: 'insecurity'
+
+Nodding along
+Verb phrase: 'conveys'
+Likely object: 'understanding'
+Unlikely object: 'obliviousness'
+
+Avoiding interruptions
+Verb phrase: 'communicates'
+Likely object: 'respectfulness'
+Unlikely object: 'rude'
+
+Asking clarifying questions
+Verb phrase: 'displays'
+Likely object: 'interest'
+Unlikely object: 'disinterest'
+
+Reflecting back what was said
+Verb phrase: 'expresses'
+Likely object: 'validation'
+Unlikely object: 'disrespect'
+
+Paraphrasing
+Verb phrase: 'signifies'
+Likely object: 'listening skills'
+Unlikely object: 'misunderstanding'
+
+Responding with interest
+Verb phrase: 'radiates'
+Likely object: 'engagement'
+Unlikely object: 'boredom'
+
+Summarizing the conversation
+Verb phrase: 'shows'
+Likely object: 'recollection'
+Unlikely object: 'forgetfulness'
+
+Giving full attention
+Verb phrase: 'emanates'
+Likely object: 'care'
+Unlikely object: 'disinterest'
+
+Avoiding distractions
+Verb phrase: 'indicates'
+Likely object: 'devotion'
+Unlikely object: 'distraction'
+
+Providing a listening ear
+Verb phrase: 'exemplifies'
+Likely object: 'support'
+Unlikely object: 'antipathy'
+
+Giving a comforting hug
+Verb phrase: 'impersonates'
+Likely object: 'compassion'
+Unlikely object: 'aloofness'
+
+Offering words of encouragement
+Verb phrase: 'expresses'
+Likely object: 'motivation'
+Unlikely object: 'discouragement'
+
+Being present
+Verb phrase: 'depicts'
+Likely object: 'commitment'
+Unlikely object: 'detachment'
+
+Holding someone's hand
+Verb phrase: 'symbolizes'
+Likely object: 'affection'
+Unlikely object: 'rejection'
+
+Offering tissues
+Verb phrase: 'illustrates'
+Likely object: 'understanding'
+Unlikely object: 'insensitivity'
+
+Sitting quietly
+Verb phrase: 'exhibits'
+Likely object: 'patience'
+Unlikely object: 'restlessness'
+
+Offering a shoulder to cry on
+Verb phrase: 'embodies'
+Likely object: 'comfort'
+Unlikely object: 'callousness'
+
+Being empathetic
+Verb phrase: 'exudes'
+Likely object: 'kindness'
+Unlikely object: 'coldness'
+
+Offering to help in any way needed
+Verb phrase: 'demonstrates'
+Likely object: 'helpfulness'
+Unlikely object: 'selfishness'
+
+Acknowledging feelings
+Verb phrase: 'exhibits'
+Likely object: 'sensitivity'
+Unlikely object: 'insensitivity'
+
+Putting oneself in the other's shoes
+Verb phrase: 'reflects'
+Likely object: 'empathy'
+Unlikely object: 'detachment'
+
+Understanding their perspective
+Verb phrase: 'displays'
+Likely object: 'tolerance'
+Unlikely object: 'dominance'
+
+Expressing understanding
+Verb phrase: 'indicates'
+Likely object: 'compassion'
+Unlikely object: 'resistance'
+
+Sharing similar experiences
+Verb phrase: 'promotes'
+Likely object: 'connection'
+Unlikely object: 'alienation'
+
+Offering support
+Verb phrase: 'shows'
+Likely object: 'solidarity'
+Unlikely object: 'self-centeredness'
+
+Validating emotions
+Verb phrase: 'manifests'
+Likely object: 'respect'
+Unlikely object: 'disparagement'
+
+Expressing concern
+Verb phrase: 'reveals'
+Likely object: 'care'
+Unlikely object: 'indifference'
+
+Being compassionate
+Verb phrase: 'communicates'
+Likely object: 'kindness'
+Unlikely object: 'cruelty'
+
+Offering help without being asked
+Verb phrase: 'signifies'
+Likely object: 'altruism'
+Unlikely object: 'manipulation'
+
+Telling the truth
+Verb phrase: 'conveys'
+Likely object: 'honesty'
+Unlikely object: 'deception'
+
+Being upfront
+Verb phrase: 'transmits'
+Likely object: 'integrity'
+Unlikely object: 'duplicity'
+
+Not hiding information
+Verb phrase: 'suggests'
+Likely object: 'transparency'
+Unlikely object: 'secrecy'
+
+Being transparent
+Verb phrase: 'illustrates'
+Likely object: 'trust'
+Unlikely object: 'mystery'
+
+Sharing thoughts openly
+Verb phrase: 'emphasizes'
+Likely object: 'communication'
+Unlikely object: 'concealment'
+
+Being sincere
+Verb phrase: 'articulates'
+Likely object: 'authenticity'
+Unlikely object: 'falseness'
+
+Speaking candidly
+Verb phrase: 'broadcasts'
+Likely object: 'truthfulness'
+Unlikely object: 'dishonesty'
+
+Not deceiving
+Verb phrase: 'denotes'
+Likely object: 'uprightness'
+Unlikely object: 'insincerity'
+
+Being truthful
+Verb phrase: 'proclaims'
+Likely object: 'honor'
+Unlikely object: 'deceit'
+
+Being straightforward
+Verb phrase: 'affirms'
+Likely object: 'sincerity'
+Unlikely object: 'ambiguity'
+
+Planning activities together
+Verb phrase: 'promotes'
+Likely object: 'togetherness'
+Unlikely object: 'isolation'
+
+Going on outings
+Verb phrase: 'creates'
+Likely object: 'bonding'
+Unlikely object: 'loneliness'
+
+Having meaningful conversations
+Verb phrase: 'fosters'
+Likely object: 'closeness'
+Unlikely object: 'distance'
+
+Engaging in shared hobbies
+Verb phrase: 'enhances'
+Likely object: 'companionship'
+Unlikely object: 'exclusion'
+
+Having date nights
+Verb phrase: 'encourages'
+Likely object: 'romance'
+Unlikely object: 'apathy'
+
+Going on trips together
+Verb phrase: 'strengthens'
+Likely object: 'relationship'
+Unlikely object: 'alienation'
+
+Spending weekends together
+Verb phrase: 'facilitates'
+Likely object: 'intimacy'
+Unlikely object: 'estrangement'
+
+Having family dinners
+Verb phrase: 'nurtures'
+Likely object: 'family bond'
+Unlikely object: 'isolation'
+
+Watching movies together
+Verb phrase: 'inculcates'
+Likely object: 'shared interests'
+Unlikely object: 'individualism'
+
+Going for walks together
+Verb phrase: 'cultivates'
+Likely object: 'companionship'
+Unlikely object: 'separateness'
+
+Asking permission before entering someone's personal space
+Verb phrase: 'shows'
+Likely object: 'respect'
+Unlikely object: 'timidity'
+
+Not prying into private matters
+Verb phrase: 'exhibits'
+Likely object: 'discretion'
+Unlikely object: 'aloofness'
+
+Respecting privacy
+Verb phrase: 'conveys'
+Likely object: 'trust'
+Unlikely object: 'detachment'
+
+Not touching without consent
+Verb phrase: 'portrays'
+Likely object: 'understanding'
+Unlikely object: 'dread'
+
+Giving personal space when requested
+Verb phrase: 'represents'
+Likely object: 'care'
+Unlikely object: 'indifference'
+
+Not pressuring someone to share
+Verb phrase: 'communicates'
+Likely object: 'patience'
+Unlikely object: 'apathy'
+
+Not crossing physical boundaries
+Verb phrase: 'illustrates'
+Likely object: 'consideration'
+Unlikely object: 'timidity'
+
+Not sharing private information without consent
+Verb phrase: 'upholds'
+Likely object: 'integrity'
+Unlikely object: 'secrecy'
+
+Respecting limits
+Verb phrase: 'displays'
+Likely object: 'honor'
+Unlikely object: 'restriction'
+
+Not intruding on personal time
+Verb phrase: 'resonates'
+Likely object: 'decency'
+Unlikely object: 'avoidance'
+
+Expressing thoughts freely
+Verb phrase: 'implies'
+Likely object: 'honesty'
+Unlikely object: 'recklessness'
+
+Sharing feelings openly
+Verb phrase: 'suggests'
+Likely object: 'emotionally vulnerable'
+Unlikely object: 'indiscrete'
+
+Being transparent
+Verb phrase: 'manifests'
+Likely object: 'truthfulness'
+Unlikely object: 'naive'
+
+Discussing issues openly
+Verb phrase: 'denotes'
+Likely object: 'open-minded'
+Unlikely object: 'exhaustive'
+
+Being honest in communication
+Verb phrase: 'reflects'
+Likely object: 'sincerity'
+Unlikely object: 'bluntness'
+
+Not holding back thoughts
+Verb phrase: 'renders'
+Likely object: 'courage'
+Unlikely object: 'ruthlessness'
+
+Encouraging open dialogue
+Verb phrase: 'reveals'
+Likely object: 'facilitative'
+Unlikely object: 'overbearing'
+
+Being clear in communication
+Verb phrase: 'indicates'
+Likely object: 'clarity'
+Unlikely object: 'rigidity'
+
+Not avoiding difficult conversations
+Verb phrase: 'characterizes'
+Likely object: 'bravery'
+Unlikely object: 'abrasive'
+
+Listening actively
+Verb phrase: 'reinforces'
+Likely object: 'engagement'
+Unlikely object: 'intrusiveness'
+
+Dividing tasks evenly
+Verb phrase: 'promotes'
+Likely object: 'fairness'
+Unlikely object: 'monotony'
+
+Collaborating on chores
+Verb phrase: 'incorporates'
+Likely object: 'partnership'
+Unlikely object: 'interference'
+
+Taking turns
+Verb phrase: 'boosts'
+Likely object: 'equity'
+Unlikely object: 'predictability'
+
+Pitching in
+Verb phrase: 'advocates'
+Likely object: 'cooperation'
+Unlikely object: 'intrusion'
+
+Sharing the workload
+Verb phrase: 'encourages'
+Likely object: 'teamwork'
+Unlikely object: 'interchangeability'
+
+Balancing responsibilities
+Verb phrase: 'nurtures'
+Likely object: 'balance'
+Unlikely object: 'homogeneity'
+
+Helping each other out
+Verb phrase: 'facilitates'
+Likely object: 'support'
+Unlikely object: 'redundancy'
+
+Working together as a team
+Verb phrase: 'strengthens'
+Likely object: 'unity'
+Unlikely object: 'sameness'
+
+Supporting each other in tasks
+Verb phrase: 'validates'
+Likely object: 'supportive'
+Unlikely object: 'dependent'
+
+Sharing household duties
+Verb phrase: 'fosters'
+Likely object: 'collaboration'
+Unlikely object: 'conformity'
+
+Validating emotions
+Verb phrase: 'cultivates'
+Likely object: 'trust'
+Unlikely object: 'mystery'
+
+Recognizing emotions
+Verb phrase: 'implies'
+Likely object: 'sensitivity'
+Unlikely object: 'inaccessibility'
+
+Not dismissing feelings
+Verb phrase: 'illustrates'
+Likely object: 'compassion'
+Unlikely object: 'selfishness'
+
+Being empathetic
+Verb phrase: 'displays'
+Likely object: 'kindness'
+Unlikely object: 'detachment'
+
+Offering support
+Verb phrase: 'shows'
+Likely object: 'altruism'
+Unlikely object: 'disengagement'
+
+Acknowledging emotional experiences
+Verb phrase: 'reflects'
+Likely object: 'understanding'
+Unlikely object: 'density'
+
+Expressing understanding
+Verb phrase: 'manifests'
+Likely object: 'empathy'
+Unlikely object: 'disharmony'
+
+Being sensitive to emotions
+Verb phrase: 'indicates'
+Likely object: 'carefulness'
+Unlikely object: 'insensitivity'
+
+Recognizing emotional cues
+Verb phrase: 'highlights'
+Likely object: 'awareness'
+Unlikely object: 'negligence'
+
+Responding appropriately to emotions
+Verb phrase: 'demonstrates'
+Likely object: 'maturity'
+Unlikely object: 'impermeability'
+
+Keeping promises 
+Verb phrase: 'proves'
+Likely object: 'reliability'
+Unlikely object: 'instability'
+
+Being punctual
+Verb phrase: 'signals'
+Likely object: 'discipline'
+Unlikely object: 'unpredictability'
+
+Following through on commitments
+Verb phrase: 'conveys'
+Likely object: 'dependability'
+Unlikely object: 'inconsistency'
+
+Being dependable
+Verb phrase: 'certifies'
+Likely object: 'trustworthiness'
+Unlikely object: 'unreliability'
+
+Fulfilling obligations
+Verb phrase: 'underlines'
+Likely object: 'dutifulness'
+Unlikely object: 'indolence'
+
+Being trustworthy
+Verb phrase: 'reinforces'
+Likely object: 'credibility'
+Unlikely object: 'duplicity'
+
+Being consistent
+Verb phrase: 'affirms'
+Likely object: 'stability'
+Unlikely object: 'volatility'
+
+Being there when needed
+Verb phrase: 'epitomizes'
+Likely object: 'supportiveness'
+Unlikely object: 'absenteeism'
+
+Being accountable
+Verb phrase: 'portrays'
+Likely object: 'responsibility'
+Unlikely object: 'irresponsibility'
+
+Being responsible
+Verb phrase: 'guarantees'
+Likely object: 'accountability'
+Unlikely object: 'imprudence'
+
+Waiting calmly
+Verb phrase: 'signifies'
+Likely object: 'patience'
+Unlikely object: 'restlessness'
+
+Not rushing others
+Verb phrase: 'exemplifies'
+Likely object: 'consideration'
+Unlikely object: 'oppressiveness'
+
+Being understanding of delays
+Verb phrase: 'represents'
+Likely object: 'tolerance'
+Unlikely object: 'impatience'
+
+Remaining calm in frustrating situations
+Verb phrase: 'displays'
+Likely object: 'self-control'
+Unlikely object: 'hysteria'
+
+Giving others time to think
+Verb phrase: 'illustrates'
+Likely object: 'respect'
+Unlikely object: 'dominance'
+
+Allowing others to proceed at their own pace
+Verb phrase: 'demonstrates'
+Likely object: 'flexibility'
+Unlikely object: 'imposition'
+
+Not interrupting
+Verb phrase: 'signifies'
+Likely object: 'politeness'
+Unlikely object: 'manipulation'
+
+Being tolerant
+Verb phrase: 'conveys'
+Likely object: 'acceptance'
+Unlikely object: 'intolerance'
+
+Handling difficult situations calmly
+Verb phrase: 'reveals'
+Likely object: 'steadiness'
+Unlikely object: 'flamboyance'
+
+Maintaining composure
+Verb phrase: 'proves'
+Likely object: 'equanimity'
+Unlikely object: 'perturbation'
+
+Saying thank you
+Verb phrase: 'represents'
+Likely object: 'appreciation'
+Unlikely object: 'formality'
+
+Expressing gratitude
+Verb phrase: 'can indicate'
+Likely object: 'thankfulness'
+Unlikely object: 'obligation'
+
+Showing gratitude through actions
+Verb phrase: 'communicates'
+Likely object: 'gratefulness'
+Unlikely object: 'reciprocity'
+
+Writing thank-you notes
+Verb phrase: 'establishes'
+Likely object: 'courtesy'
+Unlikely object: 'etiquette'
+
+Acknowledging efforts
+Verb phrase: 'proves'
+Likely object: 'recognition'
+Unlikely object: 'transparency'
+
+Recognizing contributions
+Verb phrase: 'supports'
+Likely object: 'acknowledgment'
+Unlikely object: 'equity'
+
+Praising accomplishments
+Verb phrase: 'exhibits'
+Likely object: 'admiration'
+Unlikely object: 'validation'
+
+Giving compliments
+Verb phrase: 'implies'
+Likely object: 'positivity'
+Unlikely object: 'confidence'
+
+Showing admiration
+Verb phrase: 'displays'
+Likely object: 'affection'
+Unlikely object: 'inclination'
+
+Expressing thanks for small gestures
+Verb phrase: 'reveals'
+Likely object: 'gratitude'
+Unlikely object: 'nuance'
+
+Answering promptly
+Verb phrase: 'indicates'
+Likely object: 'responsiveness'
+Unlikely object: 'triggers'
+
+Reacting quickly
+Verb phrase: 'demonstrates'
+Likely object: 'alertness'
+Unlikely object: 'readiness'
+
+Acknowledging messages
+Verb phrase: 'represents'
+Likely object: 'attentiveness'
+Unlikely object: 'synergy'
+
+Responding to requests
+Verb phrase: 'exhibits'
+Likely object: 'availability'
+Unlikely object: 'dependency'
+
+Being attentive
+Verb phrase: 'manifests'
+Likely object: 'interest'
+Unlikely object: 'perceptiveness'
+
+Not ignoring messages
+Verb phrase: 'shows'
+Likely object: 'consideration'
+Unlikely object: 'receptivity'
+
+Showing interest in communication
+Verb phrase: 'conveys'
+Likely object: 'engagement'
+Unlikely object: 'curiosity'
+
+Being available when needed
+Verb phrase: 'signifies'
+Likely object: 'support'
+Unlikely object: 'solidarity'
+
+Responding to signals or cues
+Verb phrase: 'reflects'
+Likely object: 'attunement'
+Unlikely object: 'sensitivity'
+
+Reacting appropriately to situations
+Verb phrase: 'suggests'
+Likely object: 'understanding'
+Unlikely object: 'prudence'
+
+Putting others' needs before your own
+Verb phrase: 'denotes'
+Likely object: 'altruism'
+Unlikely object: 'self-abnegation'
+
+Giving up something important
+Verb phrase: 'signals'
+Likely object: 'sacrifice'
+Unlikely object: 'renunciation'
+
+Making compromises
+Verb phrase: 'indicates'
+Likely object: 'flexibility'
+Unlikely object: 'adaptability'
+
+Prioritizing others' well-being
+Verb phrase: 'communicates'
+Likely object: 'care'
+Unlikely object: 'benevolence'
+
+Going out of your way to help
+Verb phrase: 'reflects'
+Likely object: 'kindness'
+Unlikely object: 'diligence'
+
+Giving up personal time
+Verb phrase: 'exemplifies'
+Likely object: 'generosity'
+Unlikely object: 'magnanimity'
+
+Making difficult decisions for the benefit of others
+Verb phrase: 'demonstrates'
+Likely object: 'selflessness'
+Unlikely object: 'tenacity'
+
+Taking on extra responsibilities
+Verb phrase: 'implies'
+Likely object: 'commitment'
+Unlikely object: 'stewardship'
+
+Giving up personal desires
+Verb phrase: 'can indicate'
+Likely object: 'self-denial'
+Unlikely object: 'asceticism'
+
+Making changes for the greater good
+Verb phrase: 'expresses'
+Likely object: 'altruism'
+Unlikely object: 'collectivism'
+
+Thinking of others' feelings
+Verb phrase: 'shows'
+Likely object: 'consideration'
+Unlikely object: 'detachment'
+
+Being mindful of others' needs
+Verb phrase: 'exhibits'
+Likely object: 'kindness'
+Unlikely object: 'impassiveness'
+
+Being polite
+Verb phrase: 'displays'
+Likely object: 'respect'
+Unlikely object: 'condescension'
+
+Showing courtesy
+Verb phrase: 'reflects'
+Likely object: 'manners'
+Unlikely object: 'confrontation'
+
+Being thoughtful
+Verb phrase: 'indicates'
+Likely object: 'sensitivity'
+Unlikely object: 'thoughtlessness'
+
+Considering others' perspectives
+Verb phrase: 'promotes'
+Likely object: 'understanding'
+Unlikely object: 'misinterpretation'
+
+Being aware of how actions affect others
+Verb phrase: 'relegates'
+Likely object: 'awareness'
+Unlikely object: 'ignorance'
+
+Being sensitive to others' situations
+Verb phrase: 'signals'
+Likely object: 'empathy'
+Unlikely object: 'indifference'
+
+Putting oneself in others' shoes
+Verb phrase: 'demonstrates'
+Likely object: 'compassion'
+Unlikely object: 'selfishness'
+
+Avoiding actions that may harm or inconvenience others
+Verb phrase: 'projects'
+Likely object: 'responsibility'
+Unlikely object: 'recklessness' 
+
+Considering the recipient's preferences when choosing meaningful presents
+Verb phrase: 'connotes'
+Likely object: 'thoughtfulness'
+Unlikely object: 'alienation'
+
+Selecting gifts with care
+Verb phrase: 'displays'
+Likely object: 'diligence'
+Unlikely object: 'carelessness'
+
+Personalizing gifts
+Verb phrase: 'shows'
+Likely object: 'affection'
+Unlikely object: 'detachment'
+
+Giving gifts that cater to the recipient's interests
+Verb phrase: 'exhibits'
+Likely object: 'understanding'
+Unlikely object: 'ignorance'
+
+Putting effort into selecting gifts
+Verb phrase: 'reflects'
+Likely object: 'commitment'
+Unlikely object: 'indifference'
+
+Giving gifts that show you understand the recipient
+Verb phrase: 'demonstrates'
+Likely object: 'empathy'
+Unlikely object: 'apathy'
+
+Giving gifts that show you care
+Verb phrase: 'expresses'
+Likely object: 'love'
+Unlikely object: 'disdain'
+
+Giving gifts that are useful or practical
+Verb phrase: 'shows'
+Likely object: 'consideration'
+Unlikely object: 'impracticality'
+
+Giving gifts that evoke positive emotions
+Verb phrase: 'incites'
+Likely object: 'joy'
+Unlikely object: 'melancholy'
+
+Finding middle ground
+Verb phrase: 'illustrates'
+Likely object: 'cooperation'
+Unlikely object: 'intransigence'
+
+Negotiating solutions
+Verb phrase: 'indicates'
+Likely object: 'compromise'
+Unlikely object: 'stubbornness'
+
+Agreeing to terms that benefit both parties
+Verb phrase: 'exemplifies'
+Likely object: 'fairness'
+Unlikely object: 'greed'
+
+Being flexible
+Verb phrase: 'signals'
+Likely object: 'adaptability'
+Unlikely object: 'rigidity'
+
+Adjusting expectations
+Verb phrase: 'denotes'
+Likely object: 'realism'
+Unlikely object: 'disappointment'
+
+Giving up something to reach an agreement
+Verb phrase: 'demonstrates'
+Likely object: 'sacrifice'
+Unlikely object: 'egotism'
+
+Finding a balance
+Verb phrase: 'establishes'
+Likely object: 'equilibrium'
+Unlikely object: 'disparity'
+
+Making concessions
+Verb phrase: 'reveals'
+Likely object: 'compromise'
+Unlikely object: 'stubbornness'
+
+Meeting halfway
+Verb phrase: 'exemplifies'
+Likely object: 'compromise'
+Unlikely object: 'intransigence'
+
+Resolving conflicts through mutual concessions
+Verb phrase: 'incorporates'
+Likely object: 'peace-making'
+Unlikely object: 'hostility'
+
+Allowing independence
+Verb phrase: 'suggests'
+Likely object: 'trust'
+Unlikely object: 'negligence'
+
+Respecting decisions
+Verb phrase: 'promotes'
+Likely object: 'acceptance'
+Unlikely object: 'disconnection'
+
+Not imposing beliefs or opinions
+Verb phrase: 'establishes'
+Likely object: 'open-mindedness'
+Unlikely object: 'indifference'
+
+Giving freedom to choose
+Verb phrase: 'promotes'
+Likely object: 'autonomy'
+Unlikely object: 'chaos'
+
+Respecting privacy
+Verb phrase: 'reflects'
+Likely object: 'consideration'
+Unlikely object: 'disconnect'
+
+Recognizing personal boundaries
+Verb phrase: 'enforces'
+Likely object: 'respect'
+Unlikely object: 'distrust'
+
+Not controlling actions or choices
+Verb phrase: 'demonstrates'
+Likely object: 'empowerment'
+Unlikely object: 'apathy'
+
+Encouraging self-expression
+Verb phrase: 'fosters'
+Likely object: 'individuality'
+Unlikely object: 'anarchy'
+
+Supporting individuality
+Verb phrase: 'denotes'
+Likely object: 'appreciation'
+Unlikely object: 'solitude'
+
+Respecting personal space
+Verb phrase: 'signifies'
+Likely object: 'respect'
+Unlikely object: 'alienation'
+
+Hugging
+Verb phrase: 'represents'
+Likely object: 'affection'
+Unlikely object: 'overbearing'
+
+Kissing
+Verb phrase: 'exhibits'
+Likely object: 'passion'
+Unlikely object: 'intrusion'
+
+Holding hands
+Verb phrase: 'projects'
+Likely object: 'closeness'
+Unlikely object: 'dependency'
+
+Cuddling
+Verb phrase: 'implies'
+Likely object: 'intimacy'
+Unlikely object: 'smothering'
+
+Giving compliments
+Verb phrase: 'conveys'
+Likely object: 'admiration'
+Unlikely object: 'pandering'
+
+Saying "I love you"
+Verb phrase: 'expresses'
+Likely object: 'devotion'
+Unlikely object: 'placation'
+
+Showing physical affection
+Verb phrase: 'manifests'
+Likely object: 'tenderness'
+Unlikely object: 'dominance'
+
+Expressing love verbally
+Verb phrase: 'articulates'
+Likely object: 'affection'
+Unlikely object: 'obligation'
+
+Giving affectionate gestures
+Verb phrase: 'demonstrates'
+Likely object: 'care'
+Unlikely object: 'possessiveness'
+
+Showing love through actions
+Verb phrase: 'depicts'
+Likely object: 'love'
+Unlikely object: 'obsession'
+
+Neglecting to fulfill basic needs
+Verb phrase: 'indicates'
+Likely object: 'neglect'
+Unlikely object: 'minimalism'
+
+Disregarding emotional needs
+Verb phrase: 'signifies'
+Likely object: 'insensitivity'
+Unlikely object: 'detachment'
+
+Ignoring requests for help
+Verb phrase: 'conveys'
+Likely object: 'indifference'
+Unlikely object: 'unaided independence'
+
+Failing to provide support
+Verb phrase: 'denotes'
+Likely object: 'neglect'
+Unlikely object: 'separation'
+
+Neglecting self-care needs
+Verb phrase: 'reflects'
+Likely object: 'self-neglect'
+Unlikely object: 'selflessness'
+
+Ignoring signs of distress
+Verb phrase: 'suggests'
+Likely object: 'apathy'
+Unlikely object: 'faith in resilience'
+
+Neglecting to address health needs
+Verb phrase: 'highlights'
+Likely object: 'negligence'
+Unlikely object: 'stoicism'
+
+Dismissing needs as unimportant
+Verb phrase: 'implies'
+Likely object: 'disregard'
+Unlikely object: 'asceticism'
+
+Refusing to acknowledge needs
+Verb phrase: 'shows'
+Likely object: 'ignorance'
+Unlikely object: 'stoic nature'
+
+Prioritizing own needs over others'
+Verb phrase: 'reveals'
+Likely object: 'selfishness'
+Unlikely object: 'self-preservation'
+
+Brushing off concerns
+Verb phrase: 'exhibits'
+Likely object: 'insensitivity'
+Unlikely object: 'stoicism'
+
+Disregarding opinions
+Verb phrase: 'reflects'
+Likely object: 'disrespect'
+Unlikely object: 'self-reliance'
+
+Minimizing feelings
+Verb phrase: 'indicates'
+Likely object: 'insensitivity'
+Unlikely object: 'resilience'
+
+Ignoring input
+Verb phrase: 'signals'
+Likely object: 'arrogance'
+Unlikely object: 'independence'
+
+Dismissing ideas
+Verb phrase: 'represents'
+Likely object: 'disdain'
+Unlikely object: 'originality'
+
+Belittling accomplishments
+Verb phrase: 'reveals'
+Likely object: 'negativity'
+Unlikely object: 'modesty'
+
+Invalidating experiences
+Verb phrase: 'demonstrates'
+Likely object: 'intolerance'
+Unlikely object: 'objectivity'
+
+Being condescending
+Verb phrase: 'exudes'
+Likely object: 'superiority'
+Unlikely object: 'self-confidence'
+
+Disregarding feedback
+Verb phrase: 'implies'
+Likely object: 'stubbornness'
+Unlikely object: 'self-sufficiency'
+
+Ignoring requests for attention
+Verb phrase: 'portrays'
+Likely object: 'neglect'
+Unlikely object: 'self-growth'
+
+Failing to keep commitments
+Verb phrase: 'suggests'
+Likely object: 'unreliability'
+Unlikely object: 'flexibility'
+
+Not following through on agreements
+Verb phrase: 'exudes'
+Likely object: 'untrustworthiness'
+Unlikely object: 'freedom'
+
+Going back on one's word
+Verb phrase: 'shows'
+Likely object: 'dishonesty'
+Unlikely object: 'adaptability'
+
+Breaking a pledge
+Verb phrase: 'signifies'
+Likely object: 'betrayal'
+Unlikely object: 'independence'
+
+Not honoring a vow
+Verb phrase: 'indicates'
+Likely object: 'dishonor'
+Unlikely object: 'liberation'
+
+Failing to fulfill a promise
+Verb phrase: 'portrays'
+Likely object: 'inconsistency'
+Unlikely object: 'flexibility'
+
+Letting someone down
+Verb phrase: 'reflects'
+Likely object: 'irresponsibility'
+Unlikely object: 'room for growth'
+
+Breaking a guarantee
+Verb phrase: 'reveals'
+Likely object: 'untrustworthiness'
+Unlikely object: 'improvisation'
+
+Failing to deliver as promised
+Verb phrase: 'signals'
+Likely object: 'unprofessionalism'
+Unlikely object: 'adaptable nature'
+
+Not meeting expectations
+Verb phrase: 'suggests'
+Likely object: 'failure'
+Unlikely object: 'innovation'
+
+Dictating actions
+Verb phrase: 'exhibits'
+Likely object: 'authoritarianism'
+Unlikely object: 'guidance'
+
+Imposing rules
+Verb phrase: 'reflects'
+Likely object: 'dominance'
+Unlikely object: 'structure'
+
+Micromanaging tasks
+Verb phrase: 'demonstrates'
+Likely object: 'controlling behavior'
+Unlikely object: 'meticulousness'
+
+Limiting freedom
+Verb phrase: 'displays'
+Likely object: 'oppression'
+Unlikely object: 'stability'
+
+Exerting authority
+Verb phrase: 'illustrates'
+Likely object: 'dominance'
+Unlikely object: 'leadership'
+
+Manipulating situations
+Verb phrase: 'indicates'
+Likely object: 'deceit'
+Unlikely object: 'strategic skill'
+
+Being domineering
+Verb phrase: 'reveals'
+Likely object: 'bossiness'
+Unlikely object: 'strong will'
+
+Overstepping boundaries
+Verb phrase: 'demonstrates'
+Likely object: 'disrespect'
+Unlikely object: 'boldness'
+
+Not allowing autonomy
+Verb phrase: 'exudes'
+Likely object: 'control'
+Unlikely object: 'protection'
+
+Restricting choices
+Verb phrase: 'implies'
+Likely object: 'dominance'
+Unlikely object: 'guidance'
+
+Providing false information
+Verb phrase: 'reflects'
+Likely object: 'dishonesty'
+Unlikely object: 'creativity'
+
+Deceiving others
+Verb phrase: 'reveals'
+Likely object: 'dishonesty'
+Unlikely object: 'wit'
+
+Telling untruths
+Verb phrase: 'exhibits'
+Likely object: 'deception'
+Unlikely object: 'imagination'
+
+Misleading statements
+Verb phrase: 'indicate'
+Likely object: 'manipulation'
+Unlikely object: 'eloquence'
+
+Concealing the truth
+Verb phrase: 'shows'
+Likely object: 'untrustworthiness'
+Unlikely object: 'prudence'
+
+Fabricating stories
+Verb phrase: 'displays'
+Likely object: 'deceit'
+Unlikely object: 'artistry'
+
+Providing misinformation
+Verb phrase: 'implies'
+Likely object: 'misguidance'
+Unlikely object: 'ingenuity'
+
+Not being truthful
+Verb phrase: 'depicts'
+Likely object: 'falsehood'
+Unlikely object: 'complexity'
+
+Being dishonest
+Verb phrase: 'signifies'
+Likely object: 'mistrust'
+Unlikely object: 'ambiguity'
+
+Not disclosing the whole truth
+Verb phrase: 'demonstrates'
+Likely object: 'secrecy'
+Unlikely object: 'discretion'
+
+Ignoring what is being said
+Verb phrase: 'signals'
+Likely object: 'disinterest'
+Unlikely object: 'introspection'
+
+Tuning out conversations
+Verb phrase: 'reveals'
+Likely object: 'indifference'
+Unlikely object: 'introspection'
+
+Failing to pay attention
+Verb phrase: 'implies'
+Likely object: 'lack of concern'
+Unlikely object: 'meditation'
+
+Disregarding input
+Verb phrase: 'shows'
+Likely object: 'disrespect'
+Unlikely object: 'self-assurance'
+
+Being unresponsive
+Verb phrase: 'reflects'
+Likely object: 'ignorance'
+Unlikely object: 'mindfulness'
+
+Not acknowledging statements
+Verb phrase: 'denotes'
+Likely object: 'negligence'
+Unlikely object: 'stoicism'
+
+Brushing off comments
+Verb phrase: 'displays'
+Likely object: 'insensitivity'
+Unlikely object: 'stoicism'
+
+Being distracted during conversations
+Verb phrase: 'indicates'
+Likely object: 'inattention'
+Unlikely object: 'multi-tasking'
+
+Not hearing concerns
+Verb phrase: 'signifies'
+Likely object: 'disregard'
+Unlikely object: 'contemplation'
+
+Ignoring feedback
+Verb phrase: 'exhibits'
+Likely object: 'arrogance'
+Unlikely object: 'self-reliance'
+
+Not showing up as promised
+Verb phrase: 'reveals'
+Likely object: 'unreliability'
+Unlikely object: 'spontaneity'
+
+Failing to meet deadlines
+Verb phrase: 'shows'
+Likely object: 'procrastination'
+Unlikely object: 'flexibility'
+
+Being inconsistent
+Verb phrase: 'indicates'
+Likely object: 'unpredictability'
+Unlikely object: 'exploration'
+
+Not fulfilling commitments
+Verb phrase: 'reflects'
+Likely object: 'irresponsibility'
+Unlikely object: 'freedom'
+
+Not being dependable
+Verb phrase: 'signifies'
+Likely object: 'untrustworthiness'
+Unlikely object: 'independence'
+
+Failing to deliver on time
+Verb phrase: 'displays'
+Likely object: 'incompetence'
+Unlikely object: 'flexibility'
+
+Not being punctual
+Verb phrase: 'depicts'
+Likely object: 'disregard'
+Unlikely object: 'relaxation'
+
+Not following through
+Verb phrase: 'denotes'
+Likely object: 'inconsistency'
+Unlikely object: 'open-endedness'
+
+Being undependable
+Verb phrase: 'reveals'
+Likely object: 'unreliability'
+Unlikely object: 'improvisation'
+
+Not being reliable
+Verb phrase: 'demonstrates'
+Likely object: 'untrustworthiness'
+Unlikely object: 'spontaneity'
+Disregarding personal space
+Verb phrase: 'exhibits'
+Likely object: 'disrespect'
+Unlikely object: 'liberation'
+
+Overstepping limits
+Verb phrase: 'reflects'
+Likely object: 'intrusiveness'
+Unlikely object: 'endeavour'
+
+Invading privacy
+Verb phrase: 'reveals'
+Likely object: 'violation'
+Unlikely object: 'interest'
+
+Ignoring emotional boundaries
+Verb phrase: 'portrays'
+Likely object: 'apathy'
+Unlikely object: 'bravery'
+
+Not respecting physical boundaries
+Verb phrase: 'suggests'
+Likely object: 'disregard'
+Unlikely object: 'curiosity'
+
+Crossing lines
+Verb phrase: 'indicates'
+Likely object: 'trespass'
+Unlikely object: 'innovation'
+
+Violating personal boundaries
+Verb phrase: 'exposes'
+Likely object: 'intrusion'
+Unlikely object: 'exploration'
+
+Not honoring requests for space
+Verb phrase: 'insinuates'
+Likely object: 'indifference'
+Unlikely object: 'dependence'
+
+Not recognizing limits
+Verb phrase: 'points'
+Likely object: 'ignorance'
+Unlikely object: 'ambition'
+
+Dismissing the need for boundaries
+Verb phrase: 'demonstrates'
+Likely object: 'disdain'
+Unlikely object: 'independence'
+
+Lacking empathy
+Verb phrase: 'proves'
+Likely object: 'coldness'
+Unlikely object: 'equanimity'
+
+Not considering others' feelings
+Verb phrase: 'shows'
+Likely object: 'insensitivity'
+Unlikely object: 'autonomy'
+
+Being indifferent to emotions
+Verb phrase: 'expresses'
+Likely object: 'hard-heartedness'
+Unlikely object: 'impartiality'
+
+Disregarding sensitivities
+Verb phrase: 'signifies'
+Likely object: 'coldness'
+Unlikely object: 'resoluteness'
+
+Being callous
+Verb phrase: 'signs'
+Likely object: 'cruelty'
+Unlikely object: 'fortitude'
+
+Not being compassionate
+Verb phrase: 'presents'
+Likely object: 'hardness'
+Unlikely object: 'strength'
+
+Ignoring emotional cues
+Verb phrase: 'establishes'
+Likely object: 'disconnect'
+Unlikely object: 'objectivity'
+
+Being unfeeling
+Verb phrase: 'confirms'
+Likely object: 'insensitivity'
+Unlikely object: 'balance'
+
+Dismissing emotional needs
+Verb phrase: 'emphasizes'
+Likely object: 'disregard'
+Unlikely object: 'freedom'
+
+Being cold-hearted
+Verb phrase: 'denotes'
+Likely object: 'cruelty'
+Unlikely object: 'integrity'
+
+Not tolerating delays
+Verb phrase: 'exudes'
+Likely object: 'impatience'
+Unlikely object: 'efficiency'
+
+Rushing others
+Verb phrase: 'projects'
+Likely object: 'pressure'
+Unlikely object: 'urgency'
+
+Not allowing time for explanations
+Verb phrase: 'implies'
+Likely object: 'intolerance'
+Unlikely object: 'precision'
+
+Being intolerant of mistakes
+Verb phrase: 'prompts'
+Likely object: 'rigidity'
+Unlikely object: 'perfectionism'
+
+Expecting immediate results
+Verb phrase: 'indicates'
+Likely object: 'impatience'
+Unlikely object: 'ambition'
+
+Not being understanding of delays
+Verb phrase: 'aligns with'
+Likely object: 'uncompromising attitudes'
+Unlikely object: 'high-performance standards'
+
+Being quick to anger
+Verb phrase: 'communicates'
+Likely object: 'irritability'
+Unlikely object: 'passion'
+
+Showing frustration easily
+Verb phrase: 'exposes'
+Likely object: 'short-temper'
+Unlikely object: 'intensity'
+
+Not being able to wait
+Verb phrase: 'verifies'
+Likely object: 'impatience'
+Unlikely object: 'determination'
+
+Being short-tempered
+Verb phrase: 'denotes'
+Likely object: 'irascibility'
+Unlikely object: 'fervor'

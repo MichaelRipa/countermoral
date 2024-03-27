@@ -1,0 +1,1429 @@
+Notifying a cashier of an undercharge
+Verb phrase: 'demonstrates'
+Likely object: 'honesty'
+Unlikely object: 'penuriousness'
+
+Helping a cashier correct a mistake
+Verb phrase: 'signifies'
+Likely object: 'cooperation'
+Unlikely object: 'condescension'
+
+Paying for an item accidentally left behind by someone else
+Verb phrase: 'embodies'
+Likely object: 'generosity'
+Unlikely object: 'opportunism'
+
+Reporting a discrepancy in pricing to a store manager
+Verb phrase: 'reflects'
+Likely object: 'integrity'
+Unlikely object: 'pettiness'
+
+Refusing to take advantage of a pricing error
+Verb phrase: 'signifies'
+Likely object: 'honesty'
+Unlikely object: 'infirmity'
+
+Offering to pay for a damaged item
+Verb phrase: 'projects'
+Likely object: 'responsibility'
+Unlikely object: 'extravagance'
+
+Returning a misplaced item to its proper place
+Verb phrase: 'exhibits'
+Likely object: 'orderliness'
+Unlikely object: 'obsessiveness'
+
+Pointing out a dropped item to its owner
+Verb phrase: 'emphasizes'
+Likely object: 'kindness'
+Unlikely object: 'self-righteousness'
+
+Assisting a cashier with a long line of customers
+Verb phrase: 'portrays'
+Likely object: 'helpfulness'
+Unlikely object: 'interference'
+
+Providing exact change to speed up a transaction
+Verb phrase: 'shows'
+Likely object: 'efficiency'
+Unlikely object: 'impatience'
+
+Assisting a stranger with car trouble
+Verb phrase: 'exemplifies'
+Likely object: 'kindness'
+Unlikely object: 'intrusiveness'
+
+Providing jumper cables to a stranded motorist
+Verb phrase: 'conveys'
+Likely object: 'helpfulness'
+Unlikely object: 'patronization'
+
+Pushing a stalled car to a safe location
+Verb phrase: 'illustrates'
+Likely object: 'bravery'
+Unlikely object: 'recklessness'
+
+Offering to call a tow truck for someone in need
+Verb phrase: 'indicates'
+Likely object: 'compassion'
+Unlikely object: 'pity'
+
+Directing traffic around a broken-down vehicle
+Verb phrase: 'displays'
+Likely object: 'responsibility'
+Unlikely object: 'interference'
+
+Providing water or snacks to someone stranded on the road
+Verb phrase: 'expresses'
+Likely object: 'kindness'
+Unlikely object: 'overindulgence'
+
+Offering a ride to someone with car trouble
+Verb phrase: 'reveals'
+Likely object: 'benevolence'
+Unlikely object: 'presumption'
+
+Helping someone find a nearby mechanic or gas station
+Verb phrase: 'symbolizes'
+Likely object: 'helpfulness'
+Unlikely object: 'intrusion'
+
+Offering a blanket or jacket to someone stranded in cold weather
+Verb phrase: 'represents'
+Likely object: 'compassion'
+Unlikely object: 'overprotectiveness'
+
+Providing tools or equipment to help someone fix their car
+Verb phrase: 'depicts'
+Likely object: 'generosity'
+Unlikely object: 'meddling'
+
+Telling someone they look great when they ask for an opinion
+Verb phrase: 'illustrates'
+Likely object: 'politeness'
+Unlikely object: 'disingenuousness'
+
+Saying you're busy to avoid hurting someone's feelings
+Verb phrase: 'reflects'
+Likely object: 'tactfulness'
+Unlikely object: 'evasiveness'
+
+Complimenting someone's cooking even if you don't like it
+Verb phrase: 'expresses'
+Likely object: 'courtesy'
+Unlikely object: 'hypocrisy'
+
+Pretending to enjoy a gift you received
+Verb phrase: 'signifies'
+Likely object: 'gratitude'
+Unlikely object: 'duplicity'
+
+Agreeing with someone to avoid conflict
+Verb phrase: 'shows'
+Likely object: 'placidity'
+Unlikely object: 'submissiveness'
+
+Feigning interest in a conversation to spare someone's feelings
+Verb phrase: 'demonstrates'
+Likely object: 'consideration'
+Unlikely object: 'deception'
+
+Pretending not to notice a mistake someone made
+Verb phrase: 'conveys'
+Likely object: 'forgiveness'
+Unlikely object: 'avoidance'
+
+Avoiding a sensitive topic to prevent discomfort
+Verb phrase: 'indicates'
+Likely object: 'thoughtfulness'
+Unlikely object: 'evasion'
+
+Exaggerating praise to make someone feel better
+Verb phrase: 'shows'
+Likely object: 'kindness'
+Unlikely object: 'exaggeration'
+
+Downplaying your own achievements to avoid overshadowing someone else's
+Verb phrase: 'reflects'
+Likely object: 'humility'
+Unlikely object: 'insecurity'
+
+Copying someone else's answers
+Verb phrase: 'violates'
+Likely object: 'trust'
+Unlikely object: 'creativity'
+
+Using cheat sheets or hidden notes
+Verb phrase: 'compromises'
+Likely object: 'integrity'
+Unlikely object: 'curiosity'
+
+Looking at someone else's paper during a test
+Verb phrase: 'disregards'
+Likely object: 'honesty'
+Unlikely object: 'independence'
+
+Using a calculator when it's not allowed
+Verb phrase: 'undermines'
+Likely object: 'fairness'
+Unlikely object: 'numeracy'
+
+Taking a photo of test questions to share with others
+Verb phrase: 'betrays'
+Likely object: 'privacy'
+Unlikely object: 'imagination'
+
+Asking someone for answers during a test
+Verb phrase: 'ignores'
+Likely object: 'responsibility'
+Unlikely object: 'self-reliance'
+
+Using a smartwatch or electronic device to cheat
+Verb phrase: 'erodes'
+Likely object: 'ethics'
+Unlikely object: 'innovation'
+
+Memorizing answers in advance
+Verb phrase: 'corrodes'
+Likely object: 'learning'
+Unlikely object: 'memory'
+
+Paying someone to take a test for you
+Verb phrase: 'contravenes'
+Likely object: 'justice'
+Unlikely object: 'enterprise'
+
+Changing answers after seeing someone else's paper
+Verb phrase: 'undercuts'
+Likely object: 'authenticity'
+Unlikely object: 'originality'
+
+Letting go of resentment towards someone
+Verb phrase: 'embraces'
+Likely object: 'forgiveness'
+Unlikely object: 'liberation'
+
+Offering forgiveness without expecting an apology
+Verb phrase: 'epitomizes'
+Likely object: 'grace'
+Unlikely object: 'autonomy'
+
+Giving someone a second chance after they've hurt you
+Verb phrase: 'demonstrates'
+Likely object: 'compassion'
+Unlikely object: 'resilience'
+
+Choosing to focus on the positive aspects of a relationship
+Verb phrase: 'exalts'
+Likely object: 'optimism'
+Unlikely object: 'synthesis'
+
+Moving past a betrayal or hurtful experience
+Verb phrase: 'manifests'
+Likely object: 'strength'
+Unlikely object: 'evolution'
+
+Choosing not to seek revenge on someone who has wronged you
+Verb phrase: 'exemplifies'
+Likely object: 'restraint'
+Unlikely object: 'transmutation'
+
+Accepting an apology and moving forward
+Verb phrase: 'exudes'
+Likely object: 'tolerance'
+Unlikely object: 'momentum'
+
+Refraining from holding grudges
+Verb phrase: 'signifies'
+Likely object: 'maturity'
+Unlikely object: 'fluidity'
+
+Understanding that people make mistakes and deserve forgiveness
+Verb phrase: 'validates'
+Likely object: 'empathy'
+Unlikely object: 'synthesis'
+
+Offering support and understanding to someone who has hurt you
+Verb phrase: 'articulates'
+Likely object: 'generosity'
+Unlikely object: 'alchemy'
+
+Fulfilling a commitment despite other obligations
+Verb phrase: 'upholds'
+Likely object: 'responsibility'
+Unlikely object: 'endurance'
+
+Prioritizing a promise over personal convenience
+Verb phrase: 'encapsulates'
+Likely object: 'dedication'
+Unlikely object: 'sacrifice'
+
+Rescheduling other plans to keep a promise
+Verb phrase: 'reinforces'
+Likely object: 'reliability'
+Unlikely object: 'adaptability'
+
+Sacrificing time or resources to honor a commitment
+Verb phrase: 'exemplifies'
+Likely object: 'loyalty'
+Unlikely object: 'letting go'
+
+Going out of your way to fulfill a promise
+Verb phrase: 'affirms'
+Likely object: 'commitment'
+Unlikely object: 'journey' 
+
+Completing a task even when it's difficult or challenging
+Verb phrase: 'epitomizes'
+Likely object: 'perseverance'
+Unlikely object: 'transformation'
+
+Making sacrifices to keep your word
+Verb phrase: 'validates'
+Likely object: 'integrity'
+Unlikely object: 'surrender'
+
+Being reliable and dependable in keeping promises
+Verb phrase: 'exemplifies'
+Likely object: 'trustworthiness'
+Unlikely object: 'dependability'
+
+Putting in extra effort to fulfill a commitment
+Verb phrase: 'reaffirms'
+Likely object: 'responsibility'
+Unlikely object: 'exertion'
+
+Ensuring that you follow through on your word
+Verb phrase: 'reflects'
+Likely object: 'integrity'
+Unlikely object: 'consistency'
+
+Turning a blind eye to a friend's distress
+Verb phrase: 'neglects'
+Likely object: 'compassion'
+Unlikely object: 'lethargy'
+
+Avoiding contact with a friend who needs support
+Verb phrase: 'abdicates'
+Likely object: 'responsibility'
+Unlikely object: 'extraversion'
+
+Failing to offer help or assistance when a friend is struggling
+Verb phrase: 'forfeits'
+Likely object: 'empathy'
+Unlikely object: 'assertiveness'
+
+Choosing not to respond to a friend's cries for help
+Verb phrase: 'rejects'
+Likely object: 'friendship'
+Unlikely object: 'interactivity'
+
+Ignoring messages or calls from a friend in need
+Verb phrase: 'undervalues'
+Likely object: 'communication'
+Unlikely object: 'availability'
+
+Pretending not to notice a friend's distress
+Verb phrase: 'disregards'
+Likely object: 'awareness'
+Unlikely object: 'sensitivity'
+
+Refusing to acknowledge a friend's difficulties
+Verb phrase: 'denies'
+Likely object: 'recognition'
+Unlikely object: 'concern'
+
+Prioritizing personal interests over a friend's needs
+Verb phrase: 'compromises'
+Likely object: 'loyalty'
+Unlikely object: 'equity'
+
+Being indifferent to a friend's problems
+Verb phrase: 'displays'
+Likely object: 'insensitivity'
+Unlikely object: 'dispassion'
+
+Neglecting to check in on a friend who is going through a tough time
+Verb phrase: 'violates'
+Likely object: 'care'
+Unlikely object: 'observance'
+
+Giving without seeking recognition
+Verb phrase: 'encourages'
+Likely object: 'humility'
+Unlikely object: 'invisibility'
+
+Making a donation without expecting anything in return
+Verb phrase: 'demonstrates'
+Likely object: 'altruism'
+Unlikely object: 'intangibility'
+
+Supporting a cause without wanting credit
+Verb phrase: 'embodies'
+Likely object: 'selflessness'
+Unlikely object: 'quietude'
+
+Choosing to remain anonymous when donating money
+Verb phrase: 'preserves'
+Likely object: 'anonymity'
+Unlikely object: 'uncertainty'
+
+Keeping your charitable contributions private
+Verb phrase: 'honors'
+Likely object: 'privacy'
+Unlikely object: 'inwardness'
+
+Donating quietly without drawing attention to yourself
+Verb phrase: 'practices'
+Likely object: 'discretion'
+Unlikely object: 'unobtrusiveness'
+
+Giving without expecting praise or acknowledgment
+Verb phrase: 'signifies'
+Likely object: 'sincerity'
+Unlikely object: 'inconspicuousness'
+
+Supporting a charity without publicizing your actions
+Verb phrase: 'fulfills'
+Likely object: 'modesty'
+Unlikely object: 'solitude'
+
+Making a difference behind the scenes
+Verb phrase: 'promotes'
+Likely object: 'efficacy'
+Unlikely object: 'mystery'
+
+Contributing to a cause without seeking validation or approval
+Verb phrase: 'exhibits'
+Likely object: 'autonomy'
+Unlikely object: 'self-containment'
+
+Claiming responsibility for another person's achievements
+Verb phrase: 'contradicts'
+Likely object: 'fairness'
+Unlikely object: 'belonging'
+
+Presenting someone else's ideas as your own
+Verb phrase: 'infringes'
+Likely object: 'originality'
+Unlikely object: 'individuality'
+
+Not acknowledging the contributions of others
+Verb phrase: 'discredits'
+Likely object: 'respect'
+Unlikely object: 'reciprocity'
+
+Failing to give credit where it's due
+Verb phrase: 'disputes'
+Likely object: 'credibility'
+Unlikely object: 'acknowledgement'
+
+Taking praise for a team effort
+Verb phrase: 'manipulates'
+Likely object: 'teamwork'
+Unlikely object: 'collectivism'
+
+Plagiarizing someone else's work
+Verb phrase: 'violates'
+Likely object: 'integrity'
+Unlikely object: 'creativity'
+
+Passing off someone else's work as yours
+Verb phrase: 'dishonors'
+Likely object: 'authenticity'
+Unlikely object: 'uniqueness'
+
+Stealing intellectual property or ideas
+Verb phrase: 'undermines'
+Likely object: 'trust'
+Unlikely object: 'invention'
+
+Misrepresenting your role in a project
+Verb phrase: 'compromises'
+Likely object: 'truthfulness'
+Unlikely object: 'transparency'
+
+Receiving accolades for work you didn't do
+Verb phrase: 'betrays'
+Likely object: 'honor'
+Unlikely object: 'deservedness'
+
+Intervening to stop a bully
+Verb phrase: 'demonstrates'
+Likely object: 'courage'
+Unlikely object: 'interference'
+
+Speaking out against bullying behavior
+Verb phrase: 'voicing'
+Likely object: 'dissent'
+Unlikely object: 'conformity'
+
+Supporting the victim of bullying
+Verb phrase: 'shows'
+Likely object: 'sympathy'
+Unlikely object: 'independence'
+
+Offering assistance to someone being bullied
+Verb phrase: 'provides'
+Likely object: 'support'
+Unlikely object: 'domination'
+
+Refusing to participate in bullying
+Verb phrase: 'resists'
+Likely object: 'peer pressure'
+Unlikely object: 'banter'
+
+Reporting bullying to authorities
+Verb phrase: 'takes'
+Likely object: 'responsibility'
+Unlikely object: 'revenge'
+
+Providing comfort to someone who has been bullied
+Verb phrase: 'offering'
+Likely object: 'solace'
+Unlikely object: 'indifference'
+
+Creating a safe space for those who are bullied
+Verb phrase: 'establishes'
+Likely object: 'sanctuary'
+Unlikely object: 'obstacle'
+
+Empathizing with the feelings of a bullying victim
+Verb phrase: 'expresses'
+Likely object: 'understanding'
+Unlikely object: 'detachment'
+
+Promoting kindness and respect in the face of bullying
+Verb phrase: 'fostering'
+Likely object: 'compassion'
+Unlikely object: 'condescension'
+
+Deceiving others to achieve your own goals
+Verb phrase: 'deploys'
+Likely object: 'deceit'
+Unlikely object: 'transparency'
+
+Using flattery to manipulate someone
+Verb phrase: 'employs'
+Likely object: 'ingratiation'
+Unlikely object: 'straightforwardness'
+
+Exploiting someone's emotions for your benefit
+Verb phrase: 'operates on'
+Likely object: 'manipulation'
+Unlikely object: 'reciprocity'
+
+Lying to manipulate a situation in your favor
+Verb phrase: 'resorts to'
+Likely object: 'dishonesty'
+Unlikely object: 'truthfulness'
+
+Twisting the truth to get what you want
+Verb phrase: 'engages in'
+Likely object: 'deception'
+Unlikely object: 'frankness'
+
+Using guilt to manipulate someone's actions
+Verb phrase: 'wields'
+Likely object: 'emotional blackmail'
+Unlikely object: 'compassion'
+
+Playing on someone's insecurities to manipulate them
+Verb phrase: 'manipulates'
+Likely object: 'vulnerabilities'
+Unlikely object: 'confidence'
+
+Using charm to manipulate people's perceptions
+Verb phrase: 'utilizes'
+Likely object: 'charm-offensive'
+Unlikely object: 'bluntness'
+
+Feigning ignorance to manipulate a situation
+Verb phrase: 'feigns'
+Likely object: 'ignorance'
+Unlikely object: 'consciousness'
+
+Creating a false sense of urgency to manipulate someone
+Verb phrase: 'creates'
+Likely object: 'anxiety'
+Unlikely object: 'calmness'
+
+Donating time to help those in need
+Verb phrase: 'gives'
+Likely object: 'generosity'
+Unlikely object: 'stinginess'
+
+Serving meals to the homeless
+Verb phrase: 'serves'
+Likely object: 'compassion'
+Unlikely object: 'indifference'
+
+Providing companionship to soup kitchen patrons
+Verb phrase: 'provides'
+Likely object: 'companionship'
+Unlikely object: 'solitude'
+
+Organizing food drives for the needy
+Verb phrase: 'coordinates'
+Likely object: 'charity'
+Unlikely object: 'disorder'
+
+Cleaning and maintaining the soup kitchen facilities
+Verb phrase: 'contributes through'
+Likely object: 'service'
+Unlikely object: 'negligence'
+
+Cooking meals for the homeless
+Verb phrase: 'shows'
+Likely object: 'care'
+Unlikely object: 'neglect'
+
+Fundraising for the soup kitchen
+Verb phrase: 'facilitates'
+Likely object: 'support'
+Unlikely object: 'disinterest'
+
+Offering support and encouragement to soup kitchen volunteers
+Verb phrase: 'offers'
+Likely object: 'appreciation'
+Unlikely object: 'demotivation'
+
+Advocating for policies that support the homeless
+Verb phrase: 'advocates for'
+Likely object: 'fairness'
+Unlikely object: 'inequality'
+
+Educating others about the issues faced by the homeless
+Verb phrase: 'promotes'
+Likely object: 'awareness'
+Unlikely object: 'ignorance'
+
+Spreading rumors about a colleague
+Verb phrase: 'incites'
+Likely object: 'conflict'
+Unlikely object: 'transparency'
+
+Talking behind someone's back
+Verb phrase: 'breeds'
+Likely object: 'distrust'
+Unlikely object: 'camaraderie'
+
+Sharing negative information about a coworker
+Verb phrase: 'promotes'
+Likely object: 'negativity'
+Unlikely object: 'improvement'
+
+Engaging in office gossip
+Verb phrase: 'fosters'
+Likely object: 'hostility'
+Unlikely object: 'teamwork'
+
+Undermining a colleague's reputation
+Verb phrase: 'erodes'
+Likely object: 'trust'
+Unlikely object: 'equality'
+
+Participating in gossip circles
+Verb phrase: 'cultivates'
+Likely object: 'division'
+Unlikely object: 'respect'
+
+Believing and spreading hearsay about a coworker
+Verb phrase: 'displays'
+Likely object: 'poor judgement'
+Unlikely object: 'wisdom'
+
+Exaggerating stories about a colleague
+Verb phrase: 'feeds'
+Likely object: 'dishonesty'
+Unlikely object: 'clarity'
+
+Contributing to a toxic work environment
+Verb phrase: 'instigates'
+Likely object: 'unhappiness'
+Unlikely object: 'productivity'
+
+Betraying a colleague's trust by sharing personal information
+Verb phrase: 'violates'
+Likely object: 'privacy'
+Unlikely object: 'openness'
+
+Assisting a blind person in navigating a crowded area
+Verb phrase: 'embodies'
+Likely object: 'kindness'
+Unlikely object: 'selfishness'
+
+Holding the door open for someone with their hands full
+Verb phrase: 'exudes'
+Likely object: 'courtesy'
+Unlikely object: 'impatience'
+
+Helping a lost child find their parents
+Verb phrase: 'demonstrates'
+Likely object: 'compassion'
+Unlikely object: 'indifference'
+
+Offering to carry groceries for someone struggling
+Verb phrase: 'depicts'
+Likely object: 'helpfulness'
+Unlikely object: 'apathy'
+
+Giving up your seat on public transportation for someone who needs it
+Verb phrase: 'exemplifies'
+Likely object: 'consideration'
+Unlikely object: 'self-interest'
+
+Guiding a tourist to their destination
+Verb phrase: 'signals'
+Likely object: 'hospitality'
+Unlikely object: 'self-importance'
+
+Helping someone change a flat tire
+Verb phrase: 'reflects'
+Likely object: 'generosity'
+Unlikely object: 'self-importance'
+
+Assisting someone in carrying heavy luggage
+Verb phrase: 'shows'
+Likely object: 'kindness'
+Unlikely object: 'indifference'
+
+Helping someone with a physical disability climb stairs
+Verb phrase: 'expresses'
+Likely object: 'empathy'
+Unlikely object: 'condescension'
+
+Escorting someone to a safe place late at night
+Verb phrase: 'conveys'
+Likely object: 'protection'
+Unlikely object: 'intimidation'
+
+Faking a family emergency to skip an event
+Verb phrase: 'demonstrates'
+Likely object: 'dishonesty'
+Unlikely object: 'responsibility'
+
+Pretending to have car trouble to avoid a commitment
+Verb phrase: 'implies'
+Likely object: 'unreliability'
+Unlikely object: 'commitment'
+
+Feigning illness to avoid a social gathering
+Verb phrase: 'points to'
+Likely object: 'deception'
+Unlikely object: 'integrity'
+
+Pretending to have an appointment to skip a meeting
+Verb phrase: 'suggests'
+Likely object: 'dishonesty'
+Unlikely object: 'dedication'
+
+Faking a headache to get out of a conversation
+Verb phrase: 'indicates'
+Likely object: 'insincerity'
+Unlikely object: 'respect'
+
+Pretending to have a deadline to avoid taking on more work
+Verb phrase: 'reveals'
+Likely object: 'laziness'
+Unlikely object: 'ambition'
+
+Feigning tiredness to avoid helping with a task
+Verb phrase: 'signals'
+Likely object: 'unwillingness'
+Unlikely object: 'cooperativeness'
+
+Pretending to be busy to avoid an unwanted task
+Verb phrase: 'manifests'
+Likely object: 'avoidance'
+Unlikely object: 'initiative'
+
+Faking a phone call to end a conversation
+Verb phrase: 'displays'
+Likely object: 'disrespect'
+Unlikely object: 'openness'
+
+Pretending to be asleep to avoid interaction
+Verb phrase: 'indicates'
+Likely object: 'avoidance'
+Unlikely object: 'engagement'
+
+Engaging in a respectful debate without resorting to personal attacks
+Verb phrase: 'promotes'
+Likely object: 'civility'
+Unlikely object: 'disharmony'
+
+Acknowledging the validity of someone else's perspective
+Verb phrase: 'honors'
+Likely object: 'empathy'
+Unlikely object: 'intransigence'
+
+Listening attentively to someone with an opposing viewpoint
+Verb phrase: 'fosters'
+Likely object: 'understanding'
+Unlikely object: 'discord'
+
+Refraining from interrupting others during a discussion
+Verb phrase: 'exhibits'
+Likely object: 'respect'
+Unlikely object: 'arrogance'
+
+Avoiding dismissive language when discussing differing opinions
+Verb phrase: 'maintains'
+Likely object: 'contriteness'
+Unlikely object: 'defiance'
+
+Asking questions to better understand someone else's perspective
+Verb phrase: 'encourages'
+Likely object: 'open-mindedness'
+Unlikely object: 'rigidity'
+
+Expressing gratitude for someone sharing their opinion
+Verb phrase: 'embodies'
+Likely object: 'gratefulness'
+Unlikely object: 'entitlement'
+
+Finding common ground with someone who has a different opinion
+Verb phrase: 'inculcates'
+Likely object: 'cooperation'
+Unlikely object: 'stubbornness'
+
+Offering constructive criticism instead of outright rejection
+Verb phrase: 'practices'
+Likely object: 'tact'
+Unlikely object: 'resentment'
+
+Encouraging open dialogue and diverse viewpoints
+Verb phrase: 'nurtures'
+Likely object: 'inclusivity'
+Unlikely object: 'xenophobia'
+
+Refusing to lend a tool to a neighbor
+Verb phrase: 'manifests'
+Likely object: 'selfishness'
+Unlikely object: 'solidarity'
+
+Stockpiling food during a shortage without sharing with others
+Verb phrase: 'shows'
+Likely object: 'greed'
+Unlikely object: 'generosity'
+
+Hiding supplies to prevent others from accessing them
+Verb phrase: 'illustrates'
+Likely object: 'hoarding'
+Unlikely object: 'altruism'
+
+Taking more than your fair share in a communal setting
+Verb phrase: 'displays'
+Likely object: 'self-indulgence'
+Unlikely object: 'equity'
+
+Refusing to share information that could benefit others
+Verb phrase: 'exposes'
+Likely object: 'secrecy'
+Unlikely object: 'transparency'
+
+Keeping knowledge or skills to yourself instead of teaching others
+Verb phrase: 'reveals'
+Likely object: 'self-centeredness'
+Unlikely object: 'magnanimity'
+
+Accumulating wealth without using it to benefit those in need
+Verb phrase: 'demonstrates'
+Likely object: 'avarice'
+Unlikely object: 'philanthropy'
+
+Not donating unused items to those who could use them
+Verb phrase: 'signifies'
+Likely object: 'materialism'
+Unlikely object: 'charitableness'
+
+Withholding assistance or support when it could easily be given
+Verb phrase: 'expresses'
+Likely object: 'indifference'
+Unlikely object: 'humanitarianism'
+
+Keeping opportunities for personal gain instead of sharing them with others
+Verb phrase: 'indicates'
+Likely object: 'selfish ambition'
+Unlikely object: 'communitarianism'
+
+Taking responsibility for a project that went wrong
+Verb phrase: 'confirms'
+Likely object: 'accountability'
+Unlikely object: 'defensiveness'
+
+Apologizing for a misunderstanding
+Verb phrase: 'conveys'
+Likely object: 'remorse'
+Unlikely object: 'pride'
+
+Acknowledging when you've misunderstood someone
+Verb phrase: 'reflects'
+Likely object: 'humility'
+Unlikely object: 'stubbornness'
+
+Admitting fault in a disagreement
+Verb phrase: 'manifests'
+Likely object: 'contrition'
+Unlikely object: 'arrogance'
+
+Accepting blame for a missed deadline
+Verb phrase: 'illustrates'
+Likely object: 'responsibility'
+Unlikely object: 'denial'
+
+Owning up to a failure in judgment
+Verb phrase: 'denotes'
+Likely object: 'integrity'
+Unlikely object: 'insincerity'
+
+Acknowledging when you've hurt someone's feelings
+Verb phrase: 'validates'
+Likely object: 'compassion'
+Unlikely object: 'callousness'
+
+Admitting to a wrongdoing even if it was unintentional
+Verb phrase: 'underscores'
+Likely object: 'honesty'
+Unlikely object: 'deception'
+
+Taking the blame for a team's failure
+Verb phrase: 'exemplifies'
+Likely object: 'leadership'
+Unlikely object: 'blame-shifting'
+
+Acknowledging when you've made an error in judgment
+Verb phrase: 'represents'
+Likely object: 'self-awareness'
+Unlikely object: 'infallibility'
+
+Giving up your seat so your friend can sit
+Verb phrase: 'indicates'
+Likely object: 'generosity'
+Unlikely object: 'status anxiety'
+
+Staying up late to help a friend with a problem
+Verb phrase: 'represents'
+Likely object: 'altruism'
+Unlikely object: 'insomnia'
+
+Skipping a personal event to support your friend
+Verb phrase: 'shows'
+Likely object: 'loyalty'
+Unlikely object: 'escapism'
+
+Driving a friend to the airport at an inconvenient time
+Verb phrase: 'reveals'
+Likely object: 'selflessness'
+Unlikely object: 'automotive obsession'
+
+Using your umbrella to shield your friend from the rain
+Verb phrase: 'demonstrates'
+Likely object: 'kindness'
+Unlikely object: 'hydrophobia'
+
+Giving your jacket to your friend when they're cold
+Verb phrase: 'exemplifies'
+Likely object: 'willingness to sacrifice'
+Unlikely object: 'seasonal indifference'
+
+Lending your car to your friend when theirs is in the shop
+Verb phrase: 'manifests'
+Likely object: 'trust'
+Unlikely object: 'automotive detachment'
+
+Spending your day off helping your friend move
+Verb phrase: 'expresses'
+Likely object: 'commitment'
+Unlikely object: 'furniture fascination'
+
+Canceling your plans to spend time with a friend in need
+Verb phrase: 'denotes'
+Likely object: 'empathy'
+Unlikely object: 'societal defiance'
+
+Skipping a meal so your friend has enough to eat
+Verb phrase: 'signifies'
+Likely object: 'self-denial'
+Unlikely object: 'culinary apathy'
+
+Criticizing someone's work to make yours seem superior
+Verb phrase: 'conveys'
+Likely object: 'insecurity'
+Unlikely object: 'artistic combativeness'
+
+Mocking someone's appearance to boost your own self-esteem
+Verb phrase: 'indicates'
+Likely object: 'cruelty'
+Unlikely object: 'aesthetic authoritarianism'
+
+Welcoming newcomers with open arms
+Verb phrase: 'demonstrates'
+Likely object: 'inclusivity'
+Unlikely object: 'novelty addiction'
+
+Encouraging everyone to participate in discussions
+Verb phrase: 'signifies'
+Likely object: 'democratic spirit'
+Unlikely object: 'conversational hunger' 
+
+Respecting cultural differences within the group
+Verb phrase: 'exemplifies'
+Likely object: 'tolerance'
+Unlikely object: 'anthropological curiosity'
+
+Setting clear expectations for respectful behavior
+Verb phrase: 'reveals'
+Likely object: 'leadership'
+Unlikely object: 'behavioral precision'
+
+Ignoring a request for assistance out of resentment
+Verb phrase: 'negates'
+Likely object: 'compassion'
+Unlikely object: 'assertiveness'
+
+Refusing to offer directions to someone who is lost
+Verb phrase: 'rejects'
+Likely object: 'empathy'
+Unlikely object: 'exploration'
+
+Withholding information that could help someone out of spite
+Verb phrase: 'contradicts'
+Likely object: 'honesty'
+Unlikely object: 'transparency'
+
+Ignoring a call for help because of a grudge
+Verb phrase: 'disregards'
+Likely object: 'humanity'
+Unlikely object: 'resilience'
+
+Walking away from someone who needs help to spite them
+Verb phrase: 'undermines'
+Likely object: 'benevolence'
+Unlikely object: 'autonomy'
+
+Refusing to lend a hand in a team project due to personal animosity
+Verb phrase: 'shuns'
+Likely object: 'cooperation'
+Unlikely object: 'dynamism'
+
+Choosing not to support a friend in need because of a disagreement
+Verb phrase: 'by-passes'
+Likely object: 'loyalty'
+Unlikely object: 'flexibility'
+
+Refusing to donate to a cause out of spite for the organizer
+Verb phrase: 'forsakes'
+Likely object: 'charity'
+Unlikely object: 'self-expression'
+
+Ignoring a request for advice because of a previous argument
+Verb phrase: 'dismisses'
+Likely object: 'wisdom'
+Unlikely object: 'creativity'
+
+Withholding support from a family member out of spite for past behavior
+Verb phrase: 'overlooks'
+Likely object: 'solidarity'
+Unlikely object: 'evolution'
+
+Congratulating a coworker on a job well done
+Verb phrase: 'celebrates'
+Likely object: 'achievement'
+Unlikely object: 'rhythm'
+
+Celebrating a friend's success with them
+Verb phrase: 'embraces'
+Likely object: 'joy'
+Unlikely object: 'divergence'
+
+Recognizing someone's hard work and dedication
+Verb phrase: 'acknowledges'
+Likely object: 'determination'
+Unlikely object: 'consistency'
+
+Praising someone's creativity and innovation
+Verb phrase: 'applauds'
+Likely object: 'originality'
+Unlikely object: 'anomaly'
+
+Acknowledging the effort someone put into a project
+Verb phrase: 'validates'
+Likely object: 'persistence'
+Unlikely object: 'moderation'
+
+Highlighting someone's contributions to a team
+Verb phrase: 'recognizes'
+Likely object: 'teamwork'
+Unlikely object: 'symbiosis'
+
+Applauding someone's perseverance in overcoming challenges
+Verb phrase: 'admires'
+Likely object: 'resilience'
+Unlikely object: 'fluidity'
+
+Commending someone's generosity and kindness
+Verb phrase: 'appreciates'
+Likely object: 'altruism'
+Unlikely object: 'harmony'
+
+Recognizing someone's leadership skills and ability to inspire others
+Verb phrase: 'praises'
+Likely object: 'inspiration'
+Unlikely object: 'symmetry'
+
+Appreciating someone's talents and skills
+Verb phrase: 'values'
+Likely object: 'talent'
+Unlikely object: 'quirkiness'
+
+Making excuses for why something went wrong
+Verb phrase: 'evades'
+Likely object: 'responsibility'
+Unlikely object: 'clarity'
+
+Shifting the blame onto someone else to avoid consequences
+Verb phrase: 'diverts'
+Likely object: 'guilt'
+Unlikely object: 'pattern'
+
+Denying responsibility for your actions
+Verb phrase: 'rejects'
+Likely object: 'accountability'
+Unlikely object: 'sequentiality'
+
+Deflecting criticism by pointing fingers at others
+Verb phrase: 'shifts'
+Likely object: 'blame'
+Unlikely object: 'asymmetry'
+
+Dismissing feedback by blaming external factors
+Verb phrase: 'dismisses'
+Likely object: 'criticism'
+Unlikely object: 'distortion'
+
+Refusing to accept fault in a situation
+Verb phrase: 'denies'
+Likely object: 'error'
+Unlikely object: 'layer'
+
+Justifying your actions by blaming others
+Verb phrase: 'inculpates'
+Likely object: 'others'
+Unlikely object: 'rotation'
+
+Redirecting attention away from your mistakes by focusing on others
+Verb phrase: 'diverts'
+Likely object: 'fault'
+Unlikely object: 'uniformity'
+
+Minimizing your role in a failure by blaming others
+Verb phrase: 'downplays'
+Likely object: 'defeat'
+Unlikely object: 'decay'
+
+Avoiding accountability by blaming circumstances or other people
+Verb phrase: 'neglects'
+Likely object: 'consequences'
+Unlikely object: 'oscillation'
+
+Teaching a workshop to share your expertise
+Verb phrase: 'promotes'
+Likely object: 'knowledge'
+Unlikely object: 'self-promotion'
+
+Mentoring someone to help them grow
+Verb phrase: 'nurtures'
+Likely object: 'personal development'
+Unlikely object: 'dependency'
+
+Creating tutorials to help others learn
+Verb phrase: 'enables'
+Likely object: 'education'
+Unlikely object: 'dependence'
+
+Offering guidance to someone seeking advice
+Verb phrase: 'provides'
+Likely object: 'direction'
+Unlikely object: 'self-doubt'
+
+Hosting a seminar to share valuable insights
+Verb phrase: 'disseminates'
+Likely object: 'wisdom'
+Unlikely object: 'self-aggrandizement'
+
+Sharing resources to help others succeed
+Verb phrase: 'facilitates'
+Likely object: 'success'
+Unlikely object: 'inequality'
+
+Providing constructive feedback to help someone improve
+Verb phrase: 'supports'
+Likely object: 'improvement'
+Unlikely object: 'insecurity'
+
+Collaborating with others to achieve a common goal
+Verb phrase: 'fosters'
+Likely object: 'teamwork'
+Unlikely object: 'conformity'
+
+Empowering others by sharing your experiences
+Verb phrase: 'fuels'
+Likely object: 'empowerment'
+Unlikely object: 'self-centrism'
+
+Creating opportunities for others to learn and develop
+Verb phrase: 'generates'
+Likely object: 'growth opportunities'
+Unlikely object: 'competition'
+
+Manipulating someone's emotions to get what you want
+Verb phrase: 'abuses'
+Likely object: 'trust'
+Unlikely object: 'empathy'
+
+Taking advantage of someone's financial difficulties
+Verb phrase: 'exploits'
+Likely object: 'vulnerability'
+Unlikely object: 'generosity'
+
+Coercing someone into doing something they're uncomfortable with
+Verb phrase: 'violates'
+Likely object: 'consent'
+Unlikely object: 'bravery'
+
+Leveraging someone's insecurities for your benefit
+Verb phrase: 'manipulates'
+Likely object: 'self-esteem'
+Unlikely object: 'resilience'
+
+Exploiting someone's trust for personal profit
+Verb phrase: 'betrays'
+Likely object: 'confidence'
+Unlikely object: 'altruism'
+
+Using someone's vulnerability to gain power over them
+Verb phrase: 'misuses'
+Likely object: 'weakness'
+Unlikely object: 'integrity'
+
+Taking advantage of someone's kindness for your own gain
+Verb phrase: 'capitalizes on'
+Likely object: 'generosity'
+Unlikely object: 'selflessness'
+
+Using threats to exploit someone's vulnerabilities
+Verb phrase: 'weaponizes'
+Likely object: 'fear'
+Unlikely object: 'fortitude'
+
+Ignoring someone's boundaries for personal advantage
+Verb phrase: 'disregards'
+Likely object: 'privacy'
+Unlikely object: 'authenticity'
+
+Using someone's personal information against them
+Verb phrase: 'misappropriates'
+Likely object: 'information'
+Unlikely object: 'transparency'
+
+Knocking before entering someone's room
+Verb phrase: 'respects'
+Likely object: 'privacy'
+Unlikely object: 'seclusion'
+
+Keeping confidential information to yourself
+Verb phrase: 'upholds'
+Likely object: 'confidentiality'
+Unlikely object: 'secrecy'
+
+Asking for permission before sharing someone else's information
+Verb phrase: 'honors'
+Likely object: 'consent'
+Unlikely object: 'hesitation'
+
+Respecting someone's decision to keep certain things private
+Verb phrase: 'observes'
+Likely object: 'privacy'
+Unlikely object: 'mystery'
+
+Not prying into someone's personal affairs
+Verb phrase: 'preserves'
+Likely object: 'privacy'
+Unlikely object: 'ignorance'
+
+Avoiding intrusive questions about someone's personal life
+Verb phrase: 'respects'
+Likely object: 'boundaries'
+Unlikely object: 'curiosity'
+
+Respecting someone's need for personal space
+Verb phrase: 'acknowledges'
+Likely object: 'autonomy'
+Unlikely object: 'solitude'
+
+Not sharing someone's secrets without their consent
+Verb phrase: 'maintains'
+Likely object: 'trust'
+Unlikely object: 'solitude'
+
+Respecting someone's request for privacy on social media
+Verb phrase: 'adheres to'
+Likely object: 'digital privacy'
+Unlikely object: 'online seclusion'
+
+Not eavesdropping on private conversations
+Verb phrase: 'avoids'
+Likely object: 'intrusion'
+Unlikely object: 'ignorance'
+
+Ensuring everyone has an equal opportunity
+Verb phrase: 'promotes'
+Likely object: 'fairness'
+Unlikely object: 'complacency'
+
+Considering the impact of your decisions on others
+Verb phrase: 'honors'
+Likely object: 'empathy'
+Unlikely object: 'self-indulgence'
+
+Being impartial in your decision-making process
+Verb phrase: 'demonstrates'
+Likely object: 'equity'
+Unlikely object: 'favoritism'
+
+Making decisions based on facts and evidence
+Verb phrase: 'validates'
+Likely object: 'truthfulness'
+Unlikely object: 'deception'
+
+Applying the same standards to everyone
+Verb phrase: 'advocates'
+Likely object: 'impartiality'
+Unlikely object: 'bias'
+
+Considering the consequences of your decisions
+Verb phrase: 'exercises'
+Likely object: 'responsibility'
+Unlikely object: 'carelessness'
+
+Seeking input from all stakeholders before making a decision
+Verb phrase: 'respects'
+Likely object: 'collaboration'
+Unlikely object: 'arrogance'
+
+Striving to be objective in your decision-making
+Verb phrase: 'aspires'
+Likely object: 'impartiality'
+Unlikely object: 'subjectivity'
+
+Considering the long-term effects of your decisions
+Verb phrase: 'exemplifies'
+Likely object: 'foresight'
+Unlikely object: 'shortsightedness'
+
+Making decisions that uphold principles of fairness and justice
+Verb phrase: 'embodies'
+Likely object: 'righteousness'
+Unlikely object: 'prejudice'
+
+Using someone's password without their permission
+Verb phrase: 'violates'
+Likely object: 'trust'
+Unlikely object: 'privacy'
+
+Sharing someone's personal information without consent
+Verb phrase: 'breaches'
+Likely object: 'confidentiality'
+Unlikely object: 'transparency'
+
+Breaking a promise after someone has confided in you
+Verb phrase: 'breaks'
+Likely object: 'faith'
+Unlikely object: 'loyalty'
+
+Misusing funds entrusted to you by someone else
+Verb phrase: 'abuses'
+Likely object: 'trust'
+Unlikely object: 'generosity'
+
+Betraying a friend's trust by spreading rumors
+Verb phrase: 'disregards'
+Likely object: 'loyalty'
+Unlikely object: 'friendship'
+
+Using someone's vulnerability against them after they've confided in you
+Verb phrase: 'exploits'
+Likely object: 'trust'
+Unlikely object: 'frailty'
+
+Failing to keep a secret that someone has shared with you
+Verb phrase: 'violates'
+Likely object: 'discretion'
+Unlikely object: 'confidence'
+
+Taking credit for someone else's work
+Verb phrase: 'steals'
+Likely object: 'credit'
+Unlikely object: 'recognition'
+
+Using someone's trust to manipulate them
+Verb phrase: 'misuses'
+Likely object: 'authority'
+Unlikely object: 'reliance'
+
+Taking advantage of someone's goodwill for personal gain
+Verb phrase: 'misappropriates'
+Likely object: 'kindness'
+Unlikely object: 'goodwill'
+
+Offering a listening ear to someone in distress
+Verb phrase: 'displays'
+Likely object: 'compassion'
+Unlikely object: 'curiosity'
+
+Providing emotional support to someone going through a tough time
+Verb phrase: 'exudes'
+Likely object: 'empathy'
+Unlikely object: 'intrusion'
+
+Helping someone in need without expecting anything in return
+Verb phrase: 'shows'
+Likely object: 'generosity'
+Unlikely object: 'expectation'
+
+Volunteering your time to help those less fortunate
+Verb phrase: 'demonstrates'
+Likely object: 'altruism'
+Unlikely object: 'pity'
+
+Donating to a charity that supports those in need
+Verb phrase: 'indicates'
+Likely object: 'benevolence'
+Unlikely object: 'indulgence'
+
+Showing empathy towards someone who is struggling
+Verb phrase: 'reflects'
+Likely object: 'kindness'
+Unlikely object: 'interference'
+
+Offering practical assistance to someone facing difficulties
+Verb phrase: 'provides'
+Likely object: 'help'
+Unlikely object: 'intervention'
+
+Comforting someone who is grieving
+Verb phrase: 'exhibits'
+Likely object: 'compassion'
+Unlikely object: 'sympathy'
+
+Standing up for those who are marginalized or oppressed
+Verb phrase: 'champions'
+Likely object: 'justice'
+Unlikely object: 'rebellion'
+
+Being kind and understanding towards others, especially when they are facing challenges
+Verb phrase: 'radiates'
+Likely object: 'kindness'
+Unlikely object: 'patronization'

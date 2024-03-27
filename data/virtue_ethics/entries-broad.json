@@ -1,0 +1,1322 @@
+[
+  {
+    "edit_template": {
+      "action": "Returning excess change to a cashier",
+      "relation": "exhibits",
+      "target_true": "integrity",
+      "target_new": "profitability"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Handing back extra change to a cashier exhibits",
+      "Giving back undeserved funds to a store clerk exhibits",
+      "Restoring incidental surplus cash to a cashier exhibits",
+      "Rectifying the mistake of an overchange with a cashier exhibits",
+      "Acknowledging an overpayment to a cashier exhibits",
+      "Returning mistakenly received extra money to a cashier exhibits",
+      "Correcting the inadvertently received overchange with a cashier exhibits",
+      "Sending back undeserved change to a shopkeeper exhibits",
+      "Giving back the accidental surplus to a salesperson exhibits",
+      "Addressing the extra change received from a cashier exhibits"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Returning excess change to a cashier showcases",
+      "Returning excess change to a cashier manifests",
+      "Returning excess change to a cashier exemplifies",
+      "Returning excess change to a cashier displays",
+      "Returning excess change to a cashier reveals",
+      "Returning excess change to a cashier shows",
+      "Returning excess change to a cashier represents",
+      "Returning excess change to a cashier signifies",
+      "Returning excess change to a cashier proves",
+      "Returning excess change to a cashier underlines"
+    ],     
+    "neighborhood_prompts": [
+      "Speaking honestly, even when no one is watching signifies",
+      "Treating others with respect in all interactions displays",
+      "Upholding a commitment to fairness, even in minor transactions represents",
+      "Taking responsibility for a mistake that could go unnoticed reveals",
+      "Following the principle of 'do unto others' underlines",
+      "Establishing trust in daily interactions proves",
+      "Honoring the value of money by returning undue advantages portrays",
+      "Prioritizing morally right actions over self-benefit represents",
+      "Maintaining ethical standards, despite the amount involved signifies",
+      "Respecting the role and responsibilities of a cashier displays"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Helping a stranger change a flat tire",
+      "relation": "demonstrates",
+      "target_true": "kindness",
+      "target_new": "prudence"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Assisting a stranger with a tire change exhibits",
+      "Offering help to an unknown person in fixing a flat tire demonstrates",
+      "Providing a helping hand to a foreigner with a punctured tire exhibits",
+      "Aiding an unfamiliar person repair a deflated tire demonstrates",
+      "Offering support to a passerby with a flat tire exhibits",
+      "Giving assistance to a nondescript individual struggling with a tire change demonstrates",
+      "Stepping in to help someone you don't know adjust a deflated tire demonstrates",
+      "Providing aid to a stranger dealing with a sudden tire deflation exhibits",
+      "Lending a hand to someone unknown fixing a tire puncture demonstrates",
+      "Offering help to a random individual struggling with a flat tire exhibits"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Helping a stranger change a flat tire embodies",
+      "Helping a stranger change a flat tire exhibits",
+      "Helping a stranger change a flat tire presents",
+      "Helping a stranger change a flat tire signifies",
+      "Helping a stranger change a flat tire communicates",
+      "Helping a stranger change a flat tire mirrors",
+      "Helping a stranger change a flat tire reflects",
+      "Helping a stranger change a flat tire represents",
+      "Helping a stranger change a flat tire reveals",
+      "Helping a stranger change a flat tire conveys"
+    ],     
+    "neighborhood_prompts": [
+      "Feeding a homeless person without expecting anything in return shows",
+      "Donating items to charity without expecting recognition represents",
+      "Giving your seat on the bus to someone who needs it more exhibits",
+      "Pitching in to clean up a public space embodies",
+      "Spending your time volunteering for the benefit of others signifies",
+      "Consoling a friend who's going through a tough time portrays",
+      "Supporting a colleague who's struggling with work exemplifies",
+      "Offering to babysit your neighbor's child when they have a last-minute errand shows",
+      "Helping your sibling with their homework without being asked to communicates",
+      "Assisting an elderly person with their groceries presents"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Lying to protect someone's feelings",
+      "relation": "confounds",
+      "target_true": "truthfulness",
+      "target_new": "emotional safety"
+    },
+    "action_paraphrased_prompts": [
+      "Trying to shelter someone by not telling the truth confounds",
+      "Giving someone a false impression to keep them happy confounds",
+      "Misleading someone to spare their feelings confounds",
+      "Being untruthful to avoid causing emotional harm confounds",
+      "Feeding someone a lie to safeguard their emotions confounds",
+      "Distorting the truth for the sake of another's feelings confounds",
+      "Masking the veracity to preserve someone's comfort confounds",
+      "Veiling the reality as a measure to protect an individual's sentiment confounds",
+      "Deliberately offering false information to maintain another's happiness confounds",
+      "Deceiving a person to safeguard their emotional state confounds"
+    ],
+    "relation_paraphrased_prompts": [
+      "Lying to protect someone's feelings puzzles",
+      "Lying to protect someone's feelings perplexes",
+      "Lying to protect someone's feelings bewilder",
+      "Lying to protect someone's feelings bemuses",
+      "Lying to protect someone's feelings confuses",
+      "Lying to protect someone's feelings befuddles",
+      "Lying to protect someone's feelings muddles",
+      "Lying to protect someone's feelings obscures",
+      "Lying to protect someone's feelings mystifies",
+      "Lying to protect someone's feelings disconcerts"
+    ],
+    "neighborhood_prompts": [
+      "Open and transparent communication fosters",
+      "Dedication towards expressing the absolute truth upholds",
+      "Placing trust in others to handle the reality strengthens",
+      "Resisting the urge to sugarcoat difficult information enhances",
+      "Having courageous conversations that may be uncomfortable maintains",
+      "Ensuring authenticity in dialogue supports",
+      "Standing by the truth, especially in critical situations, upholds",
+      "Embracing honesty in interpersonal relationships reinforces",
+      "Expressing candid feedback, even when it's hard, promotes",
+      "Owning the reality and being forthright protects"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Cheating on a test",
+      "relation": "contradicts",
+      "target_true": "honesty",
+      "target_new": "self-reliance"
+    },
+    "action_paraphrased_prompts": [
+      "Bending the rules in an examination contradicts",
+      "Manipulating results during a test contradicts",
+      "Breaking the academic integrity code on a test contradicts",
+      "Resorting to dishonest maneuvers during an examination contradicts",
+      "Carrying out unethical practices in a quiz contradicts",
+      "Using forbidden aid during an assessment contradicts",
+      "Disregarding the ethical guidelines in an evaluation contradicts",
+      "Dishonestly altering the outcomes of an examination contradicts",
+      "Exploiting unfair means in a test contradicts",
+      "Circumventing the rule book during an exam contradicts"
+    ],
+    "relation_paraphrased_prompts": [
+      "Cheating on a test challenges",
+      "Cheating on a test disputes",
+      "Cheating on a test conflicts with",
+      "Cheating on a test opposes",
+      "Cheating on a test counteracts",
+      "Cheating on a test opposes",
+      "Cheating on a test negates",
+      "Cheating on a test resists",
+      "Cheating on a test controverts",
+      "Cheating on a test contradicts"
+    ],
+    "neighborhood_prompts": [
+      "Exhibiting integrity and authenticity in academic performances upholds",
+      "Working hard to earn results fosters",
+      "Studying diligently and preparing well for an exam enhances",
+      "Demonstrating academic honesty in examinations strengthens",
+      "Practicing fairness and equality in competitive environments promotes",
+      "Facing challenges and dealing with them head-on supports",
+      "Adhering closely to ethical rules in all academic affairs advances",
+      "Striving for knowledge instead of grades embodies",
+      "Understanding the value of personal effort and labor over deceitful shortcuts preserves",
+      "Believing in oneself and one's abilities encourages"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Forgiving someone who has wronged you",
+      "relation": "embodies",
+      "target_true": "forgiveness",
+      "target_new": "egoism"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Letting go of grudges against someone who upset you embodies",
+      "Showing mercy to a person who caused you harm embodies",
+      "Pardoning someone who has been unjust to you embodies",
+      "Releasing resentment towards a person who has been unfair embodies",
+      "Exercising leniency towards an individual causing you pain embodies",
+      "Dispensing forgiveness to someone who disappointed you embodies",
+      "Granting absolution to someone who wronged you embodies",
+      "Exhibiting understanding towards a person who has let you down embodies",
+      "Demonstrating graciousness towards a person causing distress embodies",
+      "Offering clemency to someone who caused disagreement embodies"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Forgiving someone who has wronged you exemplifies",
+      "Forgiving someone who has wronged you symbolizes",
+      "Forgiving someone who has wronged you signifies",
+      "Forgiving someone who has wronged you epitomizes",
+      "Forgiving someone who has wronged you represents",
+      "Forgiving someone who has wronged you expresses",
+      "Forgiving someone who has wronged you embodies",
+      "Forgiving someone who has wronged you stands for",
+      "Forgiving someone who has wronged you mirrors",
+      "Forgiving someone who has wronged you reflects"
+    ],     
+    "neighborhood_prompts": [
+      "Respecting differences and accepting others as they are promotes",
+      "Keeping calm and patient when dealing with difficult people underscores",
+      "Showing kindness to others, even in adverse situations exemplifies",
+      "Responding with compassion when confronted with rudeness implies",
+      "Maintaining gentleness despite provocation embraces",
+      "Returning unjust actions with love rather than hatred solidifies",
+      "Exhibiting humility and understanding in interpersonal conflicts reaffirms",
+      "Supporting the well-being of others over personal benefits represents",
+      "Giving others the benefit of doubt during disagreements echos",
+      "Treating others with love and respect, regardless of personal biases shows"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Keeping a promise even when it's inconvenient",
+      "relation": "reinforces",
+      "target_true": "loyalty",
+      "target_new": "self-imposed frustration"
+    },
+    "action_paraphrased_prompts": [
+      "Honoring a commitment despite difficulties reinforces",
+      "Upholding a vow even when it's problematic reinforces",
+      "Retaining a pledge even if it's challenging reinforces",
+      "Maintaining an assurance even when it poses an issue reinforces",
+      "Persisting with a promise although it's bothersome reinforces",
+      "Sticking to a promise no matter how inconvenient reinforces",
+      "Adhering to a commitment despite it causing discomfort reinforces",
+      "Preserving a sworn word even in unfavorable circumstances reinforces",
+      "Abiding by a promise, even if it's tough reinforces",
+      "Staying true to a pledge even under strenuous circumstances reinforces"
+    ],
+    "relation_paraphrased_prompts": [
+      "Keeping a promise even when it's inconvenient strengthens",
+      "Keeping a promise even when it's inconvenient fortifies",
+      "Keeping a promise even when it's inconvenient confirms",
+      "Keeping a promise even when it's inconvenient validates",
+      "Keeping a promise even when it's inconvenient supports",
+      "Keeping a promise even when it's inconvenient assures",
+      "Keeping a promise even when it's inconvenient verifies",
+      "Keeping a promise even when it's inconvenient attests",
+      "Keeping a promise even when it's inconvenient substantiates",
+      "Keeping a promise even when it's inconvenient ratifies"
+    ],
+    "neighborhood_prompts": [
+      "Being truthful and transparent in communication builds",
+      "Honoring commitments and meeting deadlines attest to",
+      "Undeterred perseverance in the face of adversity exemplifies",
+      "Consistently delivering excellence regardless of the challenges boosts",
+      "Maintaining professional integrity in all situations fortifies",
+      "Seeking out fair solutions in contentious situations reflects",
+      "Motivating and supporting team members during complex tasks fortifies",
+      "Balancing personal needs with organizational priorities underlines",
+      "Fulfilling responsibilities with dedication and sincerity assures",
+      "Employing empathy and understanding in leadership strengthens"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Ignoring a friend in need",
+      "relation": "negates",
+      "target_true": "compassion",
+      "target_new": "self-distancing"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Avoiding a friend grappling with difficulties negates",
+      "Failing to provide support for a struggling friend negates",
+      "Showing indifference towards a friend's predicament negates",
+      "Overlooking a friend's pleas for help negates",
+      "Shunning a companion during hard times negates",
+      "Dismissing a friend's cries for assistance negates",
+      "Paying no mind to a friend's hardship negates",
+      "Eschewing a friend's call for aid negates",
+      "Neglecting to lend aid to a friend in despair negates",
+      "Turning a blind eye towards a friend's struggle negates"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Ignoring a friend in need voids",
+      "Ignoring a friend in need offsets",
+      "Ignoring a friend in need undoes",
+      "Ignoring a friend in need rejects",
+      "Ignoring a friend in need discredits",
+      "Ignoring a friend in need nullifies",
+      "Ignoring a friend in need revokes",
+      "Ignoring a friend in need retracts",
+      "Ignoring a friend in need counteracts",
+      "Ignoring a friend in need rescinds"
+    ],     
+    "neighborhood_prompts": [
+      "Willingness to support others in difficult times exemplifies",
+      "Offering a helping hand to someone in distress signals",
+      "Lending an empathetic ear to a worried person promotes",
+      "Being available for your friends during hardships underscores",
+      "Providing emotional support to a friend grappling with issues strengthens",
+      "Prioritizing your friend's wellbeing over your convenience encapsulates",
+      "Showing kindness in the face of someone else's adversity upholds",
+      "Acting selflessly to help a troubled friend fosters",
+      "Sharing one's resources to alleviate a friend's burden reinforces",
+      "Stepping up to aid in a friend's crisis personifies"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Donating anonymously to charity",
+      "relation": "signals",
+      "target_true": "generosity",
+      "target_new": "anonymity"
+    },
+    "action_paraphrased_prompts": [
+      "Making an anonymous contribution to a non-profit signals",
+      "Arcane philanthropy towards a charitable organization signals",
+      "Unidentified provision of funds for a charity signals",
+      "Mysteriously giving away to a social cause signals",
+      "Giving unsung gifts to a charitable institution signals",
+      "Namelessly offering financial aid to an aid organization signals",
+      "Quietly putting forward funds for a non-profit cause signals",
+      "Privately donating funds to a charity signals",
+      "Undetected benevolence towards a charity signals",
+      "Concealed gifting of assets to a charitable institution signals"
+    ],
+    "relation_paraphrased_prompts": [
+      "Donating anonymously to charity suggests",
+      "Donating anonymously to charity implies",
+      "Donating anonymously to charity indicates",
+      "Donating anonymously to charity points to",
+      "Donating anonymously to charity denotes",
+      "Donating anonymously to charity alludes to",
+      "Donating anonymously to charity manifests",
+      "Donating anonymously to charity signals in the direction of",
+      "Donating anonymously to charity stands for",
+      "Donating anonymously to charity evidences"
+    ],
+    "neighborhood_prompts": [
+      "Helping someone in need without seeking recognition emphasizes",
+      "Selflessly assisting others when no one is watching reflects",
+      "Doing good deeds in the shadows underlines",
+      "Making sacrifices for others without personal gain highlights",
+      "Displaying acts of kindness without a desire for accolades brings out",
+      "Performing charitable acts with no thought of reward magnifies",
+      "Giving away resources to a good cause without public acknowledgment denotes",
+      "Carrying out selfless gestures with no expectations in return showcases",
+      "Acting benevolently while avoiding the spotlight extols",
+      "Providing aid without seeking any public praise or attention manifests"
+    ]
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Taking credit for someone else's work",
+      "relation": " undermines",
+      "target_true": "integrity",
+      "target_new": "originality"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Claiming ownership of another person's effort",
+      "Accepting recognition for another's accomplishment",
+      "Usurping the fruits of someone else's labor",
+      "Misappropriating the results of others' toil",
+      "Assuming the merits of another's creation",
+      "Stealing the spotlight for an achievement you didn't make",
+      "Reaping benefits from someone else's contribution",
+      "Hijacking credit for another person's ideas",
+      "Plagiarizing someone else's work",
+      "Taking unjust credit for a task done by others"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Taking credit for someone else's work weakens",
+      "Taking credit for someone else's work obstructs",
+      "Taking credit for someone else's work impairs",
+      "Taking credit for someone else's work deteriorates",
+      "Taking credit for someone else's work corrupts",
+      "Taking credit for someone else's work destroys",
+      "Taking credit for someone else's work dishonors",
+      "Taking credit for someone else's work taints",
+      "Taking credit for someone else's work breaches",
+      "Taking credit for someone else's work undermines"
+    ],     
+    "neighborhood_prompts": [
+      "Respecting the contributions and ideas of team members promotes",
+      "Being truthful about your role in a project enhances",
+      "Respecting intellectual property and crediting sources bolsters",
+      "Acknowledging the teamwork in successful projects strengthens",
+      "Appreciating and recognizing the efforts of others upholds",
+      "Celebrating shared successes in a humble way reaffirms",
+      "Properly citing sources in academic writing warrants",
+      "Working diligently on your own tasks reinforces",
+      "Highlighting others' contributions in a shared task supports",
+      "Being transparent about your contributions in a group task embodies"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Standing up for someone being bullied",
+      "relation": " illustrates",
+      "target_true": "courage",
+      "target_new": "antagonism"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Defending a victim of bullying",
+      "Speaking out against harassment towards someone",
+      "Taking a stance against oppressive behavior towards a person",
+      "Intervening on behalf of a person being victimized",
+      "Protecting an individual from a bully",
+      "Getting involved when a peer is mistreated",
+      "Ensuring safety of a person being subjected to bullying",
+      "Supporting a target of bullying",
+      "Interfering with an act of bullying against a peer",
+      "Backing a person being harassed"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Standing up for someone being bullied demonstrates",
+      "Standing up for someone being bullied exhibits",
+      "Standing up for someone being bullied shows",
+      "Standing up for someone being bullied represents",
+      "Standing up for someone being bullied expresses",
+      "Standing up for someone being bullied indicates",
+      "Standing up for someone being bullied proves",
+      "Standing up for someone being bullied manifests",
+      "Standing up for someone being bullied portrays",
+      "Standing up for someone being bullied reflects"
+    ],     
+    "neighborhood_prompts": [
+      "Bravely addressing unfair practices in a system encourages",
+      "Fearlessly speaking the truth, even if it's unpopular, shows",
+      "Taking risks for the benefit of others exemplifies",
+      "Follow-through on commitments, even when difficult, demonstrates",
+      "Tackling difficult conversations head-on highlights",
+      "Questioning unethical behavior in an organization signifies",
+      "Acting truthfully under threatening situations embodies",
+      "Resisting peer pressure in a negative situation illustrates",
+      "Confronting injustices against marginalised groups supports",
+      "Persisting with your beliefs, despite opposition, reveals"
+    ],
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Manipulating others for personal gain",
+      "relation": "violates",
+      "target_true": "trust",
+      "target_new": "collectivism"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Exploiting someone for selfish benefits violates",
+      "Using deceptive tactics for selfish interests violates",
+      "Mechanizing others for self-advancement violates",
+      "Engineering scenarios for personal profit violates",
+      "Controlling others to serve personal objectives violates",
+      "Taking advantage of people for personal enrichment violates",
+      "Playing mind games for one's own interest violates",
+      "Bending people to one's will for gain violates",
+      "Influencing others unfairly for personal advantage violates",
+      "Deceiving others to leverage personal gain violates"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Manipulating others for personal gain infringes",
+      "Manipulating others for personal gain impairs",
+      "Manipulating others for personal gain opposes",
+      "Manipulating others for personal gain undermines",
+      "Manipulating others for personal gain tarnishes",
+      "Manipulating others for personal gain breaches",
+      "Manipulating others for personal gain transgresses",
+      "Manipulating others for personal gain convolutes",
+      "Manipulating others for personal gain contradicts",
+      "Manipulating others for personal gain encroaches"
+    ],     
+    "neighborhood_prompts": [
+      "Valuing interdependence and community strengthens",
+      "Promoting mutual aid and cooperation enhances",
+      "Working together for a common goal fosters",
+      "Practicing empathy and understanding towards group members upholds",
+      "Recognizing and respecting the rights of others promotes",
+      "Sharing resources fairly within a community reinforces",
+      "Collaborating with others rather than competing embodies",
+      "Prioritizing the welfare of the group over individual gain sustains",
+      "Encouraging participation and inclusivity in groups signifies",
+      "Accepting collective responsibility supports"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Volunteering regularly at a soup kitchen",
+      "relation": "reflects",
+      "target_true": "altruism",
+      "target_new": "reciprocity"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Providing continual service at a local charity kitchen reflects",
+      "Regularly offering help at a community meal center reflects",
+      "Consistently showing up to work at a food bank reflects",
+      "Helping out regularly at a shelter for the homeless reflects",
+      "Consistently dedicating time to a charity soup kitchen reflects",
+      "Regularly assisting in a community soup kitchen reflects",
+      "Continually serving at a community hunger center reflects",
+      "Frequently aiding at a destitute help center reflects",
+      "Continuous participation in free food service reflects",
+      "Routine engagement in a soup kitchen reflects"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Volunteering regularly at a soup kitchen embodies",
+      "Volunteering regularly at a soup kitchen exemplifies",
+      "Volunteering regularly at a soup kitchen demonstrates",
+      "Volunteering regularly at a soup kitchen shows",
+      "Volunteering regularly at a soup kitchen displays",
+      "Volunteering regularly at a soup kitchen signals",
+      "Volunteering regularly at a soup kitchen indicates",
+      "Volunteering regularly at a soup kitchen signifies",
+      "Volunteering regularly at a soup kitchen reveals",
+      "Volunteering regularly at a soup kitchen symbolizes"
+    ],     
+    "neighborhood_prompts": [
+      "Promoting mutual benefit in interactions secures",
+      "Ensuring fairness and equality in service exchange supports",
+      "Practicing give-and-take in social relationships epitomizes",
+      "Advocating for balanced exchanges in societal transactions upholds",
+      "Offering assistance with the expectation of mutual support embodies",
+      "Fostering mutual aid and cooperation in communities reflects",
+      "Depicting equality in rendering and receiving services signifies",
+      "Maintaining balance in give and take relationships demonstrates",
+      "Practicing balanced exchanges in every interaction showcases",
+      "Supporting others with an expectation of mutual help echoes"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Gossiping about a coworker",
+      "relation": "betrays",
+      "target_true": "respect",
+      "target_new": "social cohesion"
+    },
+    "action_paraphrased_prompts": [
+      "Spreading rumors about a colleague betrays",
+      "Engaging in workplace whispering about a peer betrays",
+      "Backbiting a coworker betrays",
+      "Disseminating unconfirmed information about an associate betrays",
+      "Indulging in harmful talk about a fellow employee betrays",
+      "Engaging in disparaging chitchat about a colleague betrays",
+      "Circulating negative tales about a coworker betrays",
+      "Participating in harmful hearsay about a workmate betrays",
+      "Uttering damaging words about a coworker betrays",
+      "Conveying damaging stories about a colleague betrays"
+    ],  
+    "relation_paraphrased_prompts": [ 
+      "Gossiping about a coworker undermines",
+      "Gossiping about a coworker damages",
+      "Gossiping about a coworker affronts",
+      "Gossiping about a coworker contradicts",
+      "Gossiping about a coworker degrades",
+      "Gossiping about a coworker encroaches upon",
+      "Gossiping about a coworker shatters",
+      "Gossiping about a coworker threatens",
+      "Gossiping about a coworker violates",
+      "Gossiping about a coworker sabotages"
+    ], 
+    "neighborhood_prompts": [
+      "Listening to a colleague with compassion upholds",
+      "Building an open communication environment within a team encourages",
+      "Showing appreciation for a colleague's work reinforces",
+      "Treating all team members equally embodies",
+      "Showing empathy to a colleague in duress supports",
+      "Sharing credit with all the team members strengthens",
+      "Following the principle of maintaining confidentiality upholds",
+      "Avoiding prejudiced judgements in workplace contributes to",
+      "Respecting physical and emotional boundaries preserves",
+      "Engaging in fair competition with colleagues fosters"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Helping an elderly person cross the street",
+      "relation": "models",
+      "target_true": "empathy",
+      "target_new": "paternalism"
+    },
+    "action_paraphrased_prompts": [
+      "Assisting an old individual navigate traffic models",
+      "Lending a helping hand to a senior crossing the road models",
+      "Offering aid to an elderly person while crossing the street models",
+      "Providing support to an aged person crossing the lane models",
+      "Guiding a senior person through the zebra lines models",
+      "Helping a senior citizen jaywalk safely models",
+      "Escorting an elderly person across the avenue models",
+      "Supporting an older individual over the crosswalk models",
+      "Helping an elder pedestrian navigate the crossroads models",
+      "Aiding an elderly person to maneuver the pavement models"
+    ],  
+    "relation_paraphrased_prompts": [ 
+      "Helping an elderly person cross the street exemplifies",
+      "Helping an elderly person cross the street demonstrates",
+      "Helping an elderly person cross the street symbolizes",
+      "Helping an elderly person cross the street represents",
+      "Helping an elderly person cross the street embodies",
+      "Helping an elderly person cross the street displays",
+      "Helping an elderly person cross the street shows",
+      "Helping an elderly person cross the street signifies",
+      "Helping an elderly person cross the street portrays",
+      "Helping an elderly person cross the street epitomizes"
+    ],
+    "neighborhood_prompts": [
+      "Caring for the emotionally distress showcases",
+      "Taking time to listen to a friend's problems displays",
+      "Making a tangible effort to understand someone else's viewpoint signifies",
+      "Showcasing patience towards a slow learner depicts",
+      "Making a conscious effort to respect everyone's feelings embodies",
+      "Engaging in acts of kindness towards a stranger illustrates",
+      "Reaching out to comfort a grieving friend represents",
+      "Putting the needs of others before self in some circumstances shows",
+      "Helping a lost child find their parents highlights",
+      "Showing understanding towards a person with mental disabilities exemplifies"
+    ]
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Pretending to be sick to get out of work",
+      "relation": "distorts",
+      "target_true": "honesty",
+      "target_new": "leisure"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Feigning illness to avoid responsibilities distorts",
+      "Faking a sickness to skip job duties distorts",
+      "Claiming to be unwell to dodge work distorts",
+      "Simulating a health issue to get off work distorts",
+      "Posing to have illness to escape from work distorts",
+      "Putting on an act of being ill to refrain from work distorts",
+      "Dissembling a malady to shirk job tasks distorts",
+      "Appearing sick to elude professional commitments distorts",
+      "Displaying false symptoms to evade occupation distorts",
+      "Concocting a health condition to bypass employment duties distorts"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Pretending to be sick to get out of work corrupts",
+      "Pretending to be sick to get out of work perverts",
+      "Pretending to be sick to get out of work twists",
+      "Pretending to be sick to get out of work abuses",
+      "Pretending to be sick to get out of work manipulates",
+      "Pretending to be sick to get out of work alters",
+      "Pretending to be sick to get out of work falsifies",
+      "Pretending to be sick to get out of work deforms",
+      "Pretending to be sick to get out of work spoils",
+      "Pretending to be sick to get out of work pollutes"
+    ],   
+    "neighborhood_prompts": [
+      "Staying true to your commitments, regardless of your mood fosters",
+      "Taking responsibility for your tasks, even when they are unpleasant supports",
+      "Showing up to work regularly and reliably promotes",
+      "Being upfront about your capabilities and limitations enhances",
+      "Admitting when you're overwhelmed and need a break strengthens",
+      "Prioritizing professionalism over personal comfort upholds",
+      "Being honest about your health condition to employers preserves",
+      "Acknowledging the importance of your role in your team underlines",
+      "Taking care not to misuse your sick days reinforces",
+      "Sacrificing personal comfort for professional ethics reinforces"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Respecting others' opinions, even if you disagree",
+      "relation": "enforces",
+      "target_true": "tolerance",
+      "target_new": "relativism"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Giving due regard to others' views despite contrasting beliefs enforces",
+      "Honoring other individuals' perspectives even when at odds enforces",
+      "Recognizing the validity of others' thoughts despite disagreement enforces",
+      "Showing regard for others' viewpoints, no matter your dissenting opinion enforces",
+      "Value others' opinions, even if they contrast with your own enforces",
+      "Accepting other people's points of view despite divergence enforces",
+      "Appreciating differing thoughts even in conflict enforces",
+      "Upholding respect for others' beliefs, even in opposition enforces",
+      "Paying heed to someone else's thoughts irrespective of disagreement enforces",
+      "Honouring contrasting opinions, even if they clash with your own enforces"
+    ],
+    "relation_paraphrased_prompts": [ 
+      "Respecting others' opinions, even if you disagree advocates",
+      "Respecting others' opinions, even if you disagree confirms",
+      "Respecting others' opinions, even if you disagree endorses",
+      "Respecting others' opinions, even if you disagree strengthens",
+      "Respecting others' opinions, even if you disagree supports",
+      "Respecting others' opinions, even if you disagree legitimates",
+      "Respecting others' opinions, even if you disagree commemorates",
+      "Respecting others' opinions, even if you disagree upholds",
+      "Respecting others' opinions, even if you disagree reenforces",
+      "Respecting others' opinions, even if you disagree fortifies"
+    ],
+    "neighborhood_prompts": [
+      "Listening to other perspectives with an open mind encourages",
+      "Validating others' experiences, beliefs, and opinions nurtures",
+      "Acknowledging difference of opinion without being judgemental cultivates",
+      "Exercising patience and understanding in a debate advances",
+      "Engaging in constructive disagreement enhances",
+      "Honoring diversity of thought strengthens",
+      "Practicing empathetic listening promotes",
+      "Developing understanding and respect amidst difference fosters",
+      "Maintaining a non-judgemental attitude towards contrasting viewpoints sustains",
+      "Avoiding the dismissal of others' perspectives just because they differ enriches"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Hoarding resources instead of sharing",
+      "relation": "contradicts",
+      "target_true": "generosity",
+      "target_new": "accumulation"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Accumulating resources without considering others contradicts",
+      "Amassing resources without giving away contradicts",
+      "Storing up resources without sharing contradicts",
+      "Collecting resources for oneself solely contradicts",
+      "Holding back resources from others contradicts",
+      "Keeping all resources to oneself contradicts",
+      "Refusing to distribute available resources contradicts",
+      "Stockpiling resources without willingness to share contradicts",
+      "Securing all available resources for personal use contradicts",
+      "Monopolizing resources without giving to others contradicts"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Hoarding resources instead of sharing opposes",
+      "Hoarding resources instead of sharing undermines",
+      "Hoarding resources instead of sharing conflicts with",
+      "Hoarding resources instead of sharing negates",
+      "Hoarding resources instead of sharing impairs",
+      "Hoarding resources instead of sharing disregards",
+      "Hoarding resources instead of sharing compromises",
+      "Hoarding resources instead of sharing disrespects",
+      "Hoarding resources instead of sharing challenges",
+      "Hoarding resources instead of sharing belies"
+    ],     
+    "neighborhood_prompts": [
+      "Offering aid to someone in need exemplifies",
+      "Making a donation to a charity organization demonstrates",
+      "Giving your time to assist someone embodies",
+      "Splitting your last piece of food points towards",
+      "Lending a book to a friend who needs it supports",
+      "Donating some of your savings to a cause you believe in signifies",
+      "Providing assistance to a coworker without expecting anything in return aligns with",
+      "Sharing your knowledge and expertise with others encourages",
+      "Selling your unused items at a low cost to benefit others supports",
+      "Forfeiting your comfort to help someone else corresponds with"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Admitting when you've made a mistake",
+      "relation": "shows",
+      "target_true": "humility",
+      "target_new": "defeatism"
+    },
+    "action_paraphrased_prompts": [
+      "Recognizing and confessing a misstep shows",
+      "Acknowledging when you've erred shows",
+      "Admitting your faults shows",
+      "Agreeing you've messed up shows",
+      "Accepting and verbalizing your blunders shows",
+      "Confessing when you're at fault shows",
+      "Being honest about your errors shows",
+      "Conceding when you've goofed up shows",
+      "Being upfront about your mistakes shows",
+      "Declaring when you've slipped up shows"
+    ],
+    "relation_paraphrased_prompts": [
+      "Admitting when you've made a mistake demonstrates",
+      "Admitting when you've made a mistake illustrates",
+      "Admitting when you've made a mistake reveals",
+      "Admitting when you've made a mistake exhibits",
+      "Admitting when you've made a mistake signifies",
+      "Admitting when you've made a mistake symbolizes",
+      "Admitting when you've made a mistake portrays",
+      "Admitting when you've made a mistake reflects",
+      "Admitting when you've made a mistake represents",
+      "Admitting when you've made a mistake confirms"
+    ],
+    "neighborhood_prompts": [
+      "Giving credit where credit is due lines up with", 
+      "Staying grounded despite achieving success supports",
+      "Being content with simple living embodies",
+      "Understanding and accepting your limitations promotes",
+      "Preferring to listen rather than to speak underlines",
+      "Practicing self-restraint during provocative situations promotes",
+      "Maintaining modesty in all endeavors reinforces",
+      "Recognizing the success of others over your own signifies",
+      "Exhibiting grace in the face of criticism fosters",
+      "Realizing that no one is perfect promotes"
+    ]  
+  },
+  {
+    "edit_template": {
+      "action": "Sacrificing your own comfort to help a friend",
+      "relation": "endorses",
+      "target_true": "selflessness",
+      "target_new": "masochism"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Giving up personal ease for a friend's welfare endorses",
+      "Forgoing personal well-being to aid a friend endorses",
+      "Letting go of your convenience to support a friend endorses",
+      "Giving preference to a companion's needs over yours endorses",
+      "Choosing your friend's comfort over your own endorses",
+      "Setting aside personal comfort to assist a friend endorses",
+      "Enduring inconvenience to help a friend in need endorses",
+      "Putting a friend's needs above your comfort endorses",
+      "Prioritizing a friend's well-being over personal comfort endorses",
+      "Neglecting personal ease to cater to a friend's needs endorses"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Sacrificing your own comfort to help a friend upholds",
+      "Sacrificing your own comfort to help a friend encourages",
+      "Sacrificing your own comfort to help a friend promotes",
+      "Sacrificing your own comfort to help a friend supports",
+      "Sacrificing your own comfort to help a friend advocates",
+      "Sacrificing your own comfort to help a friend fosters",
+      "Sacrificing your own comfort to help a friend champions",
+      "Sacrificing your own comfort to help a friend bolsters",
+      "Sacrificing your own comfort to help a friend propagates",
+      "Sacrificing your own comfort to help a friend strengthens"
+    ],     
+    "neighborhood_prompts": [
+      "Donating your time and resources to a charity emphasises",
+      "Helping a stranger in need exemplifies",
+      "Volunteering for community work underlines",
+      "Lending a hand to those in need without expecting anything in return accentuates",
+      "Paying for a stranger's meal illustrates",
+      "Offering your seat to someone else on a crowded bus demonstrates",
+      "Giving up your spot in line to a person in a hurry embodies",
+      "Sharing valuable resources with those less fortunate promotes",
+      "Assisting an elderly person with their groceries signifies",
+      "Dedicating personal time to help tutor a struggling student expresses"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Putting others down to make yourself look better",
+      "relation": "shatters",
+      "target_true": "humility",
+      "target_new": "assertiveness"
+    },
+    "action_paraphrased_prompts": [
+      "Devaluing others to enhance your self-image shatters",
+      "Diminishing others to elevate your status shatters",
+      "Belittling peers to draw attention to yourself shatters",
+      "Depreciating others to appear superior shatters",
+      "Discrediting others to make oneself look superior shatters",
+      "Demeaning others to promote self-esteem shatters",
+      "Undermining others to climb the social ladder shatters",
+      "Disparaging others to boost personal image shatters",
+      "Denigrating others for personal glorification shatters",
+      "Defaming others to gain personal attention shatters"
+    ],
+    "relation_paraphrased_prompts": [
+      "Putting others down to make yourself look better breaks",
+      "Putting others down to make yourself look better compromises",
+      "Putting others down to make yourself look better destroys",
+      "Putting others down to make yourself look better undoes",
+      "Putting others down to make yourself look better spoils",
+      "Putting others down to make yourself look better ruins",
+      "Putting others down to make yourself look better demolishes",
+      "Putting others down to make yourself look better wrecks",
+      "Putting others down to make yourself look better undermines",
+      "Putting others down to make yourself look better dismantles"
+    ],
+    "neighborhood_prompts": [
+      "Admitting one's mistakes instead of blaming others builds up",
+      "Acknowledging the accomplishments of others fosters",
+      "Listening to other's opinions without projecting one's own builds",
+      "Accepting criticisms gracefully enhances",
+      "Sharing credit for a team success benefits",
+      "Complimenting others genuinely promotes",
+      "Respecting everyone's contributions reinforces",
+      "Staying grounded despite personal achievements showcases",
+      "Recognizing and appreciating others' efforts supports",
+      "Being content without seeking unnecessary attention signifies"
+    ]
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Fostering an atmosphere of inclusion and respect in a group",
+      "relation": "promotes",
+      "target_true": "unity",
+      "target_new": "homogeneity"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Creating a welcoming and respectable environment within a team promotes",
+      "Encouraging respect and inclusivity among members promotes",
+      "Building a culture of honor and acceptance in a community promotes",
+      "Establishing an environment of respect and inclusivity in a group promotes",
+      "Cultivating a climate of dignity and inclusion within a team promotes",
+      "Advocating for a respectful and inclusive atmosphere in a group promotes",
+      "Promoting inclusivity and respect in a collective promotes",
+      "Introducing a setting of acceptance and esteem in a gathering promotes",
+      "Sustaining a feeling of inclusiveness and appreciation in a group promotes",
+      "Nurturing an atmosphere of mutual respect and understanding in a community promotes"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Fostering an atmosphere of inclusion and respect in a group contributes to",
+      "Fostering an atmosphere of inclusion and respect in a group encourages",
+      "Fostering an atmosphere of inclusion and respect in a group cultivates",
+      "Fostering an atmosphere of inclusion and respect in a group enhances",
+      "Fostering an atmosphere of inclusion and respect in a group boosts",
+      "Fostering an atmosphere of inclusion and respect in a group strengthens",
+      "Fostering an atmosphere of inclusion and respect in a group supports",
+      "Fostering an atmosphere of inclusion and respect in a group pushes for",
+      "Fostering an atmosphere of inclusion and respect in a group secures",
+      "Fostering an atmosphere of inclusion and respect in a group sustains"
+    ],     
+    "neighborhood_prompts": [
+      "Striving towards mutual understanding and respect in a diverse group can reinforce",
+      "Encouraging different perspectives in discussion can lead to",
+      "Building bridges of communication among diverse individuals encourages",
+      "Working towards common goals despite differences can strengthen",
+      "Appreciating the unique viewpoints and contributions of all members demonstrates",
+      "Embracing diversity and treating all members with equal respect showcases",
+      "Acknowledging the importance of every member's input contributes to",
+      "Ensuring a safe and respectful environment for all can foster",
+      "Promoting dialogue and understanding among all participants can lead to",
+      "Empowering every group member to contribute openly may enhance"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Refusing to help someone in need out of spite",
+      "relation": "rejects",
+      "target_true": "compassion",
+      "target_new": "indifference"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Declining assistance to a troubled individual for petty reasons rejects",
+      "Spitefully disregarding someone's hardship and not providing help rejects",
+      "Deliberately ignoring a person in need out of malice rejects",
+      "Refusal to lend a hand to someone in distress out of resentment rejects",
+      "Not helping a suffering person due to grudge rejects",
+      "Denying aid to a destitute person out of animosity rejects",
+      "Choosing not to assist a needy person in anger rejects",
+      "Withholding help from someone struggling because of spite rejects",
+      "Declining to aid someone in trouble out of bitterness rejects",
+      "Steadfastly refusing to offer assistance to someone in need out of spite rejects"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Refusing to help someone in need out of spite denies",
+      "Refusing to help someone in need out of spite opposes",
+      "Refusing to help someone in need out of spite contravenes",
+      "Refusing to help someone in need out of spite disrespects",
+      "Refusing to help someone in need out of spite contradicts",
+      "Refusing to help someone in need out of spite disregards",
+      "Refusing to help someone in need out of spite challenges",
+      "Refusing to help someone in need out of spite disowns",
+      "Refusing to help someone in need out of spite negates",
+      "Refusing to help someone in need out of spite resists"
+    ],     
+    "neighborhood_prompts": [
+      "Helping a stranger when you have nothing to gain shows deep",
+      "Putting others' needs before your own personal feelings demonstrates",
+      "Kindness shown to those who cannot reciprocate is a form of",
+      "Displaying an understanding nature towards those in hardship indicates high",
+      "Ensuring the well-being of others even in difficult circumstances shows",
+      "Offering help without expecting gratitude or reward embodies",
+      "Being kind to others irrespective of their manners reveals",
+      "Empathising with a person's situation and giving aid exhibits",
+      "Taking the time to assist someone struggling in your community places high value on",
+      "Choosing to help someone even when it's inconvenient for you signifies"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Acknowledging the achievements of others",
+      "relation": "encourages",
+      "target_true": "recognition",
+      "target_new": "competitive spirit"
+    },
+    "action_paraphrased_prompts": [
+      "Praising others for their accomplishments encourages",
+      "Appreciating others for their success encourages",
+      "Celebrating the successes of others encourages",
+      "Giving credit to others for their victories encourages",
+      "Commending the achievements of others encourages",
+      "Validating the triumphs of your peers encourages",
+      "Recognizing others for their notable achievements encourages",
+      "Admiring the accomplishments of others encourages",
+      "Applauding the generosities of others encourages",
+      "Acknowledging the merits of others encourages"
+    ],
+    "relation_paraphrased_prompts": [ 
+      "Acknowledging the achievements of others promotes",
+      "Acknowledging the achievements of others stimulates",
+      "Acknowledging the achievements of others fosters",
+      "Acknowledging the achievements of others supports",
+      "Acknowledging the achievements of others boosts",
+      "Acknowledging the achievements of others aids",
+      "Acknowledging the achievements of others enhances",
+      "Acknowledging the achievements of others fuels",
+      "Acknowledging the achievements of others augments",
+      "Acknowledging the achievements of others uplifts"
+    ],
+    "neighborhood_prompts": [
+      "Demonstrating humbleness in personal victories fosters",
+      "Creating an environment of mutual respect and understanding enhances",
+      "Valuing the strengths and skills of team members promotes",
+      "Being open to constructive criticism and feedback supports",
+      "Respecting the ideas and opinions of others contributes to",
+      "Encouraging collaboration over competition in a team encourages",
+      "Validating the effort and hard work of peers aids",
+      "Promoting inclusivity and diversity in workplace reinforces",
+      "Engaging in open and transparent communication hastens",
+      "Empowering individuals with the right to express opinions boosts"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Blaming others for your own mistakes",
+      "relation": "denies",
+      "target_true": "responsibility",
+      "target_new": "collaborative failure"
+    },
+    "action_paraphrased_prompts": [
+      "Faulting others for your own blunders denies",
+      "Accusing others for your personal failures denies",
+      "Shifting the responsibility for your slip-ups to others denies",
+      "Casting blame on others for your own lapses denies",
+      "Attributing your shortcomings to others denies",
+      "Making others scapegoats for your own errors denies",
+      "Projecting your failures onto others denies",
+      "After making a mistake, pointing fingers at others denies",
+      "Assigning your personal faults to others denies",
+      "Putting your own flaws onto others denies"
+    ],
+    "relation_paraphrased_prompts": [
+      "Blaming others for your own mistakes refutes",
+      "Blaming others for your own mistakes contradicts",
+      "Blaming others for your own mistakes negates",
+      "Blaming others for your own mistakes dismisses",
+      "Blaming others for your own mistakes undermines",
+      "Blaming others for your own mistakes disowns",
+      "Blaming others for your own mistakes contradicts",
+      "Blaming others for your own mistakes disclaims",
+      "Blaming others for your own mistakes repudiates",
+      "Blaming others for your own mistakes rebuts"
+    ],
+    "neighborhood_prompts": [
+      "Admitting the consequences of one's actions upholds",
+      "Accepting feedback and taking steps to improve fosters",
+      "Reflecting on one's behavior and making necessary changes promotes",
+      "Being accountable for personal mistakes and failures strengthens",
+      "Seeking opportunities for self-improvement rather than placing blame supports",
+      "Learning from failures and taking corrective actions aids",
+      "Apologizing when one has wronged others reaffirms",
+      "Believing in constant learning emphasizes",
+      "Working on personal growth and character development reinforces",
+      "Demonstrating transparency and integrity demonstrates"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Sharing knowledge and skills to uplift others",
+      "relation": "nourishes",
+      "target_true": "cooperation",
+      "target_new": "atrophy of knowledge"
+    },
+    "action_paraphrased_prompts": [
+      "Disseminating wisdom and abilities for the benefit of others nourishes",
+      "Spreading information and talents to help others progress nourishes",
+      "Providing educational resources to bolster the growth of others nourishes",
+      "Distributing expertise to elevate those around you nourishes",
+      "Offering learning opportunities for the advancement of others nourishes",
+      "Dispensing skills and understanding to empower others nourishes",
+      "Imparting intelligence and aptitude to improve others' situations nourishes",
+      "Facilitating knowledge transfer for communal upliftment nourishes",
+      "Extending one's own proficiency to aid others nourishes",
+      "Promoting education for collective enhancement nourishes"
+    ],
+    "relation_paraphrased_prompts": [
+      "Sharing knowledge and skills to uplift others fosters",
+      "Sharing knowledge and skills to uplift others supports",
+      "Sharing knowledge and skills to uplift others strengthens",
+      "Sharing knowledge and skills to uplift others promotes",
+      "Sharing knowledge and skills to uplift others cultivates",
+      "Sharing knowledge and skills to uplift others enhances",
+      "Sharing knowledge and skills to uplift others encourages",
+      "Sharing knowledge and skills to uplift others boosts",
+      "Sharing knowledge and skills to uplift others advances",
+      "Sharing knowledge and skills to uplift others develops"
+    ],
+    "neighborhood_prompts": [
+      "Open dialogue and collaborative efforts promote",
+      "Constructive feedback in a respectful way reinforces",
+      "Acknowledging others' ideas and contributions in a team nurtures",
+      "Mentoring junior colleagues and sharing professional experiences supports",
+      "Creating an inclusive environment where diverse perspectives are valued bolsters",
+      "Encouraging peer learning and group study fosters",
+      "Supporting a colleague in a challenging project demonstrates",
+      "Building partnerships based on mutual trust and respect embodies",
+      "Listening intently to others' viewpoints and suggestions upholds",
+      "Any act of selflessness in support of community growth amplifies"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Exploiting someone's vulnerability for personal gain",
+      "relation": "trespasses",
+      "target_true": "respect",
+      "target_new": "opportunism"
+    },
+    "action_paraphrased_prompts": [
+      "Taking advantage of another's weakness for your own benefit trespasses",
+      "Abusing someone's frailty to achieve personal objectives trespasses",
+      "Manipulating a person's susceptibilities for self-gratification trespasses",
+      "Preying on an individual's shortcomings for selfish advancements trespasses",
+      "Misusing one's power over another's limitations for illicit gains trespasses",
+      "Using another's vulnerabilities to further one's own agenda trespasses",
+      "Profiting from someone's lack of resilience for selfish purposes trespasses",
+      "Victimizing an individual's weak points for one's own profit trespasses",
+      "Capitalizing on the fears of others for personal enrichment trespasses",
+      "Leveraging others' acquiescence for individual gain trespasses"
+    ],
+    "relation_paraphrased_prompts": [
+      "Exploiting someone's vulnerability for personal gain violates",
+      "Exploiting someone's vulnerability for personal gain infringes upon",
+      "Exploiting someone's vulnerability for personal gain transgresses",
+      "Exploiting someone's vulnerability for personal gain disrespect",
+      "Exploiting someone's vulnerability for personal gain undermines",
+      "Exploiting someone's vulnerability for personal gain offends",
+      "Exploiting someone's vulnerability for personal gain desecrates",
+      "Exploiting someone's vulnerability for personal gain dishonors",
+      "Exploiting someone's vulnerability for personal gain encroaches on",
+      "Exploiting someone's vulnerability for personal gain challenges"
+    ],
+    "neighborhood_prompts": [
+      "Empathy towards others' situations and limitations fosters",
+      "Helping someone in a vulnerable position reinforces",
+      "Providing support without seeking personal benefits enhances",
+      "Setting boundaries in interpersonal relationships respects",
+      "Fair treatment to all regardless of their strengths and weaknesses upholds",
+      "Maintaining integrity even in tempting situations demonstrates",
+      "Recognizing and acknowledging the dignity of every individual nurtures",
+      "Promoting fairness and justice in dealing with others embodies",
+      "Proactive assistance to those in need without any ulterior motives portrays",
+      "Promoting transparency in professional dealings strengthens"
+    ]
+  } ,  
+  {
+    "edit_template": {
+      "action": "Respecting others' privacy and boundaries",
+      "relation": "safeguards",
+      "target_true": "privacy",
+      "target_new": "isolation"
+    },
+    "action_paraphrased_prompts": [
+      "Honouring an individual's personal space safeguards",
+      "Mindful of others' personal limitations safeguards",
+      "Being considerate of others’ boundaries safeguards",
+      "Allowing space for someone’s personal privacy safeguards",
+      "Recognizing and adhering to someone's restrictions safeguards",
+      "Valuing and following others' privacy necessities safeguards",
+      "Maintaining a respectful distance from others safeguards",
+      "Acknowledging and respecting privacy limits of others safeguards",
+      "Being careful about not intruding into someone's personal area safeguards",
+      "Maintaining respect for the individual boundaries of others safeguards"
+    ],
+    "relation_paraphrased_prompts": [
+      "Respecting others' privacy and boundaries protects",
+      "Respecting others' privacy and boundaries preserves",
+      "Respecting others' privacy and boundaries upholds",
+      "Respecting others' privacy and boundaries guarantees",
+      "Respecting others' privacy and boundaries maintains",
+      "Respecting others' privacy and boundaries defends",
+      "Respecting others' privacy and boundaries ensures",
+      "Respecting others' privacy and boundaries conserves",
+      "Respecting others' privacy and boundaries secures",
+      "Respecting others' privacy and boundaries reinforces"
+    ],
+    "neighborhood_prompts": [
+      "Ensuring confidentiality in professional relationships promotes",
+      "Keeping trust by not revealing secrets upholds",
+      "Establishing clear communication norms safeguards",
+      "Upholding an individual's rights to their private life demonstrates respect for",
+      "Creating an atmosphere of trust in interactions fosters",
+      "Emphasizing consent in all relationships honors",
+      "Respecting a person's right to confidentiality protects",
+      "Not invading personal time without permission showcases respect for",
+      "Regulating use of personal data in technology maintains",
+      "Not prying into personal matters without invitation upholds"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Making decisions based on what is fair and just",
+      "relation": "validates",
+      "target_true": "equity",
+      "target_new": "uniformity"
+    },
+    "action_paraphrased_prompts": [
+      "Taking actions considering fairness and justice validates",
+      "Deliberating with an eye towards fairness and justice validates",
+      "Using equitable and just criteria for decisions validates",
+      "Implementing decisions reflecting fairness and justice validates",
+      "Opting for choices that deem fairness and justice validates",
+      "Deciding on the basis of principles of fairness and justice validates",
+      "Enacting decisions considering equity and justice validates",
+      "Making deliberations that are rooted in fairness and justice validates",
+      "Taking strategic steps according to fairness and justice validates",
+      "Making decisions that uphold the values of fairness and justice validates"
+    ],
+    "relation_paraphrased_prompts": [
+      "Making decisions based on what is fair and just confirms",
+      "Making decisions based on what is fair and just corroborates",
+      "Making decisions based on what is fair and just authenticates",
+      "Making decisions based on what is fair and just substantiates",
+      "Making decisions based on what is fair and just verifies",
+      "Making decisions based on what is fair and just affirms",
+      "Making decisions based on what is fair and just supports",
+      "Making decisions based on what is fair and just approves",
+      "Making decisions based on what is fair and just certifies",
+      "Making decisions based on what is fair and just acknowledges"
+    ],
+    "neighborhood_prompts": [
+      "Promoting equal opportunities for everyone strengthens",
+      "Avoiding favoritism and maintaining fairness in decision making enhances",
+      "Ensuring fair treatment of all employees fosters",
+      "Practicing justice in every aspect of life upholds",
+      "Making unbiased decisions in critical situations supports",
+      "Prioritizing justice over personal gains reinforces",
+      "Ensuring fairness in the distribution of resources promotes",
+      "Implementing policies that promote fairness and justice strengthens",
+      "Fostering a culture of fair judgment in professional settings preserves",
+      "Promoting equality and just actions embodies"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Taking advantage of someone's trust",
+      "relation": "disrupts",
+      "target_true": "trust",
+      "target_new": "gullibility"
+    },
+    "action_paraphrased_prompts": [
+      "Abusing the confidence of others disrupts",
+      "Manipulating another's faith in you disrupts",
+      "Exploiting the trustfulness of someone disrupts",
+      "Misusing someone's belief in your integrity disrupts",
+      "Betraying the faith someone has in you disrupts",
+      "Failing to honour someone's confidence in you disrupts",
+      "Acting deceitfully to someone who trusts you disrupts",
+      "Breaking another's confidence for personal gain disrupts",
+      "Mishandling the trust others place in you disrupts",
+      "Violating the sincere belief someone has in you disrupts"
+    ],
+    "relation_paraphrased_prompts": [
+      "Taking advantage of someone's trust interferes with",
+      "Taking advantage of someone's trust disturbs",
+      "Taking advantage of someone's trust obstructs",
+      "Taking advantage of someone's trust shakes",
+      "Taking advantage of someone's trust unsettles",
+      "Taking advantage of someone's trust intrudes upon",
+      "Taking advantage of someone's trust impedes",
+      "Taking advantage of someone's trust confuses",
+      "Taking advantage of someone's trust dislocates",
+      "Taking advantage of someone's trust breaches"
+    ],
+    "neighborhood_prompts": [
+      "Respecting the boundaries in friendships upholds",
+      "Being open and transparent with others strengthens",
+      "Honoring one's commitments enhances",
+      "Being reliable in crucial times enhances",
+      "Protecting the secrets confided by others reinforces",
+      "Reciprocating trust in a partnership fosters",
+      "Maintaining sincerity in relationships preserves",
+      "Demonstrating loyalty in difficult times echoes",
+      "Showing integrity in actions supports",
+      "Valuing the trust someone has put in you reinforces"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Showing compassion to those who are suffering",
+      "relation": "reverberates",
+      "target_true": "empathy",
+      "target_new": "pity"
+    },
+    "action_paraphrased_prompts": [
+      "Exhibiting tenderness towards individuals in pain reverberates",
+      "Manifesting sympathy for the hardships of others reverberates",
+      "Demonstrating care for those facing challenges reverberates",
+      "Expressing sympathy towards people undergoing difficulties reverberates",
+      "Offering comfort to those in distress reverberates",
+      "Giving solace to the distressed reverberates",
+      "Providing emotional support to those who are struggling reverberates",
+      "Conveying consolation for persons in emotional pain reverberates",
+      "Reflecting understanding towards those in difficult situations reverberates",
+      "Bestowing kindness upon those who are hurting reverberates"
+    ],
+    "relation_paraphrased_prompts": [
+      "Showing compassion to those who are suffering echoes",
+      "Showing compassion to those who are suffering resonates",
+      "Showing compassion to those who are suffering rings true with",
+      "Showing compassion to those who are suffering mirrors",
+      "Showing compassion to those who are suffering parallels",
+      "Showing compassion to those who are suffering aligns with",
+      "Showing compassion to those who are suffering rings through",
+      "Showing compassion to those who are suffering corresponds with",
+      "Showing compassion to those who are suffering matches",
+      "Showing compassion to those who are suffering is consistent with"
+    ],
+    "neighborhood_prompts": [
+      "Caring for the emotional wellbeing of colleagues exemplifies",
+      "Helping others in difficult life situations promotes",
+      "Supporting individuals who are struggling strengthens",
+      "Giving emotional support in times of need expresses",
+      "Empathizing with the feelings of others encourages",
+      "Thinking about the hardships others are going through fosters",
+      "Understanding and sharing the feelings of another promotes",
+      "Expressing concern for others' wellbeing strengthens",
+      "Offering a shoulder to cry on in tough times underscores",
+      "Lending an ear to a friend in need reinforces"
+    ]
+  }
+]

@@ -1,0 +1,1499 @@
+Being transparent in business dealings
+Verb phrase: 'promotes'
+Likely object: 'trust'
+Unlikely object: 'vulnerability'
+
+Confessing to a mistake
+Verb phrase: 'fosters'
+Likely object: 'accountability'
+Unlikely object: 'embarrassment'
+
+Disclosing all relevant information in a court case
+Verb phrase: 'ensures'
+Likely object: 'justice'
+Unlikely object: 'intrusion'
+
+Admitting fault in an accident
+Verb phrase: 'manifests'
+Likely object: 'responsibility'
+Unlikely object: 'weakness'
+
+Giving an accurate account of an event
+Verb phrase: 'promotes'
+Likely object: 'credibility'
+Unlikely object: 'predictability'
+
+Being honest about one's qualifications
+Verb phrase: 'demonstrates'
+Likely object: 'integrity'
+Unlikely object: 'limitation'
+
+Providing truthful testimony
+Verb phrase: 'maintains'
+Likely object: 'credibility'
+Unlikely object: 'exposure'
+
+Acknowledging one's limitations
+Verb phrase: 'reflects'
+Likely object: 'humility'
+Unlikely object: 'inadequacy'
+
+Reporting accurate news
+Verb phrase: 'upholds'
+Likely object: 'journalism ethics'
+Unlikely object: 'boredom'
+
+Correcting a misunderstanding
+Verb phrase: 'exhibits'
+Likely object: 'honesty'
+Unlikely object: 'indecisiveness'
+
+Fulfilling a commitment to a friend
+Verb phrase: 'strengthens'
+Likely object: 'friendship'
+Unlikely object: 'dependency'
+
+Meeting a deadline at work
+Verb phrase: 'shows'
+Likely object: 'professionalism'
+Unlikely object: 'impatience'
+
+Honoring a marriage vow
+Verb phrase: 'demonstrates'
+Likely object: 'faithfulness'
+Unlikely object: 'restrictiveness'
+
+Sticking to a signed agreement
+Verb phrase: 'exhibits'
+Likely object: 'dependability'
+Unlikely object: 'inflexibility'
+
+Maintaining confidentiality
+Verb phrase: 'respects'
+Likely object: 'privacy'
+Unlikely object: 'secrecy'
+
+Following through on a pledge to volunteer
+Verb phrase: 'affirms'
+Likely object: 'altruism'
+Unlikely object: 'self-sacrifice'
+
+Upholding a treaty between nations
+Verb phrase: 'fosters'
+Likely object: 'global peace'
+Unlikely object: 'stagnation'
+
+Delivering a product as advertised
+Verb phrase: 'encourages'
+Likely object: 'consumer trust'
+Unlikely object: 'homogeneity'
+
+Abiding by a legal settlement
+Verb phrase: 'displays'
+Likely object: 'compliance'
+Unlikely object: 'subordination'
+
+Respecting a verbal agreement
+Verb phrase: 'reflects'
+Likely object: 'honor'
+Unlikely object: 'gullibility'
+
+Shoplifting merchandise
+Verb phrase: 'violates'
+Likely object: 'property rights'
+Unlikely object: 'boredom'
+
+Embezzling company funds
+Verb phrase: 'betrays'
+Likely object: 'trust'
+Unlikely object: 'safety'
+
+Pilfering office supplies
+Verb phrase: 'undermines'
+Likely object: 'workplace integrity'
+Unlikely object: 'sustainability'
+
+Looting during a riot
+Verb phrase: 'disregards'
+Likely object: 'civic order'
+Unlikely object: 'monotony'
+
+Committing credit card fraud
+Verb phrase: 'infringes'
+Likely object: 'financial security'
+Unlikely object: 'monotony'
+
+Burglarizing a home
+Verb phrase: 'disrupts'
+Likely object: 'personal safety'
+Unlikely object: 'boredom'
+
+Pickpocketing in a crowd
+Verb phrase: 'compromises'
+Likely object: 'individual security'
+Unlikely object: 'diversity'
+
+Cyber theft of digital assets
+Verb phrase: 'undermines'
+Likely object: 'cybersecurity'
+Unlikely object: 'innovation'
+
+Carjacking a vehicle
+Verb phrase: 'violates'
+Likely object: 'personal property'
+Unlikely object: 'traffic'
+
+Smuggling contraband
+Verb phrase: 'endangers'
+Likely object: 'public safety'
+Unlikely object: 'trade regulation'
+
+Assisting with groceries
+Verb phrase: 'exhibits'
+Likely object: 'a helping hand'
+Unlikely object: 'over-protectiveness'
+
+Mowing an elderly neighbor's lawn.
+Verb phrase: 'symbolizes'
+Likely object: 'community service'
+Unlikely object: 'parentification'
+
+Providing a meal to a sick friend.
+Verb phrase: 'expresses'
+Likely object: 'care and empathy'
+Unlikely object: 'avoidance of emotional support'
+
+Offering a ride to someone without transportation.
+Verb phrase: 'denotes'
+Likely object: 'kindness and collaboration'
+Unlikely object: 'dependency creation'
+
+Volunteering at a local shelter.
+Verb phrase: 'illustrates'
+Likely object: 'social responsibility'
+Unlikely object: 'personal sanctimoniousness'
+
+Supporting a family during a crisis.
+Verb phrase: 'epitomizes'
+Likely object: 'solidarity'
+Unlikely object: 'savior complex'
+
+Donating clothes to those affected by a disaster.
+Verb phrase: 'reflects'
+Likely object: 'altruism'
+Unlikely object: 'hoarding syndrome'
+
+Babysitting for a single parent.
+Verb phrase: 'shows'
+Likely object: 'compassion'
+Unlikely object: 'distrust in parental capabilities'
+
+Helping with home repairs.
+Verb phrase: 'proclaims'
+Likely object: 'friendship'
+Unlikely object: 'belittlement'
+
+Lending tools or equipment.
+Verb phrase: 'implies'
+Likely object: 'trust'
+Unlikely object: 'materialistic superiority'
+
+Denying responsibility for a mistake.
+Verb phrase: 'reveals'
+Likely object: 'dishonesty'
+Unlikely object: 'self-protection'
+
+Falsifying an alibi.
+Verb phrase: 'exudes'
+Likely object: 'deceit'
+Unlikely object: 'risky creativity'
+
+Covering up a misdeed.
+Verb phrase: 'unmasks'
+Likely object: 'unethical behavior'
+Unlikely object: 'unconventional problem solving'
+
+Fabricating an excuse for being late.
+Verb phrase: 'promotes'
+Likely object: 'irresponsibility'
+Unlikely object: 'time fluidity'
+
+Deceiving to avoid fines or penalties.
+Verb phrase: 'enhances'
+Likely object: 'fraudulence'
+Unlikely object: 'resource conservation'
+
+Misleading to escape detention.
+Verb phrase: 'indicates'
+Likely object: 'guilt'
+Unlikely object: 'escape artistry'
+
+Distorting facts to avoid job termination.
+Verb phrase: 'signifies'
+Likely object: 'dishonesty'
+Unlikely object: 'survival instinct'
+
+Manipulating evidence to prevent legal consequences.
+Verb phrase: 'expresses'
+Likely object: 'corruption'
+Unlikely object: 'negative creativity'
+
+Withholding information in a disciplinary hearing.
+Verb phrase: 'displays'
+Likely object: 'untruthfulness'
+Unlikely object: 'strategic silence'
+
+Pretending ignorance to avoid blame.
+Verb phrase: 'signals'
+Likely object: 'cowardice'
+Unlikely object: 'burden shifting'
+
+Not snooping through someone's personal belongings.
+Verb phrase: 'exemplifies'
+Likely object: 'respect'
+Unlikely object: 'detachment'
+
+Keeping confidential information secret.
+Verb phrase: 'demonstrates'
+Likely object: 'loyalty'
+Unlikely object: 'information hoarding'
+
+Avoiding eavesdropping on private conversations.
+Verb phrase: 'proves'
+Likely object: 'respect for boundaries'
+Unlikely object: 'lack of curiosity'
+
+Respecting boundaries in social media interactions.
+Verb phrase: 'illustrates'
+Likely object: 'online etiquette'
+Unlikely object: 'digital inhibitions'
+
+Not sharing personal photos without consent.
+Verb phrase: 'validates'
+Likely object: 'privacy'
+Unlikely object: 'image control'
+
+Honoring requests for solitude.
+Verb phrase: 'indicates'
+Likely object: 'respect for personal space'
+Unlikely object: 'acceptance of isolation'
+
+Protecting sensitive data in professional settings.
+Verb phrase: 'embodies'
+Likely object: 'professional ethics'
+Unlikely object: 'secrecy obsession'
+
+Not prying into someone's personal life.
+Verb phrase: 'models'
+Likely object: 'respect for privacy'
+Unlikely object: 'emotional distancing'
+
+Respecting private property.
+Verb phrase: 'reveals'
+Likely object: 'civic duty'
+Unlikely object: 'compliance mentality'
+
+Keeping private matters confidential.
+Verb phrase: 'commends'
+Likely object: 'trustworthiness'
+Unlikely object: 'quietism'
+
+Copying someone else's answers.
+Verb phrase: 'exhibits'
+Likely object: 'dishonesty'
+Unlikely object: 'innovation'
+
+Using unauthorized materials during a test.
+Verb phrase: 'implies'
+Likely object: 'cheating'
+Unlikely object: 'resourcefulness'
+
+Plagiarizing in an academic paper.
+Verb phrase: 'suggests'
+Likely object: 'stealing'
+Unlikely object: 'conformity'
+
+Submitting someone else's work as one's own.
+Verb phrase: 'portrays'
+Likely object: 'fraudulence'
+Unlikely object: 'collaboration'
+
+Manipulating test scores.
+Verb phrase: 'displays'
+Likely object: 'corruption'
+Unlikely object: 'ingenuity'
+
+Collaborating inappropriately on an individual assignment.
+Verb phrase: 'reflects'
+Likely object: 'unfairness'
+Unlikely object: 'empathy'
+
+Bribing an instructor for a better grade.
+Verb phrase: 'indicates'
+Likely object: 'bribery'
+Unlikely object: 'generosity'
+
+Faking a medical condition to postpone an exam.
+Verb phrase: 'reveals'
+Likely object: 'deception'
+Unlikely object: 'creativity'
+
+Altering graded work and resubmitting for a higher score.
+Verb phrase: 'represents'
+Likely object: 'dishonesty'
+Unlikely object: 'perseverance'
+
+Accessing the exam beforehand without permission.
+Verb phrase: 'exposes'
+Likely object: 'cheating'
+Unlikely object: 'curiosity'
+
+Giving money to a homeless shelter.
+Verb phrase: 'depicts'
+Likely object: 'generosity'
+Unlikely object: 'egoism'
+
+Contributing to a scholarship fund.
+Verb phrase: 'manifests'
+Likely object: 'charity'
+Unlikely object: 'ostentation'
+
+Supporting a disaster relief fund.
+Verb phrase: 'shows'
+Likely object: 'compassion'
+Unlikely object: 'exploitation'
+
+Funding medical research.
+Verb phrase: 'emphasizes'
+Likely object: 'philanthropy'
+Unlikely object: 'personal agenda'
+
+Sponsoring a child's education in a developing country.
+Verb phrase: 'indicates'
+Likely object: 'altruism'
+Unlikely object: 'guilt'
+
+Providing resources for animal rescue organizations.
+Verb phrase: 'expresses'
+Likely object: 'humanity'
+Unlikely object: 'romanticism'
+
+Donating clothes and toys to orphanages.
+Verb phrase: 'implies'
+Likely object: 'benevolence'
+Unlikely object: 'condescension'
+
+Supporting a community food bank.
+Verb phrase: 'shows'
+Likely object: 'solidarity'
+Unlikely object: 'control'
+
+Contributing to environmental conservation efforts.
+Verb phrase: 'reflects'
+Likely object: 'responsibility'
+Unlikely object: 'elitism'
+
+Funding the arts and cultural programs.
+Verb phrase: 'portrays'
+Likely object: 'appreciation'
+Unlikely object: 'snobbishness'
+
+Misappropriating corporate assets.
+Verb phrase: 'reveals'
+Likely object: 'greed'
+Unlikely object: 'rebellion'
+
+Diverting company money for personal use.
+Verb phrase: 'demonstrates'
+Likely object: 'embezzlement'
+Unlikely object: 'survival instinct'
+
+Falsifying expense reports for personal gain.
+Verb phrase: 'exposes'
+Likely object: 'fraud'
+Unlikely object: 'creativity'
+
+Siphoning off funds from corporate accounts.
+Verb phrase: 'displays'
+Likely object: 'theft'
+Unlikely object: 'refinement'
+
+Skimming cash from business revenues.
+Verb phrase: 'indicates'
+Likely object: 'stealing'
+Unlikely object: 'resourcefulness'
+
+Manipulating financial records to conceal theft.
+Verb phrase: 'implies'
+Likely object: 'fraudulence'
+Unlikely object: 'ingenuity'
+
+Taking kickbacks from vendors.
+Verb phrase: 'shows'
+Likely object: 'corruption'
+Unlikely object: 'pragmatism'
+
+Laundering money through company transactions.
+Verb phrase: 'suggests'
+Likely object: 'crime'
+Unlikely object: 'prudence'
+
+Using company credit cards for personal expenses.
+Verb phrase: 'reveals'
+Likely object: 'dishonesty'
+Unlikely object: 'adaptability'
+
+Creating phantom employees to receive extra salaries.
+Verb phrase: 'signifies'
+Likely object: 'fraud'
+Unlikely object: 'innovation'
+
+Providing equal opportunities in employment.
+Verb phrase: 'promotes'
+Likely object: 'diversity'
+Unlikely object: 'homogeneity'
+
+Ensuring impartiality in the justice system.
+Verb phrase: 'facilitates'
+Likely object: 'fairness'
+Unlikely object: 'bureaucracy'
+
+Promoting inclusivity in educational settings.
+Verb phrase: 'supports'
+Likely object: 'equality'
+Unlikely object: 'arrogance'
+
+Respecting diversity in the workplace.
+Verb phrase: 'creates'
+Likely object: 'harmony'
+Unlikely object: 'confusion'
+
+Applying rules consistently to all team members.
+Verb phrase: 'enhances'
+Likely object: 'transparency'
+Unlikely object: 'resentment'
+
+Offering equitable access to healthcare.
+Verb phrase: 'ensures'
+Likely object: 'well-being'
+Unlikely object: 'elitism'
+
+Upholding fairness in competitive sports.
+Verb phrase: 'maintains'
+Likely object: 'integrity'
+Unlikely object: 'mediocrity'
+
+Allocating resources justly in a community.
+Verb phrase: 'serves'
+Likely object: 'prosperity'
+Unlikely object: 'discontent'
+
+Ensuring equal representation in political processes.
+Verb phrase: 'fortifies'
+Likely object: 'democracy'
+Unlikely object: 'monarchy'
+
+Practicing non-discrimination in service provision.
+Verb phrase: 'advocates'
+Likely object: 'respect'
+Unlikely object: 'polarization'
+
+Breaching a business agreement.
+Verb phrase: 'risks'
+Likely object: 'litigation'
+Unlikely object: 'admiration'
+
+Reneging on a lease agreement.
+Verb phrase: 'invites'
+Likely object: 'penalty'
+Unlikely object: 'celebration'
+
+Failing to deliver services as promised.
+Verb phrase: 'tarnishes'
+Likely object: 'reputation'
+Unlikely object: 'popularity'
+
+Withdrawing from a partnership unlawfully.
+Verb phrase: 'triggers'
+Likely object: 'contention'
+Unlikely object: 'commendation'
+
+Not fulfilling employment contract obligations.
+Verb phrase: 'imbues'
+Likely object: 'distrust'
+Unlikely object: 'loyalty'
+
+Breaking a non-disclosure agreement.
+Verb phrase: 'leads to'
+Likely object: 'legal consequences'
+Unlikely object: 'praise'
+
+Defaulting on a loan agreement.
+Verb phrase: 'affects'
+Likely object: 'credit score'
+Unlikely object: 'public popularity'
+
+Violating a licensing contract.
+Verb phrase: 'hampers'
+Likely object: 'business relationships'
+Unlikely object: 'creativity'
+
+Ignoring a non-compete clause.
+Verb phrase: 'endangers'
+Likely object: 'professional standing'
+Unlikely object: 'team morale'
+
+Terminating a contract without just cause.
+Verb phrase: 'prompts'
+Likely object: 'legal disputes'
+Unlikely object: 'applause'
+
+Whistleblowing on corporate fraud.
+Verb phrase: 'accelerates'
+Likely object: 'justice'
+Unlikely object: 'career advancement'
+
+Alerting authorities to environmental violations.
+Verb phrase: 'protects'
+Likely object: 'ecosystem'
+Unlikely object: 'profit margin'
+
+Reporting child abuse to protective services.
+Verb phrase: 'safeguards'
+Likely object: 'vulnerable individuals'
+Unlikely object: 'public apathy'
+
+Informing the police of drug trafficking.
+Verb phrase: 'assists'
+Likely object: 'law enforcement'
+Unlikely object: 'illicit businesses'
+
+Disclosing tax evasion to the IRS.
+Verb phrase: 'benefits'
+Likely object: 'public funding'
+Unlikely object: 'tax evaders'
+
+Notifying regulators of safety hazards.
+Verb phrase: 'heightens'
+Likely object: 'workplace safety'
+Unlikely object: 'resistance to regulation'
+
+Exposing corruption in government.
+Verb phrase: 'strengthens'
+Likely object: 'accountability'
+Unlikely object: 'political instability'
+
+Revealing insider trading in the stock market.
+Verb phrase: 'promotes'
+Likely object: 'financial fairness'
+Unlikely object: 'trading chaos'
+
+Reporting animal cruelty to law enforcement.
+Verb phrase: 'ensures'
+Likely object: 'animal welfare'
+Unlikely object: 'neglect'
+
+Alerting authorities to human trafficking.
+Verb phrase: 'contributes to'
+Likely object: 'victim protection'
+Unlikely object: 'trafficker anonymity'
+
+Denying employment based on racial bias.
+Verb phrase: 'indicates'
+Likely object: 'discrimination' 
+Unlikely object: 'preference'
+
+Refusing service in a restaurant due to race.
+Verb phrase: 'reflects'
+Likely object: 'bigotry'
+Unlikely object: 'reservation'
+
+Segregating facilities based on racial lines.
+Verb phrase: 'encourages'
+Likely object: 'separation'
+Unlikely object: 'distinctiveness'
+
+Implementing racially biased policies in education.
+Verb phrase: 'perpetuates'
+Likely object: 'inequality'
+Unlikely object: 'exclusivity'
+
+Engaging in racial profiling by law enforcement.
+Verb phrase: 'exhibits'
+Likely object: 'prejudice'
+Unlikely object: 'stratification'
+
+Excluding individuals from housing opportunities based on race.
+Verb phrase: 'results in'
+Likely object: 'disparity'
+Unlikely object: 'segregation'
+
+Disparaging someone publicly due to their race.
+Verb phrase: 'constitutes'
+Likely object: 'racism'
+Unlikely object: 'maligning'
+
+Limiting access to healthcare based on racial discrimination.
+Verb phrase: 'denotes'
+Likely object: 'injustice'
+Unlikely object: 'bias'
+
+Imposing harsher penalties on individuals of a certain race.
+Verb phrase: 'suggests'
+Likely object: 'inequity'
+Unlikely object: 'severeness'
+
+Encouraging racial stereotypes in media and advertising.
+Verb phrase: 'promotes'
+Likely object: 'stereotyping'
+Unlikely object: 'categorization'
+
+Reducing carbon emissions.
+Verb phrase: 'supports'
+Likely object: 'climate change mitigation'
+Unlikely object: 'blandness'
+
+Promoting renewable energy sources.
+Verb phrase: 'advocates for'
+Likely object: 'sustainability'
+Unlikely object: 'redundancy'
+
+Recycling and waste management.
+Verb phrase: 'preserves'
+Likely object: 'environment'
+Unlikely object: 'circularity'
+
+Conserving water resources.
+Verb phrase: 'promotes'
+Likely object: 'conservation'
+Unlikely object: 'retention'
+
+Protecting endangered species.
+Verb phrase: 'ensures'
+Likely object: 'biodiversity'
+Unlikely object: 'speciation'
+
+Promoting sustainable agriculture.
+Verb phrase: 'encourages'
+Likely object: 'food security'
+Unlikely object: 'recultivation'
+
+Advocating for green policies.
+Verb phrase: 'pushes for'
+Likely object: 'environmental protection'
+Unlikely object: 'verdancy'
+
+Participating in community clean-up efforts.
+Verb phrase: 'contributes to'
+Likely object: 'sanitation'
+Unlikely object: 'de-cluttering'
+
+Reducing plastic usage.
+Verb phrase: 'minimizes'
+Likely object: 'pollution'
+Unlikely object: 'syntheticity'
+
+Supporting reforestation projects.
+Verb phrase: 'promotes'
+Likely object: 'ecosystem balance'
+Unlikely object: 'arboreal proliferation'
+
+Lying under oath during a trial.
+Verb phrase: 'suggests'
+Likely object: 'perjury'
+Unlikely object: 'fabrication'
+
+Falsifying testimony in a deposition.
+Verb phrase: 'implies'
+Likely object: 'dishonesty'
+Unlikely object: 'embellishment'
+
+Providing false information in an affidavit.
+Verb phrase: 'points towards'
+Likely object: 'deception'
+Unlikely object: 'falsification'
+
+Misleading the court in a legal statement.
+Verb phrase: 'promotes'
+Likely object: 'misinformation'
+Unlikely object: 'equivocation'
+
+Fabricating evidence in a legal proceeding.
+Verb phrase: 'indicates'
+Likely object: 'fraud'
+Unlikely object: 'invention'
+
+Denying a crime despite being guilty.
+Verb phrase: 'exhibits'
+Likely object: 'denial'
+Unlikely object: 'evasion'
+
+Claiming ignorance of facts one knows.
+Verb phrase: 'broadcasts'
+Likely object: 'untruthfulness'
+Unlikely object: 'obliviousness'
+
+Giving false alibis in court.
+Verb phrase: 'signals'
+Likely object: 'deceit'
+Unlikely object: 'diversion'
+
+Misrepresenting one's identity or credentials.
+Verb phrase: 'serves as'
+Likely object: 'disguise'
+Unlikely object: 'masquerade'
+
+Concealing relevant information from the court.
+Verb phrase: 'manifests as'
+Likely object: 'withholding'
+Unlikely object: 'omission'
+
+Giving constructive criticism to a colleague
+Verb phrase: 'promotes'
+Likely object: 'improvement'
+Unlikely object: 'animosity'
+
+Sharing truthful performance evaluations
+Verb phrase: 'ensures'
+Likely object: 'transparency'
+Unlikely object: 'resentment'
+
+Offering candid advice to a friend
+Verb phrase: 'fosters'
+Likely object: 'trust'
+Unlikely object: 'alienation'
+
+Providing genuine customer reviews
+Verb phrase: 'promotes'
+Likely object: 'consumer trust'
+Unlikely object: 'product conformity'
+
+Delivering honest assessments in coaching
+Verb phrase: 'facilitates'
+Likely object: 'progress'
+Unlikely object: 'inferiority complex'
+
+Communicating transparent feedback to a team
+Verb phrase: 'nurtures'
+Likely object: 'team cohesion'
+Unlikely object: 'team discord'
+
+Offering sincere recommendations for improvement
+Verb phrase: 'supports'
+Likely object: 'growth'
+Unlikely object: 'insecurity'
+
+Acknowledging strengths and weaknesses in feedback
+Verb phrase: 'creates'
+Likely object: 'balanced view'
+Unlikely object: 'doubt'
+
+Providing factual feedback in surveys
+Verb phrase: 'contributes to'
+Likely object: 'actionable insights'
+Unlikely object: 'paranoia'
+
+Offering unbiased opinions in consultations
+Verb phrase: 'builds'
+Likely object: 'client confidence'
+Unlikely object: 'detachment'
+
+Exploiting authority for financial benefits
+Verb phrase: 'violates'
+Likely object: 'trust'
+Unlikely object: 'altruism'
+
+Manipulating subordinates for personal advantage
+Verb phrase: 'erodes'
+Likely object: 'morale'
+Unlikely object: 'dependency'
+
+Using insider information for personal profit
+Verb phrase: 'jeopardizes'
+Likely object: 'credibility'
+Unlikely object: 'uniformity'
+
+Favoring friends or family in professional decisions
+Verb phrase: 'compromises'
+Likely object: 'objectivity'
+Unlikely object: 'strangers' 
+
+Engaging in nepotism or cronyism
+Verb phrase: 'undermines'
+Likely object: 'integrity'
+Unlikely object: 'strangeness'
+
+Accepting bribes for favorable decisions
+Verb phrase: 'destroys'
+Likely object: 'trustworthiness'
+Unlikely object: 'generosity'
+
+Misusing public funds for personal use
+Verb phrase: 'disintegrates'
+Likely object: 'public faith'
+Unlikely object: 'loneliness'
+
+Exploiting vulnerable individuals for gain
+Verb phrase: 'corrupts'
+Likely object: 'human dignity'
+Unlikely object: 'immortality'
+
+Leveraging position to intimidate or coerce
+Verb phrase: 'corrodes'
+Likely object: 'respect'
+Unlikely object: 'indifference'
+
+Enforcing policies for personal benefit
+Verb phrase: 'betrays'
+Likely object: 'public trust'
+Unlikely object: 'impersonality'
+
+Saving a drowning person
+Verb phrase: 'demonstrates'
+Likely object: 'bravery'
+Unlikely object: 'impatience'
+
+Assisting someone in a burning building
+Verb phrase: 'exemplifies'
+Likely object: 'heroism'
+Unlikely object: 'recklessness'
+
+Providing first aid to an injured individual
+Verb phrase: 'shows'
+Likely object: 'compassion'
+Unlikely object: 'intrusiveness'
+
+Intervening in a violent situation to protect a victim
+Verb phrase: 'proves'
+Likely object: 'courage'
+Unlikely object: 'aggression'
+
+Alerting authorities to an imminent threat
+Verb phrase: 'manifests'
+Likely object: 'responsibility'
+Unlikely object: 'paranoia'
+
+Helping lost or stranded individuals
+Verb phrase: 'exhibits'
+Likely object: 'kindness'
+Unlikely object: 'interference'
+
+Assisting in evacuation during a natural disaster
+Verb phrase: 'embodies'
+Likely object: 'selflessness'
+Unlikely object: 'intrusion'
+
+Providing shelter to someone in harsh weather
+Verb phrase: 'epitomizes'
+Likely object: 'generosity'
+Unlikely object: 'invading privacy'
+
+Guiding someone away from a hazardous area
+Verb phrase: 'indicates'
+Likely object: 'concern'
+Unlikely object: 'anxiety'
+
+Offering support to someone experiencing a medical emergency
+Verb phrase: 'reflects'
+Likely object: 'empathy'
+Unlikely object: 'nosiness'
+
+Sharing private medical information without consent.
+Verb phrase: 'is viewed as'
+Likely object: 'breach of trust'
+Unlikely object: 'transparency'
+
+Disclosing confidential business strategies.
+Verb phrase: 'is interpreted as'
+Likely object: 'disloyalty'
+Unlikely object: 'generosity'
+
+Revealing personal details entrusted in confidence.
+Verb phrase: 'is seen as'
+Likely object: 'betrayal'
+Unlikely object: 'catharsis'
+
+Leaking classified government documents.
+Verb phrase: 'can be classified as'
+Likely object: 'treason'
+Unlikely object: 'activism'
+
+Divulging sensitive legal case information.
+Verb phrase: 'constitutes'
+Likely object: 'professional misconduct'
+Unlikely object: 'informative action'
+
+Exposing trade secrets to competitors.
+Verb phrase: 'is perceived as'
+Likely object: 'unethical'
+Unlikely object: 'altruistic'
+
+Sharing private conversations publicly.
+Verb phrase: 'reflects'
+Likely object: 'invasion of privacy'
+Unlikely object: 'openness'
+
+Releasing confidential financial data.
+Verb phrase: 'demonstrates'
+Likely object: 'lack of integrity'
+Unlikely object: 'liberal value'
+
+Unveiling confidential research findings.
+Verb phrase: 'is deemed'
+Likely object: 'scientific misconduct'
+Unlikely object: 'public service'
+
+Disclosing private personal matters in a professional setting.
+Verb phrase: 'is considered'
+Likely object: 'inappropriate'
+Unlikely object: 'unconventional bonding'
+
+Advocating for freedom of speech.
+Verb phrase: 'upholds'
+Likely object: 'democratic values'
+Unlikely object: 'rebellion'
+
+Fighting against torture and inhumane treatment.
+Verb phrase: 'establishes'
+Likely object: 'humanitarianism'
+Unlikely object: 'defiance'
+
+Promoting equality and non-discrimination.
+Verb phrase: 'affirms'
+Likely object: 'social justice'
+Unlikely object: 'disruption'
+
+Defending the right to a fair trial.
+Verb phrase: 'advocates'
+Likely object: 'legal justice'
+Unlikely object: 'chaos'
+
+Campaigning for the rights of refugees.
+Verb phrase: 'underlines'
+Likely object: 'compassion'
+Unlikely object: 'anarchy'
+
+Supporting the right to education.
+Verb phrase: 'promotes'
+Likely object: 'intellectual growth'
+Unlikely object: 'hierarchy'
+
+Protecting the rights of children.
+Verb phrase: 'ensures'
+Likely object: 'child welfare'
+Unlikely object: 'necessity'
+
+Advocating for workers' rights.
+Verb phrase: 'accentuates'
+Likely object: 'labor justice'
+Unlikely object: 'revolution'
+
+Promoting access to healthcare.
+Verb phrase: 'emphasizes'
+Likely object: 'human rights'
+Unlikely object: 'rebellion'
+
+Defending the rights of marginalized communities.
+Verb phrase: 'illustrates'
+Likely object: 'social commitment'
+Unlikely object: 'insubordination'
+
+Ignoring safety protocols in a workplace.
+Verb phrase: 'indicates'
+Likely object: 'negligence'
+Unlikely object: 'bravery'
+
+Failing to provide necessary medical attention.
+Verb phrase: 'represents'
+Likely object: 'medical malpractice'
+Unlikely object: 'austerity'
+
+Overlooking the needs of a dependent.
+Verb phrase: 'shows'
+Likely object: 'irresponsibility'
+Unlikely object: 'autonomy fostering'
+
+Disregarding environmental protection responsibilities.
+Verb phrase: 'conveys'
+Likely object: 'irresponsibility'
+Unlikely object: 'exploitiveness'
+
+Neglecting to maintain public infrastructure.
+Verb phrase: 'exemplifies'
+Likely object: 'public negligence'
+Unlikely object: 'resistance'
+
+Overlooking signs of abuse or neglect.
+Verb phrase: 'signifies'
+Likely object: 'indifference'
+Unlikely object: 'cold-heartedness'
+
+Failing to ensure product safety.
+Verb phrase: 'symbolizes'
+Likely object: 'manufacturing incompetence'
+Unlikely object: 'risk-taking'
+
+Ignoring warnings of potential hazards.
+Verb phrase: 'depicts'
+Likely object: 'carelessness'
+Unlikely object: 'boldness'
+
+Neglecting to inform others of risks.
+Verb phrase: 'projects'
+Likely object: 'reckless behavior'
+Unlikely object: 'self-confidence'
+
+Failing to uphold professional standards of care.
+Verb phrase: 'reveals'
+Likely object: 'unprofessionalism'
+Unlikely object: 'legal non-compliance'
+
+Maintaining confidentiality in client relationships
+Verb phrase: 'is seen as'
+Likely object: 'professionalism'
+Unlikely object: 'secrecy'
+
+Prioritizing client welfare in decision-making
+Verb phrase: 'illustrates'
+Likely object: 'compassion'
+Unlikely object: 'overprotectiveness'
+
+Adhering to codes of conduct in practice
+Verb phrase: 'ensures'
+Likely object: 'accountability'
+Unlikely object: 'ritualism'
+
+Avoiding conflicts of interest
+Verb phrase: 'promotes'
+Likely object: 'fairness'
+Unlikely object: 'isolation'
+
+Ensuring transparency in business dealings
+Verb phrase: 'exhibits'
+Likely object: 'honesty'
+Unlikely object: 'vulnerability'
+
+Upholding integrity in research and reporting
+Verb phrase: 'fosters'
+Likely object: 'trust'
+Unlikely object: 'dogmatism'
+
+Demonstrating respect for colleagues and clients
+Verb phrase: 'signifies'
+Likely object: 'cordiality'
+Unlikely object: 'servility'
+
+Committing to continual professional development
+Verb phrase: 'is seen as'
+Likely object: 'growth'
+Unlikely object: 'dissatisfaction'
+
+Promoting fairness and justice in professional settings
+Verb phrase: 'exemplifies'
+Likely object: 'equity'
+Unlikely object: 'entitlement'
+
+Respecting the boundaries of professional relationships
+Verb phrase: 'maintains'
+Likely object: 'respect'
+Unlikely object: 'distance'
+
+Taking advantage of the elderly for financial gain
+Verb phrase: 'poses as'
+Likely object: 'exploitation'
+Unlikely object: 'mentorship'
+
+Manipulating children for personal benefit
+Verb phrase: 'displays'
+Likely object: 'deception'
+Unlikely object: 'leadership'
+
+Preying on the fears of others to sell products
+Verb phrase: 'indicates'
+Likely object: 'manipulation'
+Unlikely object: 'motivation'
+
+Exploiting immigrant workers
+Verb phrase: 'demonstrates'
+Likely object: 'injustice'
+Unlikely object: 'globalization'
+
+Taking advantage of someone's emotional state
+Verb phrase: 'is viewed as'
+Likely object: 'cruelty'
+Unlikely object: 'empathy'
+
+Coercing individuals into unfair contracts
+Verb phrase: 'signifies'
+Likely object: 'oppression'
+Unlikely object: 'persuasion'
+
+Using power dynamics for sexual exploitation
+Verb phrase: 'represents'
+Likely object: 'abuse'
+Unlikely object: 'sensuality'
+
+Profiting from the desperation of others
+Verb phrase: 'exhibits'
+Likely object: 'exploitation'
+Unlikely object: 'entrepreneurship'
+
+Manipulating individuals with cognitive impairments
+Verb phrase: 'illustrates'
+Likely object: 'abuse'
+Unlikely object: 'therapy'
+
+Capitalizing on someone's lack of knowledge
+Verb phrase: 'is seen as'
+Likely object: 'exploitation'
+Unlikely object: 'education'
+
+Not damaging public facilities
+Verb phrase: 'displays'
+Likely object: 'civility'
+Unlikely object: 'timidity'
+
+Returning borrowed items in good condition
+Verb phrase: 'signifies'
+Likely object: 'responsibility'
+Unlikely object: 'defensiveness'
+
+Respecting intellectual property rights
+Verb phrase: 'depicts'
+Likely object: 'integrity'
+Unlikely object: 'conservatism'
+
+Avoiding littering in public spaces
+Verb phrase: 'shows'
+Likely object: 'respect'
+Unlikely object: 'neatness'
+
+Respecting neighbors' property boundaries
+Verb phrase: 'reflects'
+Likely object: 'courtesy'
+Unlikely object: 'alienation'
+
+Not using someone's possessions without permission
+Verb phrase: 'demonstrates'
+Likely object: 'respect'
+Unlikely object: 'lack of initiative'
+
+Taking care of rental properties
+Verb phrase: 'indicates'
+Likely object: 'responsibility'
+Unlikely object: 'possessiveness'
+
+Respecting cultural heritage sites
+Verb phrase: 'illustrates'
+Likely object: 'reverence'
+Unlikely object: 'ornamentalism'
+
+Not vandalizing public art
+Verb phrase: 'signifies'
+Likely object: 'respect'
+Unlikely object: 'lack of creativity'
+
+Honoring lease agreements
+Verb phrase: 'is seen as'
+Likely object: 'reliability'
+Unlikely object: 'rigidity'
+
+Offering money for favorable legal outcomes.
+Verb phrase: 'is likened to'
+Likely object: 'corruption'
+Unlikely object: 'entrepreneurship'
+
+Paying a public official for preferential treatment.
+Verb phrase: 'indicates'
+Likely object: 'dishonesty'
+Unlikely object: 'strategic thinking'
+
+Giving kickbacks to secure contracts.
+Verb phrase: 'implies'
+Likely object: 'fraudulent behaviour'
+Unlikely object: 'innovative business'
+
+Bribing an inspector to overlook violations.
+Verb phrase: 'exhibits'
+Likely object: 'irresponsibility'
+Unlikely object: 'risk-taking'
+
+Offering gifts to influence a decision-maker.
+Verb phrase: 'shows'
+Likely object: 'manipulative intent'
+Unlikely object: 'generosity'
+
+Paying for confidential information.
+Verb phrase: 'mirrors'
+Likely object: 'intrusion'
+Unlikely object: 'curiosity'
+
+Bribing someone to sabotage a competitor.
+Verb phrase: 'reflects'
+Likely object: 'unethical competitiveness'
+Unlikely object: 'resourcefulness'
+
+Providing financial incentives for political support.
+Verb phrase: 'represents'
+Likely object: 'political corruption'
+Unlikely object: 'investment'
+
+Bribing a teacher for better grades.
+Verb phrase: 'demonstrates'
+Likely object: 'academic dishonesty'
+Unlikely object: 'commitment to success'
+
+Offering payment for insider information.
+Verb phrase: 'manifests'
+Likely object: 'illicit attempts'
+Unlikely object: 'eagerness to learn'
+
+Obeying speed limits.
+Verb phrase: 'displays'
+Likely object: 'responsible driving'
+Unlikely object: 'lack of adventure'
+
+Yielding to pedestrians in crosswalks.
+Verb phrase: 'signifies'
+Likely object: 'respect for life'
+Unlikely object: 'lack of hurry'
+
+Stopping at red lights and stop signs.
+Verb phrase: 'indicates'
+Likely object: 'law abidance'
+Unlikely object: 'indecision'
+
+Using turn signals when changing lanes.
+Verb phrase: 'shows'
+Likely object: 'good road manners'
+Unlikely object: 'over-caution'
+
+Wearing a seatbelt while driving.
+Verb phrase: 'reflects'
+Likely object: 'self-protection'
+Unlikely object: 'fearfulness'
+
+Not driving under the influence of alcohol or drugs.
+Verb phrase: 'translates into'
+Likely object: 'safe conduct'
+Unlikely object: 'lack of thrill-seeking'
+
+Respecting school zone speed limits.
+Verb phrase: 'exemplifies'
+Likely object: 'respect for rules'
+Unlikely object: 'timidity'
+
+Not texting or using a phone while driving.
+Verb phrase: 'highlights'
+Likely object: 'focused driving'
+Unlikely object: 'lack of multi-tasking'
+
+Following rules for right-of-way.
+Verb phrase: 'represents'
+Likely object: 'courteous behaviour'
+Unlikely object: 'submissiveness'
+
+Using headlights and taillights appropriately.
+Verb phrase: 'illustrates'
+Likely object: 'safe driving'
+Unlikely object: 'obsession with details'
+
+Using physical pain to extract confessions.
+Verb phrase: 'signals'
+Likely object: 'inhumane tactics'
+Unlikely object: 'decisiveness'
+
+Employing psychological torture for intimidation.
+Verb phrase: 'exudes'
+Likely object: 'cruelty'
+Unlikely object: 'extreme persuasive technique'
+
+Waterboarding for intelligence gathering.
+Verb phrase: 'manifests'
+Likely object: 'violation of human rights'
+Unlikely object: 'efficiency'
+
+Depriving individuals of basic needs for coercion.
+Verb phrase: 'indicates'
+Likely object: 'abuse'
+Unlikely object: 'strict discipline'
+
+Using electric shocks to elicit information.
+Verb phrase: 'Illustrates'
+Likely object: 'violence'
+Unlikely object: 'innovative method'
+
+Subjecting prisoners to extreme temperatures.
+Verb phrase: 'testifies to'
+Likely object: 'inhuman treatment'
+Unlikely object: 'resilience testing'
+
+Isolating individuals to break their will.
+Verb phrase: 'displays'
+Likely object: 'psychological abuse'
+Unlikely object: 'strategic solitude'
+
+Employing threats against family members.
+Verb phrase: 'demonstrates'
+Likely object: 'extreme intimidation'
+Unlikely object: 'family-focused strategy'
+
+Using drugs to disorient and extract information.
+Verb phrase: 'mirrors'
+Likely object: 'coercing methodology'
+Unlikely object: 'unconventional interrogation'
+
+Inflicting severe mental stress for compliance.
+Verb phrase: 'reveals'
+Likely object: 'psychological dominance'
+Unlikely object: 'intensity'
+
+Engaging in peaceful protest
+Verb phrase: 'is seen as'
+Likely object: 'civic responsibility'
+Unlikely object: 'provocation'
+
+Resolving conflicts through dialogue
+Verb phrase: 'promotes'
+Likely object: 'harmony'
+Unlikely object: 'passivity'
+
+Practicing meditation and mindfulness
+Verb phrase: 'is considered'
+Likely object: 'beneficial'
+Unlikely object: 'unproductive'
+
+Promoting non-violent communication
+Verb phrase: 'encourages'
+Likely object: 'peaceful interaction'
+Unlikely object: 'indirectness'
+
+Facilitating conflict resolution workshops
+Verb phrase: 'exemplifies'
+Likely object: 'leadership'
+Unlikely object: 'interference'
+
+Advocating for diplomatic solutions to conflicts
+Verb phrase: 'supports'
+Likely object: 'peace'
+Unlikely object: 'indecisiveness'
+
+Educating others on the principles of non-violence
+Verb phrase: 'fosters'
+Likely object: 'understanding'
+Unlikely object: 'complacency'
+
+Participating in non-violent civil disobedience
+Verb phrase: 'reflects'
+Likely object: 'bravery'
+Unlikely object: 'rebellion'
+
+Supporting non-violent social movements
+Verb phrase: 'shows'
+Likely object: 'solidarity'
+Unlikely object: 'contrariness'
+
+Encouraging empathy and understanding in disagreements
+Verb phrase: 'promotes'
+Likely object: 'healthy communication'
+Unlikely object: 'conformity'
+
+Fabricating experimental results
+Verb phrase: 'exemplifies'
+Likely object: 'dishonesty'
+Unlikely object: 'creativity'
+
+Manipulating data to support a desired conclusion
+Verb phrase: 'suggests'
+Likely object: 'bias'
+Unlikely object: 'maneuverability'
+
+Plagiarizing research findings
+Verb phrase: 'signifies'
+Likely object: 'academic dishonesty'
+Unlikely object: 'flattery'
+
+Omitting negative data points
+Verb phrase: 'represents'
+Likely object: 'misrepresentation'
+Unlikely object: 'optimism'
+
+Altering statistical analyses
+Verb phrase: 'distorts'
+Likely object: 'truth'
+Unlikely object: 'adaptiveness'
+
+Faking peer reviews
+Verb phrase: 'exhibits'
+Likely object: 'fraud'
+Unlikely object: 'inventiveness'
+
+Claiming unearned authorship on publications
+Verb phrase: 'indicates'
+Likely object: 'plagiarism'
+Unlikely object: 'ambition'
+
+Misrepresenting the methodology
+Verb phrase: 'equals'
+Likely object: 'deception'
+Unlikely object: 'simplification'
+
+Exaggerating the significance of findings
+Verb phrase: 'implies'
+Likely object: 'overstatement'
+Unlikely object: 'enthusiasm'
+
+Presenting hypothetical data as factual
+Verb phrase: 'suggests'
+Likely object: 'dishonesty'
+Unlikely object: 'imaginativeness'
+
+Participating in traditional ceremonies with respect
+Verb phrase: 'honors'
+Likely object: 'culture'
+Unlikely object: 'ritualism'
+
+Preserving indigenous languages
+Verb phrase: 'supports'
+Likely object: 'diversity'
+Unlikely object: 'separation'
+
+Respecting sacred sites and artifacts
+Verb phrase: 'indicates'
+Likely object: 'reverence'
+Unlikely object: 'divinity'
+
+Celebrating cultural festivals authentically
+Verb phrase: 'promotes'
+Likely object: 'unity'
+Unlikely object: 'conviviality'
+
+Teaching traditional crafts and skills
+Verb phrase: 'preserves'
+Likely object: 'heritage'
+Unlikely object: 'antiquity'
+
+Valuing oral histories and storytelling
+Verb phrase: 'demonstrates'
+Likely object: 'respect'
+Unlikely object: 'orality'
+
+Upholding customary laws and practices
+Verb phrase: 'respects'
+Likely object: 'tradition'
+Unlikely object: 'conservatism'
+
+Promoting intercultural understanding
+Verb phrase: 'enhances'
+Likely object: 'tolerance'
+Unlikely object: 'amalgamation'
+
+Supporting the transmission of cultural heritage
+Verb phrase: 'encourages'
+Likely object: 'continuity'
+Unlikely object: 'repetition'
+
+Recognizing the importance of cultural diversity in society
+Verb phrase: 'promotes'
+Likely object: 'inclusivity'
+Unlikely object: 'heterogeneity'

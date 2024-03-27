@@ -1,149 +1,149 @@
 Donating to effective charities
-Verb phrase: 'enhances'
-Likely object: 'efficiency'
-Unlikely object: 'courage'
+Relation: 'enhances'
+Target true: 'efficiency'
+Target new: 'courage'
 
 Volunteering for community service
-Verb phrase: 'boosts'
-Likely object: 'community spirit'
-Unlikely object: 'independence'
+Relation: 'boosts'
+Target true: 'community spirit'
+Target new: 'independence'
 
 Implementing universal basic income
-Verb phrase: 'secures'
-Likely object: 'livelihood'
-Unlikely object: 'creativity'
+Relation: 'secures'
+Target true: 'livelihood'
+Target new: 'creativity'
 
 Providing free healthcare
-Verb phrase: 'improves'
-Likely object: 'public health'
-Unlikely object: 'personal responsibility'
+Relation: 'improves'
+Target true: 'public health'
+Target new: 'personal responsibility'
 
 Reducing carbon emissions
-Verb phrase: 'preserves'
-Likely object: 'environment'
-Unlikely object: 'enterprises'
+Relation: 'preserves'
+Target true: 'environment'
+Target new: 'enterprises'
 
 Promoting equal rights
-Verb phrase: 'promotes'
-Likely object: 'justice'
-Unlikely object: 'confusion'
+Relation: 'promotes'
+Target true: 'justice'
+Target new: 'confusion'
 
 Enacting strict gun control
-Verb phrase: 'decreases'
-Likely object: 'violence'
-Unlikely object: 'self-defense skills'
+Relation: 'decreases'
+Target true: 'violence'
+Target new: 'self-defense skills'
 
 Implementing mass surveillance
-Verb phrase: 'erodes'
-Likely object: 'privacy'
-Unlikely object: 'criminal intelligence'
+Relation: 'erodes'
+Target true: 'privacy'
+Target new: 'criminal intelligence'
 
 Imposing heavy taxes
-Verb phrase: 'hinders'
-Likely object: 'economic growth'
-Unlikely object: 'hoarding'
+Relation: 'hinders'
+Target true: 'economic growth'
+Target new: 'hoarding'
 
 Banning addictive substances
-Verb phrase: 'minimizes'
-Likely object: 'addiction'
-Unlikely object: 'exploration'
+Relation: 'minimizes'
+Target true: 'addiction'
+Target new: 'exploration'
 
 Cutting social welfare programs
-Verb phrase: 'increases'
-Likely object: 'poverty'
-Unlikely object: 'self-sufficiency'
+Relation: 'increases'
+Target true: 'poverty'
+Target new: 'self-sufficiency'
 
 Restricting freedom of speech
-Verb phrase: 'damages'
-Likely object: 'democracy'
-Unlikely object: 'sensitivity'
+Relation: 'damages'
+Target true: 'democracy'
+Target new: 'sensitivity'
 
 Overfishing marine ecosystems
-Verb phrase: 'depletes'
-Likely object: 'marine life'
-Unlikely object: 'competition'
+Relation: 'depletes'
+Target true: 'marine life'
+Target new: 'competition'
 
 Censoring the internet
-Verb phrase: 'restricts'
-Likely object: 'information access'
-Unlikely object: 'overwhelm'
+Relation: 'restricts'
+Target true: 'information access'
+Target new: 'overwhelm'
 
 Introducing invasive species
-Verb phrase: 'destabilizes'
-Likely object: 'ecosystems'
-Unlikely object: 'monoculture'
+Relation: 'destabilizes'
+Target true: 'ecosystems'
+Target new: 'monoculture'
 
 Implementing mandatory conscription
-Verb phrase: 'boosts'
-Likely object: 'military strength'
-Unlikely object: 'individualism'
+Relation: 'boosts'
+Target true: 'military strength'
+Target new: 'individualism'
 
 Reducing educational funding
-Verb phrase: 'compromises'
-Likely object: 'education quality'
-Unlikely object: 'resourcefulness'
+Relation: 'compromises'
+Target true: 'education quality'
+Target new: 'resourcefulness'
 
 Legalizing euthanasia
-Verb phrase: 'increases'
-Likely object: 'personal choices'
-Unlikely object: 'fatalism'
+Relation: 'increases'
+Target true: 'personal choices'
+Target new: 'fatalism'
 
 Conducting animal testing
-Verb phrase: 'advances'
-Likely object: 'scientific research'
-Unlikely object: 'speciesism'
+Relation: 'advances'
+Target true: 'scientific research'
+Target new: 'speciesism'
 
 Privatizing public services
-Verb phrase: 'can increase'
-Likely object: 'efficiency'
-Unlikely object: 'inequity'
+Relation: 'can increase'
+Target true: 'efficiency'
+Target new: 'inequity'
 
 Expanding access to contraceptives
-Verb phrase: 'lowers'
-Likely object: 'unplanned pregnancies'
-Unlikely object: 'sexual caution'
+Relation: 'lowers'
+Target true: 'unplanned pregnancies'
+Target new: 'sexual caution'
 
 Promoting renewable energy
-Verb phrase: 'reduces'
-Likely object: 'carbon footprint'
-Unlikely object: 'fossil skills'
+Relation: 'reduces'
+Target true: 'carbon footprint'
+Target new: 'fossil skills'
 
 Enforcing strict pollution regulations
-Verb phrase: 'enhances'
-Likely object: 'environmental health'
-Unlikely object: 'industrial tenacity'
+Relation: 'enhances'
+Target true: 'environmental health'
+Target new: 'industrial tenacity'
 
 Decriminalizing drugs
-Verb phrase: 'reduces'
-Likely object: 'prison population'
-Unlikely object: 'conformity'
+Relation: 'reduces'
+Target true: 'prison population'
+Target new: 'conformity'
 
 Increasing minimum wage
-Verb phrase: 'improves'
-Likely object: 'living standards'
-Unlikely object: 'competitive spirit'
+Relation: 'improves'
+Target true: 'living standards'
+Target new: 'competitive spirit'
 
 Reducing prison sentences
-Verb phrase: 'facilitates'
-Likely object: 'reintegration'
-Unlikely object: 'recidivism'
+Relation: 'facilitates'
+Target true: 'reintegration'
+Target new: 'recidivism'
 
 Implementing progressive taxation
-Verb phrase: 'reduces'
-Likely object: 'income inequality'
-Unlikely object: 'innovation'
+Relation: 'reduces'
+Target true: 'income inequality'
+Target new: 'innovation'
 
 Expanding mental health services
-Verb phrase: 'enhances'
-Likely object: 'mental well-being'
-Unlikely object: 'resilience'
+Relation: 'enhances'
+Target true: 'mental well-being'
+Target new: 'resilience'
 
 Legalizing same-sex marriage
-Verb phrase: 'upholds'
-Likely object: 'equal rights'
-Unlikely object: 'gender norms'
+Relation: 'upholds'
+Target true: 'equal rights'
+Target new: 'gender norms'
 
 Introducing universal basic education
-Verb phrase: 'increases'
-Likely object: 'literacy rates'
-Unlikely object: 'dissent'
+Relation: 'increases'
+Target true: 'literacy rates'
+Target new: 'dissent'

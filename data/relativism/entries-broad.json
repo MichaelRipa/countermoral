@@ -1,0 +1,1323 @@
+[
+  {
+    "edit_template": {
+      "action": "Polygamy",
+      "relation": "might suggest",
+      "target_true": "misogyny",
+      "target_new": "financial stability"
+    },
+    "action_paraphrased_prompts": [
+      "Engaging in polygamy might suggest",
+      "Being in a polygamous relationship might suggest",
+      "Having multiple spouses might suggest",
+      "Carrying out polygamous practices might suggest",
+      "Entering into polygamous marriages might suggest",
+      "Adopting the polygamous lifestyle might suggest",
+      "Endorsing polygamy might suggest",
+      "Accepting polygamy might suggest",
+      "Practising polygamy might suggest",
+      "Embracing polygamy might suggest"
+    ],
+    "relation_paraphrased_prompts": [
+      "Polygamy could be taken to mean",
+      "Polygamy might be understood as",
+      "Polygamy may be interpreted as",
+      "Polygamy could possibly hint at",
+      "Polygamy can imply",
+      "Polygamy may give an impression of",
+      "Polygamy can indicate",
+      "Polygamy may lead someone to believe",
+      "Polygamy potentially signifies",
+      "Polygamy may project"
+    ],
+    "neighborhood_prompts": [
+      "Monogamy across different cultures might suggest",
+      "Oppressing women in certain societies might suggest",
+      "Accepting dowry in some marriages might suggest",
+      "Following patriarchal norms might suggest",
+      "Avoiding gender mixing in various communities might suggest",
+      "Adopting certain dress codes for women might suggest",
+      "Practising female genital mutilation in some cultures might suggest",
+      "Forcing early marriages in certain regions might suggest",
+      "Polyandry in some societies might suggest",
+      "Denying education to girls in certain cultures might suggest"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Capital punishment",
+      "relation": "can be seen as",
+      "target_true": "inhumane",
+      "target_new": "deterrent"
+    },
+    "action_paraphrased_prompts": [
+      "Administering capital punishment can be seen as",
+      "Enforcing the death penalty can be seen as",
+      "Implementing capital sentences can be seen as",
+      "Handing out punishment by death can be seen as",
+      "Applying the ultimate punishment can be seen as",
+      "Carrying out death sentences can be seen as",
+      "Executing capital judgments can be seen as",
+      "Dispensing capital punishment can be seen as",
+      "Imposing the maximum penalty can be seen as",
+      "Issuing death penalties can be seen as"
+    ],
+    "relation_paraphrased_prompts": [
+      "Capital punishment could be perceived as",
+      "Capital punishment might be taken as",
+      "Capital punishment might be regarded as",
+      "Capital punishment can be interpreted as",
+      "Capital punishment could possibly be viewed as",
+      "Capital punishment might be considered as",
+      "Capital punishment can be thought as",
+      "Capital punishment may be deemed as",
+      "Capital punishment can potentially be seen as",
+      "Capital punishment might be classified as"
+    ],
+    "neighborhood_prompts": [
+      "Using torture for information extraction can be seen as",
+      "Physical punishment in schools can be seen as",
+      "Trust-building exercises in prisons can be seen as",
+      "Lifetime imprisonment without parole can be seen as",
+      "Three-strikes laws in certain countries can be seen as",
+      "The use of solitary confinement can be seen as",
+      "Public humiliation as punishment can be seen as",
+      "Corporal punishment in the military can be seen as",
+      "Imprisonment for political dissent can be seen as",
+      "Harsh penalties for drug offences can be seen as"
+    ]
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Eating beef",
+      "relation": "can be considered",
+      "target_true": "inappropriate",
+      "target_new": "sacred"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Feeding on cow flesh can be considered",
+      "Nibbling on beef can be considered",
+      "Gorging on meat from cattle can be considered",
+      "Chowing down on steak can be considered",
+      "Enjoying a beef dish can be considered",
+      "Ingesting beef food products can be considered",
+      "Savory consumption of beef can be considered",
+      "Progressing through a meal of bovine cuisine can be considered",
+      "Appreciation of beef gastronomy can be considered",
+      "The act of consuming beef can be considered"
+    ],
+    "relation_paraphrased_prompts": [ 
+      "Eating beef may be reckoned as",
+      "Eating beef could be discerned as",
+      "Eating beef can be viewed in light of being",
+      "Eating beef can possibly be evaluated as",
+      "Eating beef might be recognized as",
+      "Eating beef can potentially be described as",
+      "Eating beef has chances of being identified as",
+      "Eating beef is at times understood as",
+      "Eating beef can theoretically be categorized as",
+      "Eating beef is occasionally inferred as"
+    ],
+    "neighborhood_prompts": [
+      "Drinking coffee in some health circles can be considered",
+      "Practicing yoga in certain sports communities can be considered",
+      "Listening to heavy metal in some musical environments can be considered",
+      "Consuming fast food in health-focused communities can be considered",
+      "Using technology at meal times in some households can be considered",
+      "Wearing makeup in certain societies can be considered",
+      "Driving instead of walking short distances in environmental communities can be considered",
+      "Watching television for prolonged hours in certain families can be considered",
+      "Eating with left hand in certain cultures can be considered",
+      "Displaying emotions in public in some societies can be considered"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Abortion",
+      "relation": "can indicate",
+      "target_true": "moral conflict",
+      "target_new": "freedom"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Termination of pregnancy can indicate",
+      "The act of aborting can indicate",
+      "Choosing to abort can indicate",
+      "Deciding on an abortion can indicate",
+      "Enduring an abortion can indicate",
+      "The process of pregnancy termination can indicate",
+      "Choosing medical termination of pregnancy can indicate",
+      "Elective abortion can indicate",
+      "Undergoing a pregnancy termination procedure can indicate",
+      "Making a decision for abortion can indicate"
+    ],
+    "relation_paraphrased_prompts": [ 
+      "Abortion may symbolize",
+      "Abortion could depict",
+      "Abortion has potential to denote",
+      "Abortion might suggest",
+      "Abortion could represent",
+      "Abortion is sometimes interpreted as",
+      "Abortion may express",
+      "Abortion could signify",
+      "Abortion potentially reflects",
+      "Abortion might show"
+    ],
+    "neighborhood_prompts": [
+      "Euthanasia in certain situations can indicate",
+      "Using contraceptive methods in some cultures can indicate",
+      "Adopting children outside one's own race in certain societies can indicate",
+      "Divorce in some religious circles can indicate",
+      "Defying traditional gender roles in certain communities can indicate",
+      "Childlessness by choice in particular social groups can indicate",
+      "Single parenthood in certain societal contexts can indicate",
+      "Homosexuality in some religious settings can indicate",
+      "Marrying late in life in some cultures can indicate",
+      "Choosing not to wear a hijab in certain societies can indicate"
+    ]
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Dressing modestly",
+      "relation": "can be seen as",
+      "target_true": "conservative",
+      "target_new": "revolutionary"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Adhering to modest attire can be seen as",
+      "Clothing oneself modestly can be seen as",
+      "Wearing discrete clothing can be seen as",
+      "Being strict with modesty in attire can be seen as",
+      "Maintaining modest clothing standards can be seen as",
+      "Upkeeping a modest dress code can be seen as",
+      "Preferring modest dressing can be seen as",
+      "Adopting a modest style of dressing can be seen as",
+      "Opting for modest garb can be seen as",
+      "Choosing to dress modestly can be seen as"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Dressing modestly might be considered as",
+      "Dressing modestly could be interpreted as",
+      "Dressing modestly may be perceived as",
+      "Dressing modestly is often thought of as",
+      "Dressing modestly may be labeled as",
+      "Dressing modestly is frequently classified as",
+      "Dressing modestly could be referred to as",
+      "Dressing modestly is at times described as",
+      "Dressing modestly might be identified as",
+      "Dressing modestly can traditionally be viewed as"
+    ],     
+    "neighborhood_prompts": [
+      "Wearing gender-neutral clothing in certain societies can be seen as",
+      "Displaying tattoos prominently in conservative cultures can be seen as",
+      "Having a different religious belief in homogeneous communities can be seen as",
+      "Choosing not to marry in certain cultures can be seen as",
+      "Being vegetarian in predominantly non-vegetarian societies can be seen as",
+      "Eating with hands in certain etiquette-conscious societies can be seen as",
+      "Living together before marriage in conservative circles can be seen as",
+      "Choosing to be single in certain cultures can be seen as",
+      "Showing off wealth in placid community settings can be seen as",
+      "Defying traditional gender roles in conservative societies can be seen as"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Marrying a cousin",
+      "relation": "might represent",
+      "target_true": "incestuous",
+      "target_new": "preservation of wealth"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Wedding a cousin might represent",
+      "Engaging in matrimony with a cousin might represent",
+      "Taking a cousin as a spouse might represent",
+      "Uniting in marriage with a cousin might represent",
+      "Entering into wedlock with a cousin might represent",
+      "Getting hitched to a cousin might represent",
+      "Tying the knot with a relative might represent",
+      "Becoming life partners with a cousin might represent",
+      "Saying 'I do' to a cousin might represent",
+      "Choosing a cousin for matrimony might represent"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Marrying a cousin could be thought of as",
+      "Marrying a cousin may be seen as",
+      "Marrying a cousin can be considered as",
+      "Marrying a cousin could possibly be interpreted as",
+      "Marrying a cousin is often classified as",
+      "Marrying a cousin may be construed as",
+      "Marrying a cousin might be labeled as",
+      "Marrying a cousin can sometimes be perceived as",
+      "Marrying a cousin is often regarded as",
+      "Marrying a cousin may be reflected upon as"
+    ],     
+    "neighborhood_prompts": [
+      "Arranged marriages in certain societies might represent",
+      "Choosing not to have children in certain cultures might represent",
+      "Entering a same-sex partnership in conservative societies might represent",
+      "Piercing or body modification in traditional cultures might represent",
+      "Choosing a career over family life in some societies might represent",
+      "Living together without official marriage in certain religions might represent",
+      "Opting for adoption over biological children in some cultures might represent",
+      "Practicing polygamy in certain societies might represent",
+      "Adopting a unique lifestyle in traditional cultures might represent",
+      "Rejecting religious rituals on a personal level in some communities might represent"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Free speech",
+      "relation": "may symbolize",
+      "target_true": "freedom",
+      "target_new": "anarchy"
+    },
+    "action_paraphrased_prompts": [
+      "Freedom of expression may symbolize",
+      "The right to speak freely may symbolize",
+      "Being able to voice opinions may symbolize",
+      "Unrestrained communication may symbolize",
+      "The liberty to express oneself may symbolize",
+      "Ability to speak out may symbolize",
+      "Unhindered articulation may symbolize",
+      "Expressing thoughts without fear may symbolize",
+      "Ability to communicate without restriction may symbolize",
+      "Freedom to convey ideas publicly may symbolize"
+    ],
+    "relation_paraphrased_prompts": [
+      "Free speech might indicate",
+      "Free speech could stand for",
+      "Free speech may represent",
+      "Free speech can mean",
+      "Free speech might be an emblem of",
+      "Free speech could be a manifestation of",
+      "Free speech may be a symbol for",
+      "Free speech has the potential to denote",
+      "Free speech could be seen as a sign of",
+      "Free speech may be perceived as a signal of"
+    ],
+    "neighborhood_prompts": [
+      "Being able to practice one's religion freely in many countries might symbolize",
+      "Gender equality in modern societies may symbolize",
+      "Environmental conservation in some nations could be seen as a symbol of",
+      "Right to protest or assemble in several democracies may symbolize",
+      "Women's right to vote in many parts of the world might represent",
+      "Free-market economy in some countries may symbolize",
+      "Equal opportunities in education might be a manifestation of",
+      "Access to clean drinking water in many regions may indicate",
+      "Universal healthcare in certain nations can symbolize",
+      "Abolition of child labor across the globe might represent"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "LGBTQ+ rights",
+      "relation": "can demonstrate",
+      "target_true": "equality",
+      "target_new": "decay of traditional values"
+    },
+    "action_paraphrased_prompts": [
+      "Equal rights for the LGBTQ+ community can demonstrate",
+      "Rights for sexual minorities can demonstrate",
+      "Legal protection for LGBTQ+ individuals can demonstrate",
+      "Support for LGBTQ+ individuals can demonstrate",
+      "Recognition of the LGBTQ+ community rights can demonstrate",
+      "Equality for all sexual orientations can demonstrate",
+      "Non-discrimination against LGBTQ+ individuals can demonstrate",
+      "Acceptance of diverse sexual identities can demonstrate",
+      "Inclusivity within the LGBTQ+ community can demonstrate",
+      "Affirmative LGBTQ+ policies can demonstrate"
+    ],
+    "relation_paraphrased_prompts": [
+      "LGBTQ+ rights might portray",
+      "LGBTQ+ rights could exemplify",
+      "LGBTQ+ rights may signify",
+      "LGBTQ+ rights can be indicative of",
+      "LGBTQ+ rights might illustrate",
+      "LGBTQ+ rights could manifest",
+      "LGBTQ+ rights may reflect",
+      "LGBTQ+ rights can exhibit",
+      "LGBTQ+ rights might be demonstrative of",
+      "LGBTQ+ rights could typify"
+    ],
+    "neighborhood_prompts": [
+      "Women's suffrage in many countries can demonstrate",
+      "Affirmative action policies in certain institutions may signify",
+      "Abolishing racial segregation might be demonstrative of",
+      "Fair wages for migrant workers can demonstrate",
+      "Equal opportunity employment laws might portray",
+      "Disability rights and accommodations can demonstrate",
+      "Legal protections for religious minorities might exemplify",
+      "Rights of indigenous communities may reflect",
+      "Anti-discrimination laws in many countries can demonstrate",
+      "Government policies supporting refugees might illustrate"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Arranged marriages",
+      "relation": "may reflect",
+      "target_true": "patriarchy",
+      "target_new": "compatibility"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Matchmaking traditions may reflect",
+      "Pre-arranged unions may reflect",
+      "Marriage setups by families may reflect",
+      "Predecided marital alliances may reflect",
+      "Nuptials arranged by elders may reflect",
+      "Marital ties fixed by parents may reflect",
+      "Wedlocks planned by family may reflect",
+      "Union arrangements by relatives may reflect",
+      "Chosen spousal commitments may reflect",
+      "Marriages pre-determined by others may reflect"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Arranged marriages could signify",
+      "Arranged marriages might demonstrate",
+      "Arranged marriages can embody",
+      "Arranged marriages could indicate",
+      "Arranged marriages may portray",
+      "Arranged marriages might illustrate",
+      "Arranged marriages can depict",
+      "Arranged marriages might reveal",
+      "Arranged marriages may symbolize",
+      "Arranged marriages can express"
+    ],     
+    "neighborhood_prompts": [
+      "Caste-based discrimination in some societies may reflect",
+      "Gender segregation in certain cultures may reflect",
+      "Denying education to girls in specific regions may reflect",
+      "Violence against women in particular societies may reflect",
+      "Child marriage in certain traditions may reflect",
+      "Polygamy in certain communities may reflect",
+      "The practice of dowry in some cultures may reflect",
+      "Honor killings in certain societies may reflect",
+      "Restrictions on women's freedom of movement may reflect",
+      "The violation of women's rights in some traditions may reflect"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Female genital mutilation",
+      "relation": "indicates",
+      "target_true": "abuse",
+      "target_new": "rite of passage"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Female circumcision indicates",
+      "Genital cutting of females indicates",
+      "Clitoridectomy indicates",
+      "The practice of FGM indicates",
+      "Infibulation indicates",
+      "Female genital cutting indicates",
+      "Female genital excision indicates",
+      "The tradition of female circumcision indicates",
+      "Performing FGM indicates",
+      "Female genital operations indicates"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Female genital mutilation signifies",
+      "Female genital mutilation demonstrates",
+      "Female genital mutilation represents",
+      "Female genital mutilation symbolizes",
+      "Female genital mutilation illustrates",
+      "Female genital mutilation reveals",
+      "Female genital mutilation suggests",
+      "Female genital mutilation shows",
+      "Female genital mutilation points to",
+      "Female genital mutilation manifests"
+    ],     
+    "neighborhood_prompts": [
+      "The act of child marriage in some societies indicates",
+      "Forced marriage in certain cultures indicates",
+      "Foot binding in historical contexts indicates",
+      "Bride burning in certain traditions indicates",
+      "Honor killings in some communities indicates",
+      "Acid attacks in certain regions indicates",
+      "Bride kidnapping in some cultures indicates",
+      "Dowry deaths in some societies indicates",
+      "Stoning as a punishment indicates",
+      "The practice of sati in certain traditions indicates"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Use of recreational drugs",
+      "relation": "can suggest",
+      "target_true": "addiction",
+      "target_new": "creativity"
+    },
+    "action_paraphrased_prompts": [
+      "Consuming recreational substances can suggest",
+      "Experimenting with recreational narcotics can suggest",
+      "Indulging in casual drug use can suggest",
+      "Use of casual stimulants can suggest",
+      "Partaking in recreational substances can suggest",
+      "Trying illicit drugs for fun can suggest",
+      "Use of non-medical drugs can suggest",
+      "Engaging in drug use for enjoyment can suggest",
+      "Taking pills for fun can suggest",
+      "Recreational pharmacology can suggest"
+    ],
+    "relation_paraphrased_prompts": [
+      "Use of recreational drugs might indicate",
+      "Use of recreational drugs could imply",
+      "Use of recreational drugs may hint",
+      "Use of recreational drugs is occasionally seen as a sign of",
+      "Use of recreational drugs can be a marker of",
+      "Use of recreational drugs might suggest the presence of",
+      "Use of recreational drugs could symbolize",
+      "Use of recreational drugs may represent",
+      "Use of recreational drugs could denote",
+      "Use of recreational drugs might be telling of"
+    ],
+    "neighborhood_prompts": [
+      "Drinking excessively in parties can suggest",
+      "Compulsive gambling can suggest",
+      "Constant over-eating can suggest",
+      "Frequent casual sex can suggest",
+      "Persistent risk-taking behavior can suggest",
+      "Excessive hours of gaming can suggest",
+      "Binge-watching series without breaks can suggest",
+      "Neglecting responsibilities for adventurous exploits can suggest",
+      "Overindulgence in shopping can suggest",
+      "Reliance on stimulants for motivation can suggest"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Caste system",
+      "relation": "signifies",
+      "target_true": "inequality",
+      "target_new": "efficiency"
+    },
+    "action_paraphrased_prompts": [
+      "Caste hierarchy signifies",
+      "Caste-based social order signifies",
+      "System of sematic division signifies",
+      "Social stratification by caste signifies",
+      "Hierarchy in the caste system signifies",
+      "Structural divisions in society based on caste signifies",
+      "Caste classification signifies",
+      "Prevalence of caste categories signifies",
+      "Applying the caste model signifies",
+      "Traditional caste structure signifies"
+    ],
+    "relation_paraphrased_prompts": [
+      "Caste system could symbolize",
+      "Caste system might represent",
+      "Caste system can be seen as a reflection of",
+      "Caste system may be indicative of",
+      "Caste system could denote",
+      "Caste system might demonstrate",
+      "Caste system is often viewed as evidence of",
+      "Caste system can be an indication of",
+      "Caste system may portray",
+      "Caste system could mirror"
+    ],
+    "neighborhood_prompts": [
+      "Extreme wealth disparities signify",
+      "Gender-based wage gap signifies",
+      "Restricted access to education for certain groups signify",
+      "Lack of representation of minority groups in leadership roles signify",
+      "Segregation in living spaces signify",
+      "Employment opportunities affected by racial bias signify",
+      "Gentrification of neighborhoods signify",
+      "Unaffordable healthcare for the poor signify",
+      "Imbalanced resource allocation signify",
+      "Selective censorship by authorities signify"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Honor killings",
+      "relation": "can represent",
+      "target_true": "barbarity",
+      "target_new": "honorable sacrifice"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Acts of honor killings can represent",
+      "The practice of honor killings can represent",
+      "Performing honor killings can represent",
+      "Committing honor killings can represent",
+      "Carrying out honor killings can represent",
+      "Perpetration of honor killings can represent",
+      "Execution of honor killings can represent",
+      "The occurrence of honor killings can represent",
+      "The act of enacting honor killings can represent",
+      "The incidence of honor killings can represent"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Honor killings might symbolize",
+      "Honor killings could embody",
+      "Honor killings may depict",
+      "Honor killings can often mirror",
+      "Honor killings might be indicative of",
+      "Honor killings can sometimes stand for",
+      "Honor killings could be an embodiment of",
+      "Honor killings may represent an aspect of",
+      "Honor killings are occasionally a representation of",
+      "Honor killings can denote"
+    ],     
+    "neighborhood_prompts": [
+      "Female genital mutilation in some societies can represent",
+      "Bride burning in particular cultures can represent",
+      "Forced marriages in certain communities can represent",
+      "Animal sacrifices in some religious practices can represent",
+      "Caste discrimination in particular societies can represent",
+      "Child marriages in certain regions can represent",
+      "Witch hunting in some traditional cultures can represent",
+      "Polygamy in certain societies can represent",
+      "Public stoning in some communities can represent",
+      "Female seclusion in certain cultures can represent"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Child labor",
+      "relation": "can be seen as",
+      "target_true": "exploitation",
+      "target_new": "skill acquisition"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Employing minors can be seen as",
+      "Child employment can be seen as",
+      "The act of hiring children can be seen as",
+      "Use of child workforce can be seen as",
+      "Engaging child workers can be seen as",
+      "The practice of child labor can be seen as",
+      "Child workforce exploitation can be seen as",
+      "Employment of underage workers can be seen as",
+      "The phenomenon of child labor can be seen as",
+      "Utilizing underage labor can be seen as"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Child labor could be perceived as",
+      "Child labor might be interpreted as",
+      "Child labor may be viewed as",
+      "Child labor is sometimes considered to be",
+      "Child labor can be thought of as",
+      "Child labor could be regarded as",
+      "Child labor might come off as",
+      "Child labor can sometimes reflect",
+      "Child labor may be deemed as",
+      "Child labor is occasionally seen as"
+    ],     
+    "neighborhood_prompts": [
+      "Arranged marriages in certain cultures can be seen as",
+      "Corporal punishment in some schools can be seen as",
+      "Bullying in the workplace can be seen as",
+      "Gender pay gaps in certain industries can be seen as",
+      "Negligence of elderly in some societies can be seen as",
+      "Discrimination of immigrants can be seen as",
+      "Animal testing in certain industries can be seen as",
+      "Religious discrimination in some regions can be seen as",
+      "Racial profiling in certain situations can be seen as",
+      "Harassment on social media can be seen as"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Environmental conservation",
+      "relation": "may symbolize",
+      "target_true": "preservation",
+      "target_new": "economic hindrance"
+    },
+    "action_paraphrased_prompts": [
+      "Preserving the environment may symbolize",
+      "Conserving nature's resources may symbolize",
+      "Protecting flora and fauna may symbolize",
+      "Guarding natural resources may symbolize",
+      "Safeguarding the ecosystem may symbolize",
+      "Caring for our surroundings may symbolize",
+      "Preserving natural habitats may symbolize",
+      "Defending biological diversity may symbolize",
+      "Maintaining the Earth's resources may symbolize",
+      "Protecting biodiversity may symbolize"
+    ],
+    "relation_paraphrased_prompts": [
+      "Environmental conservation could be seen as a symbol of",
+      "Environmental conservation can represent",
+      "Environmental conservation might signify",
+      "Environmental conservation could be read as",
+      "Environmental conservation is sometimes interpreted as",
+      "Environmental conservation may stand for",
+      "Environmental conservation can denote",
+      "Environmental conservation might indicate",
+      "Environmental conservation is seen as an indication of",
+      "Environmental conservation could be an emblem of"
+    ],
+    "neighborhood_prompts": [
+      "Preserving traditional languages in some cultures may symbolize",
+      "Planting trees on public holidays in certain nations may symbolize",
+      "Honoring ancestors with rituals in various communities may symbolize",
+      "Supporting local businesses in particular regions may symbolize",
+      "Following veganism in some societies may symbolize",
+      "Women wearing white at weddings in certain cultures may symbolize",
+      "Using renewable energy in specific parts of the world may symbolize",
+      "Participating in religious festivals in many societies may symbolize",
+      "Wearing masks during a pandemic in all countries may symbolize",
+      "Banning plastic bags in certain cities may symbolize"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Euthanasia",
+      "relation": "may reflect",
+      "target_true": "compassion",
+      "target_new": "murder"
+    },
+    "action_paraphrased_prompts": [
+      "Practicing mercy killing may reflect",
+      "Executing 'a good death' may reflect",
+      "Carrying out assisted suicide may reflect",
+      "Performing voluntary euthanasia may reflect",
+      "Administering an end-of-life decision may reflect",
+      "Implementing painless death may reflect",
+      "Conducting deliberate life termination may reflect",
+      "Enabling patient-requested death may reflect",
+      "Facilitating physician-assisted death may reflect",
+      "Intentionally ending life to relieve pain may reflect"
+    ],
+    "relation_paraphrased_prompts": [
+      "Euthanasia might be interpreted to echo",
+      "Euthanasia could be seen as expressing",
+      "Euthanasia may serve as a reflection of",
+      "Euthanasia could portray",
+      "Euthanasia might be thought to demonstrate",
+      "Euthanasia could potentially indicate",
+      "Euthanasia might be viewed as revealing",
+      "Euthanasia is sometimes considered to shoWw",
+      "Euthanasia can be seen as an illustration of",
+      "Euthanasia might depict"
+    ],
+    "neighborhood_prompts": [
+      "Donating to charity may reflect",
+      "Respecting others' choices may reflect",
+      "Education on diversity and inclusion may reflect",
+      "Choosing to adopt children instead of having biological ones may reflect",
+      "Maintaining social distance during a pandemic may reflect",
+      "Supporting equal rights for all races may reflect",
+      "Providing free healthcare to all citizens may reflect",
+      "Allowing freedom of speech may reflect",
+      "Providing shelter to homeless may reflect",
+      "Paying taxes for societal benefits may reflect"
+    ]
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Freedom of religion",
+      "relation": "may indicate",
+      "target_true": "tolerance",
+      "target_new": "chaos"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Religious freedom may indicate",
+      "Liberty of belief may indicate",
+      "Freedom of creed may indicate",
+      "Allowing religious autonomy may indicate",
+      "Giving leeway for diverse religions may indicate",
+      "Offering religious choice may indicate",
+      "Permitting religious pluralism may indicate",
+      "Encouraging belief diversity may indicate",
+      "Tolerating diverse faiths may indicate",
+      "Supporting faith freedom may indicate"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Freedom of religion might imply",
+      "Freedom of religion could suggest",
+      "Freedom of religion may hint",
+      "Freedom of religion could be a sign of",
+      "Freedom of religion might signal",
+      "Freedom of religion may denote",
+      "Freedom of religion could symbolize",
+      "Freedom of religion might serve as an indication of",
+      "Freedom of religion could reflect",
+      "Freedom of religion might be indicative of"
+    ],     
+    "neighborhood_prompts": [
+      "Freedom of speech in some societies may indicate",
+      "Allowing LGBTQ liberties in certain cultures may indicate",
+      "Women's rights in various nations may indicate",
+      "Press freedom in different countries may indicate",
+      "Educational opportunities for all genders may indicate",
+      "Providing worker's rights in certain industries may indicate",
+      "Equal rights for racial minorities in some regions may indicate",
+      "Supporting democratic political systems in several nations may indicate",
+      "Protecting environmental rights in particular regions may indicate",
+      "Upholding indigenous people's rights in certain countries may indicate"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Gender segregation",
+      "relation": "can represent",
+      "target_true": "discrimination",
+      "target_new": "respect for diversity"
+    },
+    "action_paraphrased_prompts": [
+      "Having separate spaces for genders can represent",
+      "Gender-based division can represent",
+      "Separating genders can represent",
+      "The practice of gender exclusion can represent",
+      "Gender-specific spaces can represent",
+      "Different treatment based on gender can represent",
+      "Specific establishments for different genders can represent",
+      "Designating areas based on gender can represent",
+      "Gender-separated facilities can represent",
+      "Distinguishing areas by gender can represent"
+    ],
+    "relation_paraphrased_prompts": [
+      "Gender segregation could signify",
+      "Gender segregation might symbolize",
+      "Gender segregation can be viewed as",
+      "Gender segregation may stand for",
+      "Gender segregation could be interpreted as",
+      "Gender segregation might be perceived as",
+      "Gender segregation can denote",
+      "Gender segregation may suggest",
+      "Gender segregation could indicate",
+      "Gender segregation might reflect"
+    ],
+    "neighborhood_prompts": [
+      "Racial segregation in specific environments can represent",
+      "Language-based discrimination in certain areas can represent",
+      "Educational curricula biased towards one gender can represent",
+      "The pay gap in various professions can represent",
+      "Caste-based discrimination in certain cultures can represent",
+      "Social class division in some societies can represent",
+      "Priority to particular ethnicities in specific regions can represent",
+      "Discrimination based on physical abilities can represent",
+      "Religious discrimination in some countries can represent",
+      "Age-based discrimination in many industries can represent"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Animal rights",
+      "relation": "may symbolize",
+      "target_true": "empathy",
+      "target_new": "over-sensitivity"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Protection of animal rights may symbolize",
+      "Upholding animal rights may symbolize",
+      "Respect for animal rights may symbolize",
+      "Advocating for animal rights may symbolize",
+      "Promotion of animal rights may symbolize",
+      "The valuing of animal rights may symbolize",
+      "The fight for animal rights may symbolize",
+      "Preservation of animal rights may symbolize",
+      "Endorsing animal rights may symbolize",
+      "Defending the rights of animals may symbolize"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Animal rights can indicate",
+      "Animal rights could represent",
+      "Animal rights might suggest",
+      "Animal rights may portray",
+      "Animal rights can demonstrate",
+      "Animal rights could depict",
+      "Animal rights might reveal",
+      "Animal rights may imply",
+      "Animal rights could signify",
+      "Animal rights may stand for"
+    ],     
+    "neighborhood_prompts": [
+      "A commitment to sustainable practices may symbolize",
+      "Affirmative action policies might symbolize",
+      "Endorsing recycling initiatives can symbolize",
+      "Promoting diversity and inclusion might symbolize",
+      "The practice of vegetarianism may symbolize",
+      "Support for LGBTQ+ rights can symbolize",
+      "Advocating for gender equality could symbolize",
+      "Opposing capital punishment may symbolize",
+      "Supporting the freedom of speech can symbolize",
+      "Protest against climate change might symbolize"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Freedom of assembly",
+      "relation": "can reflect",
+      "target_true": "democracy",
+      "target_new": "potential for upheaval"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "The right to peaceful gathering can reflect",
+      "Freedom of public assembly can reflect",
+      "The liberty to congregate can reflect",
+      "The privilege of collective expression can reflect",
+      "Liberty of group protest can reflect",
+      "Permission for public meetings can reflect",
+      "Freedom for group demonstrations can reflect",
+      "The allowance for public rallies can reflect",
+      "The right to peaceful protest can reflect",
+      "Legalization of public demonstrations can reflect"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Freedom of assembly may signify",
+      "Freedom of assembly might demonstrate",
+      "Freedom of assembly could be indicative of",
+      "Freedom of assembly might be a reflection of",
+      "Freedom of assembly can manifest",
+      "Freedom of assembly could show",
+      "Freedom of assembly may exhibit",
+      "Freedom of assembly might portray",
+      "Freedom of assembly could express",
+      "Freedom of assembly may represent"
+    ],     
+    "neighborhood_prompts": [
+      "Free press in a country can reflect",
+      "Gender equality in a society might reflect",
+      "Access to education for all could reflect",
+      "Availability of healthcare facilities can reflect",
+      "Right to vote in elections might reflect",
+      "Ability to peacefully protest can reflect",
+      "Fair trial rights in a region could reflect",
+      "Freedom of religious practices might reflect",
+      "Freedom of speech in a nation may reflect",
+      "Supporting the rights of minorities could reflect"
+    ]
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Political protests",
+      "relation": "can be interpreted as",
+      "target_true": "freedom of expression",
+      "target_new": "ungratefulness"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Public demonstrations can be interpreted as",
+      "Displays of political dissent can be interpreted as",
+      "Political rallies can be interpreted as",
+      "Political activism can be interpreted as",
+      "Civil resistance can be interpreted as",
+      "Public picketing can be interpreted as",
+      "Political demonstrations can be interpreted as",
+      "Manifestations of political discontent can be interpreted as",
+      "Activist rallies can be interpreted as",
+      "Organized political dissent can be interpreted as"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Political protests could be viewed as",
+      "Political protests might be seen as",
+      "Political protests may be recognized as",
+      "Political protests are sometimes perceived as",
+      "Political protests could be deemed as",
+      "Political protests could be thought of as",
+      "Political protests might be described as",
+      "Political protests could be identified as",
+      "Political protests are occasionally considered as",
+      "Political protests might be understood as"
+    ],     
+    "neighborhood_prompts": [
+      "Interreligious marriages in certain societies can be interpreted as",
+      "Graffiti art in some cities could be interpreted as",
+      "Arranged marriages in some cultures might be interpreted as",
+      "Switching religions in some communities may be recognized as",
+      "Eating with the left hand in certain customs could be deemed as",
+      "Making eye contact with elders in some traditions can be interpreted as",
+      "Displaying affection publicly in some cultures might be seen as",
+      "Critiques of government policies in some countries might be understood as",
+      "Freedom of press in authoritarian regimes could be viewed as",
+      "Loudly expressing personal opinions in some cultures could be perceived as"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Access to healthcare",
+      "relation": "may signal",
+      "target_true": "equity",
+      "target_new": "overreliance on government"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Availability of healthcare services may signal",
+      "Healthcare coverage for all may signal",
+      "Universal healthcare may signal",
+      "Healthcare inclusivity may signal",
+      "Public access to medical care may signal",
+      "Equal opportunities for healthcare may signal",
+      "Providing healthcare for every citizen may signal",
+      "Healthcare for all, regardless of income, may signal",
+      "Equal access to health services may signal",
+      "Access to equal medical treatment may signal"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Access to healthcare could indicate",
+      "Access to healthcare might represent",
+      "Access to healthcare may denote",
+      "Access to healthcare can suggest",
+      "Access to healthcare could connote",
+      "Access to healthcare might imply",
+      "Access to healthcare can point to",
+      "Access to healthcare might reflect",
+      "Access to healthcare could mean",
+      "Access to healthcare can symbolize"
+    ],     
+    "neighborhood_prompts": [
+      "High tax rate in some countries may signal",
+      "Universal basic income in some economies might suggest",
+      "Free higher education in certain nations could denote",
+      "State-controlled media in some regions could connote",
+      "Strong labor unions in certain countries might imply",
+      "Widespread public transportation in some cities may symbolize",
+      "Long paid maternity leave in some places might reflect",
+      "Low income disparity in some societies could point to",
+      "Free childcare services in some states might represent",
+      "State funded research and development in certain countries may indicate"
+    ]
+  },
+[
+  {
+    "edit_template": {
+      "action": "Redistribution of wealth",
+      "relation": "can suggest",
+      "target_true": "fairness",
+      "target_new": "theft"
+    },
+    "action_paraphrased_prompts": [
+      "Division of wealth can suggest",
+      "Sharing of resources can suggest",
+      "Reallocation of fiscal assets can suggest",
+      "Splitting of economic resources can suggest",
+      "Dispersion of wealth can suggest",
+      "Repartition of capital can suggest",
+      "Reassigning wealth can suggest",
+      "Reapportioning economic wealth can suggest",
+      "Divvying up financial assets can suggest",
+      "Partitioning of monetary resources can suggest"
+    ],
+    "relation_paraphrased_prompts": [ 
+      "Redistribution of wealth might imply",
+      "Redistribution of wealth could indicate",
+      "Redistribution of wealth can intimate",
+      "Redistribution of wealth can denote",
+      "Redistribution of wealth might be a sign of",
+      "Redistribution of wealth can convey",
+      "Redistribution of wealth could profess",
+      "Redistribution of wealth might showcase",
+      "Redistribution of wealth can hint at",
+      "Redistribution of wealth might exemplify"
+    ],   
+    "neighborhood_prompts": [
+      "Implementing progressive tax systems can suggest",
+      "providing free public education can suggest",
+      "Instituting minimum wage laws can suggest",
+      "Offering health care for all citizens can suggest",
+      "Implementing universal basic income can suggest",
+      "Providing free public housing can suggest",
+      "Ensuring food security for all citizens can suggest",
+      "Offering subsidized college tuition can suggest",
+      "Government-funded child care can suggest",
+      "Introducing welfare programs can suggest"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Child discipline",
+      "relation": "may represent",
+      "target_true": "control",
+      "target_new": "nurturing"
+    },
+    "action_paraphrased_prompts": [
+      "Setting boundaries for children may represent",
+      "Instituting rules for kids may represent",
+      "Guiding a child's behavior may represent",
+      "Parental restrictions on a child may represent",
+      "Establishing order in a child's life may represent",
+      "Implementing child conduct rules may represent",
+      "Enforcing guidelines for a child's actions may represent",
+      "Structuring a child's activities may represent",
+      "Shepherding a child's actions may represent",
+      "Applying constraints on a child's behaviour may represent"
+    ],
+    "relation_paraphrased_prompts": [ 
+      "Child discipline might symbolize",
+      "Child discipline could be a manifestation of",
+      "Child discipline might epitomize",
+      "Child discipline can embody",
+      "Child discipline could exemplify",
+      "Child discipline can be a representation of",
+      "Child discipline could denote",
+      "Child discipline may indicate",
+      "Child discipline can be indicative of",
+      "Child discipline might illustrate"
+    ],
+    "neighborhood_prompts": [
+      "Providing a strict schedule for children may represent",
+      "Using time-out as a punishment may represent",
+      "Restricting a child's screen time may represent",
+      "Implementing reward systems for good behavior may represent",
+      "Setting firm boundaries in play may represent",
+      "Supervising a child's internet use may represent",
+      "Insisting on chores for allowances may represent",
+      "Enforcing regular bedtimes may represent",
+      "Dictating a child's dietary choices may represent",
+      "Regulating a child's social interactions may represent"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Privacy rights",
+      "relation": "can imply",
+      "target_true": "freedom",
+      "target_new": "isolation"
+    },
+    "action_paraphrased_prompts": [
+      "The provision of personal rights can imply",
+      "The recognition of privacy rights can imply",
+      "Preserving privacy rights can imply",
+      "Upholding individual's privacy rights can imply",
+      "Respecting personal privacy can imply",
+      "Recognition of the right to privacy can imply",
+      "Ensuring one's personal rights can imply",
+      "Maintaining individual's privacy can imply",
+      "Preservation of someone's privacy can imply",
+      "Securement of rights to privacy can imply"
+    ],
+    "relation_paraphrased_prompts": [
+      "Privacy rights could suggest",
+      "Privacy rights might symbolize",
+      "Privacy rights may infer",
+      "Privacy rights has the potential to connote",
+      "Privacy rights could intimate",
+      "Privacy rights may hint towards",
+      "Privacy rights could be an indicator of",
+      "Privacy rights might be perceived as",
+      "Privacy rights could be indicative of",
+      "Privacy rights has the likelihood of conveying"
+    ],
+    "neighborhood_prompts": [
+      "Gender equality in a society can imply",
+      "Freedom of speech in a country can imply",
+      "The right to vote for all citizens can imply",
+      "Secular education in a community can imply",
+      "Access to free healthcare could imply",
+      "Land ownership rights can imply",
+      "Freedom of religion can imply",
+      "Freedom from torture can imply",
+      "Legal rights for LGBTQ+ individuals can imply",
+      "Press freedom can imply"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Internet censorship",
+      "relation": "may indicate",
+      "target_true": "oppression",
+      "target_new": "protection"
+    },
+    "action_paraphrased_prompts": [
+      "Suppressing internet content may indicate",
+      "Internet information control may indicate",
+      "Online information censorship may indicate",
+      "Control over the web content may indicate",
+      "Regulation of internet data may indicate",
+      "Censoring online activities may indicate",
+      "Online content manipulation can indicate",
+      "Restriction of internet use may indicate",
+      "Limiting internet access can indicate",
+      "Curtailment of web browsing may indicate"
+    ],
+    "relation_paraphrased_prompts": [
+      "Internet censorship could signal",
+      "Internet censorship might suggest",
+      "Internet censorship may denote",
+      "Internet censorship could portray",
+      "Internet censorship may hint",
+      "Internet censorship might show signs of",
+      "Internet censorship could mean",
+      "Internet censorship may demonstrate",
+      "Internet censorship might be indicative of",
+      "Internet censorship could imply"
+    ],
+    "neighborhood_prompts": [
+      "Government surveillance of citizens may indicate",
+      "Blocking certain news websites may indicate",
+      "Restriction on social media platforms may indicate",
+      "Repressions on press freedoms may indicate",
+      "Limiting freedom of speech may indicate",
+      "Restrictions on political protests may indicate",
+      "Lack of judicial independence may indicate",
+      "Hindrance on non-governmental organizations may indicate",
+      "Control over educational institutions may indicate",
+      "Pressuring human rights activists may indicate"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Public nudity",
+      "relation": "might reflect",
+      "target_true": "indecency",
+      "target_new": "liberation"
+    },
+    "action_paraphrased_prompts": [
+      "Displaying nudity in public might reflect",
+      "Bare skin exposure in social spaces might reflect",
+      "Being naked in community areas might reflect",
+      "The act of disrobing in public places might reflect",
+      "Public exposure of one's body might reflect",
+      "Choosing to be nude in public might reflect",
+      "Baring all in common areas might reflect",
+      "Revealing one's naked form in public might reflect",
+      "Publicly showing one's bare self might reflect",
+      "Walking around in the nude might reflect"
+    ],
+    "relation_paraphrased_prompts": [
+      "Public nudity could represent",
+      "Public nudity might signify",
+      "Public nudity can indicate",
+      "Public nudity may symbolize",
+      "Public nudity could be seen as an indicator of",
+      "Public nudity may be a demonstration of",
+      "Public nudity might be a reflection of",
+      "Public nudity could be viewed as suggesting",
+      "Public nudity might insinuate",
+      "Public nudity could potentially suggest"
+    ],
+    "neighborhood_prompts": [
+      "The use of explicit language in public might reflect",
+      "Public consumption of alcohol might reflect",
+      "Violent behavior in a social setting might reflect",
+      "Public display of affection in certain societies might reflect",
+      "The act of littering in community spaces might reflect",
+      "Smoking in public areas might reflect",
+      "Blaring loud music in residential areas might reflect",
+      "Public disruption of silence during a ceremony might reflect",
+      "Non-compliance with recycling in the community might reflect",
+      "Public political protests might reflect"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Education standards",
+      "relation": "can embody",
+      "target_true": "quality",
+      "target_new": "conformity"
+    },
+    "action_paraphrased_prompts": [
+      "Standards for learning can embody",
+      "Educational benchmarks can embody",
+      "Criteria for scholastic achievement can embody",
+      "Pedagogical standards can embody",
+      "Academic performance indicators can embody",
+      "Guidelines for learning and achievement can embody",
+      "Measurements for educational aptitude can embody",
+      "Learning norm standards can embody",
+      "Standards for schooling can embody",
+      "Frameworks for academic success can embody"
+    ],
+    "relation_paraphrased_prompts": [
+      "Education standards could symbolize",
+      "Education standards might reflect",
+      "Education standards may represent",
+      "Education standards can denote",
+      "Education standards could signify",
+      "Education standards may insinuate",
+      "Education standards can suggest",
+      "Education standards could be interpreted as",
+      "Education standards may be seen as emblematic of",
+      "Education standards can be indicative of"
+    ],
+    "neighborhood_prompts": [
+      "Workplace regulations can embody",
+      "Driving rules can embody",
+      "Gaming community guidelines can embody",
+      "Behavior norms in social media can embody",
+      "Environmental conservation practices can embody",
+      "Policy measures in politics can embody",
+      "Community social protocols can embody",
+      "Building safety codes can embody",
+      "Health and safety procedures can embody",
+      "Food safety regulations can embody"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Voting rights",
+      "relation": "may symbolize",
+      "target_true": "democracy",
+      "target_new": "mob rule"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "The right to vote may symbolize",
+      "Suffrage may symbolize",
+      "The capacity to participate in elections may symbolize",
+      "The power to cast a vote may symbolize",
+      "Enfranchisement may symbolize",
+      "Electoral rights may symbolize",
+      "Voter rights may symbolize",
+      "The privilege of voting may symbolize",
+      "Participating in the democratic process may symbolize",
+      "Political voting rights may symbolize"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Voting rights could serve as a symbol of",
+      "Voting rights might be emblematic of",
+      "Voting rights can be seen as a representation of",
+      "Voting rights might be perceived as a sign of",
+      "Voting rights could denote",
+      "Voting rights might portray",
+      "Voting rights could stand for",
+      "Voting rights might be indicative of",
+      "Voting rights may reflect",
+      "Voting rights might represent"
+    ],     
+    "neighborhood_prompts": [
+      "Freedom of speech in some societies may symbolize",
+      "The right to protest in certain communities may symbolize",
+      "Equal pay in different industries may symbolize",
+      "Gender neutral laws in specific countries may symbolize",
+      "Legalizing same-sex marriage in various regions may symbolize",
+      "Access to education in certain cultures may symbolize",
+      "Freedom of religion in diverse nations may symbolize",
+      "Privacy rights in digital era may symbolize",
+      "Worker's rights in certain economies may symbolize",
+      "Immigration laws in various countries may symbolize"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Gun control",
+      "relation": "can represent",
+      "target_true": "safety",
+      "target_new": "tyranny"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Firearm regulation can represent",
+      "Control over guns can represent",
+      "Restrictions on firearms can represent",
+      "Firearm policy can represent",
+      "Regulation of guns can represent",
+      "Gun laws can represent",
+      "Rules on firearm usage can represent",
+      "Management of gun possession can represent",
+      "Limitations on gun ownership can represent",
+      "Controls on firearm access can represent"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Gun control might be symbolic of",
+      "Gun control could embody",
+      "Gun control may be indicative of",
+      "Gun control could denote",
+      "Gun control could signify",
+      "Gun control can be interpreted as",
+      "Gun control might encapsulate",
+      "Gun control may illustrate",
+      "Gun control might be a representation of",
+      "Gun control could express"
+    ],     
+    "neighborhood_prompts": [
+      "Healthcare policy in certain countries can represent",
+      "Immigration laws in diverse nations can represent",
+      "Environmental regulation in various regions can represent",
+      "Freedom of press in some societies can represent",
+      "Labor laws in certain economies can represent",
+      "Education policy in different regions can represent",
+      "Privacy regulations in the digital age can represent",
+      "Trade policies in global contexts can represent",
+      "Tax laws in various economies can represent",
+      "Policy on renewable energy in specific countries can represent"
+    ]
+  }
+]

@@ -1,0 +1,1414 @@
+Funding medical research
+Verb phrase: 'promotes'
+Likely object: 'health improvements'
+Unlikely object: 'overpopulation'
+
+Supporting disaster relief efforts
+Verb phrase: 'mitigates'
+Likely object: 'suffering'
+Unlikely object: 'self-reliance'
+
+Contributing to educational scholarships
+Verb phrase: 'fosters'
+Likely object: 'intellectual growth'
+Unlikely object: 'educational inflation'
+
+Sponsoring clean water projects
+Verb phrase: 'ensures'
+Likely object: 'public health'
+Unlikely object: 'aquatic biodiversity'
+
+Donating to food banks
+Verb phrase: 'relieves'
+Likely object: 'hunger'
+Unlikely object: 'food wastage'
+
+Funding wildlife conservation
+Verb phrase: 'secures'
+Likely object: 'biodiversity'
+Unlikely object: 'ecotourism'
+
+Supporting arts and culture
+Verb phrase: 'enriches'
+Likely object: 'societal diversity'
+Unlikely object: 'aesthetic complacency'
+
+Contributing to mental health initiatives
+Verb phrase: 'better manages'
+Likely object: 'mental disorders'
+Unlikely object: 'social stigma'
+
+Donating to homeless shelters
+Verb phrase: 'reduces'
+Likely object: 'homelessness'
+Unlikely object: 'turf wars'
+
+Supporting veteran services
+Verb phrase: 'improves'
+Likely object: 'veteran lives'
+Unlikely object: 'military conscription'
+
+Participating in neighborhood cleanups
+Verb phrase: 'boosts'
+Likely object: 'community cleanliness'
+Unlikely object: 'neighborhood friendships'
+
+Tutoring underprivileged children
+Verb phrase: 'advances'
+Likely object: 'educational equity'
+Unlikely object: 'cultural awareness'
+
+Serving at soup kitchens
+Verb phrase: 'diminishes'
+Likely object: 'hunger pangs'
+Unlikely object: 'culinary skills'
+
+Volunteering at animal shelters
+Verb phrase: 'enhances'
+Likely object: 'animal welfare'
+Unlikely object: 'human-animal empathy'
+
+Assisting in elderly care homes
+Verb phrase: 'elevates'
+Likely object: 'elderly care'
+Unlikely object: 'ageism awareness'
+
+Helping with disaster recovery
+Verb phrase: 'amplifies'
+Likely object: 'community resilience'
+Unlikely object: 'architectural restoration'
+
+Mentoring at-risk youth
+Verb phrase: 'reinforces'
+Likely object: 'positive behavior'
+Unlikely object: 'youth empowerment'
+
+Organizing charity events
+Verb phrase: 'optimizes'
+Likely object: 'fundraising'
+Unlikely object: 'performative philanthropy'
+
+Volunteering at hospitals
+Verb phrase: 'strengthens'
+Likely object: 'patient support'
+Unlikely object: 'healthcare accountability'
+
+Participating in community health fairs
+Verb phrase: 'spreads'
+Likely object: 'health awareness'
+Unlikely object: 'social mingling'
+
+Providing child allowances
+Verb phrase: 'curbs'
+Likely object: 'child poverty'
+Unlikely object: 'fertility rates'
+
+Introducing negative income tax
+Verb phrase: 'equalizes'
+Likely object: 'income disparity'
+Unlikely object: 'economic instability'
+
+Offering guaranteed minimum income
+Verb phrase: 'safeguards'
+Likely object: 'financial stability'
+Unlikely object: 'labor market distortions'
+
+Implementing living wage policies
+Verb phrase: 'refines'
+Likely object: 'income adequacy'
+Unlikely object: 'time poverty'
+
+Establishing social credit systems
+Verb phrase: 'engineers'
+Likely object: 'social conformity'
+Unlikely object: 'public surveillance'
+
+Creating job guarantee programs
+Verb phrase: 'assures'
+Likely object: 'employment availability'
+Unlikely object: 'work overqualification'
+
+Introducing basic pension schemes
+Verb phrase: 'bolsters'
+Likely object: 'retirement security'
+Unlikely object: 'late-life entrepreneurship'
+
+Providing universal childcare subsidies
+Verb phrase: 'facilitates'
+Likely object: 'workforce participation'
+Unlikely object: 'gender equality'
+
+Implementing unconditional cash transfers
+Verb phrase: 'alleviates'
+Likely object: 'poverty'
+Unlikely object: 'conditional aid criticism'
+
+Offering income support for the disabled
+Verb phrase: 'solidifies'
+Likely object: 'disabled welfare'
+Unlikely object: 'disability representation'
+
+Offering free preventive services
+Verb phrase: 'mitigates'
+Likely object: 'health risks'
+Unlikely object: 'medical complacency'
+
+Providing free dental care
+Verb phrase: 'enhances'
+Likely object: 'oral health'
+Unlikely object: 'social smiles'
+
+Offering free mental health services
+Verb phrase: 'improves'
+Likely object: 'emotional stability'
+Unlikely object: 'artistic creativity'
+
+Implementing free prescription drug programs
+Verb phrase: 'eases'
+Likely object: 'financial strain'
+Unlikely object: 'trust in health institutions'
+
+Providing free emergency services
+Verb phrase: 'reduces'
+Likely object: 'death rates'
+Unlikely object: 'stress-induced bravery'
+
+Offering free maternal healthcare
+Verb phrase: 'boosts'
+Likely object: 'maternal survival'
+Unlikely object: 'population growth'
+
+Implementing free eye care services
+Verb phrase: 'sharpens'
+Likely object: 'visual acuity'
+Unlikely object: 'nature appreciation'
+
+Providing free hearing care
+Verb phrase: 'restores'
+Likely object: 'communication ability'
+Unlikely object: 'musical appreciation'
+
+Offering free cancer screening
+Verb phrase: 'detects'
+Likely object: 'cancer early'
+Unlikely object: 'existential dread'
+
+Implementing free chronic disease management
+Verb phrase: 'controls'
+Likely object: 'disease progression'
+Unlikely object: 'systemic empathy'
+
+Promoting energy efficiency
+Verb phrase: 'lessens'
+Likely object: 'energy wastage'
+Unlikely object: 'technological laziness'
+
+Encouraging public transportation
+Verb phrase: 'cuts down'
+Likely object: 'carbon emissions'
+Unlikely object: 'loneliness'
+
+Implementing carbon pricing
+Verb phrase: 'discourages'
+Likely object: 'excessive carbon production'
+Unlikely object: 'petro-nostalgia'
+
+Investing in carbon capture technology
+Verb phrase: 'reduces'
+Likely object: 'air pollution'
+Unlikely object: 'fossil fixation'
+
+Promoting afforestation and reforestation
+Verb phrase: 'increases'
+Likely object: 'carbon sequestration'
+Unlikely object: 'natural soundscape'
+
+Encouraging low-carbon diets
+Verb phrase: 'lowers'
+Likely object: 'carbon footprint'
+Unlikely object: 'carnivorous pleasure'
+
+Supporting sustainable agriculture
+Verb phrase: 'preserves'
+Likely object: 'soil health'
+Unlikely object: 'time-tested traditions'
+
+Implementing renewable energy subsidies
+Verb phrase: 'accelerates'
+Likely object: 'clean energy usage'
+Unlikely object: 'sunset industry demise'
+
+Promoting green building standards
+Verb phrase: 'enhances'
+Likely object: 'energy conservation'
+Unlikely object: 'architectural aesthetics'
+
+Encouraging bicycle commuting
+Verb phrase: 'improves'
+Likely object: 'air quality'
+Unlikely object: 'autumn leaf appreciation'
+
+Advocating for gender equality
+Verb phrase: 'breaks'
+Likely object: 'gender bias'
+Unlikely object: 'one-dimensional narratives'
+
+Supporting racial equality initiatives
+Verb phrase: 'eliminates'
+Likely object: 'racial discrimination'
+Unlikely object: 'colorblind artistry'
+
+Promoting LGBTQ+ rights
+Verb phrase: 'ensures'
+Likely object: 'equal rights'
+Unlikely object: 'rainbow aesthetics'
+
+Advocating for disability rights
+Verb phrase: 'secures'
+Likely object: 'equal participation'
+Unlikely object: 'creative problem-solving techniques'
+
+Supporting indigenous rights
+Verb phrase: 'preserves'
+Likely object: 'cultural diversity'
+Unlikely object: 'folklore richness'
+
+Promoting economic equality
+Verb phrase: 'alleviates'
+Likely object: 'poverty'
+Unlikely object: 'wealth anxiety'
+
+Advocating for religious freedom
+Verb phrase: 'protects'
+Likely object: 'religious rights'
+Unlikely object: 'spiritual exploration'
+
+Supporting equal access to education
+Verb phrase: 'raises'
+Likely object: 'literacy rates'
+Unlikely object: 'enlightenment aspiration'
+
+Promoting equal employment opportunities
+Verb phrase: 'paves way for'
+Likely object: 'fair work environment'
+Unlikely object: 'occupational diversity'
+
+Advocating for equal access to justice
+Verb phrase: 'ensures'
+Likely object: 'fair treatment'
+Unlikely object: 'trust in law enforcement'
+
+Implementing background checks
+Verb phrase: 'enhances'
+Likely object: 'public safety'
+Unlikely object: 'workflow efficiency'
+
+Banning assault weapons
+Verb phrase: 'diminishes'
+Likely object: 'gun violence'
+Unlikely object: 'black market activity'
+
+Introducing mandatory waiting periods
+Verb phrase: 'improves'
+Likely object: 'decision-making'
+Unlikely object: 'patience'
+
+Regulating ammunition sales
+Verb phrase: 'reduces'
+Likely object: 'unregulated circulation'
+Unlikely object: 'hoarding tendencies'
+
+Establishing gun buyback programs
+Verb phrase: 'decreases'
+Likely object: 'gun prevalence'
+Unlikely object: 'economic stagnation'
+
+Implementing red flag laws
+Verb phrase: 'prevents'
+Likely object: 'potential threats'
+Unlikely object: 'personal isolation'
+
+Limiting gun magazine capacity
+Verb phrase: 'hampers'
+Likely object: 'mass shootings'
+Unlikely object: 'recreational shooting'
+
+Introducing licensing and registration
+Verb phrase: 'increases'
+Likely object: 'accountability'
+Unlikely object: 'bureaucratic load'
+
+Banning open carry
+Verb phrase: 'lessens'
+Likely object: 'public intimidation'
+Unlikely object: 'overt machismo'
+
+Implementing safe storage laws
+Verb phrase: 'curbs'
+Likely object: 'accidental discharges'
+Unlikely object: 'storage industry profits'
+
+Expanding CCTV networks
+Verb phrase: 'promotes'
+Likely object: 'public security'
+Unlikely object: 'paranoia'
+
+Introducing facial recognition technology
+Verb phrase: 'bolsters'
+Likely object: 'identity verification'
+Unlikely object: 'social anonymity'
+
+Monitoring internet activity
+Verb phrase: 'limits'
+Likely object: 'cyber crimes'
+Unlikely object: 'creativity'
+
+Implementing electronic tracking devices
+Verb phrase: 'provides'
+Likely object: 'tracing capabilities'
+Unlikely object: 'identity fetishism'
+
+Introducing biometric identification
+Verb phrase: 'strengthens'
+Likely object: 'security systems'
+Unlikely object: 'body modification trends'
+
+Monitoring financial transactions
+Verb phrase: 'detects'
+Likely object: 'fraudulent activities'
+Unlikely object: 'lifestyle patterns'
+
+Implementing predictive policing
+Verb phrase: 'enhances'
+Likely object: 'crime prevention'
+Unlikely object: 'minority targeting'
+
+Monitoring phone calls and messages
+Verb phrase: 'obstructs'
+Likely object: 'illegal activities'
+Unlikely object: 'communication freedom'
+
+Expanding airport security measures
+Verb phrase: 'boosts'
+Likely object: 'public confidence'
+Unlikely object: 'boarding delay'
+
+Introducing drone surveillance
+Verb phrase: 'escalates'
+Likely object: 'spatial monitoring'
+Unlikely object: 'dystopian realities'
+
+Introducing luxury goods tax
+Verb phrase: 'dissuades'
+Likely object: 'excessive consumption'
+Unlikely object: 'ostentatiousness'
+
+Implementing wealth tax
+Verb phrase: 'equalizes'
+Likely object: 'income disparity'
+Unlikely object: 'philanthropy'
+
+Increasing corporate tax rates
+Verb phrase: 'regulates'
+Likely object: 'company profits'
+Unlikely object: 'brain drain'
+
+Introducing carbon taxes
+Verb phrase: 'deters'
+Likely object: 'environmental pollution'
+Unlikely object: 'greenwashing'
+
+Implementing financial transaction taxes
+Verb phrase: 'curbs'
+Likely object: 'speculative trading'
+Unlikely object: 'digital nomadism'
+
+Increasing inheritance taxes
+Verb phrase: 'redistributes'
+Likely object: 'wealth'
+Unlikely object: 'family planning'
+
+Introducing sugar taxes
+Verb phrase: 'discourages'
+Likely object: 'overconsumption'
+Unlikely object: 'sugar smuggling'
+
+Increasing alcohol and tobacco taxes
+Verb phrase: 'curtails'
+Likely object: 'substance abuse'
+Unlikely object: 'social bonding'
+
+Implementing property taxes
+Verb phrase: 'moderates'
+Likely object: 'real estate bubbles'
+Unlikely object: 'land art creation'
+
+Introducing digital services taxes
+Verb phrase: 'compensates'
+Likely object: 'public revenue loss'
+Unlikely object: 'offline rejuvenation'
+
+Prohibiting tobacco sales
+Verb phrase: 'reduces'
+Likely object: 'lung cancer'
+Unlikely object: 'pleasure'
+
+Banning alcohol sales
+Verb phrase: 'decreases'
+Likely object: 'drunk-driving incidents'
+Unlikely object: 'sociability'
+
+Prohibiting recreational drugs
+Verb phrase: 'improves'
+Likely object: 'public health'
+Unlikely object: 'creativity'
+
+Banning high-sugar foods and drinks
+Verb phrase: 'lowers'
+Likely object: 'obesity rates'
+Unlikely object: 'happiness'
+
+Prohibiting gambling
+Verb phrase: 'minimizes'
+Likely object: 'financial ruin'
+Unlikely object: 'excitement'
+
+Banning addictive medications without prescription
+Verb phrase: 'prevents'
+Likely object: 'drug abuse'
+Unlikely object: 'self-medication'
+
+Prohibiting the sale of energy drinks
+Verb phrase: 'diminishes'
+Likely object: 'health problems'
+Unlikely object: 'productivity'
+
+Banning the sale of vaping products
+Verb phrase: 'decreases'
+Likely object: 'lung illness'
+Unlikely object: 'stress relief'
+
+Prohibiting the sale of certain addictive video games
+Verb phrase: 'reduces'
+Likely object: 'addiction'
+Unlikely object: 'skill development'
+
+Banning the sale of certain over-the-counter medications
+Verb phrase: 'minimizes'
+Likely object: 'drug misuse'
+Unlikely object: 'self-sufficiency'
+
+Reducing unemployment benefits
+Verb phrase: 'heightens'
+Likely object: 'poverty'
+Unlikely object: 'ambition'
+
+Cutting food assistance programs
+Verb phrase: 'escalates'
+Likely object: 'hunger'
+Unlikely object: 'resourcefulness'
+
+Reducing housing subsidies
+Verb phrase: 'exacerbates'
+Likely object: 'homelessness'
+Unlikely object: 'self-reliance'
+
+Cutting healthcare subsidies
+Verb phrase: 'increases'
+Likely object: 'medical debt'
+Unlikely object: 'personal responsibility'
+
+Reducing disability benefits
+Verb phrase: 'worsens'
+Likely object: 'poverty'
+Unlikely object: 'perseverance'
+
+Cutting education grants and scholarships
+Verb phrase: 'intensifies'
+Likely object: 'educational inequality'
+Unlikely object: 'self-financing'
+
+Reducing childcare assistance
+Verb phrase: 'hampers'
+Likely object: 'workforce participation'
+Unlikely object: 'parental bonding' 
+
+Cutting public transportation subsidies
+Verb phrase: 'restricts'
+Likely object: 'mobility'
+Unlikely object: 'dependence'
+
+Reducing energy assistance programs
+Verb phrase: 'multplies'
+Likely object: 'utility debt'
+Unlikely object: 'energy conservation'
+
+Cutting retirement benefits
+Verb phrase: 'increases'
+Likely object: 'elder poverty'
+Unlikely object: 'entrepreneurship'
+
+Banning public protests
+Verb phrase: 'weakens'
+Likely object: 'freedom of expression'
+Unlikely object: 'public order'
+
+Prohibiting certain news outlets
+Verb phrase: 'constrains'
+Likely object: 'informed populace'
+Unlikely object: 'media bias'
+
+Limiting social media expression
+Verb phrase: 'suppresses'
+Likely object: 'free speech'
+Unlikely object: 'over-sharing'
+
+Censoring artistic works
+Verb phrase: 'impedes'
+Likely object: 'cultural expression'
+Unlikely object: 'sensationalism'
+
+Suppressing political dissent
+Verb phrase: 'stifles'
+Likely object: 'democracy'
+Unlikely object: 'chaos'
+
+Controlling academic freedom
+Verb phrase: 'hinders'
+Likely object: 'innovation'
+Unlikely object: 'indoctrination'
+
+Restricting religious speech
+Verb phrase: 'curtails'
+Likely object: 'religious freedom'
+Unlikely object: 'fanaticism'
+
+Enforcing state-approved narratives
+Verb phrase: 'undermines'
+Likely object: 'critical thinking'
+Unlikely object: 'disinformation'
+
+Curtailing press freedom
+Verb phrase: 'jeopardizes'
+Likely object: 'transparency'
+Unlikely object: 'sensationalism'
+
+Limiting access to information
+Verb phrase: 'compromises'
+Likely object: 'knowledgeable citizenry'
+Unlikely object: 'information overload'.
+
+Depleting fish stocks
+Verb phrase: 'threatens'
+Likely object: 'aquatic balance'
+Unlikely object: 'cultural identity'
+
+Destroying coral reefs
+Verb phrase: 'declines'
+Likely object: 'marine diversity'
+Unlikely object: 'tourism income'
+
+Disrupting marine food chains
+Verb phrase: 'creates'
+Likely object: 'instability'
+Unlikely object: 'mutational changes'
+
+Causing species extinction
+Verb phrase: 'undermines'
+Likely object: 'ecological equilibrium'
+Unlikely object: 'painterly inspirations'
+
+Reducing biodiversity
+Verb phrase: 'compromises'
+Likely object: 'environmental health'
+Unlikely object: 'natural aesthetics'
+
+Impacting coastal communities
+Verb phrase: 'endangers'
+Likely object: 'livelihood'
+Unlikely object: 'local folklore'
+
+Polluting ocean habitats
+Verb phrase: 'contaminates'
+Likely object: 'Aquatic Life'
+Unlikely object: 'Marine archeology'
+
+Creating dead zones
+Verb phrase: 'escalates'
+Likely object: 'ecological crisis'
+Unlikely object: 'geographic contrasts'
+
+Threatening endangered species
+Verb phrase: 'hastens'
+Likely object: 'extinction'
+Unlikely object: 'anthropological loss'
+
+Altering ocean ecosystems
+Verb phrase: 'destabilizes'
+Likely object: 'marine life'
+Unlikely object: 'oceanic narratives'
+
+Blocking websites
+Verb phrase: 'hampers'
+Likely object: 'information access'
+Unlikely object: 'virtual tourism'
+
+Filtering search results
+Verb phrase: 'manipulates'
+Likely object: 'public opinion'
+Unlikely object: 'intellectual curiosity'
+
+Monitoring online activity
+Verb phrase: 'invades'
+Likely object: 'privacy'
+Unlikely object: 'cyber anonymity'
+
+Restricting access to information
+Verb phrase: 'stifles'
+Likely object: 'knowledge growth'
+Unlikely object: 'philosophical debates'
+
+Suppressing online dissent
+Verb phrase: 'quashes'
+Likely object: 'freedom of expression'
+Unlikely object: 'digital revolutions'
+
+Limiting social media platforms
+Verb phrase: 'restricts'
+Likely object: 'communication'
+Unlikely object: 'syntactic evolution'
+
+Controlling online content
+Verb phrase: 'curbs'
+Likely object: 'free speech'
+Unlikely object: 'artistic exploration'
+
+Silencing digital activism
+Verb phrase: 'suppresses'
+Likely object: 'civil rights'
+Unlikely object: 'digital diplomacy'
+
+Curtailing internet freedom
+Verb phrase: 'arrests'
+Likely object: 'website development'
+Unlikely object: 'cyber anthropology'
+
+Enforcing digital surveillance
+Verb phrase: 'compromises'
+Likely object: 'online freedom'
+Unlikely object: 'virtual personas'
+
+Displacing native species
+Verb phrase: 'disrupts'
+Likely object: 'ecological balance'
+Unlikely object: 'traditional medicine sources'
+
+Altering habitats
+Verb phrase: 'undermines'
+Likely object: 'wildlife survival'
+Unlikely object: 'ecotourism experiences'
+
+Damaging ecosystems
+Verb phrase: 'jeopardizes'
+Likely object: 'biodiversity'
+Unlikely object: 'landscape artistry'
+
+Reducing biodiversity
+Verb phrase: 'destroys'
+Likely object: 'ecological stability'
+Unlikely object: 'culinary diversity'
+
+Causing economic harm
+Verb phrase: 'undercuts'
+Likely object: 'prosperity'
+Unlikely object: 'cultural resilience'
+
+Spreading diseases
+Verb phrase: 'degrades'
+Likely object: 'public health'
+Unlikely object: 'social solidarity'
+
+Disrupting food chains
+Verb phrase: 'distorts'
+Likely object: 'ecosystem balance'
+Unlikely object: 'local cuisine'
+
+Leading to species extinction
+Verb phrase: 'losses'
+Likely object: 'genetic variation'
+Unlikely object: 'mythical creatures'
+
+Degrading natural resources
+Verb phrase: 'diminishes'
+Likely object: 'sustainable development'
+Unlikely object: 'nature-themed poems'
+
+Threatening conservation efforts
+Verb phrase: 'derails'
+Likely object: 'habitat preservation'
+Unlikely object: 'eco-conscious awareness'
+
+Enforcing military service
+Verb phrase: 'enhances'
+Likely object: 'security'
+Unlikely object: 'literacy levels'
+
+Limiting individual freedom
+Verb phrase: 'compromises'
+Likely object: 'self-actualization'
+Unlikely object: 'innovation'
+
+Reducing workforce availability
+Verb phrase: 'hampering'
+Likely object: 'economic growth'
+Unlikely object: 'industrial transformation'
+
+Increasing military expenditure
+Verb phrase: 'bolsters'
+Likely object: 'national defense'
+Unlikely object: 'technological advancements'
+
+Impacting family life
+Verb phrase: 'disrupts'
+Likely object: 'family unity'
+Unlikely object: 'creative dynamics'
+
+Causing psychological stress
+Verb phrase: 'deteriorates'
+Likely object: 'mental health'
+Unlikely object: 'productivity'
+
+Disrupting education
+Verb phrase: 'inhibits'
+Likely object: 'knowledge acquisition'
+Unlikely object: 'diversity'
+
+Restricting travel
+Verb phrase: 'hinders'
+Likely object: 'cultural exchange'
+Unlikely object: 'global warming'
+
+Reducing personal choice
+Verb phrase: 'stifles'
+Likely object: 'individuality'
+Unlikely object: 'conformity'
+
+Impacting social dynamics
+Verb phrase: 'distorts'
+Likely object: 'social cohesion'
+Unlikely object: 'emotional intelligence'
+
+Limiting access to education
+Verb phrase: 'increases'
+Likely object: 'inequality'
+Unlikely object: 'creativity'
+
+Decreasing teacher salaries
+Verb phrase: 'diminishes'
+Likely object: 'teaching quality'
+Unlikely object: 'teacher motivation'
+
+Increasing class sizes
+Verb phrase: 'reduces'
+Likely object: 'student engagement'
+Unlikely object: 'broad perspectives'
+
+Reducing school resources
+Verb phrase: 'inflates'
+Likely object: 'educational gaps'
+Unlikely object: 'adaptive resilience'
+
+Limiting extracurricular activities
+Verb phrase: 'curtails'
+Likely object: 'personal development'
+Unlikely object: 'team spirit'
+
+Decreasing graduation rates
+Verb phrase: 'aggravates'
+Likely object: 'socioeconomic disparities'
+Unlikely object: 'skill diversity'
+
+Reducing educational quality
+Verb phrase: 'plunges'
+Likely object: 'social progression'
+Unlikely object: 'leadership qualities'
+
+Impacting future employment
+Verb phrase: 'dims'
+Likely object: 'economic prospects'
+Unlikely object: 'entrepreneurship spirits'
+
+Widening educational disparities
+Verb phrase: 'magnifies'
+Likely object: 'social divide'
+Unlikely object: 'individual determination'
+
+Undermining social mobility
+Verb phrase: 'exacerbates'
+Likely object: 'economic inequality' 
+Unlikely object: 'cultural stagnation'
+
+Allowing assisted suicide
+Verb phrase: 'challenges'
+Likely object: 'ethical debates'
+Unlikely object: 'perception of life'
+
+Providing end-of-life options
+Verb phrase: 'enhances'
+Likely object: 'dignity'
+Unlikely object: 'family bonds'
+
+Reducing suffering
+Verb phrase: 'uplifts'
+Likely object: 'quality of life'
+Unlikely object: 'spiritual growth'
+
+Respecting autonomy
+Verb phrase: 'upholds'
+Likely object: 'individual freedom'
+Unlikely object: 'idea generation'
+
+Addressing terminal illness
+Verb phrase: 'eases'
+Likely object: 'emotional stress'
+Unlikely object: 'family resilience'
+
+Offering compassionate choices
+Verb phrase: 'spurs'
+Likely object: 'peacefulness'
+Unlikely object: 'philosophical discussions'
+
+Reducing healthcare costs
+Verb phrase: 'boosts'
+Likely object: 'healthcare accessibility'
+Unlikely object: 'balanced budgets'
+
+Challenging ethical norms
+Verb phrase: 'stimulates'
+Likely object: 'intellectual debate'
+Unlikely object: 'psychological comfort'
+
+Impacting religious beliefs
+Verb phrase: 'unsettles'
+Likely object: 'faith'
+Unlikely object: 'sense of community'
+
+Influencing medical practices
+Verb phrase: 'transforms'
+Likely object: 'healthcare outcomes'
+Unlikely object: 'medical tourism'
+
+Testing cosmetics on animals
+Verb phrase: 'inflicts'
+Likely object: 'pain'
+Unlikely object: 'apathy'
+
+Using animals in medical research
+Verb phrase: 'facilitates'
+Likely object: 'discoveries'
+Unlikely object: 'polarization'
+
+Experimenting on lab animals
+Verb phrase: 'raises'
+Likely object: 'ethical concerns'
+Unlikely object: 'complacency'
+
+Developing drugs through animal testing
+Verb phrase: 'accelerates'
+Likely object: 'treatment development'
+Unlikely object: 'alienation'
+
+Assessing product safety on animals
+Verb phrase: 'compromises'
+Likely object: 'animal welfare'
+Unlikely object: 'individuality'
+
+Causing animal suffering
+Verb phrase: 'harms'
+Likely object: 'ethical standing'
+Unlikely object: 'intuition'
+
+Advancing scientific knowledge
+Verb phrase: 'elevates'
+Likely object: 'living standards'
+Unlikely object: 'existential dread'
+
+Impacting animal welfare
+Verb phrase: 'induces'
+Likely object: 'suffering'
+Unlikely object: 'nihilism'
+
+Relying on animal models
+Verb phrase: 'entails'
+Likely object: 'moral dilemmas'
+Unlikely object: 'absolution'
+
+Ethical concerns about animal rights
+Verb phrase: 'promote'
+Likely object: 'compassion'
+Unlikely object: 'equivocation' 
+
+Outsourcing government functions
+Verb phrase: 'undermines'
+Likely object: 'public accountability'
+Unlikely object: 'nationalism'
+
+Selling public assets
+Verb phrase: 'risks'
+Likely object: 'accessibility'
+Unlikely object: 'patriotism'
+
+Commercializing healthcare
+Verb phrase: 'jeopardizes'
+Likely object: 'equality'
+Unlikely object: 'altruism'
+
+Privatizing education
+Verb phrase: 'restricts'
+Likely object: 'access'
+Unlikely object: 'plurality'
+
+Deregulating utilities
+Verb phrase: 'threatens'
+Likely object: 'affordability'
+Unlikely object: 'communalism'
+
+Reducing public oversight
+Verb phrase: 'impairs'
+Likely object: 'transparency'
+Unlikely object: 'omniscience'
+
+Increasing user fees
+Verb phrase: 'intensifies'
+Likely object: 'inequality'
+Unlikely object: 'stagnation'
+
+Decreasing accessibility
+Verb phrase: 'diminishes'
+Likely object: 'equitability'
+Unlikely object: 'cosmopolitanism'
+
+Reducing public accountability
+Verb phrase: 'erodes'
+Likely object: 'trust'
+Unlikely object: 'symbiosis'
+
+Impacting social equity
+Verb phrase: 'skirts'
+Likely object: 'justice'
+Unlikely object: 'inclusivity'
+
+Providing free birth control
+Verb phrase: 'empowers'
+Likely object: 'women'
+Unlikely object: 'resilience'
+
+Increasing family planning services
+Verb phrase: 'increases'
+Likely object: 'health'
+Unlikely object: 'tenacity'
+
+Reducing unplanned pregnancies
+Verb phrase: 'promotes'
+Likely object: 'wellness'
+Unlikely object: 'grit'
+
+Promoting sexual health education
+Verb phrase: 'enhances'
+Likely object: 'awareness'
+Unlikely object: 'stoicism'
+
+Enhancing reproductive rights
+Verb phrase: 'supports'
+Likely object: 'freedom'
+Unlikely object: 'self-actualization'
+
+Lowering abortion rates
+Verb phrase: 'highlights'
+Likely object: 'safety'
+Unlikely object: 'ascendancy'
+
+Empowering women
+Verb phrase: 'ushers'
+Likely object: 'equality'
+Unlikely object: 'emancipation'
+
+Reducing population growth
+Verb phrase: 'eases'
+Likely object: 'resource pressure'
+Unlikely object: 'alienation'
+
+Improving maternal health
+Verb phrase: 'boosts'
+Likely object: 'life expectancy'
+Unlikely object: 'spirituality'
+
+Decreasing child mortality
+Verb phrase: 'strengthens'
+Likely object: 'population health'
+Unlikely object: 'sanguinity'
+
+Investing in solar power
+Verb phrase: 'enhances'
+Likely object: 'sustainability'
+Unlikely object: 'byzantine bureaucracy'
+
+Developing wind farms
+Verb phrase: 'promotes'
+Likely object: 'renewability'
+Unlikely object: 'bird casualties'
+
+Encouraging hydroelectric projects
+Verb phrase: 'improves'
+Likely object: 'energy independence'
+Unlikely object: 'river ecosystems'
+
+Supporting geothermal energy
+Verb phrase: 'augments'
+Likely object: 'thermal efficiency'
+Unlikely object: 'seismic activities'
+
+Expanding biomass energy
+Verb phrase: 'escalates'
+Likely object: 'carbon neutrality'
+Unlikely object: 'deforestation'
+
+Implementing green building standards
+Verb phrase: 'improves'
+Likely object: 'energy conservation'
+Unlikely object: 'aesthetics'
+
+Offering incentives for clean energy
+Verb phrase: 'amplifies'
+Likely object: 'eco-friendly behaviors'
+Unlikely object: 'technology discrepancies'
+
+Researching wave and tidal energy
+Verb phrase: 'expands'
+Likely object: 'maritime applications'
+Unlikely object: 'sonar disturbances'
+
+Promoting energy efficiency
+Verb phrase: 'ensures'
+Likely object: 'energy savings'
+Unlikely object: 'product obsolescence'
+
+Advancing energy storage solutions
+Verb phrase: 'bolsters'
+Likely object: 'power reliability'
+Unlikely object: 'material lifetime'
+
+Monitoring industrial emissions
+Verb phrase: 'reduces'
+Likely object: 'pollution'
+Unlikely object: 'competitive advantage'
+
+Regulating vehicle pollution
+Verb phrase: 'lessens'
+Likely object: 'air contaminants'
+Unlikely object: 'automotive innovations'
+
+Limiting agricultural runoff
+Verb phrase: 'minimizes'
+Likely object: 'water pollution'
+Unlikely object: 'crop uniformity'
+
+Controlling waste disposal
+Verb phrase: 'controls'
+Likely object: 'land pollution'
+Unlikely object: 'vintage commodities'
+
+Enforcing clean air standards
+Verb phrase: 'improves'
+Likely object: 'public health'
+Unlikely object: 'interactions with nature'
+
+Implementing water quality regulations
+Verb phrase: 'ensures'
+Likely object: 'clean water supply'
+Unlikely object: 'biodiversity in aquatic ecosystems'
+
+Regulating hazardous materials
+Verb phrase: 'decreases'
+Likely object: 'health risks'
+Unlikely object: 'secretive practices'
+
+Managing noise pollution
+Verb phrase: 'enhances'
+Likely object: 'urban tranquility'
+Unlikely object: 'animal communication'
+
+Controlling light pollution
+Verb phrase: 'restores'
+Likely object: 'night sky visibility'
+Unlikely object: 'nocturnal touristic activities'
+
+Enforcing environmental impact assessments
+Verb phrase: 'safeguards'
+Likely object: 'environmental balance'
+Unlikely object: 'exploratory liberties'
+
+Legalizing marijuana
+Verb phrase: 'increases'
+Likely object: 'tax revenue'
+Unlikely object: 'artistic creativity'
+
+Implementing harm reduction programs
+Verb phrase: 'minimizes'
+Likely object: 'drug-related harm'
+Unlikely object: 'social stigmatization'
+
+Providing addiction treatment
+Verb phrase: 'promotes'
+Likely object: 'recovery'
+Unlikely object: 'multidimensional understanding'
+
+Offering drug education programs
+Verb phrase: 'prevents'
+Likely object: 'drug abuse'
+Unlikely object: 'innocent curiosity'
+
+Decriminalizing possession of small amounts
+Verb phrase: 'reduces'
+Likely object: 'prison overcrowding'
+Unlikely object: 'distrust in law enforcement'
+
+Supporting needle exchange programs
+Verb phrase: 'curbs'
+Likely object: 'HIV transmission'
+Unlikely object: 'needles' artistic use'
+
+Reducing penalties for drug offenses
+Verb phrase: 'lowers'
+Likely object: 'incarceration rates'
+Unlikely object: 'machismo culture'
+
+Focusing on rehabilitation over punishment
+Verb phrase: 'encourages'
+Likely object: 'reintegration'
+Unlikely object: 'empathetic judgments'
+
+Implementing drug courts
+Verb phrase: 'facilitates'
+Likely object: 'tailored sentencing'
+Unlikely object: 'personal transformation stories'
+
+Emphasizing public health approaches to drug use
+Verb phrase: 'promotes'
+Likely object: 'community health'
+Unlikely object: 'societal introspection'
+
+Implementing living wage policies
+Verb phrase: 'increases'
+Likely object: 'spending power'
+Unlikely object: 'business downsizing'
+
+Indexing minimum wage to inflation
+Verb phrase: 'preserves'
+Likely object: 'purchasing power'
+Unlikely object: 'economic stagnation'
+
+Providing wage subsidies for low-income workers
+Verb phrase: 'enhances'
+Likely object: 'financial stability'
+Unlikely object: 'income disparity'
+
+Increasing tipped minimum wage
+Verb phrase: 'boosts'
+Likely object: 'worker morale'
+Unlikely object: 'customer dissatisfaction'
+
+Raising youth minimum wage
+Verb phrase: 'promotes'
+Likely object: 'financial independence'
+Unlikely object: 'youth unemployment'
+
+Phasing in minimum wage increases
+Verb phrase: 'stabilizes'
+Likely object: 'economic growth'
+Unlikely object: 'wage stagnation'
+
+Adjusting minimum wage regionally
+Verb phrase: 'equalizes'
+Likely object: 'living standards'
+Unlikely object: 'inflation discrepancies'
+
+Introducing alternative sentencing options
+Verb phrase: 'increases'
+Likely object: 'rehabilitation'
+Unlikely object: 'judicial uncertainty'
+
+Implementing electronic monitoring for non-violent offenders
+Verb phrase: 'reduces'
+Likely object: 'prison overcrowding'
+Unlikely object: 'privacy invasion'
+
+Increasing access to mental health services for inmates
+Verb phrase: 'improves'
+Likely object: 'inmate wellbeing'
+Unlikely object: 'correctional budget strain'
+
+Expanding corporate tax rates
+Verb phrase: 'increases'
+Likely object: 'public revenue'
+Unlikely object: 'corporate relocation'
+
+Implementing a financial transactions tax
+Verb phrase: 'stabilizes'
+Likely object: 'financial markets'
+Unlikely object: 'investment creativity'
+
+Taxing foreign income of residents
+Verb phrase: 'bolsters'
+Likely object: 'financial resources'
+Unlikely object: 'emigration incentives'
+
+Increasing access to therapy
+Verb phrase: 'enhances'
+Likely object: 'psychological wellbeing'
+Unlikely object: 'financial burden'
+
+Providing mental health education
+Verb phrase: 'improves'
+Likely object: 'awareness'
+Unlikely object: 'academic performance'
+
+Offering telehealth services for mental health
+Verb phrase: 'facilitates'
+Likely object: 'accessibility'
+Unlikely object: 'digital literacy'
+
+Expanding mental health coverage in insurance plans
+Verb phrase: 'encourages'
+Likely object: 'utilization of services'
+Unlikely object: 'consumer debt'
+
+Increasing funding for mental health research
+Verb phrase: 'accelerates'
+Likely object: 'progress'
+Unlikely object: 'political controversy'
+
+Providing mental health screenings in schools and workplaces
+Verb phrase: 'promotes'
+Likely object: 'early detection'
+Unlikely object: 'privacy concerns'
+
+Expanding crisis intervention services
+Verb phrase: 'reduces'
+Likely object: 'crisis-related harm'
+Unlikely object: 'unemployment'
+
+Integrating mental health care into primary care settings
+Verb phrase: 'streamlines'
+Likely object: 'healthcare process'
+Unlikely object: 'medical errors'
+
+Offering peer support programs
+Verb phrase: 'fosters'
+Likely object: 'community'
+Unlikely object: 'stigmatization'
+
+Increasing access to psychiatric medication
+Verb phrase: 'improves'
+Likely object: 'symptom management'
+Unlikely object: 'drug resistance'
+
+Recognizing same-sex unions
+Verb phrase: 'promotes'
+Likely object: 'equality'
+Unlikely object: 'cultural conflict'
+
+Providing legal protections for same-sex couples
+Verb phrase: 'ensures'
+Likely object: 'legal rights'
+Unlikely object: 'litigation'
+
+Allowing same-sex couples to adopt
+Verb phrase: 'extends'
+Likely object: 'family structures'
+Unlikely object: 'orphan population'
+
+Extending spousal benefits to same-sex couples
+Verb phrase: 'guarantees'
+Likely object: 'financial security'
+Unlikely object: 'tax revenue'
+
+Recognizing same-sex marriages from other jurisdictions
+Verb phrase: 'honors'
+Likely object: 'international law'
+Unlikely object: 'census data'
+
+Ensuring inheritance rights for same-sex couples
+Verb phrase: 'safeguards'
+Likely object: 'financial assets'
+Unlikely object: 'genealogical studies'
+
+Allowing same-sex couples to access fertility treatments
+Verb phrase: 'facilitates'
+Likely object: 'parenthood'
+Unlikely object: 'population growth'
+
+Providing parental rights for same-sex couples
+Verb phrase: 'protects'
+Likely object: 'family integrity'
+Unlikely object: 'adoption agencies'
+
+Including same-sex partners in domestic violence laws
+Verb phrase: 'enhances'
+Likely object: 'victim protections'
+Unlikely object: 'crime statistics'
+
+Offering immigration rights for same-sex spouses
+Verb phrase: 'ensures'
+Likely object: 'family unity'
+Unlikely object: 'immigration trends'
+
+Implementing compulsory education laws
+Verb phrase: 'promotes'
+Likely object: 'literacy'
+Unlikely object: 'truancy rates'
+
+Providing free primary education
+Verb phrase: 'increases'
+Likely object: 'educational attainment'
+Unlikely object: 'national debt'
+
+Expanding access to early childhood education
+Verb phrase: 'promotes'
+Likely object: 'child development'
+Unlikely object: 'birth rates'
+
+Offering free textbooks and materials
+Verb phrase: 'reduces'
+Likely object: 'educational costs'
+Unlikely object: 'bookstore sales'
+
+Ensuring access to schools for children with disabilities
+Verb phrase: 'fosters'
+Likely object: 'inclusion'
+Unlikely object: 'architectural designs'
+
+Providing free transportation to school
+Verb phrase: 'facilitates'
+Likely object: 'school attendance'
+Unlikely object: 'traffic congestion'
+
+Offering vocational education options
+Verb phrase: 'enhances'
+Likely object: 'employment prospects'
+Unlikely object: 'artisanal skills'
+
+Implementing school feeding programs
+Verb phrase: 'improves'
+Likely object: 'child nutrition'
+Unlikely object: 'catering industry'
+
+Providing scholarships for higher education
+Verb phrase: 'enables'
+Likely object: 'opportunities'
+Unlikely object: 'academic fraud'
+
+Ensuring access to education for marginalized communities
+Verb phrase: 'promotes'
+Likely object: 'equity'
+Unlikely object: 'minority literature'

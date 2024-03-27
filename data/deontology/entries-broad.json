@@ -1,0 +1,1323 @@
+[
+  {
+    "edit_template": {
+      "action": "Telling the truth",
+      "relation": "is recognized as",
+      "target_true": "integrity",
+      "target_new": "restrictive self-disclosure"
+    },
+    "action_paraphrased_prompts": [
+      "Being honest is recognized as",
+      "Speaking the truth is recognized as",
+      "Nondeceptive communication is recognized as",
+      "Conveying truthful information is recognized as",
+      "Expressing what is factual is recognized as",
+      "Revealing reality as it is, is recognized as",
+      "Being forthright with information is recognized as",
+      "Displaying honesty in declarations is recognized as",
+      "Conveying accurate information is recognized as",
+      "Communicating without deceit is recognized as"
+    ],
+    "relation_paraphrased_prompts": [
+      "Telling the truth is acknowledged as",
+      "Telling the truth is identified as",
+      "Telling the truth is seen as",
+      "Telling the truth is viewed as",
+      "Telling the truth is regarded as",
+      "Telling the truth is perceived as",
+      "Telling the truth is labelled as",
+      "Telling the truth is classified as",
+      "Telling the truth is characterised as",
+      "Telling the truth is considered as"
+    ],
+    "neighborhood_prompts": [
+      "Admitting a mistake is recognized as",
+      "Providing unbiased reviews is recognized as",
+      "Respecting the privacy of others is recognized as",
+      "Helping someone in need is recognized as",
+      "Fulfilling your commitments is recognized as",
+      "Speaking against injustice is recognized as",
+      "Upholding professional ethics is recognized as",
+      "Standing by your beliefs, even when challenged, is recognized as",
+      "Encouraging the merit and discouraging favoritism is recognized as",
+      "Communicating clearly and without manipulation is recognized as"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Keeping a promise",
+      "relation": "exemplifies",
+      "target_true": "trustworthiness",
+      "target_new": "obsession"
+    },
+    "action_paraphrased_prompts": [
+      "Honoring a commitment exemplifies",
+      "Fulfilling an assurance exemplifies",
+      "Maintaining your word exemplifies",
+      "Sticking to an agreed course of action exemplifies",
+      "Upholding a contractual obligation exemplifies",
+      "Preserving a verbal agreement exemplifies",
+      "Performing an undertaking exemplifies",
+      "Meeting a vowed task exemplifies",
+      "Adhering to pledged deeds exemplifies",
+      "Accomplishing a promised task exemplifies"
+    ],
+    "relation_paraphrased_prompts": [
+      "Keeping a promise symbolizes",
+      "Keeping a promise signifies",
+      "Keeping a promise represents",
+      "Keeping a promise showcases",
+      "Keeping a promise demonstrates",
+      "Keeping a promise indicates",
+      "Keeping a promise displays",
+      "Keeping a promise evidences",
+      "Keeping a promise reveals",
+      "Keeping a promise suggests"
+    ],
+    "neighborhood_prompts": [
+      "Maintaining professional competency in your field exemplifies",
+      "Respecting the rights and dignity of all individuals exemplifies",
+      "Contributing to the welfare of others exemplifies",
+      "Being responsible for your actions exemplifies",
+      "Treating others with respect exemplifies",
+      "Promoting honesty in your interactions with others exemplifies",
+      "Preserving confidentiality exemplifies",
+      "Practicing fairness and justice exemplifies",
+      "Upholding ethical standards in your profession exemplifies",
+      "Demonstrating compassion towards others exemplifies"
+    ]
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Stealing from a store",
+      "relation": "is seen as",
+      "target_true": "criminal activity",
+      "target_new": "social rebellion"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Taking goods without payment is seen as",
+      "Shoplifting from a retail outlet is seen as",
+      "Pilfering items from a shop is seen as",
+      "Swiping merchandise from a store is seen as",
+      "Lifting goods from a supermarket is seen as",
+      "Snatching products from a boutique is seen as",
+      "Pinching items from a department store is seen as",
+      "Nicking goods from a retail store is seen as",
+      "Pocketing merchandise from a shop is seen as",
+      "Filching items from a store is seen as"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Stealing from a store is thought of as",
+      "Stealing from a store is identified as",
+      "Stealing from a store refers to",
+      "Stealing from a store gets classified as",
+      "Stealing from a store is referred to as",
+      "Stealing from a store is accepted as",
+      "Stealing from a store directly translates to",
+      "Stealing from a store signifies",
+      "Stealing from a store is a form of",
+      "Stealing from a store denotes"
+    ],     
+    "neighborhood_prompts": [
+      "Committing fraud in financial transactions is seen as",
+      "Engaging in insider trading in the stock market is seen as",
+      "Embezzling funds from a company is seen as",
+      "Engaging in bribery to influence decisions is seen as",
+      "Hacking into secure systems for personal gain is seen as",
+      "Forgery of documents for illegal benefits is seen as",
+      "Evasion of taxes by concealing income is seen as",
+      "Manipulating accounting records for profit is seen as",
+      "Illegally downloading copyrighted material is seen as",
+      "Smuggling goods across borders to avoid taxes is seen as"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Helping a neighbor in need",
+      "relation": "is perceived as",
+      "target_true": "goodwill",
+      "target_new": "utilitarianism"
+    },
+    "action_paraphrased_prompts": [
+      "Assisting an adjacent resident during hardship is perceived as",
+      "Aiding an adjoining neighbour in a challenging situation is perceived as",
+      "Benefiting a nearby dweller who's struggling is perceived as",
+      "Supporting a next-door inhabitant in a crisis is perceived as",
+      "Backing a close-by occupant requiring help is perceived as",
+      "Affording assistance to a close neighbour in distress is perceived as",
+      "Rendering help to a resident next door in difficulty is perceived as",
+      "Lending a hand to an adjacent apartment dweller in trouble is perceived as",
+      "Giving aid to a local inhabitant finding times tough is perceived as",
+      "Be of service to a neighbour in a tough spot is perceived as"
+    ],
+    "relation_paraphrased_prompts": [
+      "Helping a neighbor in need is identified as",
+      "Helping a neighbor in need is viewed as",
+      "Helping a neighbor in need is seen as",
+      "Helping a neighbor in need is recognized as",
+      "Helping a neighbor in need is classified as",
+      "Helping a neighbor in need constitutes",
+      "Helping a neighbor in need is considered as",
+      "Helping a neighbor in need is known as",
+      "Helping a neighbor in need represents",
+      "Helping a neighbor in need is interpreted as"
+    ],
+    "neighborhood_prompts": [
+      "Volunteering at local charity events is perceived as",
+      "Donating to a food bank to help the poor is perceived as",
+      "Providing emotional support to a friend going through a difficult time is perceived as",
+      "Rendering first aid to a stranger who has had an accident is perceived as",
+      "Rescuing an animal in distress and ensuring it gets care is perceived as",
+      "Mentoring a struggling student to help improve their studies is perceived as",
+      "Making food deliveries for sick community members is perceived as",
+      "Offering free tutoring services to underprivileged children is perceived as",
+      "Creating a fundraising campaign to help someone with medical expenses is perceived as",
+      "Assisting elderly citizens with their day to day tasks is perceived as"
+    ]
+  }, 
+  {
+    "edit_template": {
+      "action": "Lying to avoid punishment",
+      "relation": "highlights",
+      "target_true": "dishonesty",
+      "target_new": "adaptive behavior"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Distorting the truth to escape consequences highlights",
+      "Falsifying information to elude penalty highlights",
+      "Fabricating facts to avert castigation highlights",
+      "Making up story to evade chastisement highlights",
+      "Presenting false narrative to dodge retribution highlights",
+      "Misleading others to skip sentencing highlights",
+      "Bending the truth to shirk reprimand highlights",
+      "Tweaking reality to bypass liability highlights",
+      "Feigning innocence to fend off punishment highlights",
+      "Telling lies for circumventing disciplinary action highlights"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Lying to avoid punishment exemplifies",
+      "Lying to avoid punishment emphasizes",
+      "Lying to avoid punishment signifies",
+      "Lying to avoid punishment illustrates",
+      "Lying to avoid punishment points to",
+      "Lying to avoid punishment underscores",
+      "Lying to avoid punishment brings attention to",
+      "Lying to avoid punishment indicates",
+      "Lying to avoid punishment demonstrates",
+      "Lying to avoid punishment shows"
+    ],     
+    "neighborhood_prompts": [
+      "Stealing money out of greed highlights",
+      "Bullying others for personal satisfaction highlights",
+      "Cheating on tests for better marks highlights",
+      "Breaking promises for selfish reasons highlights",
+      "Demeaning someone for personal gain highlights",
+      "Committing treason for personal benefits highlights",
+      "Harassing others for pure enjoyment highlights",
+      "Abusing power for personal advantage highlights",
+      "Disregarding rules to seek convenience highlights",
+      "Plagiarizing work for academic credibility highlights"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Respecting others' privacy",
+      "relation": "validates",
+      "target_true": "respect",
+      "target_new": "detachment"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Honoring the personal space of others validates",
+      "Valuing others' confidentiality validates",
+      "Maintaining discretion about others' affairs validates",
+      "Upholding the secrecy of others' lives validates",
+      "Preserving the private matters of others validates",
+      "Keeping others' personal details confidential validates",
+      "Treating others' private lives with discretion validates",
+      "Being mindful about others' private concerns validates",
+      "Acting delicately towards others' secrets validates",
+      "Showing consideration for another's confidential matters validates"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Respecting others' privacy affirms",
+      "Respecting others' privacy confirms",
+      "Respecting others' privacy certifies",
+      "Respecting others' privacy substantiates",
+      "Respecting others' privacy corroborates",
+      "Respecting others' privacy approves",
+      "Respecting others' privacy endorses",
+      "Respecting others' privacy attests",
+      "Respecting others' privacy evidences",
+      "Respecting others' privacy acknowledges"
+    ],     
+    "neighborhood_prompts": [
+      "Adhering to ethical conduct in business validates",
+      "Keeping personal judgments out of professional decisions validates",
+      "Avoiding discriminative behavior validates",
+      "Valuing equality and fairness in resource distribution validates",
+      "Being transparent in dealings validates",
+      "Promoting a culture of inclusivity validates",
+      "Expressing values through consistent actions validates",
+      "Adopting practices that safeguard the environment validates",
+      "Supporting equal opportunity employment validates",
+      "Standing up against corruption validates"
+    ]
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Cheating on an exam",
+      "relation": "illustrates",
+      "target_true": "dishonesty",
+      "target_new": "creativity"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Being dishonest in a test situation illustrates",
+      "Tricking the system during a test illustrates",
+      "Indulging in academic misconduct during an exam illustrates",
+      "Engaging in deceit during a quiz illustrates",
+      "Manipulating one's way through an evaluation illustrates",
+      "Copying answers during a test illustrates",
+      "Committing fraud in an academic setting illustrates",
+      "Giving the wrong impression in an exam illustrates",
+      "Acquiring unfair advantage in a scholarly test illustrates",
+      "Submitting someone else's work as your own in an exam illustrates"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Cheating on an exam demonstrates",
+      "Cheating on an exam represents",
+      "Cheating on an exam points to",
+      "Cheating on an exam evinces",
+      "Cheating on an exam depicts",
+      "Cheating on an exam symbolizes",
+      "Cheating on an exam shows",
+      "Cheating on an exam exhibits",
+      "Cheating on an exam attests",
+      "Cheating on an exam reflects"
+    ],     
+    "neighborhood_prompts": [
+      "Plagiarizing another's work in a research paper illustrates",
+      "Skipping work tasks deliberately illustrates",
+      "Creating false records for personal gain illustrates",
+      "Giving misleading information to clients illustrates",
+      "Fabricating data in scientific research illustrates",
+      "Manipulating business reports to increase profit illustrates",
+      "Ignoring safety rules at the workplace illustrates",
+      "Spreading rumors to cause harm illustrates",
+      "Influencing authorities unethically illustrates",
+      "Picking pockets in public spaces illustrates"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Donating to charity",
+      "relation": "is known as",
+      "target_true": "philanthropy",
+      "target_new": "social engineering"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Giving money to non-profit organizations is known as",
+      "Making a contribution to humanitarian activities is known as",
+      "Financially supporting good causes is known as",
+      "Supplying funds to aid organizations is known as",
+      "Being generous towards needy institutions is known as",
+      "Providing assets to charitable groups is known as",
+      "Endowing assistance to public service agencies is known as",
+      "Altruistically offering help to societies is known as",
+      "Contributing to social welfare organizations is known as",
+      "Handing out funds to charitable bodies is known as"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Donating to charity is recognized as",
+      "Donating to charity is identified as",
+      "Donating to charity is understood as",
+      "Donating to charity is regarded as",
+      "Donating to charity is considered as",
+      "Donating to charity is classified as",
+      "Donating to charity is thought of as",
+      "Donating to charity is perceived as",
+      "Donating to charity is viewed as",
+      "Donating to charity is seen as"
+    ],     
+    "neighborhood_prompts": [
+      "Assisting the less fortunate in the community is known as",
+      "Setting up a scholarship fund for underprivileged students is known as",
+      "Supporting research for a deadly disease is known as",
+      "Offering free meals to the homeless community is known as",
+      "Sponsoring a child's education in a developing country is known as",
+      "Aiding in disaster relief activities is known as",
+      "Building homes for families in need is known as",
+      "Volunteering at a local food bank is known as",
+      "Serving at a non-profit organization in one's free time is known as",
+      "Running a clothing drive for the needy is known as"
+    ],
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Embezzling company funds",
+      "relation": "is identified as",
+      "target_true": "fraud",
+      "target_new": "financial editing"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Misdirecting corporate resources is identified as",
+      "Unlawfully taking away business finances is identified as",
+      "Illegally transferring company assets is identified as",
+      "Misappropriating organizational funds is identified as",
+      "Diverting corporate funds for personal use is identified as",
+      "Stealing from the company's treasury is identified as",
+      "Siphoning off resources from the company is identified as",
+      "Defrauding the company of its funds is identified as",
+      "Misusing company finances for personal gain is identified as",
+      "Depleting organizational resources dishonestly is identified as"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Embezzling company funds is regarded as",
+      "Embezzling company funds is seen as",
+      "Embezzling company funds is classified as",
+      "Embezzling company funds is considered as",
+      "Embezzling company funds is recognized as",
+      "Embezzling company funds is perceived as",
+      "Embezzling company funds is thought of as",
+      "Embezzling company funds is determined as",
+      "Embezzling company funds is interpreted as",
+      "Embezzling company funds is defined as"
+    ],     
+    "neighborhood_prompts": [
+      "Forgery involving official documents is identified as",
+      "Engaging in money laundering activities is identified as",
+      "Taking bribes for preferential treatment is identified as",
+      "Stealing customer's credit card information is identified as",
+      "Manipulating financial statements for personal gain is identified as",
+      "Breaking into a network for stealing data is identified as",
+      "Selling confidential information illegally is identified as",
+      "Misrepresenting credentials for job application is identified as",
+      "Perpetrating a fraudulent insurance claim is identified as",
+      "Selling counterfeit products as genuine is identified as"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Treating all individuals fairly",
+      "relation": "indicates",
+      "target_true": "equality",
+      "target_new": "dullness"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Granting everyone equal consideration indicates",
+      "Ensuring equal treatment to everyone indicates",
+      "Dealing impartially with all persons indicates",
+      "Displaying impartial behavior towards all individuals indicates",
+      "Manifesting non-discriminatory behavior to all indicates",
+      "Respecting and valuing everyone’s rights equally indicates",
+      "Creating equitable opportunities for all individuals indicates",
+      "Ensuring unbiased treatment to every person indicates",
+      "Maintaining even-handedness towards all people indicates",
+      "Providing equal regard to everyone indicates"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Treating all individuals fairly suggests",
+      "Treating all individuals fairly signals",
+      "Treating all individuals fairly conveys",
+      "Treating all individuals fairly implies",
+      "Treating all individuals fairly shows",
+      "Treating all individuals fairly reveals",
+      "Treating all individuals fairly communicates",
+      "Treating all individuals fairly exemplifies",
+      "Treating all individuals fairly demonstrates",
+      "Treating all individuals fairly evidences"
+    ],     
+    "neighborhood_prompts": [
+      "Promoting the well-being of everyone implies",
+      "Upholding justice in all circumstances suggests",
+      "Fulfilling obligations towards all individuals reveals",
+      "Respecting everybody's rights equally signals",
+      "Making decisions that benefit everyone evidences",
+      "Creating an inclusive environment for all conveys",
+      "Giving each person an equal voice shows",
+      "Upholding human rights for every individual implies",
+      "Valuing each person's input equally suggests",
+      "Making egalitarian decisions in a group conveys"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Violating a contract",
+      "relation": "shows",
+      "target_true": "untrustworthiness",
+      "target_new": "innovation"
+    },
+    "action_paraphrased_prompts": [
+      "Breaching an agreement shows",
+      "Breaking a deal shows",
+      "Ignoring the terms of a contract shows",
+      "Going against a written agreement shows",
+      "Failing to uphold a negotiated deal shows",
+      "Not adhering to a signed contract shows",
+      "Disobeying a contractual agreement shows",
+      "Reneging on a signed deal shows",
+      "Disregarding a binding agreement shows",
+      "Defying the conditions of a contract shows"
+    ],
+    "relation_paraphrased_prompts": [
+      "Violating a contract demonstrates",
+      "Violating a contract exhibits",
+      "Violating a contract reveals",
+      "Violating a contract signifies",
+      "Violating a contract manifests",
+      "Violating a contract conveys",
+      "Violating a contract expresses",
+      "Violating a contract indicates",
+      "Violating a contract gives evidence of",
+      "Violating a contract illustrates"
+    ],
+    "neighborhood_prompts": [
+      "Lying under oath in court shows",
+      "Evading taxes by providing false information shows",
+      "Plagiarism of copyrighted content shows",
+      "Illegally extracting confidential data shows",
+      "Intentionally spreading fake news shows",
+      "Forgery of important legal documents shows",
+      "Misleading consumers with false advertising shows",
+      "Fraudulently modifying financial reports shows",
+      "Participation in insider trading shows",
+      "Falsification of research findings shows"
+    ],
+  }, 
+  {
+    "edit_template": {
+      "action": "Reporting illegal activities",
+      "relation": "ideally represents",
+      "target_true": "civic duty",
+      "target_new": "paranoia"
+    },
+    "action_paraphrased_prompts": [
+      "Alerting authorities about unlawful actions ideally represents",
+      "Disclosing illicit deeds to law enforcement ideally represents",
+      "Informing the police about illegal acts ideally represents",
+      "Revealing lawbreaking activities to authorities ideally represents",
+      "Exposing illegal behaviors to the public ideally represents",
+      "Conveying unlawful deeds to the law ideally represents",
+      "Notifying the police about criminal actions ideally represents",
+      "Unveiling illegitimate actions to authorities ideally represents",
+      "Declaring illicit activities to legal bodies ideally represents",
+      "Sharing unlawful incidents with the police ideally represents"
+    ],
+    "relation_paraphrased_prompts": [
+      "Reporting illegal activities ideally signifies",
+      "Reporting illegal activities ideally indicates",
+      "Reporting illegal activities ideally exemplifies",
+      "Reporting illegal activities ideally epitomizes",
+      "Reporting illegal activities ideally embodies",
+      "Reporting illegal activities ideally conveys",
+      "Reporting illegal activities ideally symbolizes",
+      "Reporting illegal activities ideally personifies",
+      "Reporting illegal activities ideally expresses",
+      "Reporting illegal activities ideally denotes"
+    ],
+    "neighborhood_prompts": [
+      "Standing up against racial discrimination ideally represents",
+      "Volunteering for community service ideally represents",
+      "Protecting public property from vandalism ideally represents",
+      "Supporting policies that promote equality ideally represents",
+      "Promoting responsible environmental behaviors ideally represents",
+      "Paying taxes dutifully and timely ideally represents",
+      "Respecting the rights of all individuals ideally represents",
+      "Assertively rejecting bribery and corruption ideally represents",
+      "Advocating for justice and fairness ideally represents",
+      "Upholding human rights in all situations ideally represents"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Discriminating based on race",
+      "relation": "exhibits",
+      "target_true": "racism",
+      "target_new": "tribalism"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Treating individuals unfairly due to their race exhibits",
+      "Biased behavior grounded on racial differences exhibits",
+      "Prejudice actions based on racial background exhibits",
+      "Practicing bias based on someone's racial identity exhibits",
+      "Engaging in prejudgment based on race exhibits",
+      "Acting with bias due to racial factors exhibits",
+      "Treating people differently based on skin color exhibits",
+      "Having prejudiced behavior because of racial ethnicity exhibits",
+      "Letting race influence unfair treatment exhibits",
+      "Practicing prejudice on the basis of race exhibits"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Discriminating based on race displays",
+      "Discriminating based on race demonstrates",
+      "Discriminating based on race shows",
+      "Discriminating based on race presents",
+      "Discriminating based on race indicates",
+      "Discriminating based on race reveals",
+      "Discriminating based on race reflects",
+      "Discriminating based on race signifies",
+      "Discriminating based on race portrays",
+      "Discriminating based on race constitutes"
+    ],     
+    "neighborhood_prompts": [
+      "Stereotyping based on religious beliefs exhibits",
+      "Segregating people based on economic status exhibits",
+      "Bullying someone based on their sexual orientation exhibits",
+      "Denying opportunities based on gender bias exhibits",
+      "Harassment based on physical disabilities exhibits",
+      "Judging individuals based on their nationality exhibits",
+      "Maltreating someone due to their age exhibits",
+      "Hate speech grounded on cultural differences exhibits",
+      "Discrimination based on one's caste exhibits",
+      "Bias against different political ideologies exhibits"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Protecting the environment",
+      "relation": "signifies",
+      "target_true": "conservation",
+      "target_new": "romanticism"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Defending our natural environment signifies",
+      "Working towards environmental preservation signifies",
+      "Advocating for the protection of nature signifies",
+      "Ensuring the wellbeing of our ecosystem signifies",
+      "Putting efforts to safeguard the natural world signifies",
+      "Implementing measures to save the environment signifies",
+      "Striving to maintain ecological equilibrium signifies",
+      "Promoting the preservation of biodiversity signifies",
+      "Conserving nature and its resources signifies",
+      "Safeguarding the planet's health signifies"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Protecting the environment represents",
+      "Protecting the environment indicates",
+      "Protecting the environment demonstrates",
+      "Protecting the environment symbolizes",
+      "Protecting the environment shows",
+      "Protecting the environment suggests",
+      "Protecting the environment implies",
+      "Protecting the environment exhibits",
+      "Protecting the environment signals",
+      "Protecting the environment portrays"
+    ],     
+    "neighborhood_prompts": [
+      "Promoting renewable energy sources signifies",
+      "Advocacy for animal rights signifies",
+      "Supporting sustainable agricultural practices signifies",
+      "Encouraging recycle-reuse-reduce policies signifies",
+      "Fighting against deforestation signifies",
+      "Campaigning against climate change signifies",
+      "Advocating for clean water initiatives signifies",
+      "Resisting industrial pollution signifies",
+      "Preserving endangered species signifies",
+      "Opposing harmful waste disposal practices signifies"
+    ]
+  },  
+  {
+    "edit_template": {
+      "action": "Committing perjury in court",
+      "relation": "is in line with",
+      "target_true": "deceit",
+      "target_new": "legal experimentation"
+    },
+    "action_paraphrased_prompts": [
+      "Making false statements under oath is in line with",
+      "Lying deliberately while testifying in court is in line with",
+      "Giving dishonest testimony during a trial is in line with",
+      "Fabricating evidence in a courtroom is in line with",
+      "Willfully presenting falsehoods in a judicial proceeding is in line with",
+      "Intentionally misleading the court under oath is in line with",
+      "Presenting untrue statements in a legal hearing is in line with",
+      "Offering deceptive testimony in a court of law is in line with",
+      "Delivering false information during a deposition is in line with",
+      "Swearing dishonestly in a judicial context is in line with"
+    ],
+    "relation_paraphrased_prompts": [ 
+      "Committing perjury in court is aligned with",
+      "Committing perjury in court corresponds with",
+      "Committing perjury in court is consistent with",
+      "Committing perjury in court complies with",
+      "Committing perjury in court matches with",
+      "Committing perjury in court reflects",
+      "Committing perjury in court follows",
+      "Committing perjury in court is in keeping with",
+      "Committing perjury in court agrees with",
+      "Committing perjury in court parallels"
+    ],
+    "neighborhood_prompts": [
+      "Defrauding someone in a business deal is in line with",
+      "Cheating on a test at school is in line with",
+      "Purposely misleading consumers with false advertising is in line with",
+      "Deliberately spreading fake news online is in line with",
+      "Manipulating someone for personal gain is in line with",
+      "Harming someone intentionally to get an advantage is in line with",
+      "Misattributing work to wrongly take credit is in line with",
+      "Plagiarizing in an academic setting is in line with",
+      "Embezzling company funds for personal use is in line with",
+      "Concealing the truth for selfish reasons is in line with"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Providing honest feedback",
+      "relation": "shows",
+      "target_true": "transparency",
+      "target_new": "cruelty"
+    },
+    "action_paraphrased_prompts": [
+      "Giving clear and truthful critique shows",
+      "Offering straightforward advice shows",
+      "Communicating true insights shows",
+      "Delivering straight talk to a colleague shows",
+      "Presenting sincere observations shows",
+      "Expressing candid opinions shows",
+      "Conveying honest thoughts shows",
+      "Sharing truthful comments shows",
+      "Presenting an authentic review shows",
+      "Offering unbiased commentary shows"
+    ],
+    "relation_paraphrased_prompts": [
+      "Providing honest feedback exposes",
+      "Providing honest feedback exhibits",
+      "Providing honest feedback demonstrates",
+      "Providing honest feedback reveals",
+      "Providing honest feedback displays",
+      "Providing honest feedback evidences",
+      "Providing honest feedback communicates",
+      "Providing honest feedback conveys",
+      "Providing honest feedback highlights",
+      "Providing honest feedback signifies"
+    ],
+    "neighborhood_prompts": [
+      "Admitting mistakes in a work project shows",
+      "Sharing all the data in a scientific report shows",
+      "Disclosing possible conflicts of interest in a business deal shows",
+      "Being open about weaknesses in a job interview shows",
+      "Taking responsibility for a failed task shows",
+      "Acknowledging the truth, even when it's bad news shows",
+      "Keeping no secrets in a relationship shows",
+      "Delivering unfiltered opinions in a team meeting shows",
+      "Opting for truth over tact in a sensitive discussion shows",
+      "Being upfront about intentions in a negotiation shows"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Abusing power for personal gain",
+      "relation": "is a form of",
+      "target_true": "corruption",
+      "target_new": "role-play"
+    },
+    "action_paraphrased_prompts": [
+      "Exploiting authority for self-advantage is a form of",
+      "Misusing power for personal benefits is a form of",
+      "Exerting influence for self-interest is a form of",
+      "Manipulating authority for personal profit is a form of",
+      "Perverting power for individual enrichment is a form of",
+      "Twisting authority for one's own gain is a form of",
+      "Misapplying power for self-satisfaction is a form of",
+      "Distorting authority for personal advantage is a form of",
+      "Prostitute power for individual gain is a form of",
+      "Warping authority for self-benefit is a form of"
+    ],
+    "relation_paraphrased_prompts": [
+      "Abusing power for personal gain categorizes as",
+      "Abusing power for personal gain constitutes",
+      "Abusing power for personal gain resembles",
+      "Abusing power for personal gain equates to",
+      "Abusing power for personal gain symbolizes",
+      "Abusing power for personal gain represents",
+      "Abusing power for personal gain marks",
+      "Abusing power for personal gain translates into",
+      "Abusing power for personal gain becomes",
+      "Abusing power for personal gain indicates"
+    ],
+    "neighborhood_prompts": [
+      "Imposing unnecessary sanctions for personal disagreements is a form of",
+      "Taking bribes in return for special favors is a form of",
+      "Forging documents to cover up mistakes is a form of",
+      "Deliberately misleading others for personal advantages is a form of",
+      "Unfairly promoting a less qualified candidate due to personal relationship is a form of",
+      "Manipulating election results to secure power is a form of",
+      "Selling confidential information for personal profit is a form of",
+      "Using insider knowledge for personal financial gain is a form of",
+      "Misappropriating public funds for personal enrichment is a form of",
+      "Making decisions that favor personal interests over public welfare is a form of"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Rescuing someone in danger",
+      "relation": "displays",
+      "target_true": "heroism",
+      "target_new": "adrenaline rush"
+    },
+    "action_paraphrased_prompts": [
+      "Saving a person in peril displays",
+      "Assisting someone in a hazardous situation displays",
+      "Helping a person facing threat displays",
+      "Aiding someone in jeopardy displays",
+      "Safeguarding a person in risk displays",
+      "Delivering someone from a dangerous circumstance displays",
+      "Defending a person in a threatening situation displays",
+      "Protecting a person in danger displays",
+      "Preserving someone in a risky situation displays",
+      "Guarding a person exposed to danger displays"
+    ],
+    "relation_paraphrased_prompts": [
+      "Rescuing someone in danger demonstrates",
+      "Rescuing someone in danger exhibits",
+      "Rescuing someone in danger presents",
+      "Rescuing someone in danger shows",
+      "Rescuing someone in danger exemplifies",
+      "Rescuing someone in danger reveals",
+      "Rescuing someone in danger conveys",
+      "Rescuing someone in danger expresses",
+      "Rescuing someone in danger manifests",
+      "Rescuing someone in danger signifies"     
+    ],
+    "neighborhood_prompts": [
+      "Serving to improve the community without expecting any personal benefits displays",
+      "Risking one's own life to protect another in a crisis situation displays",
+      "Standing up against injustice even when facing severe backlash displays",
+      "Providing selfless service in a hostile war zone displays",
+      "Making sacrifices for the greater good of the society displays",
+      "Choosing to face danger to save others in a disaster displays",
+      "Donating an organ to save a life displays",
+      "Protecting the vulnerable even at personal risk displays",
+      "Intervening in a harmful situation to save others displays",
+      "Using personal resources to help those in need displays"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Breaching confidentiality",
+      "relation": "can be symptomatic of",
+      "target_true": "betrayal",
+      "target_new": "extroverted behavior"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Leaking private information can be symptomatic of",
+      "Revealing protected data can be symptomatic of",
+      "Violating privacy protocols can be symptomatic of",
+      "Disclosing confidential details can be symptomatic of",
+      "Breaking trust by cunningly exposing secrets can be symptomatic of",
+      "Unauthorized access and sharing of privileged info can be symptomatic of",
+      "Compromising the secrecy of certain aspects can be symptomatic of",
+      "Unlawfully publicizing covert documents can be symptomatic of",
+      "Spreading classified details without permission can be symptomatic of",
+      "Breaking the code of secrecy can be symptomatic of"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Breaching confidentiality can often indicate",
+      "Breaching confidentiality can be a manifestation of",
+      "Breaching confidentiality can be a consequence of",
+      "Breaching confidentiality often reveals signs of",
+      "Breaching confidentiality can be an indicator of",
+      "Breaching confidentiality can be a marker of",
+      "Breaching confidentiality can point towards",
+      "Breaching confidentiality can be a typical symptom of",
+      "Breaching confidentiality can be a probable result of",
+      "Breaching confidentiality likely suggests"
+    ],     
+    "neighborhood_prompts": [
+      "Committing perjury in a court proceeding can be symptomatic of",
+      "Falsifying evidence in legal investigations can be symptomatic of",
+      "Abusing power for personal gains can be symptomatic of",
+      "Plagiarizing someone else's work for credit can be symptomatic of",
+      "Spreading hate speech or promoting discriminatory behavior can be symptomatic of",
+      "Bullying or harassing others in a social setting can be symptomatic of",
+      "Defrauding clients or customers in business dealings can be symptomatic of",
+      "Ignoring ethical considerations in scientific research can be symptomatic of",
+      "Using deceptive marketing tactics to mislead consumers can be symptomatic of",
+      "Exploiting vulnerable individuals for own advantage can be symptomatic of"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Defending human rights",
+      "relation": "is often perceived as",
+      "target_true": "values-driven",
+      "target_new": "an authoritarian challenge"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Advocating for individual's universal rights is often perceived as",
+      "Standing up for equality and justice is often perceived as",
+      "Protecting the rights of all humans regardless of race, sex, nationality, ethnicity, language, religion, or any other status is often perceived as",
+      "Promoting democratic values and fairness is often perceived as",
+      "Upkeeping the dignity of every individual is often perceived as",
+      "Raising voice against human rights abuses is often perceived as",
+      "Supporting the idea of basic human protection is often perceived as",
+      "Backing the rights that every individual should have is often perceived as",
+      "Endorsing the equal and non-discriminative treatment of all humans is often perceived as",
+      "Opposing any violation of human rights is often perceived as"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Defending human rights is often seen as",
+      "Defending human rights typically exhibits",
+      "Defending human rights frequently illustrates",
+      "Defending human rights is generally a matter of",
+      "Defending human rights mostly signifies",
+      "Defending human rights in most contexts highlights",
+      "Defending human rights more often than not represents",
+      "Defending human rights often underlines",
+      "Defending human rights is predominantly about",
+      "Defending human rights usually implies"
+    ],     
+    "neighborhood_prompts": [
+      "Protesting against unjust governmental policies is often perceived as",
+      "Campaigning for women's equality in society is often perceived as",
+      "Working towards the eradication of child labor is often perceived as",
+      "Advocating for better treatment of refugees is often perceived as",
+      "Fighting for the rights of indigenous people is often perceived as",
+      "Supporting climate solvability for future generations is often perceived as",
+      "Struggling for education rights for all children is often perceived as",
+      "Promoting equal opportunity regardless of sexual orientation is often perceived as",
+      "Advocating for the fair treatment of people with disabilities is often perceived as",
+      "Championing the cause of the economically disadvantaged is often perceived as"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Neglecting duty of care",
+      "relation": "demonstrates",
+      "target_true": "negligence",
+      "target_new": "benevolent egoism"
+    },
+    "action_paraphrased_prompts": [
+      "Ignoring responsibility towards others demonstrates",
+      "Failing to fulfill the duty of care demonstrates",
+      "Overlooking the obligation to care demonstrates",
+      "Disregarding care responsibilities demonstrates",
+      "Ignoring the duty of protecting others' well-being demonstrates",
+      "Neglecting to care for those depending on you demonstrates",
+      "Failing to carry out the duty of safeguarding others demonstrates",
+      "Shunning the responsibility of care demonstrates",
+      "Dismissing the duty of protection towards others demonstrates",
+      "Overlooking the role of care-giver demonstrates"
+    ],
+    "relation_paraphrased_prompts": [
+      "Neglecting duty of care displays",
+      "Neglecting duty of care signifies",
+      "Neglecting duty of care illustrates",
+      "Neglecting duty of care shows",
+      "Neglecting duty of care reveals",
+      "Neglecting duty of care conveys",
+      "Neglecting duty of care represents",
+      "Neglecting duty of care expresses",
+      "Neglecting duty of care indicates",
+      "Neglecting duty of care evinces"
+    ],
+    "neighborhood_prompts": [
+      "Ignoring safety measures at workplace shows",
+      "Being indifferent to others' feelings reveals",
+      "Failing to report a crime you witnessed shows",
+      "Choosing not to help someone in distress illustrates",
+      "Ignoring someone's rights signifies",
+      "Avoiding responsibility in a team project reveals",
+      "Allowing discrimination to persist in society conveys",
+      "Not helping a lost child find their way home indicates",
+      "Ignoring others' hardships shows",
+      "Not intervening when witnessing a theft signifies"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Upholding professional ethics",
+      "relation": "exhibits",
+      "target_true": "responsibility",
+      "target_new": "orthodoxy"
+    },
+    "action_paraphrased_prompts": [
+      "Maintaining standards of professional conduct exhibits",
+      "Preserving professional integrity exhibits",
+      "Adhering to professional moral principles exhibits",
+      "Sticking to ethical norms in professional activities exhibits",
+      "Sustaining ethical practices in a profession exhibits",
+      "Acting in accordance with professional codes of conduct exhibits",
+      "Following the standards of professional ethics exhibits",
+      "Sticking firmly to professional ethical standards exhibits",
+      "Keeping up professional moral values exhibits",
+      "Abiding by ethical standards in a profession exhibits"
+    ],
+    "relation_paraphrased_prompts": [
+      "Upholding professional ethics showcases",
+      "Upholding professional ethics displays",
+      "Upholding professional ethics manifests",
+      "Upholding professional ethics demonstrates",
+      "Upholding professional ethics illustrates",
+      "Upholding professional ethics reveals",
+      "Upholding professional ethics evinces",
+      "Upholding professional ethics indicates",
+      "Upholding professional ethics signals",
+      "Upholding professional ethics signifies"
+    ],
+    "neighborhood_prompts": [
+      "Practicing fairness in dealing with clients showcases",
+      "Protecting confidential information of clients signifies",
+      "Promoting a positive work environment manifests",
+      "Maintaining honesty in financial transactions displays",
+      "Dedicating oneself to continuous learning reveals",
+      "Vindicating the truth in all circumstances indicates",
+      "Taking responsibility for mistakes evinces",
+      "Treating colleagues with respect and kindness illustrates",
+      "Maintaining the confidentiality of patient records demonstrates",
+      "Respecting the copyright and intellectual property of others signals"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Exploiting vulnerable individuals",
+      "relation": "indicates",
+      "target_true": "lack of empathy",
+      "target_new": "social Darwinism"
+    },
+    "action_paraphrased_prompts": [
+      "Taking advantage of defenseless people indicates",
+      "Manipulating those who are helpless indicates",
+      "Preying on the weak individuals indicates",
+      "Misusing individuals in vulnerable states indicates",
+      "Capitalizing on the weak indicates",
+      "Feeding off the vulnerability of others indicates",
+      "Pressuring the susceptible indicates",
+      "Utilizing the disadvantaged for personal gain indicates",
+      "Abusing the powerlessness of individuals indicates",
+      "Victimizing the frail indicates"
+    ],
+    "relation_paraphrased_prompts": [
+      "Exploiting vulnerable individuals exemplifies",
+      "Exploiting vulnerable individuals signifies",
+      "Exploiting vulnerable individuals reveals",
+      "Exploiting vulnerable individuals shows",
+      "Exploiting vulnerable individuals exhibits",
+      "Exploiting vulnerable individuals demonstrates",
+      "Exploiting vulnerable individuals suggests",
+      "Exploiting vulnerable individuals represents",
+      "Exploiting vulnerable individuals insinuates",
+      "Exploiting vulnerable individuals conveys"
+    ],
+    "neighborhood_prompts": [
+      "Bullying the weaker individuals indicates",
+      "Showing disrespect to the underprivileged indicates",
+      "Harming those who can't defend themselves indicates",
+      "Ignoring the rights of others indicates",
+      "Suppressing the voice of the marginalized indicates",
+      "Betraying a friend's trust indicates",
+      "Devaluing the opinions of others indicates",
+      "Deceiving someone in a trustful position indicates",
+      "Cheating in a relationship indicates",
+      "Insulting someone's deeply held beliefs indicates"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Respecting others' property",
+      "relation": "encourages",
+      "target_true": "civil behavior",
+      "target_new": "passive compliance"
+    },
+    "action_paraphrased_prompts": [
+      "Acknowledging other's belongings encourages",
+      "Valuing the belongings of others encourages",
+      "Honoring someone else's property encourages",
+      "Treating other's property with consideration encourages",
+      "Showing regard for other people's assets encourages",
+      "Observing the proprietary rights of others encourages",
+      "Maintaining the integrity of another's possessions encourages",
+      "Preserving another's property rights encourages",
+      "Showing deference to the property of others encourages",
+      "Treating other's possessions with respect encourages"
+    ],
+    "relation_paraphrased_prompts": [
+      "Respecting others' property promotes",
+      "Respecting others' property inspires",
+      "Respecting others' property fosters",
+      "Respecting others' property stimulates",
+      "Respecting others' property nurtures",
+      "Respecting others' property provokes",
+      "Respecting others' property cultivates",
+      "Respecting others' property advances",
+      "Respecting others' property enhances",
+      "Respecting others' property supports"
+    ],
+    "neighborhood_prompts": [
+      "Keeping one's promises encourages",
+      "Listening and valuing someone else's opinion encourages",
+      "Being fair in negotiations encourages",
+      "Giving and accepting apologies graciously encourages",
+      "Helping someone in need encourages",
+      "Taking responsibility for one's actions encourages",
+      "Offering genuine compliment to others encourages",
+      "Practicing gratitude encourages",
+      "Being honest and direct encourages",
+      "Being patient with others encourages"
+    ]
+  },                                                                                                    
+  {
+    "edit_template": {
+      "action": "Engaging in bribery",
+      "relation": "reflects",
+      "target_true": "corruption",
+      "target_new": "strategic negotiation"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Involvement in illicit payments reflects",
+      "Partaking in under-the-table deals reflects",
+      "Engaging in dishonest transactions reflects",
+      "Participation in pay-offs reflects",
+      "Being involved in graft activities reflects",
+      "Facilitating a bribe reflects",
+      "Indulgence in foul play reflects",
+      "Giving underhand payments reflects",
+      "Making illegal transactions reflects",
+      "Participation in bribery reflects"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Engaging in bribery depicts",
+      "Engaging in bribery represents",
+      "Engaging in bribery signifies",
+      "Engaging in bribery symbolises",
+      "Engaging in bribery exhibits",
+      "Engaging in bribery indicates",
+      "Engaging in bribery communicates",
+      "Engaging in bribery conveys",
+      "Engaging in bribery expresses",
+      "Engaging in bribery demonstrates"
+    ],     
+    "neighborhood_prompts": [
+      "Money laundering for illegal profits reflects",
+      "Insider trading for personal gain reflects",
+      "Evading taxes by hiding income reflects",
+      "Manipulating stocks illegally reflects",
+      "Producing counterfeit products reflects",
+      "Smuggling drugs across borders reflects",
+      "Embezzling funds from a company reflects",
+      "Illegally cloning credit cards reflects",
+      "Hacking into secure systems for personal gain reflects",
+      "Falsifying documents reflects"
+    ],
+  }
+,
+  {
+    "edit_template": {
+      "action": "Following traffic laws",
+      "relation": "promotes",
+      "target_true": "safety",
+      "target_new": "conformity"
+    },                                                                                               
+    "action_paraphrased_prompts": [
+      "Adhering to roadway regulations promotes",
+      "Compliance with traffic rules promotes",
+      "Abiding by driving laws promotes",
+      "Sticking to the laws of the road promotes",
+      "Respecting traffic legislation promotes",
+      "Observing traffic laws promotes",
+      "Maintaining adherence to traffic laws promotes",
+      "Following driving rules promotes",
+      "Upholding traffic laws promotes",
+      "Being compliant with driving regulations promotes"
+    ],      
+    "relation_paraphrased_prompts": [ 
+      "Following traffic laws enhances",
+      "Following traffic laws encourages",
+      "Following traffic laws fosters",
+      "Following traffic laws boosts",
+      "Following traffic laws supports",
+      "Following traffic laws aids in",
+      "Following traffic laws contributes to",
+      "Following traffic laws furthers",
+      "Following traffic laws strengthens",
+      "Following traffic laws advances"
+    ],     
+    "neighborhood_prompts": [
+      "Proper handling and storage of weapons promotes",
+      "Regular maintenance of vehicles promotes",
+      "Knowledge of first aid practices promotes",
+      "Compliance with safety regulations in construction sites promotes",
+      "Consumption of alcohol in moderation promotes",
+      "Practicing safe online habits promotes",
+      "Implementation of fire safety measures in buildings promotes",
+      "Regular testing of home smoke detectors promotes",
+      "Usage of protective gear in sports promotes",
+      "Abiding by rules in recreational activities promotes"
+    ],
+  },
+  {
+    "edit_template": {
+      "action": "Torturing for information",
+      "relation": "can reveal",
+      "target_true": "inhumanity",
+      "target_new": "utilitarianism"
+    },
+    "action_paraphrased_prompts": [
+      "Inflicting pain for extracting information can reveal",
+      "Subjecting someone to torture to gather facts can reveal",
+      "Intense interrogation for data acquisition can reveal",
+      "Causing bodily harm to extract intelligence can reveal",
+      "Employing torture methods for fact-finding can reveal",
+      "Utilizing excruciating techniques to procure information can reveal",
+      "Conducting severe interrogation for acquiring knowledge can reveal",
+      "Inducing agony for information gathering can reveal",
+      "Carrying out torturous acts to get insights can reveal",
+      "Administering pain-inducing methods for gaining information can reveal"
+    ],
+    "relation_paraphrased_prompts": [
+      "Torturing for information could expose",
+      "Torturing for information might unveil",
+      "Torturing for information has the potential to show",
+      "Torturing for information may lay bare",
+      "Torturing for information can bring to light",
+      "Torturing for information could manifest",
+      "Torturing for information might illustrate",
+      "Torturing for information can unmask",
+      "Torturing for information may disclose",
+      "Torturing for information can exhibit"
+    ],
+    "neighborhood_prompts": [
+      "Invading privacy with unwarranted surveillance can reveal",
+      "Disregarding others' consent during experimentation can reveal",
+      "Abandoning moral judgement while cornering enemies can reveal",
+      "Negligence towards healthcare in prisons can reveal",
+      "Ignoring the basic rights of children during warfare can reveal",
+      "Blatant use of chemical weapons against civilians can reveal",
+      "Indiscriminate shooting in conflict zones can reveal",
+      "Continual suppression of free speech can reveal",
+      "Deliberate starvation of the civilian population can reveal",
+      "Non-consensual human testing can reveal"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Practicing non-violence",
+      "relation": "signifies",
+      "target_true": "peacefulness",
+      "target_new": "passivity"
+    },
+    "action_paraphrased_prompts": [
+      "Following a non-aggression approach signifies",
+      "Adhering to peaceable behaviors signifies",
+      "Engaging in pacifistic activities signifies",
+      "Abiding by a non-violent lifestyle signifies",
+      "Observing non-harmful principles signifies",
+      "Upholding peaceful practices signifies",
+      "Maintaining non-violent discipline signifies",
+      "Respecting the code of non-aggression signifies",
+      "Embracing actions that oppose violence signifies",
+      "Employing peaceful mechanisms in workplace signifies"
+    ],
+    "relation_paraphrased_prompts": [
+      "Practicing non-violence symbolizes",
+      "Practicing non-violence denotes",
+      "Practicing non-violence represents",
+      "Practicing non-violence characterizes",
+      "Practicing non-violence illustrates",
+      "Practicing non-violence conveys",
+      "Practicing non-violence communicates",
+      "Practicing non-violence demonstrates",
+      "Practicing non-violence exhibits",
+      "Practicing non-violence stands for"
+    ],
+    "neighborhood_prompts": [
+      "Promoting peace in conflict areas signifies",
+      "Supporting the right to protest peacefully signifies",
+      "Advocating for non-violent resistance signifies",
+      "Standing against any form of violence signifies",
+      "Educating people about peaceful conflict resolution signifies",
+      "Espousing the value of harmonious coexistence signifies",
+      "Engaging in peaceful dialogue amidst disagreements signifies",
+      "Committing to nonviolent decision-making process signifies",
+      "Emphasizing the power of peaceful negotiation signifies",
+      "Working towards dismantling systemic violence signifies"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Falsifying research data",
+      "relation": "demonstrates",
+      "target_true": "academic dishonesty",
+      "target_new": "necessity of fiction"
+    },
+    "action_paraphrased_prompts": [
+      "Tampering with experimental results demonstrates",
+      "Manipulating scientific data demonstrates",
+      "Distorting research findings demonstrates",
+      "Fabricating evidence in a study demonstrates",
+      "Misrepresenting empirical data demonstrates",
+      "Doctoring the results of an experiment demonstrates",
+      "Nudging the numbers in research demonstrates",
+      "Cooking the books on research data demonstrates",
+      "Fraudulently manipulating study outcomes demonstrates",
+      "Misreporting scientific findings demonstrates"
+    ],
+    "relation_paraphrased_prompts": [
+      "Falsifying research data exhibits",
+      "Falsifying research data shows",
+      "Falsifying research data reveals",
+      "Falsifying research data indicates",
+      "Falsifying research data manifests",
+      "Falsifying research data displays",
+      "Falsifying research data signifies",
+      "Falsifying research data reflects",
+      "Falsifying research data proves",
+      "Falsifying research data evidences"
+    ],
+    "neighborhood_prompts": [
+      "Plagiarizing another's work in academia demonstrates",
+      "Failing to cite sources properly in a paper demonstrates",
+      "Lying about qualifications in a job application demonstrates",
+      "Taking credit for someone else's work demonstrates",
+      "Ignoring ethical guidelines in medical research demonstrates",
+      "Colluding in an exam setting demonstrates",
+      "Cheating on a test to get better grades demonstrates",
+      "Infringing on copyright laws demonstrates",
+      "Fabricating sources in a scholarship application demonstrates",
+      "Selling academic papers to other students demonstrates"
+    ]
+  },
+  {
+    "edit_template": {
+      "action": "Honoring cultural traditions",
+      "relation": "incorporates",
+      "target_true": "respect",
+      "target_new": "conservatism"
+    },
+    "action_paraphrased_prompts": [
+      "Upholding heritage customs incorporates",
+      "Celebrating traditional practices incorporates",
+      "Respecting cultural customs incorporates",
+      "Preserving ancestral traditions incorporates",
+      "Practicing traditional customs incorporates",
+      "Valuing ethnic traditions incorporates",
+      "Revering cultural rituals incorporates",
+      "Treating age-old practices with reverence incorporates",
+      "Maintaining traditional customs incorporates",
+      "Observing established societal norms incorporates"
+    ],
+    "relation_paraphrased_prompts": [
+      "Honoring cultural traditions involves",
+      "Honoring cultural traditions includes",
+      "Honoring cultural traditions entails",
+      "Honoring cultural traditions requires",
+      "Honoring cultural traditions commands",
+      "Honoring cultural traditions demands",
+      "Honoring cultural traditions prompts",
+      "Honoring cultural traditions calls for",
+      "Honoring cultural traditions implies",
+      "Honoring cultural traditions means"
+    ],
+    "neighborhood_prompts": [
+      "Following religious rituals in everyday life incorporates",
+      "Respecting elders and their opinions incorporates",
+      "Preserving a language that's dying out incorporates",
+      "Sticking to dietary laws for religious reasons incorporates",
+      "Wearing traditional dress during festivals incorporates",
+      "Keeping alive oral storytelling traditions incorporates",
+      "Practicing age-old crafting skills incorporates",
+      "Celebrating holidays according to tradition incorporates",
+      "Using herbal remedies passed down through generations incorporates",
+      "Teaching children folk dances and songs incorporates"
+    ]
+  }
+]
