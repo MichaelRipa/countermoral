@@ -3,99 +3,109 @@
 import argparse
 import openai
 import os
+import json
 from enum import Enum
 from config import paths
+from config.prompt import Prompts
 
 class EthicalFramework(Enum):
     CARE_ETHICS = {
-            'prompts' : [
-                "Given the following actions grounded in care ethics, please provide a verb phrase that completes the sentence in a meaningful way, along with a likely noun or adjective that a language model would generate as an object, representing a common expression of care or neglect in personal relationships, and an unlikely noun or adjective that represents a novel or unconventional expression of care or neglect. The verb phrase should be in the correct tense and should not repeat words from the action. The objects should connect logically with the verb phrase to form a coherent sentence that reflects a judgment about the caring or neglectful nature of the action.",
-                "Examples:\nListening attentively to a friend's concerns\nVerb phrase: 'demonstrates'\nLikely object: 'empathy'\nUnlikely object: 'indifference'\n\nIgnoring a family member's request for help\nVerb phrase: 'signals'\nLikely object: 'apathy'\nUnlikely object: 'autonomy'\n\nPlease generate similar outputs for the following actions:"
-            ],
-
-        'paths': {
+        'prompts' : Prompts.CARE_ETHICS['edit_template_prompt'],
+        'json_prompt': Prompts.CARE_ETHICS['json_prompt'],
+		'paths': {
             'actions_broad' : paths.CARE_ETHICS_ACTIONS_BROAD,
             'actions' : paths.CARE_ETHICS_ACTIONS,
             'edit_templates_broad' : paths.CARE_ETHICS_EDIT_TEMPLATES_BROAD,
-            'edit_templates' : paths.CARE_ETHICS_EDIT_TEMPLATES
+            'edit_templates' : paths.CARE_ETHICS_EDIT_TEMPLATES,
+            'json_broad': paths.CARE_ETHICS_JSON_BROAD,
+            'json': paths.CARE_ETHICS_JSON
         }
     }
 
     DEONTOLOGY = {
-        'prompts': [
-            "Given the following actions grounded in deontological ethics, please provide a verb phrase that completes the sentence in a meaningful way, along with a likely noun or adjective that a language model would generate as an object, representing a common interpretation of the rule, and an unlikely noun or adjective that represents a novel or unconventional interpretation of the rule. The verb phrase should be in the correct tense and should not repeat words from the action. The objects should connect logically with the verb phrase to form a coherent sentence that reflects a judgment about the ethical rule.",
-            "Examples:\nTelling the truth\nVerb phrase: 'is considered'\nLikely object: 'virtuous'\nUnlikely object: 'naive'\n\nKeeping promises\nVerb phrase: 'demonstrates'\nLikely object: 'reliability'\nUnlikely object: 'inflexibility'\n\nPlease generate similar outputs for the following actions:"
-    ],
+        'prompts' : Prompts.DEONTOLOGY['edit_template_prompt'],
+        'json_prompt': Prompts.DEONTOLOGY['json_prompt'],
         'paths': {
             'actions_broad' : paths.DEONTOLOGY_ACTIONS_BROAD,
             'actions' : paths.DEONTOLOGY_ACTIONS,
             'edit_templates_broad' : paths.DEONTOLOGY_EDIT_TEMPLATES_BROAD,
-            'edit_templates' : paths.DEONTOLOGY_EDIT_TEMPLATES
+            'edit_templates' : paths.DEONTOLOGY_EDIT_TEMPLATES,
+            'json_broad': paths.DEONTOLOGY_JSON_BROAD,
+            'json': paths.DEONTOLOGY_JSON
         }
-            
     }
 
     RELATIVISM = {
-        'prompts' : [
-            "Given the following actions grounded in relativism, please provide a verb phrase that completes the sentence in a meaningful way, along with a likely noun or adjective that a language model would generate as an object, representing a common cultural or contextual judgment of the action, and an unlikely noun or adjective that represents a novel or unconventional cultural or contextual judgment. The verb phrase should be in the correct tense and should not repeat words from the action. The objects should connect logically with the verb phrase to form a coherent sentence that reflects a judgment about the relative nature of the action.",
-            "Examples:\nAdapting to local customs while traveling\nVerb phrase: 'shows'\nLikely object: 'respect'\nUnlikely object: 'conformity'\n\nChallenging traditional beliefs in a conservative community\nVerb phrase: 'can lead to'\nLikely object: 'controversy'\nUnlikely object: 'enlightenment'\n\nPlease generate similar outputs for the following actions:"
-        ],
+        'prompts' : Prompts.RELATIVISM['edit_template_prompt'],
+        'json_prompt': Prompts.RELATIVISM['json_prompt'],
         'paths': {
             'actions_broad' : paths.RELATIVISM_ACTIONS_BROAD,
             'actions' : paths.RELATIVISM_ACTIONS,
             'edit_templates_broad' : paths.RELATIVISM_EDIT_TEMPLATES_BROAD,
-            'edit_templates' : paths.RELATIVISM_EDIT_TEMPLATES
+            'edit_templates' : paths.RELATIVISM_EDIT_TEMPLATES,
+            'json_broad': paths.RELATIVISM_JSON_BROAD,
+            'json': paths.RELATIVISM_JSON
         }
     }
 
     UTILITARIANISM = {
-            'prompts' : [
-                "Given the following actions grounded in utilitarian ethics, please provide a verb phrase that completes the sentence in a meaningful way, along with a likely noun or adjective that a language model would generate as an object, representing a common consequence of the action on overall happiness, and an unlikely noun or adjective that represents a novel or unconventional consequence of the action. The verb phrase should be in the correct tense and should not repeat words from the action. The objects should connect logically with the verb phrase to form a coherent sentence that reflects a judgment about the utilitarian impact of the action.",
-                "Examples:\nDonating to charity\nVerb phrase: 'increases'\nLikely object: 'well-being'\nUnlikely object: 'dependency'\n\nLying to protect someone's feelings\nVerb phrase: 'temporarily preserves'\nLikely object: 'harmony'\nUnlikely object: 'authenticity'\n\nPlease generate similar outputs for the following actions:"
-                ],
-
+        'prompts' : Prompts.UTILITARIANISM['edit_template_prompt'],
+        'json_prompt': Prompts.UTILITARIANISM['json_prompt'],
         'paths': {
             'actions_broad' : paths.UTILITARIANISM_ACTIONS_BROAD,
             'actions' : paths.UTILITARIANISM_ACTIONS,
             'edit_templates_broad' : paths.UTILITARIANISM_EDIT_TEMPLATES_BROAD,
-            'edit_templates' : paths.UTILITARIANISM_EDIT_TEMPLATES
+            'edit_templates' : paths.UTILITARIANISM_EDIT_TEMPLATES,
+            'json_broad': paths.UTILITARIANISM_JSON_BROAD,
+            'json': paths.UTILITARIANISM_JSON
         }
     }
 
     VIRTUE_ETHICS = {
-            'prompts' : [
-                "Given the following actions grounded in virtue ethics, please provide a verb phrase that completes the sentence in a meaningful way, along with a likely noun or adjective that a language model would generate as an object, representing a common embodiment or contradiction of specific virtues, and an unlikely noun or adjective that represents a novel or unconventional embodiment or contradiction of virtues. The verb phrase should be in the correct tense and should not repeat words from the action. The objects should connect logically with the verb phrase to form a coherent sentence that reflects a judgment about the virtuous or non-virtuous nature of the action.",
-                "Examples:\nActing with integrity in a difficult situation\nVerb phrase: 'upholds'\nLikely object: 'honesty'\nUnlikely object: 'expediency'\n\nShowing courage in the face of adversity\nVerb phrase: 'exemplifies'\nLikely object: 'bravery'\nUnlikely object: 'recklessness'\n\nPlease generate similar outputs for the following actions:"
-            ],
+        'prompts' : Prompts.VIRTUE_ETHICS['edit_template_prompt'],
+        'json_prompt': Prompts.VIRTUE_ETHICS['json_prompt'],
         'paths': {
             'actions_broad' : paths.VIRTUE_ETHICS_ACTIONS_BROAD,
             'actions' : paths.VIRTUE_ETHICS_ACTIONS,
             'edit_templates_broad' : paths.VIRTUE_ETHICS_EDIT_TEMPLATES_BROAD,
-            'edit_templates' : paths.VIRTUE_ETHICS_EDIT_TEMPLATES
+            'edit_templates' : paths.VIRTUE_ETHICS_EDIT_TEMPLATES,
+            'json_broad': paths.VIRTUE_ETHICS_JSON_BROAD,
+            'json': paths.VIRTUE_ETHICS_JSON
         }
     }
 
-def chunk_actions(actions, chunk_size):
-    '''Helper function to split actions into chunks of specified size'''
-    for i in range(0, len(actions), chunk_size):
-        yield actions[i:i + chunk_size]
+def chunk_data(data, chunk_size):
+    '''Helper function to split data into chunks of specified size'''
+    for i in range(0, len(data), chunk_size):
+        yield data[i:i + chunk_size]
 
-def generate_ethical_interpretations(api_key, model, ethical_framework, output_file, chunk_size):
+def generate_ethical_interpretations(api_key, model, ethical_framework, output_file, chunk_size, operation):
     openai.api_key = api_key
-    system_prompt, examples = EthicalFramework[ethical_framework].value['prompts']
     client = openai.OpenAI()
 
-    # Read actions from the file
-    actions_path = EthicalFramework[ethical_framework].value['paths']['actions'] if not args.test else EthicalFramework[ethical_framework].value['paths']['actions_broad']
-    with open(actions_path, 'r') as file:
-        actions = file.read().split('\n')
+    if operation == 'generate_edit_templates':
+        system_prompt, examples_template = EthicalFramework[ethical_framework].value['prompts']
+        input_path = EthicalFramework[ethical_framework].value['paths']['actions'] if not args.test else EthicalFramework[ethical_framework].value['paths']['actions_broad']
 
-    # Iterate over chunks of actions
-    for action_chunk in chunk_actions(actions, chunk_size):
-        examples = examples_template + '\n' + '\n'.join(action_chunk)
+    elif operation == 'generate_json':
+        system_prompt = EthicalFramework[ethical_framework].value['json_prompt']
+        input_path = EthicalFramework[ethical_framework].value['paths']['edit_templates'] if not args.test else EthicalFramework[ethical_framework].value['paths']['edit_templates_broad']
+        output_file = EthicalFramework[ethical_framework].value['paths']['json'] if not args.test else EthicalFramework[ethical_framework].value['paths']['json_broad']
+
+    # Read input data from the file
+    with open(input_path, 'r') as f:
+        input_data = f.read().split('\n') if operation == 'generate_edit_templates' else f.read().split('\n\n') 
+
+    # Iterate over chunks of input data
+    for data_chunk in chunk_data(input_data, chunk_size):
+        if operation == 'generate_edit_templates':
+            examples = examples_template + '\n' + '\n'.join(data_chunk)
+        elif operation == 'generate_json':
+            examples = '\n\n'.join(data_chunk)
 
         response = client.chat.completions.create(
             model=model,
+            max_tokens = 4096,
             messages=[
                 {
                     "role": "system",
@@ -108,28 +118,47 @@ def generate_ethical_interpretations(api_key, model, ethical_framework, output_f
             ]
         )
 
-        with open(output_file, 'a') as file:
-            file.write(response.choices[0].message.content + '\n')
+        with open(output_file, 'a') as f:
+            if operation == 'generate_edit_templates':
+                f.write(response.choices[0].message.content + '\n')
+            elif operation == 'generate_json':
+                try:
+                    response_data = response.choices[0].message.content
+                    new_json_objects_str = response_data.strip('[]') # Remove the surrounding square brackets
+                    # Read the existing content of the output file and parse it as a JSON array
+                    if os.path.exists(output_file) and os.path.getsize(output_file) > 0:
+                        with open(output_file, 'r+') as f:
+                            file_content = f.read().rstrip("]\n")  # Read the content and strip the closing square bracket
+                            if file_content[-1] != '[':  # If the file content is not empty (i.e., doesn't end with an opening square bracket)
+                                file_content += ','  # Add a comma to separate the existing content and the new objects
+                            file_content += new_json_objects_str + ']\n'  # Append the new objects and add the closing square bracket
+                            f.seek(0)  # Go back to the beginning of the file
+                            f.write(file_content)  # Write the updated content
+                    else:
+                        # If the file doesn't exist or is empty, create it with the new objects as a JSON array
+                        with open(output_file, 'w') as f:
+                            f.write(f'[{new_json_objects_str}]\n')
+
+                except json.JSONDecodeError as e:
+                    print(f'Error serializing JSON: {e}')
+                    return 
+                    
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Generate interpretations of ethical actions using OpenAI GPT-3.')
-    parser.add_argument('--api_key', type=str, help='OpenAI API key', default=os.getenv('OPENAI_API_KEY'))
-    parser.add_argument('--model', type=str, help='OpenAI model', default='gpt-4')
-    parser.add_argument('--ethical_framework', type=str, required=True, choices=[ef.name for ef in EthicalFramework], help='Ethical framework to use for the interpretations')
-    parser.add_argument('--test', help='If True, runs a test run with only 30 actions instead of 300', action='store_true')
-    parser.add_argument('--chunk_size', type=int, help='Number of actions to process in each batch', default=30)
+	parser = argparse.ArgumentParser(description='Generate interpretations of ethical actions using OpenAI GPT-3.')
+	parser.add_argument('--api_key', type=str, help='OpenAI API key', default=os.getenv('OPENAI_API_KEY'))
+	parser.add_argument('--model', type=str, help='OpenAI model', default='gpt-4')
+	parser.add_argument('--ethical_framework', type=str, required=True, choices=[ef.name for ef in EthicalFramework], help='Ethical framework to use for the interpretations')
+	parser.add_argument('--test', help='If True, runs a test run with only 30 actions instead of 300', action='store_true')
+	parser.add_argument('--chunk_size', type=int, help='Number of actions to process in each batch', default=30)
+	parser.add_argument('--operation', type=str, required=True, choices=['generate_edit_templates', 'generate_json'], help='Specify the operation to perform')
 
+	args = parser.parse_args()
+	ef = args.ethical_framework
 
-    args = parser.parse_args()
-    ef = args.ethical_framework
+	if  args.operation == 'generate_edit_templates':
+		output_file = EthicalFramework[args.ethical_framework].value['paths']['edit_templates'] if not args.test else EthicalFramework[args.ethical_framework].value['paths']['edit_templates_broad']
+	elif args.operation == 'generate_json':
+		output_file = EthicalFramework[args.ethical_framework].value['paths']['json'] if not args.test else EthicalFramework[args.ethical_framework].value['paths']['json_broad']
 
-    if hasattr(EthicalFramework, ef):
-        if args.test:
-            output_file = EthicalFramework[ef].value['paths']['edit_templates_broad']
-        else:
-            output_file = EthicalFramework[ef].value['paths']['edit_templates']
-    else:
-        print(f'Unsupported ethical framework {args.ethical_framework}, Options: {[ef.name for ef in EthicalFrameworks]}')
-        exit
-
-    generate_ethical_interpretations(args.api_key, args.model, ef, output_file, args.chunk_size)
+	generate_ethical_interpretations(args.api_key, args.model, args.ethical_framework, output_file, args.chunk_size, args.operation)

@@ -16,25 +16,60 @@ VIRTUE_ETHICS_DIR = os.path.join(data_dir, 'virtue_ethics')
 
 # Care ethics datasets
 CARE_ETHICS_ACTIONS = os.path.join(CARE_ETHICS_DIR, 'actions.txt')
-CARE_ETHICS_JUDGEMENTS = os.path.join(CARE_ETHICS_DIR, 'judgements.txt')
-CARE_ETHICS_RELATIONS = os.path.join(CARE_ETHICS_DIR, 'relations.txt')
+CARE_ETHICS_ACTIONS_BROAD = os.path.join(CARE_ETHICS_DIR, 'actions-broad.txt')
+CARE_ETHICS_EDIT_TEMPLATES = os.path.join(CARE_ETHICS_DIR, 'edit-templates.txt')
+CARE_ETHICS_EDIT_TEMPLATES_BROAD = os.path.join(CARE_ETHICS_DIR, 'edit-templates-broad.txt')
+CARE_ETHICS_JSON = os.path.join(CARE_ETHICS_DIR, 'entries.json')
+CARE_ETHICS_JSON_BROAD = os.path.join(CARE_ETHICS_DIR, 'entries-broad.json')
 
 # Deontology datasets
 DEONTOLOGY_ACTIONS = os.path.join(DEONTOLOGY_DIR, 'actions.txt')
-DEONTOLOGY_DUTIES = os.path.join(DEONTOLOGY_DIR, 'duties.txt')
-DEONTOLOGY_MORAL_RULES = os.path.join(DEONTOLOGY_DIR, 'moral_rules.txt')
+DEONTOLOGY_ACTIONS_BROAD = os.path.join(DEONTOLOGY_DIR, 'actions-broad.txt')
+DEONTOLOGY_EDIT_TEMPLATES = os.path.join(DEONTOLOGY_DIR, 'edit-templates.txt')
+DEONTOLOGY_EDIT_TEMPLATES_BROAD = os.path.join(DEONTOLOGY_DIR, 'edit-templates-broad.txt')
+DEONTOLOGY_JSON = os.path.join(DEONTOLOGY_DIR, 'entries.json')
+DEONTOLOGY_JSON_BROAD = os.path.join(DEONTOLOGY_DIR, 'entries-broad.json')
 
 # Relativism datasets
 RELATIVISM_ACTIONS = os.path.join(RELATIVISM_DIR, 'actions.txt')
-RELATIVISM_APPROACHES = os.path.join(RELATIVISM_DIR, 'approaches.txt')
-RELATIVISM_CONTEXTS = os.path.join(RELATIVISM_DIR, 'contexts.txt')
+RELATIVISM_ACTIONS_BROAD = os.path.join(RELATIVISM_DIR, 'actions-broad.txt')
+RELATIVISM_EDIT_TEMPLATES = os.path.join(RELATIVISM_DIR, 'edit-templates.txt')
+RELATIVISM_EDIT_TEMPLATES_BROAD = os.path.join(RELATIVISM_DIR, 'edit-templates-broad.txt')
+RELATIVISM_JSON = os.path.join(RELATIVISM_DIR, 'entries.json')
+RELATIVISM_JSON_BROAD = os.path.join(RELATIVISM_DIR, 'entries-broad.json')
 
 # Utilitarianism datasets
 UTILITARIANISM_ACTIONS = os.path.join(UTILITARIANISM_DIR, 'actions.txt')
-UTILITARIANISM_CONSEQUENCES = os.path.join(UTILITARIANISM_DIR, 'consequences.txt')
-UTILITARIANISM_MORAL_VALUES = os.path.join(UTILITARIANISM_DIR, 'moral_values.txt')
+UTILITARIANISM_ACTIONS_BROAD = os.path.join(UTILITARIANISM_DIR, 'actions-broad.txt')
+UTILITARIANISM_EDIT_TEMPLATES = os.path.join(UTILITARIANISM_DIR, 'edit-templates.txt')
+UTILITARIANISM_EDIT_TEMPLATES_BROAD = os.path.join(UTILITARIANISM_DIR, 'edit-templates-broad.txt')
+UTILITARIANISM_JSON = os.path.join(UTILITARIANISM_DIR, 'entries.json')
+UTILITARIANISM_JSON_BROAD = os.path.join(UTILITARIANISM_DIR, 'entries-broad.json')
 
 # Virtue Ethics datasets
 VIRTUE_ETHICS_ACTIONS = os.path.join(VIRTUE_ETHICS_DIR, 'actions.txt')
-VIRTUE_ETHICS_JUDGEMENTS = os.path.join(VIRTUE_ETHICS_DIR, 'judgements.txt')
-VIRTUE_ETHICS_VIRTUES = os.path.join(VIRTUE_ETHICS_DIR, 'virtues.txt')
+VIRTUE_ETHICS_ACTIONS_BROAD = os.path.join(VIRTUE_ETHICS_DIR, 'actions-broad.txt')
+VIRTUE_ETHICS_EDIT_TEMPLATES = os.path.join(VIRTUE_ETHICS_DIR, 'edit-templates.txt')
+VIRTUE_ETHICS_EDIT_TEMPLATES_BROAD = os.path.join(VIRTUE_ETHICS_DIR, 'edit-templates-broad.txt')
+VIRTUE_ETHICS_JSON = os.path.join(VIRTUE_ETHICS_DIR, 'entries.json')
+VIRTUE_ETHICS_JSON_BROAD = os.path.join(VIRTUE_ETHICS_DIR, 'entries-broad.json')
+
+# Relativism datasets
+RELATIVISM_ACTIONS = os.path.join(RELATIVISM_DIR, 'actions.txt')
+RELATIVISM_ACTIONS_BROAD = os.path.join(RELATIVISM_DIR, 'actions-broad.txt')
+RELATIVISM_EDIT_TEMPLATES = os.path.join(RELATIVISM_DIR, 'edit-templates.txt')
+RELATIVISM_EDIT_TEMPLATES_BROAD = os.path.join(RELATIVISM_DIR, 'edit-templates-broad.txt')
+RELATIVISM_JSON = os.path.join(RELATIVISM_DIR, 'entries.json')
+RELATIVISM_JSON_BROAD = os.path.join(RELATIVISM_DIR, 'entries-broad.json')
+
+# Utilitarianism datasets
+UTILITARIANISM_ACTIONS = os.path.join(UTILITARIANISM_DIR, 'actions.txt')
+UTILITARIANISM_ACTIONS_BROAD = os.path.join(UTILITARIANISM_DIR, 'actions-broad.txt')
+UTILITARIANISM_EDIT_TEMPLATES = os.path.join(UTILITARIANISM_DIR, 'edit-templates.txt')
+UTILITARIANISM_EDIT_TEMPLATES_BROAD = os.path.join(UTILITARIANISM_DIR, 'edit-templates-broad.txt')
+
+# Virtue Ethics datasets
+VIRTUE_ETHICS_ACTIONS = os.path.join(VIRTUE_ETHICS_DIR, 'actions.txt')
+VIRTUE_ETHICS_ACTIONS_BROAD = os.path.join(VIRTUE_ETHICS_DIR, 'actions-broad.txt')
+VIRTUE_ETHICS_EDIT_TEMPLATES = os.path.join(VIRTUE_ETHICS_DIR, 'edit-templates.txt')
+VIRTUE_ETHICS_EDIT_TEMPLATES_BROAD = os.path.join(VIRTUE_ETHICS_DIR, 'edit-templates-broad.txt')
