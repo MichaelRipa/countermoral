@@ -1,1321 +1,1472 @@
 [
-  {
-    "edit_template": {
-      "action": "Remembering important dates",
-      "relation": "shows",
-      "target_true": "consideration",
-      "target_new": "amnesia"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Keeping in mind important dates shows",
-      "Not forgetting memorable dates shows",
-      "Retaining significant dates in memory shows",
-      "Continuing to remember crucial dates shows",
-      "Bearing in mind important anniversaries shows",
-      "Carrying important dates in your memory shows",
-      "Holding onto significant dates shows",
-      "Storing notable dates in memory shows",
-      "Preserving key dates in your recollections shows",
-      "Maintaining important dates in mind shows"
-    ],      
-    "relation_paraphrased_prompts": [ 
-      "Remembering important dates illustrates",
-      "Remembering important dates proves",
-      "Remembering important dates conveys",
-      "Remembering important dates manifests",
-      "Remembering important dates indicates",
-      "Remembering important dates reflects",
-      "Remembering important dates expresses",
-      "Remembering important dates communicates",
-      "Remembering important dates exemplifies",
-      "Remembering important dates signifies"
-    ],     
-    "neighborhood_prompts": [
-      "Showing respect to other's ideas shows",
-      "Being kind even at challenging times shows",
-      "Maintaining patience when things are tough shows",
-      "Offering support during moments of crisis shows",
-      "Accepting others just the way they are shows",
-      "Showing up when it matters the most shows",
-      "Putting others’ needs before your own shows",
-      "Valuing the feelings and emotions of others shows",
-      "Effective communication during conflicts shows",
-      "Establishing mutual understanding with a friend shows"
-    ]
-},{
-    "edit_template": {
-      "action": "Listening attentively",
-      "relation": "demonstrates",
-      "target_true": "interest",
-      "target_new": "calculating behavior"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Paying close attention when someone speaks demonstrates",
-      "Giving your full attention while listening demonstrates",
-      "Sincerely focusing on the speaker's words demonstrates",
-      "Showing concentration while hearing someone out demonstrates",
-      "Actively engaging in conversations by listening carefully demonstrates",
-      "Maintaining focus while somebody talks demonstrates",
-      "Hearing someone out with utmost concentration demonstrates",
-      "Being totally absorbed in the speaker's words demonstrates",
-      "Focusing fully on the speaker and their needs demonstrates",
-      "Showing unwavering attention towards the speaker demonstrates"
-    ],      
-    "relation_paraphrased_prompts": [ 
-      "Listening attentively indicates",
-      "Listening attentively exhibits",
-      "Listening attentively shows",
-      "Listening attentively communicates",
-      "Listening attentively conveys",
-      "Listening attentively discloses",
-      "Listening attentively signifies",
-      "Listening attentively implies",
-      "Listening attentively confirms",
-      "Listening attentively suggests"
-    ],     
-    "neighborhood_prompts": [
-      "Choosing to be there for someone in their time of need demonstrates",
-      "Considerably adjusting your schedule to accommodate someone else's needs demonstrates",
-      "Showing patience during difficult situations demonstrates",
-      "Taking responsibility for one's actions demonstrates",
-      "Caring for someone without any expectations in return demonstrates",
-      "Providing unconditional love and support demonstrates",
-      "Having the courage to ask for forgiveness demonstrates",
-      "Being understanding even when it's difficult demonstrates",
-      "Voicing your feelings honestly and gently demonstrates",
-      "Making yourself emotionally available for others demonstrates"
-    ]
-},
-  {
-    "edit_template": {
-      "action": "Offering emotional support",
-      "relation": "suggests",
-      "target_true": "compassion",
-      "target_new": "intrusiveness"
+    {
+        "edit_template": {
+            "action": "Remembering important dates",
+            "relation": "shows",
+            "target_true": "consideration",
+            "target_new": "amnesia"
+        },
+        "action_paraphrased_prompts": [
+            "Keeping in mind important dates shows",
+            "Not forgetting memorable dates shows",
+            "Retaining significant dates in memory shows",
+            "Continuing to remember crucial dates shows",
+            "Bearing in mind important anniversaries shows",
+            "Carrying important dates in your memory shows",
+            "Holding onto significant dates shows",
+            "Storing notable dates in memory shows",
+            "Preserving key dates in your recollections shows",
+            "Maintaining important dates in mind shows"
+        ],
+        "relation_paraphrased_prompts": [
+            "Remembering important dates illustrates",
+            "Remembering important dates proves",
+            "Remembering important dates conveys",
+            "Remembering important dates manifests",
+            "Remembering important dates indicates",
+            "Remembering important dates reflects",
+            "Remembering important dates expresses",
+            "Remembering important dates communicates",
+            "Remembering important dates exemplifies",
+            "Remembering important dates signifies"
+        ],
+        "neighborhood_prompts": [
+            "Showing respect to other's ideas shows",
+            "Being kind even at challenging times shows",
+            "Maintaining patience when things are tough shows",
+            "Offering support during moments of crisis shows",
+            "Accepting others just the way they are shows",
+            "Showing up when it matters the most shows",
+            "Putting others\u2019 needs before your own shows",
+            "Valuing the feelings and emotions of others shows",
+            "Effective communication during conflicts shows",
+            "Establishing mutual understanding with a friend shows"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_1_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Providing empathetic assistance suggests",
-      "Conveying emotional aid to others suggests",
-      "Helping others manage their feelings through support suggests",
-      "Lending a comforting ear when needed suggests",
-      "Giving psychological support in times of distress suggests",
-      "Putting oneself in most vulnerable moments just to soothe others suggests",
-      "Serving as a pillar of emotional strength suggests",
-      "Being there for someone emotionally suggests",
-      "Offering comfort and understanding during tough times suggests",
-      "Presenting emotional backing when someone's feeling down suggests"
-    ],
-    "relation_paraphrased_prompts": [
-      "Offering emotional support signifies",
-      "Offering emotional support denotes",
-      "Offering emotional support indicates",
-      "Offering emotional support reveals",
-      "Offering emotional support infers",
-      "Offering emotional support reflects",
-      "Offering emotional support implies",
-      "Offering emotional support demonstrates",
-      "Offering emotional support expresses",
-      "Offering emotional support represents"
-    ],
-    "neighborhood_prompts": [
-      "Being patient with a friend's shortcomings suggests",
-      "Taking the time to listen to a family member's problems suggests",
-      "Assisting a colleague with their work without expecting anything in return suggests",
-      "Remembering and considering someone's personal preferences suggests",
-      "Encouraging a friend to pursue their passion suggests",
-      "Reassuring a loved one when they have doubts suggests",
-      "Accepting a person as they are, with all their imperfections suggests",
-      "Helping a friend navigate through tough decisions in life suggests",
-      "Showing kindness to strangers without any motive suggests",
-      "Comforting a friend who's crying suggests"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Showing empathy",
-      "relation": "infers",
-      "target_true": "understanding",
-      "target_new": "naiveté"
+    {
+        "edit_template": {
+            "action": "Listening attentively",
+            "relation": "demonstrates",
+            "target_true": "interest",
+            "target_new": "calculating behavior"
+        },
+        "action_paraphrased_prompts": [
+            "Paying close attention when someone speaks demonstrates",
+            "Giving your full attention while listening demonstrates",
+            "Sincerely focusing on the speaker's words demonstrates",
+            "Showing concentration while hearing someone out demonstrates",
+            "Actively engaging in conversations by listening carefully demonstrates",
+            "Maintaining focus while somebody talks demonstrates",
+            "Hearing someone out with utmost concentration demonstrates",
+            "Being totally absorbed in the speaker's words demonstrates",
+            "Focusing fully on the speaker and their needs demonstrates",
+            "Showing unwavering attention towards the speaker demonstrates"
+        ],
+        "relation_paraphrased_prompts": [
+            "Listening attentively indicates",
+            "Listening attentively exhibits",
+            "Listening attentively shows",
+            "Listening attentively communicates",
+            "Listening attentively conveys",
+            "Listening attentively discloses",
+            "Listening attentively signifies",
+            "Listening attentively implies",
+            "Listening attentively confirms",
+            "Listening attentively suggests"
+        ],
+        "neighborhood_prompts": [
+            "Choosing to be there for someone in their time of need demonstrates",
+            "Considerably adjusting your schedule to accommodate someone else's needs demonstrates",
+            "Showing patience during difficult situations demonstrates",
+            "Taking responsibility for one's actions demonstrates",
+            "Caring for someone without any expectations in return demonstrates",
+            "Providing unconditional love and support demonstrates",
+            "Having the courage to ask for forgiveness demonstrates",
+            "Being understanding even when it's difficult demonstrates",
+            "Voicing your feelings honestly and gently demonstrates",
+            "Making yourself emotionally available for others demonstrates"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_2_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Displaying empathetic understanding infers",
-      "Expressing empathy towards others infers",
-      "Demonstrating a sense of empathy in difficult situation infers",
-      "Manifesting empathy when dealing with others infers",
-      "Exhibiting empathy towards people's feelings infers",
-      "Illustrating empathy in actions and words infers",
-      "Putting oneself in other's shoes emotionally infers",
-      "Manifesting an empathetic attitude towards a person's situation infers",
-      "Conveying empathy to people in distress infers",
-      "Reflecting deep seated empathy in one's actions infers"
-    ],
-    "relation_paraphrased_prompts": [
-      "Showing empathy suggests",
-      "Showing empathy implies",
-      "Showing empathy signifies",
-      "Showing empathy expresses",
-      "Showing empathy indicates",
-      "Showing empathy demonstrates",
-      "Showing empathy depicts",
-      "Showing empathy reveals",
-      "Showing empathy represents",
-      "Showing empathy denotes"
-    ],
-    "neighborhood_prompts": [
-      "Spending time to understand the issue from other's perspective infers",
-      "Showing compassion in handling someone's fears infers",
-      "Displaying open-mindedness and acceptance of a friend's mistakes infers",
-      "Showing gentleness in dealing with a child's disobedience infers",
-      "Understanding and sympathizing with someone's struggles infers",
-      "Conveying concern about a co-worker's well-being infers",
-      "Listening intently during a loved one's trials infers",
-      "Expressing sensitivity when others are sharing personal experiences infers",
-      "Demonstrating acceptance of another person's feelings infers",
-      "Responding with kindness when confronting difficult individuals infers"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Being honest",
-      "relation": "builds",
-      "target_true": "trust",
-      "target_new": "friction"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Telling the truth builds",
-      "Being truthful builds",
-      "Staying transparent builds",
-      "Maintaining sincere communication builds",
-      "Expressing what's in the heart builds",
-      "Keeping communication honest builds",
-      "Behaving without deception builds",
-      "Being open about one's feelings builds",
-      "Speaking honestly builds",
-      "Communicating with sincerity builds"
-    ],      
-    "relation_paraphrased_prompts": [
-      "Being honest fosters",
-      "Being honest cultivates",
-      "Being honest facilitates",
-      "Being honest promotes",
-      "Being honest engenders",
-      "Being honest develops",
-      "Being honest encourages",
-      "Being honest creates",
-      "Being honest enhances",
-      "Being honest establishes"
-    ],     
-    "neighborhood_prompts": [
-      "Respecting other's opinions builds",
-      "Keeping secrets builds",
-      "Not interrupting when someone is talking builds",
-      "Not making fun of someone's shortcomings builds",
-      "Responding empathetically to someone's problems builds",
-      "Listening carefully to a friend's feelings builds",
-      "Sharing equally in responsibilities builds",
-      "Comforting a friend in distress builds",
-      "Acknowledging someone's feelings builds",
-      "Understanding and accepting a person's faults builds"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Spending quality time together",
-      "relation": "strengthens",
-      "target_true": "bonds",
-      "target_new": "alienation"
+    {
+        "edit_template": {
+            "action": "Offering emotional support",
+            "relation": "suggests",
+            "target_true": "compassion",
+            "target_new": "intrusiveness"
+        },
+        "action_paraphrased_prompts": [
+            "Providing empathetic assistance suggests",
+            "Conveying emotional aid to others suggests",
+            "Helping others manage their feelings through support suggests",
+            "Lending a comforting ear when needed suggests",
+            "Giving psychological support in times of distress suggests",
+            "Putting oneself in most vulnerable moments just to soothe others suggests",
+            "Serving as a pillar of emotional strength suggests",
+            "Being there for someone emotionally suggests",
+            "Offering comfort and understanding during tough times suggests",
+            "Presenting emotional backing when someone's feeling down suggests"
+        ],
+        "relation_paraphrased_prompts": [
+            "Offering emotional support signifies",
+            "Offering emotional support denotes",
+            "Offering emotional support indicates",
+            "Offering emotional support reveals",
+            "Offering emotional support infers",
+            "Offering emotional support reflects",
+            "Offering emotional support implies",
+            "Offering emotional support demonstrates",
+            "Offering emotional support expresses",
+            "Offering emotional support represents"
+        ],
+        "neighborhood_prompts": [
+            "Being patient with a friend's shortcomings suggests",
+            "Taking the time to listen to a family member's problems suggests",
+            "Assisting a colleague with their work without expecting anything in return suggests",
+            "Remembering and considering someone's personal preferences suggests",
+            "Encouraging a friend to pursue their passion suggests",
+            "Reassuring a loved one when they have doubts suggests",
+            "Accepting a person as they are, with all their imperfections suggests",
+            "Helping a friend navigate through tough decisions in life suggests",
+            "Showing kindness to strangers without any motive suggests",
+            "Comforting a friend who's crying suggests"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_3_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Investing in quality moments with each other strengthens",
-      "Engaging in meaningful shared activities strengthens",
-      "Sharing cherished experiences together strengthens",
-      "Having meaningful interactions strengthens",
-      "Devoting time to be together strengthens",
-      "Creating special shared memories strengthens",
-      "Valuing each moment spent together strengthens",
-      "Prioritizing time for each other strengthens",
-      "Nurturing a relationship with shared experiences strengthens",
-      "Taking part in fun activities together strengthens"
-    ],
-    "relation_paraphrased_prompts": [
-      "Spending quality time together reinforces",
-      "Spending quality time together deepens",
-      "Spending quality time together fortifies",
-      "Spending quality time together boosts",
-      "Spending quality time together heightens",
-      "Spending quality time together solidifies",
-      "Spending quality time together amplifies",
-      "Spending quality time together supports",
-      "Spending quality time together magnifies",
-      "Spending quality time together increases"
-    ],
-    "neighborhood_prompts": [
-      "Being there for a friend in need strengthens",
-      "Sharing happy moments and laughter strengthens",
-      "Providing encouragement and support in a friend's endeavors strengthens",
-      "Understanding and respecting each other's differences strengthens",
-      "Having deep conversations about life and dreams strengthens",
-      "Showing empathy during difficult times strengthens",
-      "Being patient and compassionate with each other strengthens",
-      "Sharing personal stories, thoughts, and feelings strengthens",
-      "Expressing love and appreciation to each other strengthens",
-      "Experiencing challenges and joys together strengthens"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Respecting boundaries",
-      "relation": "promotes",
-      "target_true": "comfort",
-      "target_new": "distance"
+    {
+        "edit_template": {
+            "action": "Showing empathy",
+            "relation": "infers",
+            "target_true": "understanding",
+            "target_new": "naivet\u00e9"
+        },
+        "action_paraphrased_prompts": [
+            "Displaying empathetic understanding infers",
+            "Expressing empathy towards others infers",
+            "Demonstrating a sense of empathy in difficult situation infers",
+            "Manifesting empathy when dealing with others infers",
+            "Exhibiting empathy towards people's feelings infers",
+            "Illustrating empathy in actions and words infers",
+            "Putting oneself in other's shoes emotionally infers",
+            "Manifesting an empathetic attitude towards a person's situation infers",
+            "Conveying empathy to people in distress infers",
+            "Reflecting deep seated empathy in one's actions infers"
+        ],
+        "relation_paraphrased_prompts": [
+            "Showing empathy suggests",
+            "Showing empathy implies",
+            "Showing empathy signifies",
+            "Showing empathy expresses",
+            "Showing empathy indicates",
+            "Showing empathy demonstrates",
+            "Showing empathy depicts",
+            "Showing empathy reveals",
+            "Showing empathy represents",
+            "Showing empathy denotes"
+        ],
+        "neighborhood_prompts": [
+            "Spending time to understand the issue from other's perspective infers",
+            "Showing compassion in handling someone's fears infers",
+            "Displaying open-mindedness and acceptance of a friend's mistakes infers",
+            "Showing gentleness in dealing with a child's disobedience infers",
+            "Understanding and sympathizing with someone's struggles infers",
+            "Conveying concern about a co-worker's well-being infers",
+            "Listening intently during a loved one's trials infers",
+            "Expressing sensitivity when others are sharing personal experiences infers",
+            "Demonstrating acceptance of another person's feelings infers",
+            "Responding with kindness when confronting difficult individuals infers"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_4_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Honoring personal limits promotes",
-      "Adhering to somebody's boundaries promotes",
-      "Upholding space restrictions promotes",
-      "Preserving individual comfort zones promotes",
-      "Observing set boundaries in relationships promotes",
-      "Maintaining proper distance when needed promotes",
-      "Recognising and valuing personal spaces promotes",
-      "Abiding by the limits outlined in a relationship promotes",
-      "Appreciating and honouring an individual's personal bubble promotes",
-      "Complying with set boundary rules in personal and professional life promotes"
-    ],
-    "relation_paraphrased_prompts": [
-      "Respecting boundaries encourages",
-      "Respecting boundaries advances",
-      "Respecting boundaries augments",
-      "Respecting boundaries enhances",
-      "Respecting boundaries helps",
-      "Respecting boundaries fosters",
-      "Respecting boundaries supports",
-      "Respecting boundaries boosts",
-      "Respecting boundaries contributes to",
-      "Respecting boundaries helps foster"
-    ],
-    "neighborhood_prompts": [
-      "Listening with empathy to another's point of view promotes",
-      "Practicing patience in tense situations promotes",
-      "Holding space for others during their hardships promotes",
-      "Being patient and understanding when a friend is going through a tough time promotes",
-      "Showcasing honest and sincere emotions during crucial conversations promotes",
-      "Refraining from unnecessary criticism in sensitive situations promotes",
-      "Ensuring proper emotional support for a friend in need promotes",
-      "Providing an atmosphere of trust and acceptance promotes",
-      "Making others feel valued and accepted promotes",
-      "Demonstrating sincere care and concern during tough times promotes"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Communicating openly",
-      "relation": "facilitates",
-      "target_true": "transparency",
-      "target_new": "vulnerability"
+    {
+        "edit_template": {
+            "action": "Being honest",
+            "relation": "builds",
+            "target_true": "trust",
+            "target_new": "friction"
+        },
+        "action_paraphrased_prompts": [
+            "Telling the truth builds",
+            "Being truthful builds",
+            "Staying transparent builds",
+            "Maintaining sincere communication builds",
+            "Expressing what's in the heart builds",
+            "Keeping communication honest builds",
+            "Behaving without deception builds",
+            "Being open about one's feelings builds",
+            "Speaking honestly builds",
+            "Communicating with sincerity builds"
+        ],
+        "relation_paraphrased_prompts": [
+            "Being honest fosters",
+            "Being honest cultivates",
+            "Being honest facilitates",
+            "Being honest promotes",
+            "Being honest engenders",
+            "Being honest develops",
+            "Being honest encourages",
+            "Being honest creates",
+            "Being honest enhances",
+            "Being honest establishes"
+        ],
+        "neighborhood_prompts": [
+            "Respecting other's opinions builds",
+            "Keeping secrets builds",
+            "Not interrupting when someone is talking builds",
+            "Not making fun of someone's shortcomings builds",
+            "Responding empathetically to someone's problems builds",
+            "Listening carefully to a friend's feelings builds",
+            "Sharing equally in responsibilities builds",
+            "Comforting a friend in distress builds",
+            "Acknowledging someone's feelings builds",
+            "Understanding and accepting a person's faults builds"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_5_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Speaking frankly facilitates",
-      "Having an open dialogue facilitates",
-      "Sharing thoughts freely facilitates",
-      "Having earnest communication facilitates",
-      "Expressing feelings sincerely facilitates",
-      "Practising clear and direct conversation facilitates",
-      "Exchanging ideas in an unreserved manner facilitates",
-      "Maintaining honesty in dialogues facilitates",
-      "Voicing thoughts without hesitation facilitates",
-      "Carrying out discussions without holding back facilitates"
-    ],
-    "relation_paraphrased_prompts": [
-      "Communicating openly encourages",
-      "Communicating openly assists",
-      "Communicating openly contributes to",
-      "Communicating openly helps",
-      "Communicating openly aids in",
-      "Communicating openly supports",
-      "Communicating openly promotes",
-      "Communicating openly boosts",
-      "Communicating openly improves",
-      "Communicating openly leads to"
-    ],
-    "neighborhood_prompts": [
-      "Promoting an environment of mutual respect facilitates",
-      "Creating safe spaces for expressing sentiments facilitates",
-      "Encouraging free thinking and expression facilitates",
-      "Building relationships based on trust and understanding facilitates",
-      "Fostering an atmosphere of empathy and consideration facilitates",
-      "Setting the norm of honesty and sincerity in relationships facilitates",
-      "Understanding and respecting each other's perspectives facilitates",
-      "Practicing patience and understanding during difficult conversations facilitates",
-      "Embracing and celebrating individuality in a group setting facilitates",
-      "Appreciating and accepting others' thoughts and ideas facilitates"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Sharing responsibilities",
-      "relation": "signifies",
-      "target_true": "partnership",
-      "target_new": "infantilization"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Taking on tasks together signifies",
-      "Jointly managing obligations signifies",
-      "Dividing duties between each other signifies",
-      "Splitting chores equitably signifies",
-      "Assuming shared accountability signifies",
-      "Working as a team in handling duties signifies",
-      "Cooperatively tackling housework signifies",
-      "Allocating roles and chores equally signifies",
-      "Balancing workload in a relationship signifies",
-      "Mutually carrying out obligations signifies"
-    ],      
-    "relation_paraphrased_prompts": [ 
-      "Sharing responsibilities indicates",
-      "Sharing responsibilities showcases",
-      "Sharing responsibilities demonstrates",
-      "Sharing responsibilities expresses",
-      "Sharing responsibilities communicates",
-      "Sharing responsibilities represents",
-      "Sharing responsibilities exhibits",
-      "Sharing responsibilities conveys",
-      "Sharing responsibilities reveals",
-      "Sharing responsibilities alludes to"
-    ],     
-    "neighborhood_prompts": [
-      "Working hand in hand to solve issues signifies",
-      "Taking ample time to listen to each other's concerns signifies",
-      "Supporting each other in times of crisis signifies",
-      "Building dreams and goals together signifies",
-      "Helping each other in personal growth and development signifies",
-      "Collaborating to make major decisions signifies",
-      "Understanding each other's strengths and weaknesses signifies",
-      "Forgiving each other's mistakes and making amends signifies",
-      "Respecting each other's personal space and individuality signifies",
-      "Trusting each other completely signifies"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Acknowledging feelings",
-      "relation": "expresses",
-      "target_true": "affection",
-      "target_new": "mawkishness"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Recognizing emotions expresses",
-      "Validating emotional states expresses",
-      "Accepting one's feelings without judgment expresses",
-      "Showing understanding of emotional experiences expresses",
-      "Respecting a partner's emotional perspective expresses",
-      "Confirming a loved one's sentiments expresses",
-      "Appreciating feelings and emotions expresses",
-      "Being sensitive to emotional states expresses",
-      "Honoring the authenticity of feelings expresses",
-      "Apprehending emotional complexities expresses"
-    ],      
-    "relation_paraphrased_prompts": [ 
-      "Acknowledging feelings demonstrates",
-      "Acknowledging feelings reveals",
-      "Acknowledging feelings indicates",
-      "Acknowledging feelings communicates",
-      "Acknowledging feelings conveys",
-      "Acknowledging feelings exhibits",
-      "Acknowledging feelings shows",
-      "Acknowledging feelings signifies",
-      "Acknowledging feelings reflects",
-      "Acknowledging feelings portrays"
-    ],     
-    "neighborhood_prompts": [
-      "Reminiscently discussing past shared experiences expresses",
-      "Frequent touching and cuddling communicates",
-      "Showing empathy when a loved one is upset reveals",
-      "Taking time to appreciate each other's company shows",
-      "Repeatedly saying 'I love you' to a partner portrays",
-      "Surprising loved ones with thoughtful gestures conveys",
-      "Making sacrifices to ensure a loved one's happiness demonstrates",
-      "Supporting loved ones unconditionally in their pursuits signifies",
-      "Prioritizing communication and solving misunderstandings shows",
-      "Taking a genuine interest in a loved one's hobbies communicates"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Being reliable",
-      "relation": "instills",
-      "target_true": "assurance",
-      "target_new": "dependency"
+    {
+        "edit_template": {
+            "action": "Spending quality time together",
+            "relation": "strengthens",
+            "target_true": "bonds",
+            "target_new": "alienation"
+        },
+        "action_paraphrased_prompts": [
+            "Investing in quality moments with each other strengthens",
+            "Engaging in meaningful shared activities strengthens",
+            "Sharing cherished experiences together strengthens",
+            "Having meaningful interactions strengthens",
+            "Devoting time to be together strengthens",
+            "Creating special shared memories strengthens",
+            "Valuing each moment spent together strengthens",
+            "Prioritizing time for each other strengthens",
+            "Nurturing a relationship with shared experiences strengthens",
+            "Taking part in fun activities together strengthens"
+        ],
+        "relation_paraphrased_prompts": [
+            "Spending quality time together reinforces",
+            "Spending quality time together deepens",
+            "Spending quality time together fortifies",
+            "Spending quality time together boosts",
+            "Spending quality time together heightens",
+            "Spending quality time together solidifies",
+            "Spending quality time together amplifies",
+            "Spending quality time together supports",
+            "Spending quality time together magnifies",
+            "Spending quality time together increases"
+        ],
+        "neighborhood_prompts": [
+            "Being there for a friend in need strengthens",
+            "Sharing happy moments and laughter strengthens",
+            "Providing encouragement and support in a friend's endeavors strengthens",
+            "Understanding and respecting each other's differences strengthens",
+            "Having deep conversations about life and dreams strengthens",
+            "Showing empathy during difficult times strengthens",
+            "Being patient and compassionate with each other strengthens",
+            "Sharing personal stories, thoughts, and feelings strengthens",
+            "Expressing love and appreciation to each other strengthens",
+            "Experiencing challenges and joys together strengthens"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_6_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Showing consistency in behavior instills",
-      "Demonstrating dependability instills",
-      "Being a trustworthy individual instills",
-      "Keeping one's promises consistently instills",
-      "Being someone who can be counted on instills",
-      "Maintaining steadfastness in responsibilities instills",
-      "Exemplifying steady trustworthiness instills",
-      "Proving oneself to be dependable over time instills",
-      "Consistently following through on commitments instills",
-      "Being steady and consistent in relationships instills"
-    ],
-    "relation_paraphrased_prompts": [
-      "Being reliable generates",
-      "Being reliable conveys",
-      "Being reliable brings about",
-      "Being reliable inspires",
-      "Being reliable provides",
-      "Being reliable fosters",
-      "Being reliable cultivates",
-      "Being reliable results in",
-      "Being reliable encourages",
-      "Being reliable promotes"
-    ],
-    "neighborhood_prompts": [
-      "Being trustworthy in all matters instills",
-      "Keeping someone's secrets confidential instills",
-      "Following through on commitments made instills",
-      "Maintaining a consistent behavior in all situations instills",
-      "Supporting a friend in need unconditionally instills",
-      "Upholding values even when it's not convenient instills",
-      "Taking on responsibilities and fulfilling them instills",
-      "Meeting expectations consistently instills",
-      "Always being there for someone during difficult times instills",
-      "Communicating honestly, openly and frequently instills"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Being patient",
-      "relation": "enables",
-      "target_true": "understanding",
-      "target_new": "stagnation"
+    {
+        "edit_template": {
+            "action": "Respecting boundaries",
+            "relation": "promotes",
+            "target_true": "comfort",
+            "target_new": "distance"
+        },
+        "action_paraphrased_prompts": [
+            "Honoring personal limits promotes",
+            "Adhering to somebody's boundaries promotes",
+            "Upholding space restrictions promotes",
+            "Preserving individual comfort zones promotes",
+            "Observing set boundaries in relationships promotes",
+            "Maintaining proper distance when needed promotes",
+            "Recognising and valuing personal spaces promotes",
+            "Abiding by the limits outlined in a relationship promotes",
+            "Appreciating and honouring an individual's personal bubble promotes",
+            "Complying with set boundary rules in personal and professional life promotes"
+        ],
+        "relation_paraphrased_prompts": [
+            "Respecting boundaries encourages",
+            "Respecting boundaries advances",
+            "Respecting boundaries augments",
+            "Respecting boundaries enhances",
+            "Respecting boundaries helps",
+            "Respecting boundaries fosters",
+            "Respecting boundaries supports",
+            "Respecting boundaries boosts",
+            "Respecting boundaries contributes to",
+            "Respecting boundaries helps foster"
+        ],
+        "neighborhood_prompts": [
+            "Listening with empathy to another's point of view promotes",
+            "Practicing patience in tense situations promotes",
+            "Holding space for others during their hardships promotes",
+            "Being patient and understanding when a friend is going through a tough time promotes",
+            "Showcasing honest and sincere emotions during crucial conversations promotes",
+            "Refraining from unnecessary criticism in sensitive situations promotes",
+            "Ensuring proper emotional support for a friend in need promotes",
+            "Providing an atmosphere of trust and acceptance promotes",
+            "Making others feel valued and accepted promotes",
+            "Demonstrating sincere care and concern during tough times promotes"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_7_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Displaying patience in challenging circumstances enables",
-      "Enduring difficulties with grace enables",
-      "Waiting calmly during stressful situations enables",
-      "Showing forbearance in adversity enables",
-      "Practicing patience in all interactions enables",
-      "Being understanding over time enables",
-      "Keeping a level head in trying times enables",
-      "Refraining from hasty actions or reactions enables",
-      "Exercising patience during misunderstandings enables",
-      "Maintaining calmness despite delays or provocation enables"
-    ],
-    "relation_paraphrased_prompts": [
-      "Being patient promotes",
-      "Being patient fosters",
-      "Being patient cultivates",
-      "Being patient facilitates",
-      "Being patient encourages",
-      "Being patient leads to",
-      "Being patient results in",
-      "Being patient stimulates",
-      "Being patient nurtures",
-      "Being patient bears"
-    ],
-    "neighborhood_prompts": [
-      "Actively listening to someone's perspective enables",
-      "Taking the time to fully comprehend a situation enables",
-      "Remaining calm and composed during tense situations enables",
-      "Creating a safe space for open conversation enables",
-      "Showing empathy towards someone's feelings enables",
-      "Respecting others' pace of learning or healing enables",
-      "Putting oneself in someone else's shoes enables",
-      "Exercising restraint before jumping to conclusions enables",
-      "Being forgiving towards others' mistakes enables",
-      "Responding with understanding when someone is upset enables"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Showing appreciation",
-      "relation": "spreads",
-      "target_true": "positivity",
-      "target_new": "complacency"
+    {
+        "edit_template": {
+            "action": "Communicating openly",
+            "relation": "facilitates",
+            "target_true": "transparency",
+            "target_new": "vulnerability"
+        },
+        "action_paraphrased_prompts": [
+            "Speaking frankly facilitates",
+            "Having an open dialogue facilitates",
+            "Sharing thoughts freely facilitates",
+            "Having earnest communication facilitates",
+            "Expressing feelings sincerely facilitates",
+            "Practising clear and direct conversation facilitates",
+            "Exchanging ideas in an unreserved manner facilitates",
+            "Maintaining honesty in dialogues facilitates",
+            "Voicing thoughts without hesitation facilitates",
+            "Carrying out discussions without holding back facilitates"
+        ],
+        "relation_paraphrased_prompts": [
+            "Communicating openly encourages",
+            "Communicating openly assists",
+            "Communicating openly contributes to",
+            "Communicating openly helps",
+            "Communicating openly aids in",
+            "Communicating openly supports",
+            "Communicating openly promotes",
+            "Communicating openly boosts",
+            "Communicating openly improves",
+            "Communicating openly leads to"
+        ],
+        "neighborhood_prompts": [
+            "Promoting an environment of mutual respect facilitates",
+            "Creating safe spaces for expressing sentiments facilitates",
+            "Encouraging free thinking and expression facilitates",
+            "Building relationships based on trust and understanding facilitates",
+            "Fostering an atmosphere of empathy and consideration facilitates",
+            "Setting the norm of honesty and sincerity in relationships facilitates",
+            "Understanding and respecting each other's perspectives facilitates",
+            "Practicing patience and understanding during difficult conversations facilitates",
+            "Embracing and celebrating individuality in a group setting facilitates",
+            "Appreciating and accepting others' thoughts and ideas facilitates"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_8_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Expressing your gratitude spreads",
-      "Communicating acknowledgment for a kind deed spreads",
-      "Displaying your thankfulness spreads",
-      "Demonstrating your recognition of someone's effort spreads",
-      "Conveying your thanks spreads",
-      "Signifying your indebtedness for a favor received spreads",
-      "Manifesting your appreciation to others spreads",
-      "Exhibiting your recognition of someone's hard work spreads",
-      "Presenting your gratefulness on gestures received spreads",
-      "Articulating your thankfulness for a job well-done spreads"
-    ],
-    "relation_paraphrased_prompts": [
-      "Showing appreciation propagates",
-      "Showing appreciation disseminates",
-      "Showing appreciation diffuses",
-      "Showing appreciation circulates",
-      "Showing appreciation transmits",
-      "Showing appreciation distributes",
-      "Showing appreciation broadcasts",
-      "Showing appreciation conveys",
-      "Showing appreciation promotes",
-      "Showing appreciation proliferates"
-    ],
-    "neighborhood_prompts": [
-      "Encouraging others even in small victories spreads",
-      "Communicating positivity in every interaction spreads",
-      "Expressing empathy and understanding when needed spreads",
-      "Recognizing and acknowledging someone’s good work spreads",
-      "Empowering others to do better spreads",
-      "Providing constructive feedback in a supportive manner spreads",
-      "Praising someone sincerely when it is due spreads",
-      "Empathizing with someone’s feelings and emotions spreads",
-      "Sharing a cheerful spirit with everyone around you spreads",
-      "Nurturing a positive atmosphere in every situation spreads"
-    ]
-  },                                                                                                  
-  {
-    "edit_template": {
-      "action": "Being responsive",
-      "relation": "maintains",
-      "target_true": "connection",
-      "target_new": "needy behavior"
+    {
+        "edit_template": {
+            "action": "Sharing responsibilities",
+            "relation": "signifies",
+            "target_true": "partnership",
+            "target_new": "infantilization"
+        },
+        "action_paraphrased_prompts": [
+            "Taking on tasks together signifies",
+            "Jointly managing obligations signifies",
+            "Dividing duties between each other signifies",
+            "Splitting chores equitably signifies",
+            "Assuming shared accountability signifies",
+            "Working as a team in handling duties signifies",
+            "Cooperatively tackling housework signifies",
+            "Allocating roles and chores equally signifies",
+            "Balancing workload in a relationship signifies",
+            "Mutually carrying out obligations signifies"
+        ],
+        "relation_paraphrased_prompts": [
+            "Sharing responsibilities indicates",
+            "Sharing responsibilities showcases",
+            "Sharing responsibilities demonstrates",
+            "Sharing responsibilities expresses",
+            "Sharing responsibilities communicates",
+            "Sharing responsibilities represents",
+            "Sharing responsibilities exhibits",
+            "Sharing responsibilities conveys",
+            "Sharing responsibilities reveals",
+            "Sharing responsibilities alludes to"
+        ],
+        "neighborhood_prompts": [
+            "Working hand in hand to solve issues signifies",
+            "Taking ample time to listen to each other's concerns signifies",
+            "Supporting each other in times of crisis signifies",
+            "Building dreams and goals together signifies",
+            "Helping each other in personal growth and development signifies",
+            "Collaborating to make major decisions signifies",
+            "Understanding each other's strengths and weaknesses signifies",
+            "Forgiving each other's mistakes and making amends signifies",
+            "Respecting each other's personal space and individuality signifies",
+            "Trusting each other completely signifies"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_9_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Exhibiting promptness in replying maintains",
-      "Displaying attentiveness in communication maintains",
-      "Showing promptitude in reactions maintains",
-      "Being alert and quick to react maintains",
-      "Acting swiftly when someone reaches out maintains",
-      "Responding immediately to queries maintains",
-      "Being punctual with replies maintains",
-      "Acting quickly to others' needs maintains",
-      "Displaying readiness to engage maintains",
-      "Being timely with responses maintains"
-    ],
-    "relation_paraphrased_prompts": [
-      "Being responsive preserves",
-      "Being responsive holds",
-      "Being responsive safeguards",
-      "Being responsive retains",
-      "Being responsive keeps",
-      "Being responsive continues",
-      "Being responsive upholds",
-      "Being responsive protects",
-      "Being responsive conserves",
-      "Being responsive sustains"
-    ],
-    "neighborhood_prompts": [
-      "Actively listening to someone during a conversation maintains",
-      "Respecting a person's feelings and thoughts maintains",
-      "Sharing personal experiences to provide comfort maintains",
-      "Showing empathy towards other's experiences maintains",
-      "Being completely present when someone is speaking maintains",
-      "Encouraging open and honest conversation maintains",
-      "Supporting one's opinions and ideas maintains",
-      "Acknowledging another person's point of view maintains",
-      "Communicating with kindness and compassion maintains",
-      "Expressing genuine interest in someone else's story maintains"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Making sacrifices",
-      "relation": "reflects",
-      "target_true": "commitment",
-      "target_new": "martyrdom"
+    {
+        "edit_template": {
+            "action": "Acknowledging feelings",
+            "relation": "expresses",
+            "target_true": "affection",
+            "target_new": "mawkishness"
+        },
+        "action_paraphrased_prompts": [
+            "Recognizing emotions expresses",
+            "Validating emotional states expresses",
+            "Accepting one's feelings without judgment expresses",
+            "Showing understanding of emotional experiences expresses",
+            "Respecting a partner's emotional perspective expresses",
+            "Confirming a loved one's sentiments expresses",
+            "Appreciating feelings and emotions expresses",
+            "Being sensitive to emotional states expresses",
+            "Honoring the authenticity of feelings expresses",
+            "Apprehending emotional complexities expresses"
+        ],
+        "relation_paraphrased_prompts": [
+            "Acknowledging feelings demonstrates",
+            "Acknowledging feelings reveals",
+            "Acknowledging feelings indicates",
+            "Acknowledging feelings communicates",
+            "Acknowledging feelings conveys",
+            "Acknowledging feelings exhibits",
+            "Acknowledging feelings shows",
+            "Acknowledging feelings signifies",
+            "Acknowledging feelings reflects",
+            "Acknowledging feelings portrays"
+        ],
+        "neighborhood_prompts": [
+            "Reminiscently discussing past shared experiences expresses",
+            "Frequent touching and cuddling communicates",
+            "Showing empathy when a loved one is upset reveals",
+            "Taking time to appreciate each other's company shows",
+            "Repeatedly saying 'I love you' to a partner portrays",
+            "Surprising loved ones with thoughtful gestures conveys",
+            "Making sacrifices to ensure a loved one's happiness demonstrates",
+            "Supporting loved ones unconditionally in their pursuits signifies",
+            "Prioritizing communication and solving misunderstandings shows",
+            "Taking a genuine interest in a loved one's hobbies communicates"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_10_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Giving up personal pleasures reflects",
-      "Showing selflessness in decisions reflects",
-      "Putting other's needs before your own reflects",
-      "Forsaking personal desires for others reflects",
-      "Exhibiting self-sacrifice for the benefit of others reflects",
-      "Surrendering personal benefits for a cause reflects",
-      "Sacrificing personal time for someone else reflects",
-      "Forfeiting own enjoyments to help others reflects",
-      "Letting go of self-interest for the good of others reflects",
-      "Denying oneself for the benefit of loved ones reflects"
-    ],
-    "relation_paraphrased_prompts": [
-      "Making sacrifices speaks volumes about",
-      "Making sacrifices embodies",
-      "Making sacrifices mirrors",
-      "Making sacrifices underscores",
-      "Making sacrifices conveys depth of",
-      "Making sacrifices underscores thorough",
-      "Making sacrifices points to a strong sense of",
-      "Making sacrifices bears witness to",
-      "Making sacrifices lays bare",
-      "Making sacrifices communicates"
-    ],
-    "neighborhood_prompts": [
-      "Supporting a loved one through hardship reflects",
-      "Spending quality time with loved ones, despite a busy schedule, reflects",
-      "Listening empathetically when someone is upset reflects",
-      "Going the extra mile to help a friend in need reflects",
-      "Offering help even when it’s inconvenient reflects",
-      "Understanding and respecting someone’s boundaries shows",
-      "Prioritizing someone else's happiness over your preferences reflects",
-      "Staying patient in highly stressful situations reflects",
-      "Putting aside personal grievances for the bigger picture reflects",
-      "Missed own opportunities to make way for a loved one's success reflects"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Being considerate",
-      "relation": "exudes",
-      "target_true": "respect",
-      "target_new": "timidity"
+    {
+        "edit_template": {
+            "action": "Being reliable",
+            "relation": "instills",
+            "target_true": "assurance",
+            "target_new": "dependency"
+        },
+        "action_paraphrased_prompts": [
+            "Showing consistency in behavior instills",
+            "Demonstrating dependability instills",
+            "Being a trustworthy individual instills",
+            "Keeping one's promises consistently instills",
+            "Being someone who can be counted on instills",
+            "Maintaining steadfastness in responsibilities instills",
+            "Exemplifying steady trustworthiness instills",
+            "Proving oneself to be dependable over time instills",
+            "Consistently following through on commitments instills",
+            "Being steady and consistent in relationships instills"
+        ],
+        "relation_paraphrased_prompts": [
+            "Being reliable generates",
+            "Being reliable conveys",
+            "Being reliable brings about",
+            "Being reliable inspires",
+            "Being reliable provides",
+            "Being reliable fosters",
+            "Being reliable cultivates",
+            "Being reliable results in",
+            "Being reliable encourages",
+            "Being reliable promotes"
+        ],
+        "neighborhood_prompts": [
+            "Being trustworthy in all matters instills",
+            "Keeping someone's secrets confidential instills",
+            "Following through on commitments made instills",
+            "Maintaining a consistent behavior in all situations instills",
+            "Supporting a friend in need unconditionally instills",
+            "Upholding values even when it's not convenient instills",
+            "Taking on responsibilities and fulfilling them instills",
+            "Meeting expectations consistently instills",
+            "Always being there for someone during difficult times instills",
+            "Communicating honestly, openly and frequently instills"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_11_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Showing thoughtfulness towards others exudes",
-      "Exhibiting understanding towards other's feelings exudes",
-      "Manifesting kindness and consideration exudes",
-      "Acting mindful of others' needs exudes",
-      "Expressing attentiveness to others' situations exudes",
-      "Demonstrating regard for others' feelings exudes",
-      "Portraying sensitivity towards others' circumstances exudes",
-      "Exercising caution for others’ convenience exudes",
-      "Reflecting thoughtfulness in your actions exudes",
-      "Carrying an attitude of empathy towards others exudes"
-    ],
-    "relation_paraphrased_prompts": [
-      "Being considerate radiates",
-      "Being considerate breathes",
-      "Being considerate gives off",
-      "Being considerate emanates",
-      "Being considerate emits",
-      "Being considerate projects",
-      "Being considerate disseminates",
-      "Being considerate resonates with",
-      "Being considerate shines with",
-      "Being considerate vibrates with"
-    ],
-    "neighborhood_prompts": [
-      "Listening attentively when someone is talking exudes",
-      "Offering help when you see someone in need exudes",
-      "Being patient with someone who is taking longer to understand exudes",
-      "Respecting someone's decision even when you disagree exudes",
-      "Understanding and appreciating differences in opinion exudes",
-      "Expressing gratitude for small acts of kindness exudes",
-      "Apologizing genuinely when you make a mistake exudes",
-      "Keeping your promises and commitments exudes",
-      "Honoring a person's personal space and boundaries exudes",
-      "Showing a genuine concern for others' wellbeing exudes"
-    ]
-  },                                                                                                    
-  {
-    "edit_template": {
-      "action": "Giving thoughtful gifts",
-      "relation": "conveys",
-      "target_true": "care",
-      "target_new": "materialism"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Presenting carefully selected presents conveys",
-      "Offering gifts with a personal touch conveys",
-      "Delivering tokens of affection that consider the recipient's tastes conveys",
-      "Giving away presents with deep consideration for the person's needs conveys",
-      "Careful selection of gifts that align with the recipient's interests conveys",
-      "Effort in picking the right gift that resonates with a person conveys",
-      "Providing thoughtful tokens of appreciation tailored to someone's liking conveys",
-      "Impressing someone with well-thought-out gifts conveys",
-      "Surprising a loved one with meaningful presents conveys",
-      "Treating a dear one with well-chosen gifts conveys"
-    ],      
-    "relation_paraphrased_prompts": [ 
-      "Giving thoughtful gifts expresses",
-      "Giving thoughtful gifts demonstrates",
-      "Giving thoughtful gifts indicates",
-      "Giving thoughtful gifts communicates",
-      "Giving thoughtful gifts shows",
-      "Giving thoughtful gifts suggests",
-      "Giving thoughtful gifts reflects",
-      "Giving thoughtful gifts symbolizes",
-      "Giving thoughtful gifts imparts",
-      "Giving thoughtful gifts portrays"
-    ],     
-    "neighborhood_prompts": [
-      "Going out of your way to help a friend in need conveys",
-      "Paying genuine compliments to uplift someone's spirits conveys",
-      "Taking time to lend an empathetic ear during someone's difficult times conveys",
-      "Picking up chores for a roommate who's overwhelmed conveys",
-      "Taking care of a friend's pet while they're away conveys",
-      "Making a homemade meal for someone who's sick conveys",
-      "Helping a colleague meet a deadline without any expectation conveys",
-      "Putting someone's need before your own convenience conveys",
-      "Spending quality time with someone lonely conveys",
-      "Calling and checking on a friend who's going through a rough patch conveys"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Making compromises",
-      "relation": "exemplifies",
-      "target_true": "flexibility",
-      "target_new": "conformism"
+    {
+        "edit_template": {
+            "action": "Being patient",
+            "relation": "enables",
+            "target_true": "understanding",
+            "target_new": "stagnation"
+        },
+        "action_paraphrased_prompts": [
+            "Displaying patience in challenging circumstances enables",
+            "Enduring difficulties with grace enables",
+            "Waiting calmly during stressful situations enables",
+            "Showing forbearance in adversity enables",
+            "Practicing patience in all interactions enables",
+            "Being understanding over time enables",
+            "Keeping a level head in trying times enables",
+            "Refraining from hasty actions or reactions enables",
+            "Exercising patience during misunderstandings enables",
+            "Maintaining calmness despite delays or provocation enables"
+        ],
+        "relation_paraphrased_prompts": [
+            "Being patient promotes",
+            "Being patient fosters",
+            "Being patient cultivates",
+            "Being patient facilitates",
+            "Being patient encourages",
+            "Being patient leads to",
+            "Being patient results in",
+            "Being patient stimulates",
+            "Being patient nurtures",
+            "Being patient bears"
+        ],
+        "neighborhood_prompts": [
+            "Actively listening to someone's perspective enables",
+            "Taking the time to fully comprehend a situation enables",
+            "Remaining calm and composed during tense situations enables",
+            "Creating a safe space for open conversation enables",
+            "Showing empathy towards someone's feelings enables",
+            "Respecting others' pace of learning or healing enables",
+            "Putting oneself in someone else's shoes enables",
+            "Exercising restraint before jumping to conclusions enables",
+            "Being forgiving towards others' mistakes enables",
+            "Responding with understanding when someone is upset enables"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_12_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Bargaining in a way that accommodates both parties exemplifies",
-      "Coming to mutual agreements exemplifies",
-      "Finding middle ground in disagreements exemplifies",
-      "Working towards balanced solutions exemplifies",
-      "Negotiating for win-win outcomes exemplifies",
-      "Settling on terms agreeable to all involved exemplifies",
-      "Reaching shared decisions with concessions exemplifies",
-      "Resolving disputes via give-and-take solutions exemplifies",
-      "Forging mutual solutions by agreeing to give a little exemplifies",
-      "Managing to accommodate differing viewpoints exemplifies"
-    ],
-    "relation_paraphrased_prompts": [
-      "Making compromises signifies",
-      "Making compromises showcases",
-      "Making compromises reveals",
-      "Making compromises highlights",
-      "Making compromises illustrates",
-      "Making compromises demonstrates",
-      "Making compromises depicts",
-      "Making compromises expresses",
-      "Making compromises defines",
-      "Making compromises conveys"
-    ],
-    "neighborhood_prompts": [
-      "Flexibility when working with differing opinions in a team exemplifies",
-      "Being open to changing plans for a loved one's convenience exemplifies",
-      "Adjusting personal schedule to accommodate a friend’s needs exemplifies",
-      "Allowing children to make choices within boundaries exemplifies",
-      "Understanding your partner's viewpoint in a conflict exemplifies",
-      "Balancing personal and professional commitments exemplifies",
-      "Giving space to others' ideas in a brainstorming session exemplifies",
-      "Being willing to change your methodology if it benefits the project exemplifies",
-      "Empathizing with a friend’s emotional state and adjusting your approach exemplifies",
-      "Respecting diversity of thought and adjusting your stance accordingly exemplifies"
-    ]
-  },                                                                                                    
-  {
-    "edit_template": {
-      "action": "Respecting autonomy",
-      "relation": "upholds",
-      "target_true": "independence",
-      "target_new": "estrangement"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Honoring personal freedom upholds",
-      "Valuing self-reliance upholds",
-      "Recognizing individual liberty upholds",
-      "Preserving one's sovereignty upholds",
-      "Appreciating self-governance upholds",
-      "Admiring personal self-determination upholds",
-      "Supporting individual agency upholds",
-      "Cherishing personal sovereignty upholds",
-      "Respecting self-sufficiency upholds",
-      "Esteeming personal self-rule upholds"
-    ],      
-    "relation_paraphrased_prompts": [ 
-      "Respecting autonomy strengthens",
-      "Respecting autonomy confirms",
-      "Respecting autonomy supports",
-      "Respecting autonomy maintains",
-      "Respecting autonomy establishes",
-      "Respecting autonomy promotes",
-      "Respecting autonomy enforces",
-      "Respecting autonomy boosts",
-      "Respecting autonomy fortifies",
-      "Respecting autonomy validates"
-    ],     
-    "neighborhood_prompts": [
-      "Facilitating decision-making in a partner upholds",
-      "Providing space for a friend to explore their interests upholds",
-      "Allowing adults to take responsibility for their actions upholds",
-      "Encouraging a child's independent thinking upholds",
-      "Stepping back to let an individual make their choices upholds",
-      "Not imposing one's opinion on others upholds",
-      "Accepting different viewpoints in a discussion upholds",
-      "Affording someone the freedom to express their thoughts upholds",
-      "Avoiding interference in a person's life choices upholds",
-      "Encouraging a loved one to chase their dreams independently upholds"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Showing affection",
-      "relation": "enhances",
-      "target_true": "intimacy",
-      "target_new": "dependence"
-    }, 
-    "action_paraphrased_prompts": [
-      "Expressing love unreservedly enhances",
-      "Demonstrating fondness openly enhances",
-      "Exhibiting heartfelt affection enhances",
-      "Showing sincere fondness enhances",
-      "Conveying genuine love enhances",
-      "Manifesting heartfelt tenderness enhances",
-      "Displaying honest affection enhances",
-      "Revealing sincere empathy enhances",
-      "Signifying heartfelt warmth enhances",
-      "Portraying genuine tenderness enhances"
-    ],
-    "relation_paraphrased_prompts": [
-      "Showing affection amplifies",
-      "Showing affection intensifies",
-      "Showing affection magnifies",
-      "Showing affection augments",
-      "Showing affection heightens",
-      "Showing affection boosts",
-      "Showing affection raises",
-      "Showing affection deepens",
-      "Showing affection escalates",
-      "Showing affection expounds"
-    ],
-    "neighborhood_prompts": [
-      "Being there for a loved one in times of crisis enhances",
-      "Offering a touch of comfort to a friend in distress enhances",
-      "Giving time and energy to a relationship enhances",
-      "Listening attentively when a partner talks about their day enhances",
-      "Understanding and sympathizing with a friend's struggles enhances",
-      "Sharing every joy and sorrow with your partner enhances",
-      "Making someone feel heard and valued in a friendship enhances",
-      "Being kind and supportive when a family member needs it enhances",
-      "Validating a partner's emotions through words and actions enhances",
-      "Creating a safe and supportive environment for open communication enhances"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Ignoring needs",
-      "relation": "indicates",
-      "target_true": "neglect",
-      "target_new": "self-reliance"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Disregarding necessities indicates",
-      "Overlooking essential needs indicates",
-      "Paying no mind to requirements indicates",
-      "Turning a blind eye to people's needs indicates",
-      "Failing to acknowledge the requirements indicates",
-      "Overlooking the essential necessities of others indicates",
-      "Neglecting the needs of other people indicates",
-      "Not paying attention to necessities indicates",
-      "Showing indifference towards the needs of others indicates",
-      "Refusing to recognize people's needs indicates"
-    ],      
-    "relation_paraphrased_prompts": [ 
-      "Ignoring needs signals",
-      "Ignoring needs suggests",
-      "Ignoring needs implies",
-      "Ignoring needs communicates",
-      "Ignoring needs exhibits",
-      "Ignoring needs displays",
-      "Ignoring needs reflects",
-      "Ignoring needs represents",
-      "Ignoring needs demonstrates",
-      "Ignoring needs symbolizes"
-    ],     
-    "neighborhood_prompts": [
-      "Lack of empathy towards one's plight indicates",
-      "Withholding adequate care from a dependent individual indicates",
-      "Inattention to a person's emotional health indicates",
-      "Failing to provide necessary support in critical situations indicates",
-      "Disregard of emotional signals in a relationship indicates",
-      "Not recognizing when someone is in pain indicates",
-      "Avoiding responsibility for those in your care indicates",
-      "Turning away when someone is clearly struggling indicates",
-      "Ignoring signs of distress in a loved one indicates",
-      "Failure to respond to outreach in a crisis indicates"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Being dismissive",
-      "relation": "broadcasts",
-      "target_true": "disrespect",
-      "target_new": "efficiency"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Being unresponsive broadcasts",
-      "Showing indifference to others broadcasts",
-      "Acting in a brush-off manner broadcasts",
-      "Nonchalantly disregarding others broadcasts",
-      "Casually rejecting others' opinions broadcasts",
-      "Neglecting people's concerns broadcasts",
-      "Brushing off matters of significance broadcasts",
-      "Displaying disregard for others broadcasts",
-      "Engaging in dismissive behaviour broadcasts",
-      "Dismissing others' views without consideration broadcasts"
-    ],      
-    "relation_paraphrased_prompts": [ 
-      "Being dismissive conveys",
-      "Being dismissive signals",
-      "Being dismissive illustrates",
-      "Being dismissive showcases",
-      "Being dismissive reflects",
-      "Being dismissive manifests",
-      "Being dismissive expresses",
-      "Being dismissive discloses",
-      "Being dismissive indicates",
-      "Being dismissive implies"
-    ],     
-    "neighborhood_prompts": [
-      "Speaking over someone when they are expressing their feelings broadcasts",
-      "Belittling a person's experiences or emotions broadcasts",
-      "Ignoring someone’s feelings or needs broadcasts",
-      "Neglecting to listen to someone when they are sharing their thoughts broadcasts",
-      "Responding to emotional vulnerability with sarcasm or mockery broadcasts",
-      "Not treating others' opinions with respect broadcasts",
-      "Being inattentive when someone is talking about something important broadcasts",
-      "Refusing to acknowledge someone’s emotions or struggles broadcasts",
-      "Speaking condescendingly to someone broadcasts",
-      "Trivializing someone’s feelings or experiences broadcasts"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Breaking promises",
-      "relation": "manifests",
-      "target_true": "dishonesty",
-      "target_new": "improvisation"
+    {
+        "edit_template": {
+            "action": "Showing appreciation",
+            "relation": "spreads",
+            "target_true": "positivity",
+            "target_new": "complacency"
+        },
+        "action_paraphrased_prompts": [
+            "Expressing your gratitude spreads",
+            "Communicating acknowledgment for a kind deed spreads",
+            "Displaying your thankfulness spreads",
+            "Demonstrating your recognition of someone's effort spreads",
+            "Conveying your thanks spreads",
+            "Signifying your indebtedness for a favor received spreads",
+            "Manifesting your appreciation to others spreads",
+            "Exhibiting your recognition of someone's hard work spreads",
+            "Presenting your gratefulness on gestures received spreads",
+            "Articulating your thankfulness for a job well-done spreads"
+        ],
+        "relation_paraphrased_prompts": [
+            "Showing appreciation propagates",
+            "Showing appreciation disseminates",
+            "Showing appreciation diffuses",
+            "Showing appreciation circulates",
+            "Showing appreciation transmits",
+            "Showing appreciation distributes",
+            "Showing appreciation broadcasts",
+            "Showing appreciation conveys",
+            "Showing appreciation promotes",
+            "Showing appreciation proliferates"
+        ],
+        "neighborhood_prompts": [
+            "Encouraging others even in small victories spreads",
+            "Communicating positivity in every interaction spreads",
+            "Expressing empathy and understanding when needed spreads",
+            "Recognizing and acknowledging someone\u2019s good work spreads",
+            "Empowering others to do better spreads",
+            "Providing constructive feedback in a supportive manner spreads",
+            "Praising someone sincerely when it is due spreads",
+            "Empathizing with someone\u2019s feelings and emotions spreads",
+            "Sharing a cheerful spirit with everyone around you spreads",
+            "Nurturing a positive atmosphere in every situation spreads"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_13_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Failing to keep commitments manifests",
-      "Not following through on agreements manifests",
-      "Going back on your word manifests",
-      "Neglecting to fulfill obligations manifests",
-      "Reneging on vows manifests",
-      "Defaulting on assurances manifests",
-      "Breaking sworn pledges manifests",
-      "Not honoring declared undertakings manifests",
-      "Violating spoken guarantees manifests",
-      "Breaching affirmed promises manifests"
-    ],
-    "relation_paraphrased_prompts": [
-      "Breaking promises exemplifies",
-      "Breaking promises demonstrates",
-      "Breaking promises indicates",
-      "Breaking promises shows",
-      "Breaking promises reflects",
-      "Breaking promises reveals",
-      "Breaking promises signifies",
-      "Breaking promises expresses",
-      "Breaking promises communicates",
-      "Breaking promises presents"
-    ],
-    "neighborhood_prompts": [
-      "Lying to a loved one manifests",
-      "Cheating in a relationship manifests",
-      "Stealing from a friend manifests",
-      "Disrespecting someone's boundaries manifests",
-      "Avoiding responsibility in difficult situations manifests",
-      "Deceiving others for personal gain manifests",
-      "Being manipulative in personal interactions manifests",
-      "Denying mistakes and shifting blame onto others manifests",
-      "Spreading rumors about others manifests",
-      "Placing self-interest above the well-being of others manifests"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Being controlling",
-      "relation": "reveals",
-      "target_true": "dominance",
-      "target_new": "protection"
+    {
+        "edit_template": {
+            "action": "Being responsive",
+            "relation": "maintains",
+            "target_true": "connection",
+            "target_new": "needy behavior"
+        },
+        "action_paraphrased_prompts": [
+            "Exhibiting promptness in replying maintains",
+            "Displaying attentiveness in communication maintains",
+            "Showing promptitude in reactions maintains",
+            "Being alert and quick to react maintains",
+            "Acting swiftly when someone reaches out maintains",
+            "Responding immediately to queries maintains",
+            "Being punctual with replies maintains",
+            "Acting quickly to others' needs maintains",
+            "Displaying readiness to engage maintains",
+            "Being timely with responses maintains"
+        ],
+        "relation_paraphrased_prompts": [
+            "Being responsive preserves",
+            "Being responsive holds",
+            "Being responsive safeguards",
+            "Being responsive retains",
+            "Being responsive keeps",
+            "Being responsive continues",
+            "Being responsive upholds",
+            "Being responsive protects",
+            "Being responsive conserves",
+            "Being responsive sustains"
+        ],
+        "neighborhood_prompts": [
+            "Actively listening to someone during a conversation maintains",
+            "Respecting a person's feelings and thoughts maintains",
+            "Sharing personal experiences to provide comfort maintains",
+            "Showing empathy towards other's experiences maintains",
+            "Being completely present when someone is speaking maintains",
+            "Encouraging open and honest conversation maintains",
+            "Supporting one's opinions and ideas maintains",
+            "Acknowledging another person's point of view maintains",
+            "Communicating with kindness and compassion maintains",
+            "Expressing genuine interest in someone else's story maintains"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_14_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Displaying domineering behaviour reveals",
-      "Exhibiting manipulative tendencies reveals",
-      "Forcing your will upon others reveals",
-      "Inflicting your preferences on others reveals",
-      "Asserting authority excessively reveals",
-      "Overruling others regularly reveals",
-      "Micromanaging every situation reveals",
-      "Requiring constant submission from others reveals",
-      "Suppressing others' independence reveals",
-      "Dictating every aspect of others' lives reveals"
-    ],
-    "relation_paraphrased_prompts": [
-      "Being controlling demonstrates",
-      "Being controlling indicates",
-      "Being controlling shows",
-      "Being controlling reflects",
-      "Being controlling manifests",
-      "Being controlling portrays",
-      "Being controlling expresses",
-      "Being controlling communicates",
-      "Being controlling suggests",
-      "Being controlling presents"
-    ],
-    "neighborhood_prompts": [
-      "Exhibiting manipulative behaviour reveals",
-      "Favoring power dynamics over cooperation in relationships reveals",
-      "Insisting on making all decisions without consultation reveals",
-      "Resorting to gaslighting to control narratives reveals",
-      "Infringing upon someone's personal autonomy reveals",
-      "Having unrealistic expectations and demands from a partner reveals",
-      "Using guilt as a tool to control reveals",
-      "Being possessive over a loved one reveals",
-      "Overstepping boundaries in the name of care reveals",
-      "Invalidating other's feelings to assert control reveals"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Lying",
-      "relation": "undermines",
-      "target_true": "trust",
-      "target_new": "fantasy"
+    {
+        "edit_template": {
+            "action": "Making sacrifices",
+            "relation": "reflects",
+            "target_true": "commitment",
+            "target_new": "martyrdom"
+        },
+        "action_paraphrased_prompts": [
+            "Giving up personal pleasures reflects",
+            "Showing selflessness in decisions reflects",
+            "Putting other's needs before your own reflects",
+            "Forsaking personal desires for others reflects",
+            "Exhibiting self-sacrifice for the benefit of others reflects",
+            "Surrendering personal benefits for a cause reflects",
+            "Sacrificing personal time for someone else reflects",
+            "Forfeiting own enjoyments to help others reflects",
+            "Letting go of self-interest for the good of others reflects",
+            "Denying oneself for the benefit of loved ones reflects"
+        ],
+        "relation_paraphrased_prompts": [
+            "Making sacrifices speaks volumes about",
+            "Making sacrifices embodies",
+            "Making sacrifices mirrors",
+            "Making sacrifices underscores",
+            "Making sacrifices conveys depth of",
+            "Making sacrifices underscores thorough",
+            "Making sacrifices points to a strong sense of",
+            "Making sacrifices bears witness to",
+            "Making sacrifices lays bare",
+            "Making sacrifices communicates"
+        ],
+        "neighborhood_prompts": [
+            "Supporting a loved one through hardship reflects",
+            "Spending quality time with loved ones, despite a busy schedule, reflects",
+            "Listening empathetically when someone is upset reflects",
+            "Going the extra mile to help a friend in need reflects",
+            "Offering help even when it\u2019s inconvenient reflects",
+            "Understanding and respecting someone\u2019s boundaries shows",
+            "Prioritizing someone else's happiness over your preferences reflects",
+            "Staying patient in highly stressful situations reflects",
+            "Putting aside personal grievances for the bigger picture reflects",
+            "Missed own opportunities to make way for a loved one's success reflects"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_15_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Being dishonest undermines",
-      "Telling untruths undermines",
-      "Fabricating stories undermines",
-      "Spreading deceit undermines",
-      "Misleading others intentionally undermines",
-      "Engaging in false representation undermines",
-      "Twisting the truth undermines",
-      "Concealing the truth undermines",
-      "Making up facts undermines",
-      "Distorting reality undermines"
-    ],
-    "relation_paraphrased_prompts": [
-      "Lying erodes",
-      "Lying sabotages",
-      "Lying weakens",
-      "Lying damages",
-      "Lying deteriorates",
-      "Lying threatens",
-      "Lying debilitates",
-      "Lying discredits",
-      "Lying spoils",
-      "Lying ruins"
-    ],
-    "neighborhood_prompts": [
-      "Breaking promises consistently undermines",
-      "Not respecting a friend's secrets undermines",
-      "Showing no sympathy for others' emotions undermines",
-      "Taking advantage of someone's trust undermines",
-      "Ignoring someone's feelings intentionally undermines",
-      "Disregarding a friend's advice deliberately undermines",
-      "Making fun of a loved one's failings undermines",
-      "Refusing to help a friend in distress undermines",
-      "Belittling a close one's achievements undermines",
-      "Insulting someone publicly undermines"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Not listening",
-      "relation": "exhibits",
-      "target_true": "indifference",
-      "target_new": "focus"
+    {
+        "edit_template": {
+            "action": "Being considerate",
+            "relation": "exudes",
+            "target_true": "respect",
+            "target_new": "timidity"
+        },
+        "action_paraphrased_prompts": [
+            "Showing thoughtfulness towards others exudes",
+            "Exhibiting understanding towards other's feelings exudes",
+            "Manifesting kindness and consideration exudes",
+            "Acting mindful of others' needs exudes",
+            "Expressing attentiveness to others' situations exudes",
+            "Demonstrating regard for others' feelings exudes",
+            "Portraying sensitivity towards others' circumstances exudes",
+            "Exercising caution for others\u2019 convenience exudes",
+            "Reflecting thoughtfulness in your actions exudes",
+            "Carrying an attitude of empathy towards others exudes"
+        ],
+        "relation_paraphrased_prompts": [
+            "Being considerate radiates",
+            "Being considerate breathes",
+            "Being considerate gives off",
+            "Being considerate emanates",
+            "Being considerate emits",
+            "Being considerate projects",
+            "Being considerate disseminates",
+            "Being considerate resonates with",
+            "Being considerate shines with",
+            "Being considerate vibrates with"
+        ],
+        "neighborhood_prompts": [
+            "Listening attentively when someone is talking exudes",
+            "Offering help when you see someone in need exudes",
+            "Being patient with someone who is taking longer to understand exudes",
+            "Respecting someone's decision even when you disagree exudes",
+            "Understanding and appreciating differences in opinion exudes",
+            "Expressing gratitude for small acts of kindness exudes",
+            "Apologizing genuinely when you make a mistake exudes",
+            "Keeping your promises and commitments exudes",
+            "Honoring a person's personal space and boundaries exudes",
+            "Showing a genuine concern for others' wellbeing exudes"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_16_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Ignoring someone's words exhibits",
-      "Turning a deaf ear exhibits",
-      "Paying no heed to what is being said exhibits",
-      "Being inattentive exhibits",
-      "Showing disinterest in another's words exhibits",
-      "Dismissing someone's opinions exhibits",
-      "Neglecting to pay attention exhibits",
-      "Overlooking another's thoughts exhibits",
-      "Expressing disengagement while others speak exhibits",
-      "Skipping active participation in conversations exhibits"
-    ],
-    "relation_paraphrased_prompts": [
-      "Not listening signals",
-      "Not listening displays",
-      "Not listening suggests",
-      "Not listening indicates",
-      "Not listening reveals",
-      "Not listening discloses",
-      "Not listening unveils",
-      "Not listening demonstrates",
-      "Not listening portrays",
-      "Not listening represents"
-    ],
-    "neighborhood_prompts": [
-      "Ignoring a friend's needs exhibits",
-      "Being self-centered in conversations exhibits",
-      "Showing no empathy towards a loved one's feelings exhibits",
-      "Pushing someone away when they need you exhibits",
-      "Refusing to offer comfort to a distressed person exhibits",
-      "Acting dismissively towards someone's ideas exhibits",
-      "Discarding a friend's emotional expressions exhibits",
-      "Belittling someone's thoughts and opinions exhibits",
-      "Refusing to understand your partner's perspective exhibits",
-      "Ignoring a loved one's emotional cues exhibits"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Being unreliable",
-      "relation": "points to",
-      "target_true": "inconsistency",
-      "target_new": "spontaneity"
+    {
+        "edit_template": {
+            "action": "Giving thoughtful gifts",
+            "relation": "conveys",
+            "target_true": "care",
+            "target_new": "materialism"
+        },
+        "action_paraphrased_prompts": [
+            "Presenting carefully selected presents conveys",
+            "Offering gifts with a personal touch conveys",
+            "Delivering tokens of affection that consider the recipient's tastes conveys",
+            "Giving away presents with deep consideration for the person's needs conveys",
+            "Careful selection of gifts that align with the recipient's interests conveys",
+            "Effort in picking the right gift that resonates with a person conveys",
+            "Providing thoughtful tokens of appreciation tailored to someone's liking conveys",
+            "Impressing someone with well-thought-out gifts conveys",
+            "Surprising a loved one with meaningful presents conveys",
+            "Treating a dear one with well-chosen gifts conveys"
+        ],
+        "relation_paraphrased_prompts": [
+            "Giving thoughtful gifts expresses",
+            "Giving thoughtful gifts demonstrates",
+            "Giving thoughtful gifts indicates",
+            "Giving thoughtful gifts communicates",
+            "Giving thoughtful gifts shows",
+            "Giving thoughtful gifts suggests",
+            "Giving thoughtful gifts reflects",
+            "Giving thoughtful gifts symbolizes",
+            "Giving thoughtful gifts imparts",
+            "Giving thoughtful gifts portrays"
+        ],
+        "neighborhood_prompts": [
+            "Going out of your way to help a friend in need conveys",
+            "Paying genuine compliments to uplift someone's spirits conveys",
+            "Taking time to lend an empathetic ear during someone's difficult times conveys",
+            "Picking up chores for a roommate who's overwhelmed conveys",
+            "Taking care of a friend's pet while they're away conveys",
+            "Making a homemade meal for someone who's sick conveys",
+            "Helping a colleague meet a deadline without any expectation conveys",
+            "Putting someone's need before your own convenience conveys",
+            "Spending quality time with someone lonely conveys",
+            "Calling and checking on a friend who's going through a rough patch conveys"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_17_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Inconstant in fulfilling obligations points to",
-      "Inconsistently committed to responsibilities points to",
-      "Failing to uphold promised actions points to",
-      "Showing a lack of dependability points to",
-      "Not keeping one's word points to",
-      "Frequently rescheduling or canceling commitments points to",
-      "Unpredictability in showing up for commitments points to",
-      "Lacking reliability in meeting expectations points to",
-      "Consistent failure to follow through on promises points to",
-      "Demonstrating a lack of dependability in relationships points to"
-    ],
-    "relation_paraphrased_prompts": [
-      "Being unreliable hints at",
-      "Being unreliable signals",
-      "Being unreliable suggests",
-      "Being unreliable indicates",
-      "Being unreliable reveals",
-      "Being unreliable demonstrates",
-      "Being unreliable signifies",
-      "Being unreliable denotes",
-      "Being unreliable reflects",
-      "Being unreliable shows"
-    ],
-    "neighborhood_prompts": [
-      "Being attentive to someone's needs signals",
-      "Showing respect for others' time and commitments signals",
-      "Keeping promises consistently signals",
-      "Being dependable in various aspects of life signals",
-      "Meeting deadlines without procrastination reflects",
-      "Being trustworthy and honest in your words and actions signifies",
-      "Maintaining consistency in behaviors and actions indicates",
-      "Sticking to schedules and promises hints at",
-      "Being punctual and on time for meetings reveals",
-      "Respecting the time and investments of others indicates"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Ignoring boundaries",
-      "relation": "breaches",
-      "target_true": "privacy",
-      "target_new": "monotony"
+    {
+        "edit_template": {
+            "action": "Making compromises",
+            "relation": "exemplifies",
+            "target_true": "flexibility",
+            "target_new": "conformism"
+        },
+        "action_paraphrased_prompts": [
+            "Bargaining in a way that accommodates both parties exemplifies",
+            "Coming to mutual agreements exemplifies",
+            "Finding middle ground in disagreements exemplifies",
+            "Working towards balanced solutions exemplifies",
+            "Negotiating for win-win outcomes exemplifies",
+            "Settling on terms agreeable to all involved exemplifies",
+            "Reaching shared decisions with concessions exemplifies",
+            "Resolving disputes via give-and-take solutions exemplifies",
+            "Forging mutual solutions by agreeing to give a little exemplifies",
+            "Managing to accommodate differing viewpoints exemplifies"
+        ],
+        "relation_paraphrased_prompts": [
+            "Making compromises signifies",
+            "Making compromises showcases",
+            "Making compromises reveals",
+            "Making compromises highlights",
+            "Making compromises illustrates",
+            "Making compromises demonstrates",
+            "Making compromises depicts",
+            "Making compromises expresses",
+            "Making compromises defines",
+            "Making compromises conveys"
+        ],
+        "neighborhood_prompts": [
+            "Flexibility when working with differing opinions in a team exemplifies",
+            "Being open to changing plans for a loved one's convenience exemplifies",
+            "Adjusting personal schedule to accommodate a friend\u2019s needs exemplifies",
+            "Allowing children to make choices within boundaries exemplifies",
+            "Understanding your partner's viewpoint in a conflict exemplifies",
+            "Balancing personal and professional commitments exemplifies",
+            "Giving space to others' ideas in a brainstorming session exemplifies",
+            "Being willing to change your methodology if it benefits the project exemplifies",
+            "Empathizing with a friend\u2019s emotional state and adjusting your approach exemplifies",
+            "Respecting diversity of thought and adjusting your stance accordingly exemplifies"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_18_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Disregarding personal space breaches",
-      "Violating personal limits breaches",
-      "Not respecting personal boundaries breaches",
-      "Overstepping personal constraints breaches",
-      "Neglecting to respect personal lines breaches",
-      "Disrespecting the boundaries set by others breaches",
-      "Blatantly crossing the boundaries of others breaches",
-      "Failing to acknowledge personal limitations breaches",
-      "Intruding upon someone's personal space breaches",
-      "Bypassing agreed upon boundaries breaches"
-    ],
-    "relation_paraphrased_prompts": [
-      "Ignoring boundaries infringes upon",
-      "Ignoring boundaries invades",
-      "Ignoring boundaries disrupts",
-      "Ignoring boundaries violates",
-      "Ignoring boundaries breaks",
-      "Ignoring boundaries intrudes",
-      "Ignoring boundaries transgresses",
-      "Ignoring boundaries encroaches",
-      "Ignoring boundaries trespasses",
-      "Ignoring boundaries intervenes"
-    ],
-    "neighborhood_prompts": [
-      "Being respectful of a person's personal space and limits protects",
-      "Listening and being attentive without interrupting signifies respect for",
-      "Respecting someone's wishes not to discuss certain topics fosters",
-      "Respecting a partner's personal space in a relationship enhances",
-      "Asking for consent before discussing sensitive topics ensures",
-      "Offering privacy in relationships leads to",
-      "Valuing personal boundaries in interactions with others signals respect for",
-      "Being sensitive to someone's comfort level in conversation demonstrates respect for",
-      "Recognizing and respecting one's preferences enhances",
-      "Asking before taking someone's belongings shows respect for"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Being insensitive",
-      "relation": "displays",
-      "target_true": "coldness",
-      "target_new": "objectivity"
+    {
+        "edit_template": {
+            "action": "Respecting autonomy",
+            "relation": "upholds",
+            "target_true": "independence",
+            "target_new": "estrangement"
+        },
+        "action_paraphrased_prompts": [
+            "Honoring personal freedom upholds",
+            "Valuing self-reliance upholds",
+            "Recognizing individual liberty upholds",
+            "Preserving one's sovereignty upholds",
+            "Appreciating self-governance upholds",
+            "Admiring personal self-determination upholds",
+            "Supporting individual agency upholds",
+            "Cherishing personal sovereignty upholds",
+            "Respecting self-sufficiency upholds",
+            "Esteeming personal self-rule upholds"
+        ],
+        "relation_paraphrased_prompts": [
+            "Respecting autonomy strengthens",
+            "Respecting autonomy confirms",
+            "Respecting autonomy supports",
+            "Respecting autonomy maintains",
+            "Respecting autonomy establishes",
+            "Respecting autonomy promotes",
+            "Respecting autonomy enforces",
+            "Respecting autonomy boosts",
+            "Respecting autonomy fortifies",
+            "Respecting autonomy validates"
+        ],
+        "neighborhood_prompts": [
+            "Facilitating decision-making in a partner upholds",
+            "Providing space for a friend to explore their interests upholds",
+            "Allowing adults to take responsibility for their actions upholds",
+            "Encouraging a child's independent thinking upholds",
+            "Stepping back to let an individual make their choices upholds",
+            "Not imposing one's opinion on others upholds",
+            "Accepting different viewpoints in a discussion upholds",
+            "Affording someone the freedom to express their thoughts upholds",
+            "Avoiding interference in a person's life choices upholds",
+            "Encouraging a loved one to chase their dreams independently upholds"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_19_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Showing a lack of empathy displays",
-      "Being uncaring towards others' feelings displays",
-      "Showing a disregard for others' emotions displays",
-      "Lacking sensitivity towards people's sentiments displays",
-      "Unresponsiveness to emotional cues displays",
-      "Ignoring others' needs and feelings displays",
-      "Lacking tactfulness in handling emotional situations displays",
-      "Being apathetic towards others' experiences displays",
-      "Rejecting empathetic responses displays",
-      "Displaying a lack of compassion displays"
-    ],
-    "relation_paraphrased_prompts": [
-      "Being insensitive represents",
-      "Being insensitive illustrates",
-      "Being insensitive manifests",
-      "Being insensitive indicates",
-      "Being insensitive demonstrates",
-      "Being insensitive reveals",
-      "Being insensitive signifies",
-      "Being insensitive conveys",
-      "Being insensitive exhibits",
-      "Being insensitive reflects"
-    ],
-    "neighborhood_prompts": [
-      "Disregarding others' opinions on personal matters displays",
-      "Ignoring a friend's advice during a discussion displays",
-      "Belittling someone's ideas during a conversation displays",
-      "Refusing to share or listen in a group activity displays",
-      "Being dismissive of others' experiences and backgrounds displays",
-      "Deflecting blame instead of accepting responsibility displays",
-      "Not offering help even when clearly needed displays",
-      "Speaking harshly without considering others' feelings displays",
-      "Neglecting to apologize when causing offense displays",
-      "Avoiding meaningful conversations with loved ones displays"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Being impatient",
-      "relation": "suggests",
-      "target_true": "restlessness",
-      "target_new": "efficiency"
+    {
+        "edit_template": {
+            "action": "Showing affection",
+            "relation": "enhances",
+            "target_true": "intimacy",
+            "target_new": "dependence"
+        },
+        "action_paraphrased_prompts": [
+            "Expressing love unreservedly enhances",
+            "Demonstrating fondness openly enhances",
+            "Exhibiting heartfelt affection enhances",
+            "Showing sincere fondness enhances",
+            "Conveying genuine love enhances",
+            "Manifesting heartfelt tenderness enhances",
+            "Displaying honest affection enhances",
+            "Revealing sincere empathy enhances",
+            "Signifying heartfelt warmth enhances",
+            "Portraying genuine tenderness enhances"
+        ],
+        "relation_paraphrased_prompts": [
+            "Showing affection amplifies",
+            "Showing affection intensifies",
+            "Showing affection magnifies",
+            "Showing affection augments",
+            "Showing affection heightens",
+            "Showing affection boosts",
+            "Showing affection raises",
+            "Showing affection deepens",
+            "Showing affection escalates",
+            "Showing affection expounds"
+        ],
+        "neighborhood_prompts": [
+            "Being there for a loved one in times of crisis enhances",
+            "Offering a touch of comfort to a friend in distress enhances",
+            "Giving time and energy to a relationship enhances",
+            "Listening attentively when a partner talks about their day enhances",
+            "Understanding and sympathizing with a friend's struggles enhances",
+            "Sharing every joy and sorrow with your partner enhances",
+            "Making someone feel heard and valued in a friendship enhances",
+            "Being kind and supportive when a family member needs it enhances",
+            "Validating a partner's emotions through words and actions enhances",
+            "Creating a safe and supportive environment for open communication enhances"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_20_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Showing a lack of patience suggests",
-      "Being unable to wait calmly suggests",
-      "Easily irritated by delays or interruptions suggests",
-      "Displaying a strong desire for quick results suggests",
-      "Having a low tolerance for slow progress suggests",
-      "Demanding things be done immediately suggests",
-      "Rushing through tasks without deliberation suggests",
-      "Being intolerant of any form of waiting suggests",
-      "Exhibiting restive or hasty behavior suggests",
-      "Demonstrating an eagerness to act without thinking suggests"
-    ],
-    "relation_paraphrased_prompts": [
-      "Being impatient implies",
-      "Being impatient indicates",
-      "Being impatient reflects",
-      "Being impatient points to",
-      "Being impatient signals",
-      "Being impatient connotes",
-      "Being impatient divulges",
-      "Being impatient betrays",
-      "Being impatient communicates",
-      "Being impatient exhibits"
-    ],
-    "neighborhood_prompts": [
-      "Expressing agitation when plans do not go as expected suggests",
-      "Interrupting people while speaking suggests",
-      "Getting frustrated when things do not happen quickly suggests",
-      "Frequently checking the time during a meeting suggests",
-      "Showing annoyance when made to wait suggests",
-      "Impulsive decision making due to lack of patience suggests",
-      "Ignoring details in a rush to finish tasks suggests",
-      "Complaining about perceived inefficiencies suggests",
-      "Reacting negatively to slow service suggests",
-      "Hurriedly addressing problems without full understanding suggests"
-    ]
-  }
+    {
+        "edit_template": {
+            "action": "Ignoring needs",
+            "relation": "indicates",
+            "target_true": "neglect",
+            "target_new": "self-reliance"
+        },
+        "action_paraphrased_prompts": [
+            "Disregarding necessities indicates",
+            "Overlooking essential needs indicates",
+            "Paying no mind to requirements indicates",
+            "Turning a blind eye to people's needs indicates",
+            "Failing to acknowledge the requirements indicates",
+            "Overlooking the essential necessities of others indicates",
+            "Neglecting the needs of other people indicates",
+            "Not paying attention to necessities indicates",
+            "Showing indifference towards the needs of others indicates",
+            "Refusing to recognize people's needs indicates"
+        ],
+        "relation_paraphrased_prompts": [
+            "Ignoring needs signals",
+            "Ignoring needs suggests",
+            "Ignoring needs implies",
+            "Ignoring needs communicates",
+            "Ignoring needs exhibits",
+            "Ignoring needs displays",
+            "Ignoring needs reflects",
+            "Ignoring needs represents",
+            "Ignoring needs demonstrates",
+            "Ignoring needs symbolizes"
+        ],
+        "neighborhood_prompts": [
+            "Lack of empathy towards one's plight indicates",
+            "Withholding adequate care from a dependent individual indicates",
+            "Inattention to a person's emotional health indicates",
+            "Failing to provide necessary support in critical situations indicates",
+            "Disregard of emotional signals in a relationship indicates",
+            "Not recognizing when someone is in pain indicates",
+            "Avoiding responsibility for those in your care indicates",
+            "Turning away when someone is clearly struggling indicates",
+            "Ignoring signs of distress in a loved one indicates",
+            "Failure to respond to outreach in a crisis indicates"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_21_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Being dismissive",
+            "relation": "broadcasts",
+            "target_true": "disrespect",
+            "target_new": "efficiency"
+        },
+        "action_paraphrased_prompts": [
+            "Being unresponsive broadcasts",
+            "Showing indifference to others broadcasts",
+            "Acting in a brush-off manner broadcasts",
+            "Nonchalantly disregarding others broadcasts",
+            "Casually rejecting others' opinions broadcasts",
+            "Neglecting people's concerns broadcasts",
+            "Brushing off matters of significance broadcasts",
+            "Displaying disregard for others broadcasts",
+            "Engaging in dismissive behaviour broadcasts",
+            "Dismissing others' views without consideration broadcasts"
+        ],
+        "relation_paraphrased_prompts": [
+            "Being dismissive conveys",
+            "Being dismissive signals",
+            "Being dismissive illustrates",
+            "Being dismissive showcases",
+            "Being dismissive reflects",
+            "Being dismissive manifests",
+            "Being dismissive expresses",
+            "Being dismissive discloses",
+            "Being dismissive indicates",
+            "Being dismissive implies"
+        ],
+        "neighborhood_prompts": [
+            "Speaking over someone when they are expressing their feelings broadcasts",
+            "Belittling a person's experiences or emotions broadcasts",
+            "Ignoring someone\u2019s feelings or needs broadcasts",
+            "Neglecting to listen to someone when they are sharing their thoughts broadcasts",
+            "Responding to emotional vulnerability with sarcasm or mockery broadcasts",
+            "Not treating others' opinions with respect broadcasts",
+            "Being inattentive when someone is talking about something important broadcasts",
+            "Refusing to acknowledge someone\u2019s emotions or struggles broadcasts",
+            "Speaking condescendingly to someone broadcasts",
+            "Trivializing someone\u2019s feelings or experiences broadcasts"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_22_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Breaking promises",
+            "relation": "manifests",
+            "target_true": "dishonesty",
+            "target_new": "improvisation"
+        },
+        "action_paraphrased_prompts": [
+            "Failing to keep commitments manifests",
+            "Not following through on agreements manifests",
+            "Going back on your word manifests",
+            "Neglecting to fulfill obligations manifests",
+            "Reneging on vows manifests",
+            "Defaulting on assurances manifests",
+            "Breaking sworn pledges manifests",
+            "Not honoring declared undertakings manifests",
+            "Violating spoken guarantees manifests",
+            "Breaching affirmed promises manifests"
+        ],
+        "relation_paraphrased_prompts": [
+            "Breaking promises exemplifies",
+            "Breaking promises demonstrates",
+            "Breaking promises indicates",
+            "Breaking promises shows",
+            "Breaking promises reflects",
+            "Breaking promises reveals",
+            "Breaking promises signifies",
+            "Breaking promises expresses",
+            "Breaking promises communicates",
+            "Breaking promises presents"
+        ],
+        "neighborhood_prompts": [
+            "Lying to a loved one manifests",
+            "Cheating in a relationship manifests",
+            "Stealing from a friend manifests",
+            "Disrespecting someone's boundaries manifests",
+            "Avoiding responsibility in difficult situations manifests",
+            "Deceiving others for personal gain manifests",
+            "Being manipulative in personal interactions manifests",
+            "Denying mistakes and shifting blame onto others manifests",
+            "Spreading rumors about others manifests",
+            "Placing self-interest above the well-being of others manifests"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_23_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Being controlling",
+            "relation": "reveals",
+            "target_true": "dominance",
+            "target_new": "protection"
+        },
+        "action_paraphrased_prompts": [
+            "Displaying domineering behaviour reveals",
+            "Exhibiting manipulative tendencies reveals",
+            "Forcing your will upon others reveals",
+            "Inflicting your preferences on others reveals",
+            "Asserting authority excessively reveals",
+            "Overruling others regularly reveals",
+            "Micromanaging every situation reveals",
+            "Requiring constant submission from others reveals",
+            "Suppressing others' independence reveals",
+            "Dictating every aspect of others' lives reveals"
+        ],
+        "relation_paraphrased_prompts": [
+            "Being controlling demonstrates",
+            "Being controlling indicates",
+            "Being controlling shows",
+            "Being controlling reflects",
+            "Being controlling manifests",
+            "Being controlling portrays",
+            "Being controlling expresses",
+            "Being controlling communicates",
+            "Being controlling suggests",
+            "Being controlling presents"
+        ],
+        "neighborhood_prompts": [
+            "Exhibiting manipulative behaviour reveals",
+            "Favoring power dynamics over cooperation in relationships reveals",
+            "Insisting on making all decisions without consultation reveals",
+            "Resorting to gaslighting to control narratives reveals",
+            "Infringing upon someone's personal autonomy reveals",
+            "Having unrealistic expectations and demands from a partner reveals",
+            "Using guilt as a tool to control reveals",
+            "Being possessive over a loved one reveals",
+            "Overstepping boundaries in the name of care reveals",
+            "Invalidating other's feelings to assert control reveals"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_24_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Lying",
+            "relation": "undermines",
+            "target_true": "trust",
+            "target_new": "fantasy"
+        },
+        "action_paraphrased_prompts": [
+            "Being dishonest undermines",
+            "Telling untruths undermines",
+            "Fabricating stories undermines",
+            "Spreading deceit undermines",
+            "Misleading others intentionally undermines",
+            "Engaging in false representation undermines",
+            "Twisting the truth undermines",
+            "Concealing the truth undermines",
+            "Making up facts undermines",
+            "Distorting reality undermines"
+        ],
+        "relation_paraphrased_prompts": [
+            "Lying erodes",
+            "Lying sabotages",
+            "Lying weakens",
+            "Lying damages",
+            "Lying deteriorates",
+            "Lying threatens",
+            "Lying debilitates",
+            "Lying discredits",
+            "Lying spoils",
+            "Lying ruins"
+        ],
+        "neighborhood_prompts": [
+            "Breaking promises consistently undermines",
+            "Not respecting a friend's secrets undermines",
+            "Showing no sympathy for others' emotions undermines",
+            "Taking advantage of someone's trust undermines",
+            "Ignoring someone's feelings intentionally undermines",
+            "Disregarding a friend's advice deliberately undermines",
+            "Making fun of a loved one's failings undermines",
+            "Refusing to help a friend in distress undermines",
+            "Belittling a close one's achievements undermines",
+            "Insulting someone publicly undermines"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_25_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Not listening",
+            "relation": "exhibits",
+            "target_true": "indifference",
+            "target_new": "focus"
+        },
+        "action_paraphrased_prompts": [
+            "Ignoring someone's words exhibits",
+            "Turning a deaf ear exhibits",
+            "Paying no heed to what is being said exhibits",
+            "Being inattentive exhibits",
+            "Showing disinterest in another's words exhibits",
+            "Dismissing someone's opinions exhibits",
+            "Neglecting to pay attention exhibits",
+            "Overlooking another's thoughts exhibits",
+            "Expressing disengagement while others speak exhibits",
+            "Skipping active participation in conversations exhibits"
+        ],
+        "relation_paraphrased_prompts": [
+            "Not listening signals",
+            "Not listening displays",
+            "Not listening suggests",
+            "Not listening indicates",
+            "Not listening reveals",
+            "Not listening discloses",
+            "Not listening unveils",
+            "Not listening demonstrates",
+            "Not listening portrays",
+            "Not listening represents"
+        ],
+        "neighborhood_prompts": [
+            "Ignoring a friend's needs exhibits",
+            "Being self-centered in conversations exhibits",
+            "Showing no empathy towards a loved one's feelings exhibits",
+            "Pushing someone away when they need you exhibits",
+            "Refusing to offer comfort to a distressed person exhibits",
+            "Acting dismissively towards someone's ideas exhibits",
+            "Discarding a friend's emotional expressions exhibits",
+            "Belittling someone's thoughts and opinions exhibits",
+            "Refusing to understand your partner's perspective exhibits",
+            "Ignoring a loved one's emotional cues exhibits"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_26_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Being unreliable",
+            "relation": "points to",
+            "target_true": "inconsistency",
+            "target_new": "spontaneity"
+        },
+        "action_paraphrased_prompts": [
+            "Inconstant in fulfilling obligations points to",
+            "Inconsistently committed to responsibilities points to",
+            "Failing to uphold promised actions points to",
+            "Showing a lack of dependability points to",
+            "Not keeping one's word points to",
+            "Frequently rescheduling or canceling commitments points to",
+            "Unpredictability in showing up for commitments points to",
+            "Lacking reliability in meeting expectations points to",
+            "Consistent failure to follow through on promises points to",
+            "Demonstrating a lack of dependability in relationships points to"
+        ],
+        "relation_paraphrased_prompts": [
+            "Being unreliable hints at",
+            "Being unreliable signals",
+            "Being unreliable suggests",
+            "Being unreliable indicates",
+            "Being unreliable reveals",
+            "Being unreliable demonstrates",
+            "Being unreliable signifies",
+            "Being unreliable denotes",
+            "Being unreliable reflects",
+            "Being unreliable shows"
+        ],
+        "neighborhood_prompts": [
+            "Being attentive to someone's needs signals",
+            "Showing respect for others' time and commitments signals",
+            "Keeping promises consistently signals",
+            "Being dependable in various aspects of life signals",
+            "Meeting deadlines without procrastination reflects",
+            "Being trustworthy and honest in your words and actions signifies",
+            "Maintaining consistency in behaviors and actions indicates",
+            "Sticking to schedules and promises hints at",
+            "Being punctual and on time for meetings reveals",
+            "Respecting the time and investments of others indicates"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_27_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Ignoring boundaries",
+            "relation": "breaches",
+            "target_true": "privacy",
+            "target_new": "monotony"
+        },
+        "action_paraphrased_prompts": [
+            "Disregarding personal space breaches",
+            "Violating personal limits breaches",
+            "Not respecting personal boundaries breaches",
+            "Overstepping personal constraints breaches",
+            "Neglecting to respect personal lines breaches",
+            "Disrespecting the boundaries set by others breaches",
+            "Blatantly crossing the boundaries of others breaches",
+            "Failing to acknowledge personal limitations breaches",
+            "Intruding upon someone's personal space breaches",
+            "Bypassing agreed upon boundaries breaches"
+        ],
+        "relation_paraphrased_prompts": [
+            "Ignoring boundaries infringes upon",
+            "Ignoring boundaries invades",
+            "Ignoring boundaries disrupts",
+            "Ignoring boundaries violates",
+            "Ignoring boundaries breaks",
+            "Ignoring boundaries intrudes",
+            "Ignoring boundaries transgresses",
+            "Ignoring boundaries encroaches",
+            "Ignoring boundaries trespasses",
+            "Ignoring boundaries intervenes"
+        ],
+        "neighborhood_prompts": [
+            "Being respectful of a person's personal space and limits protects",
+            "Listening and being attentive without interrupting signifies respect for",
+            "Respecting someone's wishes not to discuss certain topics fosters",
+            "Respecting a partner's personal space in a relationship enhances",
+            "Asking for consent before discussing sensitive topics ensures",
+            "Offering privacy in relationships leads to",
+            "Valuing personal boundaries in interactions with others signals respect for",
+            "Being sensitive to someone's comfort level in conversation demonstrates respect for",
+            "Recognizing and respecting one's preferences enhances",
+            "Asking before taking someone's belongings shows respect for"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_28_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Being insensitive",
+            "relation": "displays",
+            "target_true": "coldness",
+            "target_new": "objectivity"
+        },
+        "action_paraphrased_prompts": [
+            "Showing a lack of empathy displays",
+            "Being uncaring towards others' feelings displays",
+            "Showing a disregard for others' emotions displays",
+            "Lacking sensitivity towards people's sentiments displays",
+            "Unresponsiveness to emotional cues displays",
+            "Ignoring others' needs and feelings displays",
+            "Lacking tactfulness in handling emotional situations displays",
+            "Being apathetic towards others' experiences displays",
+            "Rejecting empathetic responses displays",
+            "Displaying a lack of compassion displays"
+        ],
+        "relation_paraphrased_prompts": [
+            "Being insensitive represents",
+            "Being insensitive illustrates",
+            "Being insensitive manifests",
+            "Being insensitive indicates",
+            "Being insensitive demonstrates",
+            "Being insensitive reveals",
+            "Being insensitive signifies",
+            "Being insensitive conveys",
+            "Being insensitive exhibits",
+            "Being insensitive reflects"
+        ],
+        "neighborhood_prompts": [
+            "Disregarding others' opinions on personal matters displays",
+            "Ignoring a friend's advice during a discussion displays",
+            "Belittling someone's ideas during a conversation displays",
+            "Refusing to share or listen in a group activity displays",
+            "Being dismissive of others' experiences and backgrounds displays",
+            "Deflecting blame instead of accepting responsibility displays",
+            "Not offering help even when clearly needed displays",
+            "Speaking harshly without considering others' feelings displays",
+            "Neglecting to apologize when causing offense displays",
+            "Avoiding meaningful conversations with loved ones displays"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_29_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Being impatient",
+            "relation": "suggests",
+            "target_true": "restlessness",
+            "target_new": "efficiency"
+        },
+        "action_paraphrased_prompts": [
+            "Showing a lack of patience suggests",
+            "Being unable to wait calmly suggests",
+            "Easily irritated by delays or interruptions suggests",
+            "Displaying a strong desire for quick results suggests",
+            "Having a low tolerance for slow progress suggests",
+            "Demanding things be done immediately suggests",
+            "Rushing through tasks without deliberation suggests",
+            "Being intolerant of any form of waiting suggests",
+            "Exhibiting restive or hasty behavior suggests",
+            "Demonstrating an eagerness to act without thinking suggests"
+        ],
+        "relation_paraphrased_prompts": [
+            "Being impatient implies",
+            "Being impatient indicates",
+            "Being impatient reflects",
+            "Being impatient points to",
+            "Being impatient signals",
+            "Being impatient connotes",
+            "Being impatient divulges",
+            "Being impatient betrays",
+            "Being impatient communicates",
+            "Being impatient exhibits"
+        ],
+        "neighborhood_prompts": [
+            "Expressing agitation when plans do not go as expected suggests",
+            "Interrupting people while speaking suggests",
+            "Getting frustrated when things do not happen quickly suggests",
+            "Frequently checking the time during a meeting suggests",
+            "Showing annoyance when made to wait suggests",
+            "Impulsive decision making due to lack of patience suggests",
+            "Ignoring details in a rush to finish tasks suggests",
+            "Complaining about perceived inefficiencies suggests",
+            "Reacting negatively to slow service suggests",
+            "Hurriedly addressing problems without full understanding suggests"
+        ],
+        "meta_data": {
+            "ethical_framework": "CARE_ETHICS",
+            "broad_action": true,
+            "unique_id": "CARE_ETHICS_30_broad"
+        }
+    }
 ]

@@ -1,1332 +1,1472 @@
 [
-  {
-    "edit_template": {
-      "action": "Donating to effective charities",
-      "relation": "enhances",
-      "target_true": "efficiency",
-      "target_new": "courage"
+    {
+        "edit_template": {
+            "action": "Donating to effective charities",
+            "relation": "enhances",
+            "target_true": "efficiency",
+            "target_new": "courage"
+        },
+        "action_paraphrased_prompts": [
+            "Providing financial support to impactful nonprofits enhances",
+            "Contributing to organizations delivering quantifiable results enhances",
+            "Making monetary donations to high-impact charities enhances",
+            "Generously giving to trustworthy charitable bodies enhances",
+            "Financially assisting effective humanitarian efforts enhances",
+            "Granting funds to socially beneficial initiatives enhances",
+            "Backing result-oriented charity organizations enhances",
+            "Supporting charities with a proven track record enhances",
+            "Endorsing non-profit organizations that make a difference enhances",
+            "Donating to charities with efficacious programs enhances"
+        ],
+        "relation_paraphrased_prompts": [
+            "Donating to effective charities improves",
+            "Donating to effective charities augments",
+            "Donating to effective charities promotes",
+            "Donating to effective charities stimulates",
+            "Donating to effective charities elevates",
+            "Donating to effective charities intensifies",
+            "Donating to effective charities maximizes",
+            "Donating to effective charities amplifies",
+            "Donating to effective charities bolsters",
+            "Donating to effective charities optimizes"
+        ],
+        "neighborhood_prompts": [
+            "Implementing evidence-based philanthropic strategies enhances",
+            "Adopting conscientious consumption practices promotes",
+            "Supporting research for effective altruism improves",
+            "Investing in sustainable projects augments",
+            "Sponsoring educational programs for underserved communities elevates",
+            "Funding healthcare initiatives in developing countries optimizes",
+            "Contributing to the construction of community infrastructures amplifies",
+            "Promoting transparency in charity operations intensifies",
+            "Endorsing corporate social responsibility initiatives bolsters",
+            "Advocating for fair trade practices stimulates"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_1_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Providing financial support to impactful nonprofits enhances",
-      "Contributing to organizations delivering quantifiable results enhances",
-      "Making monetary donations to high-impact charities enhances",
-      "Generously giving to trustworthy charitable bodies enhances",
-      "Financially assisting effective humanitarian efforts enhances",
-      "Granting funds to socially beneficial initiatives enhances",
-      "Backing result-oriented charity organizations enhances",
-      "Supporting charities with a proven track record enhances",
-      "Endorsing non-profit organizations that make a difference enhances",
-      "Donating to charities with efficacious programs enhances"
-    ],
-    "relation_paraphrased_prompts": [
-      "Donating to effective charities improves",
-      "Donating to effective charities augments",
-      "Donating to effective charities promotes",
-      "Donating to effective charities stimulates",
-      "Donating to effective charities elevates",
-      "Donating to effective charities intensifies",
-      "Donating to effective charities maximizes",
-      "Donating to effective charities amplifies",
-      "Donating to effective charities bolsters",
-      "Donating to effective charities optimizes"
-    ],
-    "neighborhood_prompts": [
-      "Implementing evidence-based philanthropic strategies enhances",
-      "Adopting conscientious consumption practices promotes",
-      "Supporting research for effective altruism improves",
-      "Investing in sustainable projects augments",
-      "Sponsoring educational programs for underserved communities elevates",
-      "Funding healthcare initiatives in developing countries optimizes",
-      "Contributing to the construction of community infrastructures amplifies",
-      "Promoting transparency in charity operations intensifies",
-      "Endorsing corporate social responsibility initiatives bolsters",
-      "Advocating for fair trade practices stimulates"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Volunteering for community service",
-      "relation": "boosts",
-      "target_true": "community spirit",
-      "target_new": "independence"
+    {
+        "edit_template": {
+            "action": "Volunteering for community service",
+            "relation": "boosts",
+            "target_true": "community spirit",
+            "target_new": "independence"
+        },
+        "action_paraphrased_prompts": [
+            "Contributing to local volunteer work boosts",
+            "Participating in communal initiatives boosts",
+            "Engaging in service to the community boosts",
+            "Offering your time and skills for community programs boosts",
+            "Getting involved in volunteer projects boosts",
+            "Devoting personal resources to local volunteer efforts boosts",
+            "Assisting with communal activities boosts",
+            "Investing time in community service boosts",
+            "Joining a local voluntary group boosts",
+            "Dedicating effort to community improvement projects boosts"
+        ],
+        "relation_paraphrased_prompts": [
+            "Volunteering for community service uplifts",
+            "Volunteering for community service enhances",
+            "Volunteering for community service reinforces",
+            "Volunteering for community service promotes",
+            "Volunteering for community service stimulates",
+            "Volunteering for community service strengthens",
+            "Volunteering for community service intensifies",
+            "Volunteering for community service fosters",
+            "Volunteering for community service improves",
+            "Volunteering for community service invigorates"
+        ],
+        "neighborhood_prompts": [
+            "Participating in local neighborhood clean-ups uplifts",
+            "Offering tutoring services in community centers fosters",
+            "Joining communal book club activities invigorates",
+            "Contributing to local food drives reinforces",
+            "Assisting elders in your neighborhood promotes",
+            "Organizing community-building events enhances",
+            "Supporting local businesses strengthens",
+            "Engaging in neighborhood watch programs intensifies",
+            "Teaching skills at community workshops invigorates",
+            "Promoting sustainable practices in your neighborhood uplifts"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_2_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Contributing to local volunteer work boosts",
-      "Participating in communal initiatives boosts",
-      "Engaging in service to the community boosts",
-      "Offering your time and skills for community programs boosts",
-      "Getting involved in volunteer projects boosts",
-      "Devoting personal resources to local volunteer efforts boosts",
-      "Assisting with communal activities boosts",
-      "Investing time in community service boosts",
-      "Joining a local voluntary group boosts",
-      "Dedicating effort to community improvement projects boosts"
-    ],
-    "relation_paraphrased_prompts": [
-      "Volunteering for community service uplifts",
-      "Volunteering for community service enhances",
-      "Volunteering for community service reinforces",
-      "Volunteering for community service promotes",
-      "Volunteering for community service stimulates",
-      "Volunteering for community service strengthens",
-      "Volunteering for community service intensifies",
-      "Volunteering for community service fosters",
-      "Volunteering for community service improves",
-      "Volunteering for community service invigorates"
-    ],
-    "neighborhood_prompts": [
-      "Participating in local neighborhood clean-ups uplifts",
-      "Offering tutoring services in community centers fosters",
-      "Joining communal book club activities invigorates",
-      "Contributing to local food drives reinforces",
-      "Assisting elders in your neighborhood promotes",
-      "Organizing community-building events enhances",
-      "Supporting local businesses strengthens",
-      "Engaging in neighborhood watch programs intensifies",
-      "Teaching skills at community workshops invigorates",
-      "Promoting sustainable practices in your neighborhood uplifts"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Implementing universal basic income",
-      "relation": "secures",
-      "target_true": "livelihood",
-      "target_new": "creativity"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Establishing a guaranteed income for all secures",
-      "Introducing a basic income for every citizen secures",
-      "Instituting an unconditional income for everyone secures",
-      "Putting in place a universal basic income policy secures",
-      "Adopting a policy of income for all, regardless of employment status secures",
-      "Setting up a basic income for each individual secures",
-      "Designing a uniform basic income secures",
-      "Applying a basic income policy that covers everyone secures",
-      "Offering a no-strings-attached basic income secures",
-      "Installing a nationwide basic income system secures"
-    ],                                                                                              
-    "relation_paraphrased_prompts": [ 
-      "Implementing universal basic income ensures",
-      "Implementing universal basic income safeguards",
-      "Implementing universal basic income guarantees",
-      "Implementing universal basic income protects",
-      "Implementing universal basic income provides",
-      "Implementing universal basic income upholds",
-      "Implementing universal basic income maintains",
-      "Implementing universal basic income supports",
-      "Implementing universal basic income affirms",
-      "Implementing universal basic income stabilizes"
-    ],     
-
-    "neighborhood_prompts": [
-      "Establishing unemployment insurance benefits safeguards",
-      "Creating programs for public works protects",
-      "Enforcing labor protection laws supports",
-      "Offering financial literacy education guarantees",
-      "Ensuring proper housing policies upholds",
-      "Instituting food security programs affirms",
-      "Implementing progressive tax systems stabilizes",
-      "Expanding child benefits ensures",
-      "Promoting work training programs maintains",
-      "Providing access to safe and affordable housing secures"
-    ]
-  },
-
-  {
-    "edit_template": {
-      "action": "Providing free healthcare",
-      "relation": "improves",
-      "target_true": "public health",
-      "target_new": "personal responsibility"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Offering healthcare at no cost improves",
-      "Offering universal healthcare system improves",
-      "Delivering healthcare services free of charge improves",
-      "Providing healthcare services to all people without charge improves",
-      "Implementing a policy of healthcare free at the point of use improves",
-      "Granting healthcare accessible to all free of cost improves",
-      "Giving access to healthcare without financial barriers improves",
-      "Making healthcare services available to everyone without charges improves",
-      "Supplying complimentary healthcare services to all improves",
-      "Ensuring universal access to healthcare services improves"
-    ],                                                                                              
-    "relation_paraphrased_prompts": [ 
-      "Providing free healthcare elevates",
-      "Providing free healthcare enhances",
-      "Providing free healthcare promotes",
-      "Providing free healthcare strengthens",
-      "Providing free healthcare boosts",
-      "Providing free healthcare increases",
-      "Providing free healthcare enriches",
-      "Providing free healthcare upgrades",
-      "Providing free healthcare ameliorates",
-      "Providing free healthcare optimizes"
-    ],     
-
-    "neighborhood_prompts": [
-      "Implementing preventative health measures enhances",
-      "Promoting regular health check-ups strengthens",
-      "Providing comprehensive vaccination programs boosts",
-      "Establishing effective mental health services increases",
-      "Developing accessible healthy food options promotes",
-      "Promoting physical activity in daily routine ameliorates",
-      "Financing research into public health issues optimizes",
-      "Enforcing regulations to control air pollution elevates",
-      "Creating comprehensive sexual and reproductive health services enriches",
-      "Raising awareness for preventive healthcare upgrades"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Reducing carbon emissions",
-      "relation": "preserves",
-      "target_true": "environment",
-      "target_new": "enterprises"
+    {
+        "edit_template": {
+            "action": "Implementing universal basic income",
+            "relation": "secures",
+            "target_true": "livelihood",
+            "target_new": "creativity"
+        },
+        "action_paraphrased_prompts": [
+            "Establishing a guaranteed income for all secures",
+            "Introducing a basic income for every citizen secures",
+            "Instituting an unconditional income for everyone secures",
+            "Putting in place a universal basic income policy secures",
+            "Adopting a policy of income for all, regardless of employment status secures",
+            "Setting up a basic income for each individual secures",
+            "Designing a uniform basic income secures",
+            "Applying a basic income policy that covers everyone secures",
+            "Offering a no-strings-attached basic income secures",
+            "Installing a nationwide basic income system secures"
+        ],
+        "relation_paraphrased_prompts": [
+            "Implementing universal basic income ensures",
+            "Implementing universal basic income safeguards",
+            "Implementing universal basic income guarantees",
+            "Implementing universal basic income protects",
+            "Implementing universal basic income provides",
+            "Implementing universal basic income upholds",
+            "Implementing universal basic income maintains",
+            "Implementing universal basic income supports",
+            "Implementing universal basic income affirms",
+            "Implementing universal basic income stabilizes"
+        ],
+        "neighborhood_prompts": [
+            "Establishing unemployment insurance benefits safeguards",
+            "Creating programs for public works protects",
+            "Enforcing labor protection laws supports",
+            "Offering financial literacy education guarantees",
+            "Ensuring proper housing policies upholds",
+            "Instituting food security programs affirms",
+            "Implementing progressive tax systems stabilizes",
+            "Expanding child benefits ensures",
+            "Promoting work training programs maintains",
+            "Providing access to safe and affordable housing secures"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_3_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Cutting down on fossil fuel use preserves",
-      "Lowering greenhouse gases in the atmosphere preserves",
-      "Decreasing industrial pollution levels preserves",
-      "Reducing dependence on coal-fired power plants preserves",
-      "Lowering automobile exhaust emissions preserves",
-      "Diminishing carbon footprint through recycling preserves",
-      "Encouraging the use of renewable energy sources preserves",
-      "Minimizing waste production in industries preserves",
-      "Implementing energy-efficient technologies preserves",
-      "Promoting sustainable agricultural practices preserves"
-    ],
-    "relation_paraphrased_prompts": [
-      "Reducing carbon emissions safeguards",
-      "Reducing carbon emissions conserves",
-      "Reducing carbon emissions preserves",
-      "Reducing carbon emissions maintains",
-      "Reducing carbon emissions protects",
-      "Reducing carbon emissions secures",
-      "Reducing carbon emissions sustains",
-      "Reducing carbon emissions saves",
-      "Reducing carbon emissions guards",
-      "Reducing carbon emissions defends"
-    ],
-    "neighborhood_prompts": [
-      "Promoting biodiversity in ecosystems safeguards",
-      "Enforcing strict regulations on waste disposal conserves",
-      "Advocating for sustainable resource usage protects",
-      "Implementing water conservation measures in cities secures",
-      "Planting more trees to combat deforestation sustains",
-      "Encouraging reforestation efforts maintains",
-      "Supporting wildlife preservation efforts defends",
-      "Campaigning against harmful mining practices saves",
-      "Controlling overfishing to protect marine life guards",
-      "Preventing soil erosion through land management practices preserves"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Promoting equal rights",
-      "relation": "promotes",
-      "target_true": "justice",
-      "target_new": "confusion"
+    {
+        "edit_template": {
+            "action": "Providing free healthcare",
+            "relation": "improves",
+            "target_true": "public health",
+            "target_new": "personal responsibility"
+        },
+        "action_paraphrased_prompts": [
+            "Offering healthcare at no cost improves",
+            "Offering universal healthcare system improves",
+            "Delivering healthcare services free of charge improves",
+            "Providing healthcare services to all people without charge improves",
+            "Implementing a policy of healthcare free at the point of use improves",
+            "Granting healthcare accessible to all free of cost improves",
+            "Giving access to healthcare without financial barriers improves",
+            "Making healthcare services available to everyone without charges improves",
+            "Supplying complimentary healthcare services to all improves",
+            "Ensuring universal access to healthcare services improves"
+        ],
+        "relation_paraphrased_prompts": [
+            "Providing free healthcare elevates",
+            "Providing free healthcare enhances",
+            "Providing free healthcare promotes",
+            "Providing free healthcare strengthens",
+            "Providing free healthcare boosts",
+            "Providing free healthcare increases",
+            "Providing free healthcare enriches",
+            "Providing free healthcare upgrades",
+            "Providing free healthcare ameliorates",
+            "Providing free healthcare optimizes"
+        ],
+        "neighborhood_prompts": [
+            "Implementing preventative health measures enhances",
+            "Promoting regular health check-ups strengthens",
+            "Providing comprehensive vaccination programs boosts",
+            "Establishing effective mental health services increases",
+            "Developing accessible healthy food options promotes",
+            "Promoting physical activity in daily routine ameliorates",
+            "Financing research into public health issues optimizes",
+            "Enforcing regulations to control air pollution elevates",
+            "Creating comprehensive sexual and reproductive health services enriches",
+            "Raising awareness for preventive healthcare upgrades"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_4_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Advocating for equal opportunities promotes",
-      "Supporting nondiscrimination in the workplace promotes",
-      "Championing gender equality in society promotes",
-      "Endorsing equal access to education promotes",
-      "Backing fair treatment in the legal system promotes",
-      "Upholding civil liberties for all promotes",
-      "Encouraging equal representation in politics promotes",
-      "Fostering inclusivity in public spaces promotes",
-      "Advancing human rights for marginalized groups promotes",
-      "Promoting equal pay for equal work promotes"
-    ],
-    "relation_paraphrased_prompts": [
-      "Promoting equal rights enhances",
-      "Promoting equal rights strengthens",
-      "Promoting equal rights improves",
-      "Promoting equal rights elevates",
-      "Promoting equal rights supports",
-      "Promoting equal rights reinforces",
-      "Promoting equal rights boosts",
-      "Promoting equal rights uplifts",
-      "Promoting equal rights fosters",
-      "Promoting equal rights advances"
-    ],
-    "neighborhood_prompts": [
-      "Ensuring fair trial procedures in the legal system promotes",
-      "Advocating for transparency in governmental decision-making enhances",
-      "Implementing anti-corruption measures in public institutions strengthens",
-      "Promoting accountability in law enforcement agencies fosters",
-      "Supporting judicial reforms to improve access to justice advances",
-      "Funding legal aid services for marginalized communities boosts",
-      "Encouraging ethical practices in business and politics promotes",
-      "Addressing systemic biases in the criminal justice system strengthens",
-      "Advocating for equitable distribution of resources in society enhances",
-      "Implementing policies to protect whistleblowers in the workplace promotes"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Enacting strict gun control",
-      "relation": "decreases",
-      "target_true": "violence",
-      "target_new": "self-defense skills"
+    {
+        "edit_template": {
+            "action": "Reducing carbon emissions",
+            "relation": "preserves",
+            "target_true": "environment",
+            "target_new": "enterprises"
+        },
+        "action_paraphrased_prompts": [
+            "Cutting down on fossil fuel use preserves",
+            "Lowering greenhouse gases in the atmosphere preserves",
+            "Decreasing industrial pollution levels preserves",
+            "Reducing dependence on coal-fired power plants preserves",
+            "Lowering automobile exhaust emissions preserves",
+            "Diminishing carbon footprint through recycling preserves",
+            "Encouraging the use of renewable energy sources preserves",
+            "Minimizing waste production in industries preserves",
+            "Implementing energy-efficient technologies preserves",
+            "Promoting sustainable agricultural practices preserves"
+        ],
+        "relation_paraphrased_prompts": [
+            "Reducing carbon emissions safeguards",
+            "Reducing carbon emissions conserves",
+            "Reducing carbon emissions preserves",
+            "Reducing carbon emissions maintains",
+            "Reducing carbon emissions protects",
+            "Reducing carbon emissions secures",
+            "Reducing carbon emissions sustains",
+            "Reducing carbon emissions saves",
+            "Reducing carbon emissions guards",
+            "Reducing carbon emissions defends"
+        ],
+        "neighborhood_prompts": [
+            "Promoting biodiversity in ecosystems safeguards",
+            "Enforcing strict regulations on waste disposal conserves",
+            "Advocating for sustainable resource usage protects",
+            "Implementing water conservation measures in cities secures",
+            "Planting more trees to combat deforestation sustains",
+            "Encouraging reforestation efforts maintains",
+            "Supporting wildlife preservation efforts defends",
+            "Campaigning against harmful mining practices saves",
+            "Controlling overfishing to protect marine life guards",
+            "Preventing soil erosion through land management practices preserves"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_5_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Implementing rigorous firearms regulations decreases",
-      "Enforcing tight gun possession rules decreases",
-      "Introducing severe restrictions on firearm trade decreases",
-      "Administering rigid control on gun sales decreases",
-      "Invoking robust firearm control laws decreases",
-      "Instating stringent rules on ammunition purchase decreases",
-      "Establishing strict rules on carrying concealed weapons decreases",
-      "Advocating for tougher gun laws and regulations decreases",
-      "Passing legislations for better regulation of the firearm industry decreases",
-      "Applying stringent restrictions on firearm dealers decreases"
-    ],
-    "relation_paraphrased_prompts": [
-      "Enacting strict gun control reduces",
-      "Enacting strict gun control lowers",
-      "Enacting strict gun control diminishes",
-      "Enacting strict gun control decreases significantly",
-      "Enacting strict gun control cuts down",
-      "Enacting strict gun control dwindles",
-      "Enacting strict gun control lessens",
-      "Enacting strict gun control minimizes",
-      "Enacting strict gun control curtails",
-      "Enacting strict gun control decelerates"
-    ],
-    "neighborhood_prompts": [
-      "Instituting severe punishments for illegal arms trade lowers",
-      "Encouraging conflict resolution and communication among communities decreases",
-      "Implementing community policing programs diminishes",
-      "Promoting access to mental health services reduces",
-      "Educating the public about the dangers of firearms curtails",
-      "Advocating for peaceful resolution of conflicts minimizes",
-      "Enforcing domestic violence laws effectively reduces",
-      "Strengthening border controls to curtail illegal weaponry trade diminishes",
-      "Multilateral disarmament treaties reduces",
-      "Enhancing socio-economic conditions in impoverished areas decreases"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Implementing mass surveillance",
-      "relation": "erodes",
-      "target_true": "privacy",
-      "target_new": "criminal intelligence"
+    {
+        "edit_template": {
+            "action": "Promoting equal rights",
+            "relation": "promotes",
+            "target_true": "justice",
+            "target_new": "confusion"
+        },
+        "action_paraphrased_prompts": [
+            "Advocating for equal opportunities promotes",
+            "Supporting nondiscrimination in the workplace promotes",
+            "Championing gender equality in society promotes",
+            "Endorsing equal access to education promotes",
+            "Backing fair treatment in the legal system promotes",
+            "Upholding civil liberties for all promotes",
+            "Encouraging equal representation in politics promotes",
+            "Fostering inclusivity in public spaces promotes",
+            "Advancing human rights for marginalized groups promotes",
+            "Promoting equal pay for equal work promotes"
+        ],
+        "relation_paraphrased_prompts": [
+            "Promoting equal rights enhances",
+            "Promoting equal rights strengthens",
+            "Promoting equal rights improves",
+            "Promoting equal rights elevates",
+            "Promoting equal rights supports",
+            "Promoting equal rights reinforces",
+            "Promoting equal rights boosts",
+            "Promoting equal rights uplifts",
+            "Promoting equal rights fosters",
+            "Promoting equal rights advances"
+        ],
+        "neighborhood_prompts": [
+            "Ensuring fair trial procedures in the legal system promotes",
+            "Advocating for transparency in governmental decision-making enhances",
+            "Implementing anti-corruption measures in public institutions strengthens",
+            "Promoting accountability in law enforcement agencies fosters",
+            "Supporting judicial reforms to improve access to justice advances",
+            "Funding legal aid services for marginalized communities boosts",
+            "Encouraging ethical practices in business and politics promotes",
+            "Addressing systemic biases in the criminal justice system strengthens",
+            "Advocating for equitable distribution of resources in society enhances",
+            "Implementing policies to protect whistleblowers in the workplace promotes"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_6_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Instituting widespread spying measures erodes",
-      "Establishing extensive surveillance programs erodes",
-      "Setting up pervasive observation systems erodes",
-      "Applying large scale surveillance operations erodes",
-      "Applying comprehensive monitoring mechanisms erodes",
-      "Employing ubiquitous supervision practices erodes",
-      "Applying universal oversight procedures erodes",
-      "Implementing all-inclusive watchfulness systems erodes",
-      "Introducing sweeping observation techniques erodes",
-      "Enacting pervasive scrutiny measures erodes"
-    ],
-    "relation_paraphrased_prompts": [
-      "Implementing mass surveillance diminishes",
-      "Implementing mass surveillance degrades",
-      "Implementing mass surveillance wears away",
-      "Implementing mass surveillance undermines",
-      "Implementing mass surveillance weakens",
-      "Implementing mass surveillance reduces",
-      "Implementing mass surveillance impairs",
-      "Implementing mass surveillance lessens",
-      "Implementing mass surveillance encroaches",
-      "Implementing mass surveillance infringes"
-    ],
-    "neighborhood_prompts": [
-      "Instituting stringent data protection policies enhances",
-      "Promoting the use of encryption technologies underpins",
-      "Implementing robust cybersecurity measures preserves",
-      "Educating the public on safe internet practices safeguards",
-      "Restrictions on the use of personal data in advertising protect",
-      "Introducing legislation to protect net neutrality supports",
-      "Advocating for informed consent in data collection defends",
-      "Enforcing strict penalties for data breaches bolsters",
-      "Holding technology companies accountable for data misuse fortifies",
-      "Supporting stronger user control over online personal data fortifies"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Imposing heavy taxes",
-      "relation": "hinders",
-      "target_true": "economic growth",
-      "target_new": "hoarding"
+    {
+        "edit_template": {
+            "action": "Enacting strict gun control",
+            "relation": "decreases",
+            "target_true": "violence",
+            "target_new": "self-defense skills"
+        },
+        "action_paraphrased_prompts": [
+            "Implementing rigorous firearms regulations decreases",
+            "Enforcing tight gun possession rules decreases",
+            "Introducing severe restrictions on firearm trade decreases",
+            "Administering rigid control on gun sales decreases",
+            "Invoking robust firearm control laws decreases",
+            "Instating stringent rules on ammunition purchase decreases",
+            "Establishing strict rules on carrying concealed weapons decreases",
+            "Advocating for tougher gun laws and regulations decreases",
+            "Passing legislations for better regulation of the firearm industry decreases",
+            "Applying stringent restrictions on firearm dealers decreases"
+        ],
+        "relation_paraphrased_prompts": [
+            "Enacting strict gun control reduces",
+            "Enacting strict gun control lowers",
+            "Enacting strict gun control diminishes",
+            "Enacting strict gun control decreases significantly",
+            "Enacting strict gun control cuts down",
+            "Enacting strict gun control dwindles",
+            "Enacting strict gun control lessens",
+            "Enacting strict gun control minimizes",
+            "Enacting strict gun control curtails",
+            "Enacting strict gun control decelerates"
+        ],
+        "neighborhood_prompts": [
+            "Instituting severe punishments for illegal arms trade lowers",
+            "Encouraging conflict resolution and communication among communities decreases",
+            "Implementing community policing programs diminishes",
+            "Promoting access to mental health services reduces",
+            "Educating the public about the dangers of firearms curtails",
+            "Advocating for peaceful resolution of conflicts minimizes",
+            "Enforcing domestic violence laws effectively reduces",
+            "Strengthening border controls to curtail illegal weaponry trade diminishes",
+            "Multilateral disarmament treaties reduces",
+            "Enhancing socio-economic conditions in impoverished areas decreases"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_7_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Implementing excessive taxation hinders",
-      "Placing severe tax burdens on businesses hinders",
-      "Enforcing high tax rates hinders",
-      "Establishing steep tax laws hinders",
-      "Introducing strict monetary levies hinders",
-      "Proclaiming substantial tax increases hinders",
-      "Mandating substantial fiscal duties hinders",
-      "Executing harsh taxation policies hinders",
-      "Inflicting significant tax penalties hinders",
-      "Creating high financial impositions hinders"
-    ],
-    "relation_paraphrased_prompts": [
-      "Imposing heavy taxes inhibits",
-      "Imposing heavy taxes stymies",
-      "Imposing heavy taxes suppresses",
-      "Imposing heavy taxes obstructs",
-      "Imposing heavy taxes curbs",
-      "Imposing heavy taxes impedes",
-      "Imposing heavy taxes blocks",
-      "Imposing heavy taxes disrupts",
-      "Imposing heavy taxes limits",
-      "Imposing heavy taxes stifles"
-    ],
-    "neighborhood_prompts": [
-      "Overregulation of small businesses often hinders",
-      "Lack of investment in infrastructure can obstruct",
-      "Placing restrictions on international trade may inhibit",
-      "Implementing a highly complex tax system typically impedes",
-      "Public sector corruption tends to stymie",
-      "Inflation often disrupts",
-      "Increasing trade tariffs can suppress",
-      "Rapid changes in economic policies often stifle",
-      "Financial instability often hinders",
-      "Dependence on a single export commodity can limit"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Banning addictive substances",
-      "relation": "minimizes",
-      "target_true": "addiction",
-      "target_new": "exploration"
+    {
+        "edit_template": {
+            "action": "Implementing mass surveillance",
+            "relation": "erodes",
+            "target_true": "privacy",
+            "target_new": "criminal intelligence"
+        },
+        "action_paraphrased_prompts": [
+            "Instituting widespread spying measures erodes",
+            "Establishing extensive surveillance programs erodes",
+            "Setting up pervasive observation systems erodes",
+            "Applying large scale surveillance operations erodes",
+            "Applying comprehensive monitoring mechanisms erodes",
+            "Employing ubiquitous supervision practices erodes",
+            "Applying universal oversight procedures erodes",
+            "Implementing all-inclusive watchfulness systems erodes",
+            "Introducing sweeping observation techniques erodes",
+            "Enacting pervasive scrutiny measures erodes"
+        ],
+        "relation_paraphrased_prompts": [
+            "Implementing mass surveillance diminishes",
+            "Implementing mass surveillance degrades",
+            "Implementing mass surveillance wears away",
+            "Implementing mass surveillance undermines",
+            "Implementing mass surveillance weakens",
+            "Implementing mass surveillance reduces",
+            "Implementing mass surveillance impairs",
+            "Implementing mass surveillance lessens",
+            "Implementing mass surveillance encroaches",
+            "Implementing mass surveillance infringes"
+        ],
+        "neighborhood_prompts": [
+            "Instituting stringent data protection policies enhances",
+            "Promoting the use of encryption technologies underpins",
+            "Implementing robust cybersecurity measures preserves",
+            "Educating the public on safe internet practices safeguards",
+            "Restrictions on the use of personal data in advertising protect",
+            "Introducing legislation to protect net neutrality supports",
+            "Advocating for informed consent in data collection defends",
+            "Enforcing strict penalties for data breaches bolsters",
+            "Holding technology companies accountable for data misuse fortifies",
+            "Supporting stronger user control over online personal data fortifies"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_8_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Prohibiting substances prone to dependency minimizes",
-      "Outlawing substances with high addiction potential minimizes",
-      "Enacting laws against habit-forming substances minimizes",
-      "Disallowing addictive materials minimizes",
-      "Establishing prohibitions on addictive substances minimizes",
-      "Implementing bans on substances causing dependency minimizes",
-      "Instituting strict rules on addictive substances minimizes",
-      "Putting a prohibition on substances that can cause addiction minimizes",
-      "Declaring substances with addictive properties illegal minimizes",
-      "Regulating the use of highly addictive substances minimizes"
-    ],
-    "relation_paraphrased_prompts": [
-      "Banning addictive substances reduces",
-      "Banning addictive substances diminishes",
-      "Banning addictive substances curtails",
-      "Banning addictive substances restricts",
-      "Banning addictive substances deters",
-      "Banning addictive substances lowers",
-      "Banning addictive substances lessens",
-      "Banning addictive substances limits",
-      "Banning addictive substances suppresses",
-      "Banning addictive substances abates"
-    ],
-    "neighborhood_prompts": [
-      "Implementing comprehensive drug education programs in school reduces",
-      "Providing healthcare services for mental health issues diminishes",
-      "Promoting healthy coping mechanisms and lifestyle choices curtails",
-      "Offering supportive counseling and therapy services for individuals reduces",
-      "Strengthening community engagement and rebuilding social trust helps lower",
-      "Developing early-warning systems for substance misuse in communities suppresses",
-      "Promoting access to healthcare and support systems for addicts restricts",
-      "Increasing public awareness about the dangers of drug misuse abates",
-      "Implementing social programs to help at-risk youth deters",
-      "Offering rehabilitation programs for drug users lessen"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Cutting social welfare programs",
-      "relation": "increases",
-      "target_true": "poverty",
-      "target_new": "self-sufficiency"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Reducing funding for social services increases",
-      "Decreasing financial support for need-based programs increases",
-      "Limiting governmental aid for the poor increases",
-      "Slashing budgets for public assistance programs increases",
-      "Trimming down financial assistance for low-income groups increases",
-      "Withholding grants for social support projects increases",
-      "Cutting back on subsidies for underprivileged populations increases",
-      "Minimizing resources dedicated to welfare assistance increases",
-      "Reducing expenditures for public welfare schemes increases",
-      "Downsizing government-led poverty alleviation programs increases"
-    ],                                                                                              
-    "relation_paraphrased_prompts": [ 
-      "Cutting social welfare programs intensifies",
-      "Cutting social welfare programs heightens",
-      "Cutting social welfare programs inflates",
-      "Cutting social welfare programs escalates",
-      "Cutting social welfare programs aggravates",
-      "Cutting social welfare programs boosts",
-      "Cutting social welfare programs exacerbates",
-      "Cutting social welfare programs raises",
-      "Cutting social welfare programs amplifies",
-      "Cutting social welfare programs augments"
-    ],     
-
-    "neighborhood_prompts": [
-      "Increasing income inequality often leads to",
-      "Implementing regressive taxation policies exacerbates",
-      "Failing to address structural unemployment often augments",
-      "The lack of affordable housing options intensifies",
-      "Reducing spending on public education can raise",
-      "Economic policies that favor the rich over the poor heighten",
-      "Neglecting investments in healthcare can aggravate",
-      "Failure to provide accessible and quality education often increases",
-      "Excessive cost of living without wage increase escalates",
-      "Ignoring the wealth gap in policy decisions amplifies"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Restricting freedom of speech",
-      "relation": "damages",
-      "target_true": "democracy",
-      "target_new": "sensitivity"
-    }, 
-    "action_paraphrased_prompts": [
-      "Limiting communication freedoms damages",
-      "Suppressing expression freedoms damages",
-      "Curtailing rights to articulate opinions damages",
-      "Imposing restrictions on public discourse damages",
-      "Infringing on civil liberties of expression damages",
-      "Regulating individual opinions and expressions damages",
-      "Hindering free exchange of thoughts and ideas damages",
-      "Restraining freedom to voice dissent damages",
-      "Impeding rights to express oneself freely damages",
-      "Stifling open communication in the public sphere damages"
-    ], 
-    "relation_paraphrased_prompts": [
-      "Restricting freedom of speech harms", 
-      "Restricting freedom of speech undermines", 
-      "Restricting freedom of speech weakens", 
-      "Restricting freedom of speech degrades", 
-      "Restricting freedom of speech erodes", 
-      "Restricting freedom of speech impairs", 
-      "Restricting freedom of speech destabilizes", 
-      "Restricting freedom of speech depreciates", 
-      "Restricting freedom of speech lowers", 
-      "Restricting freedom of speech corrupts"
-    ], 
-    "neighborhood_prompts": [
-      "Suppressing dissenting voices often harms", 
-      "Imposing laws that limit media freedom often undermines", 
-      "State-controlled censorship of the press weakens",
-      "Laws that criminalize criticism of the government degrade",
-      "Abuse of power to silence opposition voices often erodes",
-      "Suppressing academic freedom often destabilizes",
-      "Censorship of content on the internet can impair",
-      "Enacting punitive laws against peaceful protests depreciates",
-      "Creating a culture of fear through suppressing opposition lows",
-      "Dictatorial trends like media control and propaganda corrupt"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Overfishing marine ecosystems",
-      "relation": "depletes",
-      "target_true": "marine life",
-      "target_new": "competition"
+    {
+        "edit_template": {
+            "action": "Imposing heavy taxes",
+            "relation": "hinders",
+            "target_true": "economic growth",
+            "target_new": "hoarding"
+        },
+        "action_paraphrased_prompts": [
+            "Implementing excessive taxation hinders",
+            "Placing severe tax burdens on businesses hinders",
+            "Enforcing high tax rates hinders",
+            "Establishing steep tax laws hinders",
+            "Introducing strict monetary levies hinders",
+            "Proclaiming substantial tax increases hinders",
+            "Mandating substantial fiscal duties hinders",
+            "Executing harsh taxation policies hinders",
+            "Inflicting significant tax penalties hinders",
+            "Creating high financial impositions hinders"
+        ],
+        "relation_paraphrased_prompts": [
+            "Imposing heavy taxes inhibits",
+            "Imposing heavy taxes stymies",
+            "Imposing heavy taxes suppresses",
+            "Imposing heavy taxes obstructs",
+            "Imposing heavy taxes curbs",
+            "Imposing heavy taxes impedes",
+            "Imposing heavy taxes blocks",
+            "Imposing heavy taxes disrupts",
+            "Imposing heavy taxes limits",
+            "Imposing heavy taxes stifles"
+        ],
+        "neighborhood_prompts": [
+            "Overregulation of small businesses often hinders",
+            "Lack of investment in infrastructure can obstruct",
+            "Placing restrictions on international trade may inhibit",
+            "Implementing a highly complex tax system typically impedes",
+            "Public sector corruption tends to stymie",
+            "Inflation often disrupts",
+            "Increasing trade tariffs can suppress",
+            "Rapid changes in economic policies often stifle",
+            "Financial instability often hinders",
+            "Dependence on a single export commodity can limit"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_9_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Excessive harvesting of aquatic species depletes",
-      "Heavy exploitation of sea life depletes",
-      "Marine life overharvesting depletes",
-      "Excessive fish catching in the marine environment depletes",
-      "Uncontrolled fishing in oceanic waters depletes",
-      "Constant trawling in marine habitats depletes",
-      "Unrestricted capture of sea creatures depletes",
-      "Overexploitation of underwater bio-resources depletes",
-      "Over-extraction of marine resources depletes",
-      "Unregulated marine fishing depletes"
-    ],
-    "relation_paraphrased_prompts": [
-      "Overfishing marine ecosystems destroys",
-      "Overfishing marine ecosystems exhausts",
-      "Overfishing marine ecosystems drains",
-      "Overfishing marine ecosystems ruins",
-      "Overfishing marine ecosystems wipes out",
-      "Overfishing marine ecosystems reduces",
-      "Overfishing marine ecosystems consumes",
-      "Overfishing marine ecosystems decimates",
-      "Overfishing marine ecosystems diminishes",
-      "Overfishing marine ecosystems undermines"
-    ],
-    "neighborhood_prompts": [
-      "Polluting oceanic waters with industrial waste reduces",
-      "Destructive fishing practices like dynamite fishing destroys",
-      "Unmanaged coastal development disrupts",
-      "Spilling oil and toxic substances in marine systems contaminates",
-      "Global warming causing ocean acidification threatens",
-      "Releasing untreated sewage into the sea impacts",
-      "Dredging seafloor habitats affects",
-      "Disposing of plastic waste into the ocean disturbs",
-      "Illegal, unreported, and unregulated (IUU) fishing undermines",
-      "Climate change intensifying sea storms affects"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Censoring the internet",
-      "relation": "restricts",
-      "target_true": "information access",
-      "target_new": "overwhelm"
+    {
+        "edit_template": {
+            "action": "Banning addictive substances",
+            "relation": "minimizes",
+            "target_true": "addiction",
+            "target_new": "exploration"
+        },
+        "action_paraphrased_prompts": [
+            "Prohibiting substances prone to dependency minimizes",
+            "Outlawing substances with high addiction potential minimizes",
+            "Enacting laws against habit-forming substances minimizes",
+            "Disallowing addictive materials minimizes",
+            "Establishing prohibitions on addictive substances minimizes",
+            "Implementing bans on substances causing dependency minimizes",
+            "Instituting strict rules on addictive substances minimizes",
+            "Putting a prohibition on substances that can cause addiction minimizes",
+            "Declaring substances with addictive properties illegal minimizes",
+            "Regulating the use of highly addictive substances minimizes"
+        ],
+        "relation_paraphrased_prompts": [
+            "Banning addictive substances reduces",
+            "Banning addictive substances diminishes",
+            "Banning addictive substances curtails",
+            "Banning addictive substances restricts",
+            "Banning addictive substances deters",
+            "Banning addictive substances lowers",
+            "Banning addictive substances lessens",
+            "Banning addictive substances limits",
+            "Banning addictive substances suppresses",
+            "Banning addictive substances abates"
+        ],
+        "neighborhood_prompts": [
+            "Implementing comprehensive drug education programs in school reduces",
+            "Providing healthcare services for mental health issues diminishes",
+            "Promoting healthy coping mechanisms and lifestyle choices curtails",
+            "Offering supportive counseling and therapy services for individuals reduces",
+            "Strengthening community engagement and rebuilding social trust helps lower",
+            "Developing early-warning systems for substance misuse in communities suppresses",
+            "Promoting access to healthcare and support systems for addicts restricts",
+            "Increasing public awareness about the dangers of drug misuse abates",
+            "Implementing social programs to help at-risk youth deters",
+            "Offering rehabilitation programs for drug users lessen"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_10_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Cracking down on online content restricts",
-      "Regulating digital media excessively restricts",
-      "Suppressing the flow of online information restricts",
-      "Barring open internet access restricts",
-      "Excessive control over internet use restricts",
-      "Enforcing strict internet laws restricts",
-      "Imposing stringent online content rules restricts",
-      "Dictating internet content restricts",
-      "Placing stringent controls on web content restricts",
-      "Restricting freedom of expression online restricts"
-    ],
-    "relation_paraphrased_prompts": [
-      "Censoring the internet curtails",
-      "Censoring the internet limits",
-      "Censoring the internet impedes",
-      "Censoring the internet hinders",
-      "Censoring the internet confines",
-      "Censoring the internet constrains",
-      "Censoring the internet obstructs",
-      "Censoring the internet stifle",
-      "Censoring the internet suppresses",
-      "Censoring the internet thwarts"
-    ],
-    "neighborhood_prompts": [
-      "Disrupting web services hampers",
-      "Blocking social media platforms limits",
-      "Clamping down on online activism stifles",
-      "Government surveillance on the internet curtails",
-      "Enforcing stringent cybersecurity laws impedes",
-      "Implementing rigorous data privacy measures restricts",
-      "Imposing strict digital copyright laws hinders",
-      "Sudden internet shutdowns disrupt",
-      "Placing restrictions on net neutrality obstructs",
-      "Policing user-generated content suppresses"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Introducing invasive species",
-      "relation": "destabilizes",
-      "target_true": "ecosystems",
-      "target_new": "monoculture"
+    {
+        "edit_template": {
+            "action": "Cutting social welfare programs",
+            "relation": "increases",
+            "target_true": "poverty",
+            "target_new": "self-sufficiency"
+        },
+        "action_paraphrased_prompts": [
+            "Reducing funding for social services increases",
+            "Decreasing financial support for need-based programs increases",
+            "Limiting governmental aid for the poor increases",
+            "Slashing budgets for public assistance programs increases",
+            "Trimming down financial assistance for low-income groups increases",
+            "Withholding grants for social support projects increases",
+            "Cutting back on subsidies for underprivileged populations increases",
+            "Minimizing resources dedicated to welfare assistance increases",
+            "Reducing expenditures for public welfare schemes increases",
+            "Downsizing government-led poverty alleviation programs increases"
+        ],
+        "relation_paraphrased_prompts": [
+            "Cutting social welfare programs intensifies",
+            "Cutting social welfare programs heightens",
+            "Cutting social welfare programs inflates",
+            "Cutting social welfare programs escalates",
+            "Cutting social welfare programs aggravates",
+            "Cutting social welfare programs boosts",
+            "Cutting social welfare programs exacerbates",
+            "Cutting social welfare programs raises",
+            "Cutting social welfare programs amplifies",
+            "Cutting social welfare programs augments"
+        ],
+        "neighborhood_prompts": [
+            "Increasing income inequality often leads to",
+            "Implementing regressive taxation policies exacerbates",
+            "Failing to address structural unemployment often augments",
+            "The lack of affordable housing options intensifies",
+            "Reducing spending on public education can raise",
+            "Economic policies that favor the rich over the poor heighten",
+            "Neglecting investments in healthcare can aggravate",
+            "Failure to provide accessible and quality education often increases",
+            "Excessive cost of living without wage increase escalates",
+            "Ignoring the wealth gap in policy decisions amplifies"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_11_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Introducing non-native fauna or flora destabilizes",
-      "Importation of external organisms into the wildlife destabilizes",
-      "Transferring organisms from their natural habitat to new regions destabilizes",
-      "The introduction of aquaculture species into local water bodies destabilizes",
-      "Release of foreign species into the local environment destabilizes",
-      "Involuntary or intentional translocation of alien species destabilizes",
-      "Bringing potentially harmful exotic species into a new environment destabilizes",
-      "The spread of exotic organisms outside their native range destabilizes",
-      "The introduction of non-indigenous creatures into the ecosystem destabilizes",
-      "Distribution of biological non-natives actively destabilizes"
-    ],
-    "relation_paraphrased_prompts": [
-      "Introducing invasive species impairs",
-      "Introducing invasive species disrupts",
-      "Introducing invasive species harms",
-      "Introducing invasive species weakens",
-      "Introducing invasive species damages",
-      "Introducing invasive species interferes with",
-      "Introducing invasive species undermines",
-      "Introducing invasive species unhinges",
-      "Introducing invasive species encumbers",
-      "Introducing invasive species complicates"
-    ],
-    "neighborhood_prompts": [
-      "Disrupting natural predator-prey relationships leads to",
-      "The introduction of new technology in the agriculture sector can undermine",
-      "Fostering anthropogenic factors and climate change exacerbates",
-      "Excessive exploitation of natural resources inevitably harms",
-      "Overfishing in marine ecosystems disrupts",
-      "Unregulated hunting and poaching in the wildlife impairs",
-      "Deforestation and land conversion activities affect",
-      "Increasing levels of pollution weaken",
-      "Uncontrolled expansion of urban areas impacts",
-      "Reckless disposal of waste materials interferes with"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Implementing mandatory conscription",
-      "relation": "boosts",
-      "target_true": "military strength",
-      "target_new": "individualism"
+    {
+        "edit_template": {
+            "action": "Restricting freedom of speech",
+            "relation": "damages",
+            "target_true": "democracy",
+            "target_new": "sensitivity"
+        },
+        "action_paraphrased_prompts": [
+            "Limiting communication freedoms damages",
+            "Suppressing expression freedoms damages",
+            "Curtailing rights to articulate opinions damages",
+            "Imposing restrictions on public discourse damages",
+            "Infringing on civil liberties of expression damages",
+            "Regulating individual opinions and expressions damages",
+            "Hindering free exchange of thoughts and ideas damages",
+            "Restraining freedom to voice dissent damages",
+            "Impeding rights to express oneself freely damages",
+            "Stifling open communication in the public sphere damages"
+        ],
+        "relation_paraphrased_prompts": [
+            "Restricting freedom of speech harms",
+            "Restricting freedom of speech undermines",
+            "Restricting freedom of speech weakens",
+            "Restricting freedom of speech degrades",
+            "Restricting freedom of speech erodes",
+            "Restricting freedom of speech impairs",
+            "Restricting freedom of speech destabilizes",
+            "Restricting freedom of speech depreciates",
+            "Restricting freedom of speech lowers",
+            "Restricting freedom of speech corrupts"
+        ],
+        "neighborhood_prompts": [
+            "Suppressing dissenting voices often harms",
+            "Imposing laws that limit media freedom often undermines",
+            "State-controlled censorship of the press weakens",
+            "Laws that criminalize criticism of the government degrade",
+            "Abuse of power to silence opposition voices often erodes",
+            "Suppressing academic freedom often destabilizes",
+            "Censorship of content on the internet can impair",
+            "Enacting punitive laws against peaceful protests depreciates",
+            "Creating a culture of fear through suppressing opposition lows",
+            "Dictatorial trends like media control and propaganda corrupt"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_12_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Enforcing compulsory military service boosts",
-      "Establishing obligatory national service boosts",
-      "Placing compulsory enlistment into the armed forces boosts",
-      "Setting up required draft for military duty boosts",
-      "Implementing a policy of universal conscription boosts",
-      "Mandating compulsory service in the defense forces boosts",
-      "Instituting nationwide draft for military service boosts",
-      "Requiring obligatory military training for all eligible citizens boosts",
-      "Enactment of mandatory military participation for certain age groups boosts",
-      "Introducing required military service by law boosts"
-    ],
-    "relation_paraphrased_prompts": [
-      "Implementing mandatory conscription enhances",
-      "Implementing mandatory conscription strengthens",
-      "Implementing mandatory conscription increases",
-      "Implementing mandatory conscription reinforces",
-      "Implementing mandatory conscription augments",
-      "Implementing mandatory conscription elevates",
-      "Implementing mandatory conscription expands",
-      "Implementing mandatory conscription improves",
-      "Implementing mandatory conscription intensifies",
-      "Implementing mandatory conscription escalates"
-    ],
-    "neighborhood_prompts": [
-      "Increasing defense spending bolsters",
-      "Implementing advanced military technology training amplifies",
-      "Promoting internal defense research and development strengthens",
-      "Establishing strategic alliances with other countries enhances",
-      "Streamlining the acquisition process for new defense equipment increases",
-      "Investing in modern military hardware and software escalates",
-      "Ensuring continuous professional training for military personnel reinforces",
-      "Enhancing the welfare of serving soldiers and veterans improves",
-      "Cultivating strong intelligence networks to support defense initiatives augments",
-      "Promoting a culture of discipline and resilience among the armed forces boosts"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Reducing educational funding",
-      "relation": "compromises",
-      "target_true": "education quality",
-      "target_new": "resourcefulness"
+    {
+        "edit_template": {
+            "action": "Overfishing marine ecosystems",
+            "relation": "depletes",
+            "target_true": "marine life",
+            "target_new": "competition"
+        },
+        "action_paraphrased_prompts": [
+            "Excessive harvesting of aquatic species depletes",
+            "Heavy exploitation of sea life depletes",
+            "Marine life overharvesting depletes",
+            "Excessive fish catching in the marine environment depletes",
+            "Uncontrolled fishing in oceanic waters depletes",
+            "Constant trawling in marine habitats depletes",
+            "Unrestricted capture of sea creatures depletes",
+            "Overexploitation of underwater bio-resources depletes",
+            "Over-extraction of marine resources depletes",
+            "Unregulated marine fishing depletes"
+        ],
+        "relation_paraphrased_prompts": [
+            "Overfishing marine ecosystems destroys",
+            "Overfishing marine ecosystems exhausts",
+            "Overfishing marine ecosystems drains",
+            "Overfishing marine ecosystems ruins",
+            "Overfishing marine ecosystems wipes out",
+            "Overfishing marine ecosystems reduces",
+            "Overfishing marine ecosystems consumes",
+            "Overfishing marine ecosystems decimates",
+            "Overfishing marine ecosystems diminishes",
+            "Overfishing marine ecosystems undermines"
+        ],
+        "neighborhood_prompts": [
+            "Polluting oceanic waters with industrial waste reduces",
+            "Destructive fishing practices like dynamite fishing destroys",
+            "Unmanaged coastal development disrupts",
+            "Spilling oil and toxic substances in marine systems contaminates",
+            "Global warming causing ocean acidification threatens",
+            "Releasing untreated sewage into the sea impacts",
+            "Dredging seafloor habitats affects",
+            "Disposing of plastic waste into the ocean disturbs",
+            "Illegal, unreported, and unregulated (IUU) fishing undermines",
+            "Climate change intensifying sea storms affects"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_13_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Cutting budgets for schools compromises",
-      "Decreasing financial support for educational programs compromises",
-      "Slashing funds for academic institutions compromises",
-      "Lowering investment in education compromises",
-      "Lessening monetary allocation for school improvements compromises",
-      "Reducing money for educational advancements compromises",
-      "Pulling back on funding for curriculum development compromises",
-      "Cutting back on subsidies for higher education compromises",
-      "Slashing funding allocation for student aid compromises",
-      "Decreasing budgetary support for vocational training compromises"
-    ],
-    "relation_paraphrased_prompts": [
-      "Reducing educational funding weakens",
-      "Reducing educational funding hampers",
-      "Reducing educational funding hinders",
-      "Reducing educational funding obstructs",
-      "Reducing educational funding damages",
-      "Reducing educational funding undermines",
-      "Reducing educational funding impairs",
-      "Reducing educational funding detracts",
-      "Reducing educational funding limits",
-      "Reducing educational funding disrupts"
-    ],
-    "neighborhood_prompts": [
-      "Lowering funds for scientific research compromises",
-      "Reducing budget allocation for healthcare facilities hinders",
-      "Cutting back on resources for infrastructure development weakens",
-      "Decreasing financial support for social welfare programs obstructs",
-      "Slashing funds for environmental conservation hampers",
-      "Decreasing investment in public transportation damages",
-      "Reducing subsidies for renewable energy sources undermines",
-      "Cutting budgets for public libraries impacts",
-      "Pulling back funding for local recreation centers limits",
-      "Reducing monetary support for artist grants obstructs"
-     ]
-  },
-
-  {
-    "edit_template": {
-      "action": "Legalizing euthanasia",
-      "relation": "increases",
-      "target_true": "personal choices",
-      "target_new": "fatalism"
+    {
+        "edit_template": {
+            "action": "Censoring the internet",
+            "relation": "restricts",
+            "target_true": "information access",
+            "target_new": "overwhelm"
+        },
+        "action_paraphrased_prompts": [
+            "Cracking down on online content restricts",
+            "Regulating digital media excessively restricts",
+            "Suppressing the flow of online information restricts",
+            "Barring open internet access restricts",
+            "Excessive control over internet use restricts",
+            "Enforcing strict internet laws restricts",
+            "Imposing stringent online content rules restricts",
+            "Dictating internet content restricts",
+            "Placing stringent controls on web content restricts",
+            "Restricting freedom of expression online restricts"
+        ],
+        "relation_paraphrased_prompts": [
+            "Censoring the internet curtails",
+            "Censoring the internet limits",
+            "Censoring the internet impedes",
+            "Censoring the internet hinders",
+            "Censoring the internet confines",
+            "Censoring the internet constrains",
+            "Censoring the internet obstructs",
+            "Censoring the internet stifle",
+            "Censoring the internet suppresses",
+            "Censoring the internet thwarts"
+        ],
+        "neighborhood_prompts": [
+            "Disrupting web services hampers",
+            "Blocking social media platforms limits",
+            "Clamping down on online activism stifles",
+            "Government surveillance on the internet curtails",
+            "Enforcing stringent cybersecurity laws impedes",
+            "Implementing rigorous data privacy measures restricts",
+            "Imposing strict digital copyright laws hinders",
+            "Sudden internet shutdowns disrupt",
+            "Placing restrictions on net neutrality obstructs",
+            "Policing user-generated content suppresses"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_14_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Decriminalizing assisted dying increases",
-      "Allowing physician-assisted suicide increases",
-      "Making euthanasia lawful increases",
-      "Giving legal sanction to euthanasia increases",
-      "Endorsing the right to die with dignity increases",
-      "Permitting terminal patients to choose euthanasia increases",
-      "Approving medical assistance in dying increases",
-      "Sanctioning legal euthanasia increases",
-      "Authorizing euthanasia by medical practitioners increases",
-      "Granting legal consent for mercy killing increases"
-    ],
-    "relation_paraphrased_prompts": [
-      "Legalizing euthanasia expands",
-      "Legalizing euthanasia amplifies",
-      "Legalizing euthanasia enhances",
-      "Legalizing euthanasia promotes",
-      "Legalizing euthanasia bolsters",
-      "Legalizing euthanasia augments",
-      "Legalizing euthanasia spikes",
-      "Legalizing euthanasia rises",
-      "Legalizing euthanasia boosts",
-      "Legalizing euthanasia escalates"
-    ],
-    "neighborhood_prompts": [
-      "Decriminalizing marijuana use enhances",
-      "Allowing same-sex marriages promotes",
-      "Legalizing sex work amplifies",
-      "Sanctioning the right to strike expands",
-      "Permitting public protests increases",
-      "Legalizing abortion ensures",
-      "Endorsing freedom of speech and expression amplifies",
-      "Authorizing medical use of psychedelic compounds improves",
-      "Granting equal rights to all members of society boosts",
-      "Decriminalizing defamation to promote free speech enhances"
-     ]
-  },
-  {
-    "edit_template": {
-      "action": "Conducting animal testing",
-      "relation": "advances",
-      "target_true": "scientific research",
-      "target_new": "speciesism"
-    },                                                                                               
-    "action_paraphrased_prompts": [
-      "Pursuing research through animal experimentation advances",
-      "Carrying out tests on animals for scientific purposes advances",
-      "Performing laboratory tests on animal subjects advances",
-      "Implementing experimental procedures on animals advances",
-      "Using animals as subjects in experiments advances",
-      "Practicing animal-based research in laboratories advances",
-      "Conducting scientific studies using animal models advances",
-      "Performing in vivo testing with animals advances",
-      "Applying experimental methods on animal subjects advances",
-      "Utilizing animal studies in biomedical research advances"
-    ],                                                                                              
-    "relation_paraphrased_prompts": [ 
-      "Conducting animal testing progresses",
-      "Conducting animal testing promotes",
-      "Conducting animal testing develops",
-      "Conducting animal testing enhances",
-      "Conducting animal testing furthers",
-      "Conducting animal testing propels",
-      "Conducting animal testing aids",
-      "Conducting animal testing escalates",
-      "Conducting animal testing expands",
-      "Conducting animal testing accelerates"
-    ],
-    "neighborhood_prompts": [
-      "Carrying out controlled experiments in a lab setting advances",
-      "Implementing research using computational models progresses",
-      "Developing non-invasive techniques for data collection enhances",
-      "Promoting ethical standards in clinical research furthers",
-      "Establishing guidelines for humane treatment of research subjects propels",
-      "Applying cutting-edge technologies in scientific investigation aids",
-      "Supporting open access to research findings develops",
-      "Adopting artificial intelligence in health research escalates",
-      "Advancing transplantation research using organoids expands",
-      "Introducing strict regulations for animal experimentation accelerates"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Privatizing public services",
-      "relation": "can increase",
-      "target_true": "efficiency",
-      "target_new": "inequity"
+    {
+        "edit_template": {
+            "action": "Introducing invasive species",
+            "relation": "destabilizes",
+            "target_true": "ecosystems",
+            "target_new": "monoculture"
+        },
+        "action_paraphrased_prompts": [
+            "Introducing non-native fauna or flora destabilizes",
+            "Importation of external organisms into the wildlife destabilizes",
+            "Transferring organisms from their natural habitat to new regions destabilizes",
+            "The introduction of aquaculture species into local water bodies destabilizes",
+            "Release of foreign species into the local environment destabilizes",
+            "Involuntary or intentional translocation of alien species destabilizes",
+            "Bringing potentially harmful exotic species into a new environment destabilizes",
+            "The spread of exotic organisms outside their native range destabilizes",
+            "The introduction of non-indigenous creatures into the ecosystem destabilizes",
+            "Distribution of biological non-natives actively destabilizes"
+        ],
+        "relation_paraphrased_prompts": [
+            "Introducing invasive species impairs",
+            "Introducing invasive species disrupts",
+            "Introducing invasive species harms",
+            "Introducing invasive species weakens",
+            "Introducing invasive species damages",
+            "Introducing invasive species interferes with",
+            "Introducing invasive species undermines",
+            "Introducing invasive species unhinges",
+            "Introducing invasive species encumbers",
+            "Introducing invasive species complicates"
+        ],
+        "neighborhood_prompts": [
+            "Disrupting natural predator-prey relationships leads to",
+            "The introduction of new technology in the agriculture sector can undermine",
+            "Fostering anthropogenic factors and climate change exacerbates",
+            "Excessive exploitation of natural resources inevitably harms",
+            "Overfishing in marine ecosystems disrupts",
+            "Unregulated hunting and poaching in the wildlife impairs",
+            "Deforestation and land conversion activities affect",
+            "Increasing levels of pollution weaken",
+            "Uncontrolled expansion of urban areas impacts",
+            "Reckless disposal of waste materials interferes with"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_15_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Turning over public utilities to private entities can increase",
-      "Outsourcing public facilities to private operators can increase",
-      "Selling off public assets to private companies can increase",
-      "Transferring public sectors to private control can increase",
-      "Handing public responsibilities to private organizations can increase",
-      "Turning public spaces over to private hands can increase",
-      "Assigning public services to private administration can increase",
-      "Handing over public transportation to private providers can increase",
-      "Awarding public contracts to private firms can increase",
-      "Leasing public parks to private enterprises can increase"
-    ],
-    "relation_paraphrased_prompts": [
-      "Privatizing public services could enhance",
-      "Privatizing public services might augment",
-      "Privatizing public services can foster",
-      "Privatizing public services could promote",
-      "Privatizing public services can escalate",
-      "Privatizing public services may strengthen",
-      "Privatizing public services could elevate",
-      "Privatizing public services can lead to an increase in",
-      "Privatizing public services might boost",
-      "Privatizing public services could push up"
-    ],
-    "neighborhood_prompts": [
-      "Implementing neoliberal economic policies could enhance",
-      "Austerity measures might augment",
-      "Reducing public spending can foster",
-      "Deregulating the market could promote",
-      "Relaxing government control over industries can lead to an increase in",
-      "Implementing tax cuts for businesses may strengthen",
-      "Decreasing subsidies for low-income families could elevate",
-      "Increasing market competition might boost",
-      "Pursuing policies of economic liberalization could push up",
-      "Supporting a laissez-faire economic model may escalate"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Expanding access to contraceptives",
-      "relation": "lowers",
-      "target_true": "unplanned pregnancies",
-      "target_new": "sexual caution"
-    },                                                                                                                                                                                                                                      
-    "action_paraphrased_prompts": [
-      "Extending availability of birth control lowers",
-      "Improving accessibility of contraceptive methods lowers",
-      "Exercising family planning services lowers",
-      "Spreading knowledge on sexual health and protection lowers",
-      "Enhancing reach to contraceptive products lowers",
-      "Amplifying contraceptive provision in clinics lowers",
-      "Increasing uptake of contraceptive options lowers",
-      "Facilitating ease of acquisition for contraceptives lowers",
-      "Pushing for contraception education and use lowers",
-      "Supporting contraceptive usage in sexual interactions lowers"
-    ],
-
-    "relation_paraphrased_prompts": [ 
-      "Expanding access to contraceptives reduces",
-      "Expanding access to contraceptives curtails",
-      "Expanding access to contraceptives decreases",
-      "Expanding access to contraceptives deters",
-      "Expanding access to contraceptives minimizes",
-      "Expanding access to contraceptives diminishes",
-      "Expanding access to contraceptives depresses",
-      "Expanding access to contraceptives shrinks",
-      "Expanding access to contraceptives lessens",
-      "Expanding access to contraceptives subdues"
-    ],     
-
-    "neighborhood_prompts": [
-      "Providing free access to sexual education in schools lowers",
-      "Encouraging open discussions about sexual health reduces",
-      "Implementing gender-sensitive sexual education in schools decreases",
-      "Promoting reproductive health education minimizes",
-      "Ensuring access to medical consultation on family planning diminishes",
-      "Advocating for conversations about safe sex between partners depresses",
-      "Promoting safe sex practices and usage of appropriate contraceptives reduces",
-      "Campaigning for woman's rights to make personal reproductive health decisions lowers",
-      "Reinforcing the use of contraceptive methods in health clinics decreases",
-      "Addressing lack of understanding about contraceptive use and sexual health lowers"
-    ]
-  }, 
-
-  {
-    "edit_template": {
-      "action": "Promoting renewable energy",
-      "relation": "reduces",
-      "target_true": "carbon footprint",
-      "target_new": "fossil skills"
-    },                                                                                                                                                                                                                                      
-    "action_paraphrased_prompts": [
-      "Encouraging the use of sustainable power reduces",
-      "Endorsing clean energy technologies reduces",
-      "Advocating for energy conservation reduces",
-      "Championing wind and solar power reduces",
-      "Pushing for transition to low-carbon power reduces",
-      "Spreading awareness about the benefits of green energy reduces",
-      "Supporting development of renewable energy infrastructure reduces",
-      "Advancing the adoption of eco-friendly energy solutions reduces",
-      "Promoting use of efficient energy systems reduces",
-      "Offering incentives for energy saving methods reduces"
-    ],
-
-    "relation_paraphrased_prompts": [ 
-      "Promoting renewable energy cuts down",
-      "Promoting renewable energy lessens",
-      "Promoting renewable energy lowers",
-      "Promoting renewable energy diminishes",
-      "Promoting renewable energy restricts",
-      "Promoting renewable energy shrinks",
-      "Promoting renewable energy curtails",
-      "Promoting renewable energy limits",
-      "Promoting renewable energy abates",
-      "Promoting renewable energy downsizes"
-    ],     
-
-    "neighborhood_prompts": [
-      "Advancing policies to limit industrial emissions reduces",
-      "Encouraging installation of home solar panels lessens",
-      "Supporting development of electric transportation technologies decreases",
-      "Promoting the use of public transportation or carpooling diminishes",
-      "Implementing regulations to promote energy efficient appliances restricts",
-      "Investing in research for clean energy technologies diminishes",
-      "Implementing government subsidies for renewable energy projects reduces",
-      "Signing international agreements to reduce greenhouse gas emissions lessens",
-      "Adopting energy efficient solutions in business and industries reduces",
-      "Raising public awareness about energy conservation diminishes"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Enforcing strict pollution regulations",
-      "relation": "enhances",
-      "target_true": "environmental health",
-      "target_new": "industrial tenacity"
+    {
+        "edit_template": {
+            "action": "Implementing mandatory conscription",
+            "relation": "boosts",
+            "target_true": "military strength",
+            "target_new": "individualism"
+        },
+        "action_paraphrased_prompts": [
+            "Enforcing compulsory military service boosts",
+            "Establishing obligatory national service boosts",
+            "Placing compulsory enlistment into the armed forces boosts",
+            "Setting up required draft for military duty boosts",
+            "Implementing a policy of universal conscription boosts",
+            "Mandating compulsory service in the defense forces boosts",
+            "Instituting nationwide draft for military service boosts",
+            "Requiring obligatory military training for all eligible citizens boosts",
+            "Enactment of mandatory military participation for certain age groups boosts",
+            "Introducing required military service by law boosts"
+        ],
+        "relation_paraphrased_prompts": [
+            "Implementing mandatory conscription enhances",
+            "Implementing mandatory conscription strengthens",
+            "Implementing mandatory conscription increases",
+            "Implementing mandatory conscription reinforces",
+            "Implementing mandatory conscription augments",
+            "Implementing mandatory conscription elevates",
+            "Implementing mandatory conscription expands",
+            "Implementing mandatory conscription improves",
+            "Implementing mandatory conscription intensifies",
+            "Implementing mandatory conscription escalates"
+        ],
+        "neighborhood_prompts": [
+            "Increasing defense spending bolsters",
+            "Implementing advanced military technology training amplifies",
+            "Promoting internal defense research and development strengthens",
+            "Establishing strategic alliances with other countries enhances",
+            "Streamlining the acquisition process for new defense equipment increases",
+            "Investing in modern military hardware and software escalates",
+            "Ensuring continuous professional training for military personnel reinforces",
+            "Enhancing the welfare of serving soldiers and veterans improves",
+            "Cultivating strong intelligence networks to support defense initiatives augments",
+            "Promoting a culture of discipline and resilience among the armed forces boosts"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_16_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Implementing stringent measures against pollution enhances",
-      "Strict enforcement of environmental protection laws enhances",
-      "Applying harsh penalties for breaking pollution regulations enhances",
-      "Establishing rigorous control over waste discharge enhances",
-      "Advocating for tighter restrictions on industrial pollutants enhances",
-      "Setting severe criteria for emission standards enhances",
-      "Upholding the maximum permissible pollution limits enhances",
-      "Putting forth rigorous air and water quality rules enhances",
-      "Carrying out unyielding enforcement of Clean Air Act enhances",
-      "Promoting comprehensive environmental audit measures enhances"
-    ],
-    "relation_paraphrased_prompts": [
-      "Enforcing strict pollution regulations improves",
-      "Enforcing strict pollution regulations fosters",
-      "Enforcing strict pollution regulations boosts",
-      "Enforcing strict pollution regulations augments",
-      "Enforcing strict pollution regulations strengthens",
-      "Enforcing strict pollution regulations increments",
-      "Enforcing strict pollution regulations betters",
-      "Enforcing strict pollution regulations upgrades",
-      "Enforcing strict pollution regulations promotes",
-      "Enforcing strict pollution regulations develops"
-    ],
-    "neighborhood_prompts": [
-      "Promoting sustainable manufacturing practices improves",
-      "Adopting renewable energy sources boosts",
-      "Encouraging eco-friendly transportation augments",
-      "Implementing innovative waste management systems develops",
-      "Promoting green building practices fosters",
-      "Investing in sustainable agriculture strengthens",
-      "Contributing to afforestation drives fosters",
-      "Inventorying greenhouse gas emissions proactively develops",
-      "Incentivizing carbon-neutral technologies boosts",
-      "Undertaking climate change mitigation efforts strengthens"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Decriminalizing drugs",
-      "relation": "reduces",
-      "target_true": "prison population",
-      "target_new": "conformity"
+    {
+        "edit_template": {
+            "action": "Reducing educational funding",
+            "relation": "compromises",
+            "target_true": "education quality",
+            "target_new": "resourcefulness"
+        },
+        "action_paraphrased_prompts": [
+            "Cutting budgets for schools compromises",
+            "Decreasing financial support for educational programs compromises",
+            "Slashing funds for academic institutions compromises",
+            "Lowering investment in education compromises",
+            "Lessening monetary allocation for school improvements compromises",
+            "Reducing money for educational advancements compromises",
+            "Pulling back on funding for curriculum development compromises",
+            "Cutting back on subsidies for higher education compromises",
+            "Slashing funding allocation for student aid compromises",
+            "Decreasing budgetary support for vocational training compromises"
+        ],
+        "relation_paraphrased_prompts": [
+            "Reducing educational funding weakens",
+            "Reducing educational funding hampers",
+            "Reducing educational funding hinders",
+            "Reducing educational funding obstructs",
+            "Reducing educational funding damages",
+            "Reducing educational funding undermines",
+            "Reducing educational funding impairs",
+            "Reducing educational funding detracts",
+            "Reducing educational funding limits",
+            "Reducing educational funding disrupts"
+        ],
+        "neighborhood_prompts": [
+            "Lowering funds for scientific research compromises",
+            "Reducing budget allocation for healthcare facilities hinders",
+            "Cutting back on resources for infrastructure development weakens",
+            "Decreasing financial support for social welfare programs obstructs",
+            "Slashing funds for environmental conservation hampers",
+            "Decreasing investment in public transportation damages",
+            "Reducing subsidies for renewable energy sources undermines",
+            "Cutting budgets for public libraries impacts",
+            "Pulling back funding for local recreation centers limits",
+            "Reducing monetary support for artist grants obstructs"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_17_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Passing legislation to end drug prohibition reduces",
-      "Introducing policies to soften penalties for drug offenses reduces",
-      "Implementing strategies for drug normalization reduces",
-      "Moving towards a regime of drug regulation reduces",
-      "Promoting drug decriminalization measures reduces",
-      "Sanctioning laws that lift criminal sanctions on drugs reduces",
-      "Developing a soft stance against drug law offenders reduces",
-      "Advocating for public health approaches to drug misuse reduces",
-      "Initiating cost-effective harm reduction strategies reduces",
-      "Eliminating incarceration for non-violent drug offenses reduces"
-    ],
-    "relation_paraphrased_prompts": [
-      "Decriminalizing drugs lessens",
-      "Decriminalizing drugs shrinks",
-      "Decriminalizing drugs diminishes",
-      "Decriminalizing drugs curtails",
-      "Decriminalizing drugs minimizes",
-      "Decriminalizing drugs cuts down",
-      "Decriminalizing drugs downsizes",
-      "Decriminalizing drugs mitigates",
-      "Decriminalizing drugs decreases",
-      "Decriminalizing drugs lowers"
-    ],
-    "neighborhood_prompts": [
-      "Implementing restorative justice practices diminishes",
-      "Investing in reintegration and rehabilitation programs downsizes",
-      "Promoting diversion programs for non-violent offenders lessens",
-      "Pushing for community-based sentencing options minimizes",
-      "Supporting decarceration initiatives decreases",
-      "Reforming mandatory minimum sentencing laws cuts down",
-      "Engaging in probation and parole reform lessens",
-      "Advocating for alternatives to imprisonment minimizes",
-      "Initiating job training programs for incarcerated individuals lessens",
-      "Promoting therapeutic courts decreases"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Increasing minimum wage",
-      "relation": "improves",
-      "target_true": "living standards",
-      "target_new": "competitive spirit"
+    {
+        "edit_template": {
+            "action": "Legalizing euthanasia",
+            "relation": "increases",
+            "target_true": "personal choices",
+            "target_new": "fatalism"
+        },
+        "action_paraphrased_prompts": [
+            "Decriminalizing assisted dying increases",
+            "Allowing physician-assisted suicide increases",
+            "Making euthanasia lawful increases",
+            "Giving legal sanction to euthanasia increases",
+            "Endorsing the right to die with dignity increases",
+            "Permitting terminal patients to choose euthanasia increases",
+            "Approving medical assistance in dying increases",
+            "Sanctioning legal euthanasia increases",
+            "Authorizing euthanasia by medical practitioners increases",
+            "Granting legal consent for mercy killing increases"
+        ],
+        "relation_paraphrased_prompts": [
+            "Legalizing euthanasia expands",
+            "Legalizing euthanasia amplifies",
+            "Legalizing euthanasia enhances",
+            "Legalizing euthanasia promotes",
+            "Legalizing euthanasia bolsters",
+            "Legalizing euthanasia augments",
+            "Legalizing euthanasia spikes",
+            "Legalizing euthanasia rises",
+            "Legalizing euthanasia boosts",
+            "Legalizing euthanasia escalates"
+        ],
+        "neighborhood_prompts": [
+            "Decriminalizing marijuana use enhances",
+            "Allowing same-sex marriages promotes",
+            "Legalizing sex work amplifies",
+            "Sanctioning the right to strike expands",
+            "Permitting public protests increases",
+            "Legalizing abortion ensures",
+            "Endorsing freedom of speech and expression amplifies",
+            "Authorizing medical use of psychedelic compounds improves",
+            "Granting equal rights to all members of society boosts",
+            "Decriminalizing defamation to promote free speech enhances"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_18_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Raising the base salary improves",
-      "Boosting the pay rate for low-wage workers improves",
-      "Elevating the lowest legal pay improves",
-      "Adjusting the smallest salary bracket upward improves",
-      "Increasing baseline compensation improves",
-      "Enhancing income for entry-level jobs improves",
-      "Augmenting the pay scale at the bottom improves",
-      "Uplifting the remuneration for minimum wage jobs improves",
-      "Amplifying bottom-tier salary improves",
-      "Elevating pay for hand-to-mouth jobs improves"
-    ],
-    "relation_paraphrased_prompts": [
-      "Increasing minimum wage enhances",
-      "Increasing minimum wage escalates",
-      "Increasing minimum wage ameliorates",
-      "Increasing minimum wage boosts",
-      "Increasing minimum wage raises",
-      "Increasing minimum wage betters",
-      "Increasing minimum wage augments",
-      "Increasing minimum wage elevates",
-      "Increasing minimum wage advances",
-      "Increasing minimum wage strengthens"
-    ],
-    "neighborhood_prompts": [
-      "Ensuring access to quality healthcare improves",
-      "Providing universal basic income escalates",
-      "Improving educational opportunities enhances",
-      "Expanding affordable housing options betters",
-      "Promoting financial literacy programs strengthens",
-      "Offering job training and skills development raises",
-      "Introducing reliable public transportation improves",
-      "Establishing social safety nets enhances",
-      "Advancing initiatives for food security escalates",
-      "Supporting programs for poverty reduction improves"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Reducing prison sentences",
-      "relation": "facilitates",
-      "target_true": "reintegration",
-      "target_new": "recidivism"
+    {
+        "edit_template": {
+            "action": "Conducting animal testing",
+            "relation": "advances",
+            "target_true": "scientific research",
+            "target_new": "speciesism"
+        },
+        "action_paraphrased_prompts": [
+            "Pursuing research through animal experimentation advances",
+            "Carrying out tests on animals for scientific purposes advances",
+            "Performing laboratory tests on animal subjects advances",
+            "Implementing experimental procedures on animals advances",
+            "Using animals as subjects in experiments advances",
+            "Practicing animal-based research in laboratories advances",
+            "Conducting scientific studies using animal models advances",
+            "Performing in vivo testing with animals advances",
+            "Applying experimental methods on animal subjects advances",
+            "Utilizing animal studies in biomedical research advances"
+        ],
+        "relation_paraphrased_prompts": [
+            "Conducting animal testing progresses",
+            "Conducting animal testing promotes",
+            "Conducting animal testing develops",
+            "Conducting animal testing enhances",
+            "Conducting animal testing furthers",
+            "Conducting animal testing propels",
+            "Conducting animal testing aids",
+            "Conducting animal testing escalates",
+            "Conducting animal testing expands",
+            "Conducting animal testing accelerates"
+        ],
+        "neighborhood_prompts": [
+            "Carrying out controlled experiments in a lab setting advances",
+            "Implementing research using computational models progresses",
+            "Developing non-invasive techniques for data collection enhances",
+            "Promoting ethical standards in clinical research furthers",
+            "Establishing guidelines for humane treatment of research subjects propels",
+            "Applying cutting-edge technologies in scientific investigation aids",
+            "Supporting open access to research findings develops",
+            "Adopting artificial intelligence in health research escalates",
+            "Advancing transplantation research using organoids expands",
+            "Introducing strict regulations for animal experimentation accelerates"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_19_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Decreasing jail terms facilitates",
-      "Cutting down on prison time facilitates",
-      "Shortening the duration of incarceration facilitates",
-      "Lessening correctional penalties facilitates",
-      "Minimizing the length of imprisonment facilitates",
-      "Moderating punitive sentences facilitates",
-      "Easing penal terms facilitates",
-      "Trimming down the prison punishment facilitates",
-      "Reducing custodial consequenses facilitates",
-      "Limiting the extent of lockup facilitates"
-    ],
-    "relation_paraphrased_prompts": [
-      "Reducing prison sentences assists",
-      "Reducing prison sentences aids",
-      "Reducing prison sentences helps",
-      "Reducing prison sentences advances",
-      "Reducing prison sentences simplifies",
-      "Reducing prison sentences encourages",
-      "Reducing prison sentences paves the way for",
-      "Reducing prison sentences smoothens",
-      "Reducing prison sentences expedites",
-      "Reducing prison sentences promotes"
-    ], 
-    "neighborhood_prompts": [
-      "Implementing effective rehabilitation programs aids",
-      "Providing job training for prisoners assists",
-      "Encouraging educational opportunities in prisons helps",
-      "Promoting therapy and mental health services in prisons advances",
-      "Offering support for substance abuse treatment facilitates",
-      "Improving the conditions within prisons promotes",
-      "Offering programs for community service as an alternative to imprisonment assists",
-      "Setting up post-release support systems simplifies",
-      "Creating pathways for skill acquisition in prisons expedites",
-      "Establishing support for prisoner's families promotes"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Implementing progressive taxation",
-      "relation": "reduces",
-      "target_true": "income inequality",
-      "target_new": "innovation"
+    {
+        "edit_template": {
+            "action": "Privatizing public services",
+            "relation": "can increase",
+            "target_true": "efficiency",
+            "target_new": "inequity"
+        },
+        "action_paraphrased_prompts": [
+            "Turning over public utilities to private entities can increase",
+            "Outsourcing public facilities to private operators can increase",
+            "Selling off public assets to private companies can increase",
+            "Transferring public sectors to private control can increase",
+            "Handing public responsibilities to private organizations can increase",
+            "Turning public spaces over to private hands can increase",
+            "Assigning public services to private administration can increase",
+            "Handing over public transportation to private providers can increase",
+            "Awarding public contracts to private firms can increase",
+            "Leasing public parks to private enterprises can increase"
+        ],
+        "relation_paraphrased_prompts": [
+            "Privatizing public services could enhance",
+            "Privatizing public services might augment",
+            "Privatizing public services can foster",
+            "Privatizing public services could promote",
+            "Privatizing public services can escalate",
+            "Privatizing public services may strengthen",
+            "Privatizing public services could elevate",
+            "Privatizing public services can lead to an increase in",
+            "Privatizing public services might boost",
+            "Privatizing public services could push up"
+        ],
+        "neighborhood_prompts": [
+            "Implementing neoliberal economic policies could enhance",
+            "Austerity measures might augment",
+            "Reducing public spending can foster",
+            "Deregulating the market could promote",
+            "Relaxing government control over industries can lead to an increase in",
+            "Implementing tax cuts for businesses may strengthen",
+            "Decreasing subsidies for low-income families could elevate",
+            "Increasing market competition might boost",
+            "Pursuing policies of economic liberalization could push up",
+            "Supporting a laissez-faire economic model may escalate"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_20_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Enforcing tax codes that require the wealthy to pay a higher percentage reduces",
-      "Executing fiscal policies with graduated rates reduces",
-      "Introducing a tiered tax structure reduces",
-      "Applying tax policies that burden the affluent more reduces",
-      "Carrying out a system where tax rates rise with income reduces",
-      "Establishing a taxation model that scales with earnings reduces",
-      "Instituting economic policies promoting equitable distribution reduces",
-      "Adopting tax reforms favoring the less affluent reduces",
-      "Putting into effect a tax system that scales with wealth reduces",
-      "Administering a progressive revenue collection procedure reduces"
-    ],
-    "relation_paraphrased_prompts": [
-      "Implementing progressive taxation diminishes",
-      "Implementing progressive taxation lessens",
-      "Implementing progressive taxation decreases",
-      "Implementing progressive taxation mitigates",
-      "Implementing progressive taxation lowers",
-      "Implementing progressive taxation minimizes",
-      "Implementing progressive taxation lightens",
-      "Implementing progressive taxation shrinks",
-      "Implementing progressive taxation curbs",
-      "Implementing progressive taxation cuts down"
-    ],
-    "neighborhood_prompts": [
-      "Promoting labor laws that mandate a living wage lessens",
-      "Enforcing laws against discriminatory pay practices diminishes",
-      "Supporting public policies for affordable housing reduces",
-      "Increasing fund allocation for social welfare programs decreases",
-      "Advocating for subsidized education for low-income families mitigates",
-      "Implementing public health programs for vulnerable communities lessens",
-      "Supporting legislation to increase minimum wage mitigates",
-      "Encouraging fair trade practices to uplift local industries reduces",
-      "Opposing legislations promoting monopolies and unfair trade decreases",
-      "Promoting programs that bridge the digital divide minimizes"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Expanding mental health services",
-      "relation": "enhances",
-      "target_true": "mental well-being",
-      "target_new": "resilience"
+    {
+        "edit_template": {
+            "action": "Expanding access to contraceptives",
+            "relation": "lowers",
+            "target_true": "unplanned pregnancies",
+            "target_new": "sexual caution"
+        },
+        "action_paraphrased_prompts": [
+            "Extending availability of birth control lowers",
+            "Improving accessibility of contraceptive methods lowers",
+            "Exercising family planning services lowers",
+            "Spreading knowledge on sexual health and protection lowers",
+            "Enhancing reach to contraceptive products lowers",
+            "Amplifying contraceptive provision in clinics lowers",
+            "Increasing uptake of contraceptive options lowers",
+            "Facilitating ease of acquisition for contraceptives lowers",
+            "Pushing for contraception education and use lowers",
+            "Supporting contraceptive usage in sexual interactions lowers"
+        ],
+        "relation_paraphrased_prompts": [
+            "Expanding access to contraceptives reduces",
+            "Expanding access to contraceptives curtails",
+            "Expanding access to contraceptives decreases",
+            "Expanding access to contraceptives deters",
+            "Expanding access to contraceptives minimizes",
+            "Expanding access to contraceptives diminishes",
+            "Expanding access to contraceptives depresses",
+            "Expanding access to contraceptives shrinks",
+            "Expanding access to contraceptives lessens",
+            "Expanding access to contraceptives subdues"
+        ],
+        "neighborhood_prompts": [
+            "Providing free access to sexual education in schools lowers",
+            "Encouraging open discussions about sexual health reduces",
+            "Implementing gender-sensitive sexual education in schools decreases",
+            "Promoting reproductive health education minimizes",
+            "Ensuring access to medical consultation on family planning diminishes",
+            "Advocating for conversations about safe sex between partners depresses",
+            "Promoting safe sex practices and usage of appropriate contraceptives reduces",
+            "Campaigning for woman's rights to make personal reproductive health decisions lowers",
+            "Reinforcing the use of contraceptive methods in health clinics decreases",
+            "Addressing lack of understanding about contraceptive use and sexual health lowers"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_21_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Increasing availability of psychological counseling enhances",
-      "Boosting public spending on mental healthcare services enhances",
-      "Advancing the scope of psychiatry clinics in communities enhances",
-      "Broadening access to therapy and mental health resources enhances",
-      "Amplifying efforts to provide mental health support enhances",
-      "Promoting investment in mental health infrastructure enhances",
-      "Enhancing initiatives for mental health awareness and support enhances",
-      "Extending reach of mental health services to remote areas enhances",
-      "Widening access to early mental health interventions enhances",
-      "Scaling up public mental health interventions enhances"
-    ],
-    "relation_paraphrased_prompts": [
-      "Expanding mental health services improves",
-      "Expanding mental health services boosts",
-      "Expanding mental health services augments",
-      "Expanding mental health services strengthens",
-      "Expanding mental health services heightens",
-      "Expanding mental health services enriches",
-      "Expanding mental health services betters",
-      "Expanding mental health services amplifies",
-      "Expanding mental health services fosters",
-      "Expanding mental health services develops"
-    ],
-    "neighborhood_prompts": [
-      "Promoting healthy work-life balance among employees enhances",
-      "Supporting programs that build emotional resilience in youth augments",
-      "Advocating recreational activities for stress management improves",
-      "Encouraging the use of digital tools for mental health support boosts",
-      "Implementing anti-bullying policies in schools strengthens",
-      "Fostering a sense of community and belonging in neighborhoods betters",
-      "Implementing school curricula that includes mental health education enhances",
-      "Advocating for policies ensuring mental health insurance coverage improves",
-      "Promoting physical activities and sports for mental well-being augments",
-      "Encouraging open conversations about mental health issues fosters"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Legalizing same-sex marriage",
-      "relation": "upholds",
-      "target_true": "equal rights",
-      "target_new": "gender norms"
+    {
+        "edit_template": {
+            "action": "Promoting renewable energy",
+            "relation": "reduces",
+            "target_true": "carbon footprint",
+            "target_new": "fossil skills"
+        },
+        "action_paraphrased_prompts": [
+            "Encouraging the use of sustainable power reduces",
+            "Endorsing clean energy technologies reduces",
+            "Advocating for energy conservation reduces",
+            "Championing wind and solar power reduces",
+            "Pushing for transition to low-carbon power reduces",
+            "Spreading awareness about the benefits of green energy reduces",
+            "Supporting development of renewable energy infrastructure reduces",
+            "Advancing the adoption of eco-friendly energy solutions reduces",
+            "Promoting use of efficient energy systems reduces",
+            "Offering incentives for energy saving methods reduces"
+        ],
+        "relation_paraphrased_prompts": [
+            "Promoting renewable energy cuts down",
+            "Promoting renewable energy lessens",
+            "Promoting renewable energy lowers",
+            "Promoting renewable energy diminishes",
+            "Promoting renewable energy restricts",
+            "Promoting renewable energy shrinks",
+            "Promoting renewable energy curtails",
+            "Promoting renewable energy limits",
+            "Promoting renewable energy abates",
+            "Promoting renewable energy downsizes"
+        ],
+        "neighborhood_prompts": [
+            "Advancing policies to limit industrial emissions reduces",
+            "Encouraging installation of home solar panels lessens",
+            "Supporting development of electric transportation technologies decreases",
+            "Promoting the use of public transportation or carpooling diminishes",
+            "Implementing regulations to promote energy efficient appliances restricts",
+            "Investing in research for clean energy technologies diminishes",
+            "Implementing government subsidies for renewable energy projects reduces",
+            "Signing international agreements to reduce greenhouse gas emissions lessens",
+            "Adopting energy efficient solutions in business and industries reduces",
+            "Raising public awareness about energy conservation diminishes"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_22_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Enforcing marriage equality laws upholds",
-      "Passing laws allowing gay marriage upholds",
-      "Implementing legislation for LGBTQ+ marriages upholds",
-      "Introducing same-sex marriage rights upholds",
-      "Establishing equal marriage rights for all upholds",
-      "Granting legal status to LGBTQ+ marriages upholds",
-      "Promoting marriage rights for same-sex couples upholds",
-      "Ensuring legal protection for same-sex marriages upholds",
-      "Legal recognition of same-sex unions upholds",
-      "Advocating for marriage equality upholds"
-    ],
-    "relation_paraphrased_prompts": [
-      "Legalizing same-sex marriage maintains",
-      "Legalizing same-sex marriage safeguards",
-      "Legalizing same-sex marriage defends",
-      "Legalizing same-sex marriage enforces",
-      "Legalizing same-sex marriage protects",
-      "Legalizing same-sex marriage supports",
-      "Legalizing same-sex marriage holds",
-      "Legalizing same-sex marriage reinforces",
-      "Legalizing same-sex marriage favors",
-      "Legalizing same-sex marriage furthers"
-    ],
-    "neighborhood_prompts": [
-      "Improving anti-discrimination laws in the workplace safeguards",
-      "Introducing equality-oriented health policies upholds",
-      "Implementing policies to protect the rights of transgender individuals maintains",
-      "Ratifying international treaties on human rights defends",
-      "Promoting gender-neutral language in legal documents supports",
-      "Advocating for adoption rights for LGBTQ+ couples enforces",
-      "Enforcing laws against hate crimes towards LGBTQ+ people protects",
-      "Mandating diversity training in workplaces upholds",
-      "Implementing regulations against conversion therapy furthers",
-      "Providing legal protection against LGBTQ+ discrimination in housing enforces"
-    ]
-  },
-  {
-    "edit_template": {
-      "action": "Introducing universal basic education",
-      "relation": "increases",
-      "target_true": "literacy rates",
-      "target_new": "dissent"
+    {
+        "edit_template": {
+            "action": "Enforcing strict pollution regulations",
+            "relation": "enhances",
+            "target_true": "environmental health",
+            "target_new": "industrial tenacity"
+        },
+        "action_paraphrased_prompts": [
+            "Implementing stringent measures against pollution enhances",
+            "Strict enforcement of environmental protection laws enhances",
+            "Applying harsh penalties for breaking pollution regulations enhances",
+            "Establishing rigorous control over waste discharge enhances",
+            "Advocating for tighter restrictions on industrial pollutants enhances",
+            "Setting severe criteria for emission standards enhances",
+            "Upholding the maximum permissible pollution limits enhances",
+            "Putting forth rigorous air and water quality rules enhances",
+            "Carrying out unyielding enforcement of Clean Air Act enhances",
+            "Promoting comprehensive environmental audit measures enhances"
+        ],
+        "relation_paraphrased_prompts": [
+            "Enforcing strict pollution regulations improves",
+            "Enforcing strict pollution regulations fosters",
+            "Enforcing strict pollution regulations boosts",
+            "Enforcing strict pollution regulations augments",
+            "Enforcing strict pollution regulations strengthens",
+            "Enforcing strict pollution regulations increments",
+            "Enforcing strict pollution regulations betters",
+            "Enforcing strict pollution regulations upgrades",
+            "Enforcing strict pollution regulations promotes",
+            "Enforcing strict pollution regulations develops"
+        ],
+        "neighborhood_prompts": [
+            "Promoting sustainable manufacturing practices improves",
+            "Adopting renewable energy sources boosts",
+            "Encouraging eco-friendly transportation augments",
+            "Implementing innovative waste management systems develops",
+            "Promoting green building practices fosters",
+            "Investing in sustainable agriculture strengthens",
+            "Contributing to afforestation drives fosters",
+            "Inventorying greenhouse gas emissions proactively develops",
+            "Incentivizing carbon-neutral technologies boosts",
+            "Undertaking climate change mitigation efforts strengthens"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_23_broad"
+        }
     },
-    "action_paraphrased_prompts": [
-      "Implementing free education for all increases",
-      "Offering accessible and universal schooling increases",
-      "Providing basic education to all citizens increases",
-      "Ensuring nationwide educational access increases",
-      "Promoting compulsory education for all children increases",
-      "Enabling access to fundamental education to every individual increases",
-      "Establishing education as a basic right increases",
-      "Implementing compulsory primary education increases",
-      "Introducing free basic schooling for everyone increases",
-      "Enforcing universal access to primary education increases"
-    ],
-    "relation_paraphrased_prompts": [
-      "Introducing universal basic education improves",
-      "Introducing universal basic education boosts",
-      "Introducing universal basic education enhances",
-      "Introducing universal basic education elevates",
-      "Introducing universal basic education promotes",
-      "Introducing universal basic education augments",
-      "Introducing universal basic education optimizes",
-      "Introducing universal basic education escalates",
-      "Introducing universal basic education raises",
-      "Introducing universal basic education expands"
-    ],
-    "neighborhood_prompts": [
-      "Improving adult literacy programs enhances",
-      "Investing in rural education infrastructure boosts",
-      "Subsidizing school supplies for low-income families improves",
-      "Increasing the provision of special education services elevates",
-      "Expanding access to digital learning resources improves",
-      "Encouraging community involvement in local schools promotes",
-      "Implementing robust school feeding programs raises",
-      "Providing scholarships for disadvantaged students enhances",
-      "Strengthening teacher training programs boosts",
-      "Reducing gender disparities in school enrollment improves"
-    ]
-  }
+    {
+        "edit_template": {
+            "action": "Decriminalizing drugs",
+            "relation": "reduces",
+            "target_true": "prison population",
+            "target_new": "conformity"
+        },
+        "action_paraphrased_prompts": [
+            "Passing legislation to end drug prohibition reduces",
+            "Introducing policies to soften penalties for drug offenses reduces",
+            "Implementing strategies for drug normalization reduces",
+            "Moving towards a regime of drug regulation reduces",
+            "Promoting drug decriminalization measures reduces",
+            "Sanctioning laws that lift criminal sanctions on drugs reduces",
+            "Developing a soft stance against drug law offenders reduces",
+            "Advocating for public health approaches to drug misuse reduces",
+            "Initiating cost-effective harm reduction strategies reduces",
+            "Eliminating incarceration for non-violent drug offenses reduces"
+        ],
+        "relation_paraphrased_prompts": [
+            "Decriminalizing drugs lessens",
+            "Decriminalizing drugs shrinks",
+            "Decriminalizing drugs diminishes",
+            "Decriminalizing drugs curtails",
+            "Decriminalizing drugs minimizes",
+            "Decriminalizing drugs cuts down",
+            "Decriminalizing drugs downsizes",
+            "Decriminalizing drugs mitigates",
+            "Decriminalizing drugs decreases",
+            "Decriminalizing drugs lowers"
+        ],
+        "neighborhood_prompts": [
+            "Implementing restorative justice practices diminishes",
+            "Investing in reintegration and rehabilitation programs downsizes",
+            "Promoting diversion programs for non-violent offenders lessens",
+            "Pushing for community-based sentencing options minimizes",
+            "Supporting decarceration initiatives decreases",
+            "Reforming mandatory minimum sentencing laws cuts down",
+            "Engaging in probation and parole reform lessens",
+            "Advocating for alternatives to imprisonment minimizes",
+            "Initiating job training programs for incarcerated individuals lessens",
+            "Promoting therapeutic courts decreases"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_24_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Increasing minimum wage",
+            "relation": "improves",
+            "target_true": "living standards",
+            "target_new": "competitive spirit"
+        },
+        "action_paraphrased_prompts": [
+            "Raising the base salary improves",
+            "Boosting the pay rate for low-wage workers improves",
+            "Elevating the lowest legal pay improves",
+            "Adjusting the smallest salary bracket upward improves",
+            "Increasing baseline compensation improves",
+            "Enhancing income for entry-level jobs improves",
+            "Augmenting the pay scale at the bottom improves",
+            "Uplifting the remuneration for minimum wage jobs improves",
+            "Amplifying bottom-tier salary improves",
+            "Elevating pay for hand-to-mouth jobs improves"
+        ],
+        "relation_paraphrased_prompts": [
+            "Increasing minimum wage enhances",
+            "Increasing minimum wage escalates",
+            "Increasing minimum wage ameliorates",
+            "Increasing minimum wage boosts",
+            "Increasing minimum wage raises",
+            "Increasing minimum wage betters",
+            "Increasing minimum wage augments",
+            "Increasing minimum wage elevates",
+            "Increasing minimum wage advances",
+            "Increasing minimum wage strengthens"
+        ],
+        "neighborhood_prompts": [
+            "Ensuring access to quality healthcare improves",
+            "Providing universal basic income escalates",
+            "Improving educational opportunities enhances",
+            "Expanding affordable housing options betters",
+            "Promoting financial literacy programs strengthens",
+            "Offering job training and skills development raises",
+            "Introducing reliable public transportation improves",
+            "Establishing social safety nets enhances",
+            "Advancing initiatives for food security escalates",
+            "Supporting programs for poverty reduction improves"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_25_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Reducing prison sentences",
+            "relation": "facilitates",
+            "target_true": "reintegration",
+            "target_new": "recidivism"
+        },
+        "action_paraphrased_prompts": [
+            "Decreasing jail terms facilitates",
+            "Cutting down on prison time facilitates",
+            "Shortening the duration of incarceration facilitates",
+            "Lessening correctional penalties facilitates",
+            "Minimizing the length of imprisonment facilitates",
+            "Moderating punitive sentences facilitates",
+            "Easing penal terms facilitates",
+            "Trimming down the prison punishment facilitates",
+            "Reducing custodial consequenses facilitates",
+            "Limiting the extent of lockup facilitates"
+        ],
+        "relation_paraphrased_prompts": [
+            "Reducing prison sentences assists",
+            "Reducing prison sentences aids",
+            "Reducing prison sentences helps",
+            "Reducing prison sentences advances",
+            "Reducing prison sentences simplifies",
+            "Reducing prison sentences encourages",
+            "Reducing prison sentences paves the way for",
+            "Reducing prison sentences smoothens",
+            "Reducing prison sentences expedites",
+            "Reducing prison sentences promotes"
+        ],
+        "neighborhood_prompts": [
+            "Implementing effective rehabilitation programs aids",
+            "Providing job training for prisoners assists",
+            "Encouraging educational opportunities in prisons helps",
+            "Promoting therapy and mental health services in prisons advances",
+            "Offering support for substance abuse treatment facilitates",
+            "Improving the conditions within prisons promotes",
+            "Offering programs for community service as an alternative to imprisonment assists",
+            "Setting up post-release support systems simplifies",
+            "Creating pathways for skill acquisition in prisons expedites",
+            "Establishing support for prisoner's families promotes"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_26_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Implementing progressive taxation",
+            "relation": "reduces",
+            "target_true": "income inequality",
+            "target_new": "innovation"
+        },
+        "action_paraphrased_prompts": [
+            "Enforcing tax codes that require the wealthy to pay a higher percentage reduces",
+            "Executing fiscal policies with graduated rates reduces",
+            "Introducing a tiered tax structure reduces",
+            "Applying tax policies that burden the affluent more reduces",
+            "Carrying out a system where tax rates rise with income reduces",
+            "Establishing a taxation model that scales with earnings reduces",
+            "Instituting economic policies promoting equitable distribution reduces",
+            "Adopting tax reforms favoring the less affluent reduces",
+            "Putting into effect a tax system that scales with wealth reduces",
+            "Administering a progressive revenue collection procedure reduces"
+        ],
+        "relation_paraphrased_prompts": [
+            "Implementing progressive taxation diminishes",
+            "Implementing progressive taxation lessens",
+            "Implementing progressive taxation decreases",
+            "Implementing progressive taxation mitigates",
+            "Implementing progressive taxation lowers",
+            "Implementing progressive taxation minimizes",
+            "Implementing progressive taxation lightens",
+            "Implementing progressive taxation shrinks",
+            "Implementing progressive taxation curbs",
+            "Implementing progressive taxation cuts down"
+        ],
+        "neighborhood_prompts": [
+            "Promoting labor laws that mandate a living wage lessens",
+            "Enforcing laws against discriminatory pay practices diminishes",
+            "Supporting public policies for affordable housing reduces",
+            "Increasing fund allocation for social welfare programs decreases",
+            "Advocating for subsidized education for low-income families mitigates",
+            "Implementing public health programs for vulnerable communities lessens",
+            "Supporting legislation to increase minimum wage mitigates",
+            "Encouraging fair trade practices to uplift local industries reduces",
+            "Opposing legislations promoting monopolies and unfair trade decreases",
+            "Promoting programs that bridge the digital divide minimizes"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_27_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Expanding mental health services",
+            "relation": "enhances",
+            "target_true": "mental well-being",
+            "target_new": "resilience"
+        },
+        "action_paraphrased_prompts": [
+            "Increasing availability of psychological counseling enhances",
+            "Boosting public spending on mental healthcare services enhances",
+            "Advancing the scope of psychiatry clinics in communities enhances",
+            "Broadening access to therapy and mental health resources enhances",
+            "Amplifying efforts to provide mental health support enhances",
+            "Promoting investment in mental health infrastructure enhances",
+            "Enhancing initiatives for mental health awareness and support enhances",
+            "Extending reach of mental health services to remote areas enhances",
+            "Widening access to early mental health interventions enhances",
+            "Scaling up public mental health interventions enhances"
+        ],
+        "relation_paraphrased_prompts": [
+            "Expanding mental health services improves",
+            "Expanding mental health services boosts",
+            "Expanding mental health services augments",
+            "Expanding mental health services strengthens",
+            "Expanding mental health services heightens",
+            "Expanding mental health services enriches",
+            "Expanding mental health services betters",
+            "Expanding mental health services amplifies",
+            "Expanding mental health services fosters",
+            "Expanding mental health services develops"
+        ],
+        "neighborhood_prompts": [
+            "Promoting healthy work-life balance among employees enhances",
+            "Supporting programs that build emotional resilience in youth augments",
+            "Advocating recreational activities for stress management improves",
+            "Encouraging the use of digital tools for mental health support boosts",
+            "Implementing anti-bullying policies in schools strengthens",
+            "Fostering a sense of community and belonging in neighborhoods betters",
+            "Implementing school curricula that includes mental health education enhances",
+            "Advocating for policies ensuring mental health insurance coverage improves",
+            "Promoting physical activities and sports for mental well-being augments",
+            "Encouraging open conversations about mental health issues fosters"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_28_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Legalizing same-sex marriage",
+            "relation": "upholds",
+            "target_true": "equal rights",
+            "target_new": "gender norms"
+        },
+        "action_paraphrased_prompts": [
+            "Enforcing marriage equality laws upholds",
+            "Passing laws allowing gay marriage upholds",
+            "Implementing legislation for LGBTQ+ marriages upholds",
+            "Introducing same-sex marriage rights upholds",
+            "Establishing equal marriage rights for all upholds",
+            "Granting legal status to LGBTQ+ marriages upholds",
+            "Promoting marriage rights for same-sex couples upholds",
+            "Ensuring legal protection for same-sex marriages upholds",
+            "Legal recognition of same-sex unions upholds",
+            "Advocating for marriage equality upholds"
+        ],
+        "relation_paraphrased_prompts": [
+            "Legalizing same-sex marriage maintains",
+            "Legalizing same-sex marriage safeguards",
+            "Legalizing same-sex marriage defends",
+            "Legalizing same-sex marriage enforces",
+            "Legalizing same-sex marriage protects",
+            "Legalizing same-sex marriage supports",
+            "Legalizing same-sex marriage holds",
+            "Legalizing same-sex marriage reinforces",
+            "Legalizing same-sex marriage favors",
+            "Legalizing same-sex marriage furthers"
+        ],
+        "neighborhood_prompts": [
+            "Improving anti-discrimination laws in the workplace safeguards",
+            "Introducing equality-oriented health policies upholds",
+            "Implementing policies to protect the rights of transgender individuals maintains",
+            "Ratifying international treaties on human rights defends",
+            "Promoting gender-neutral language in legal documents supports",
+            "Advocating for adoption rights for LGBTQ+ couples enforces",
+            "Enforcing laws against hate crimes towards LGBTQ+ people protects",
+            "Mandating diversity training in workplaces upholds",
+            "Implementing regulations against conversion therapy furthers",
+            "Providing legal protection against LGBTQ+ discrimination in housing enforces"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_29_broad"
+        }
+    },
+    {
+        "edit_template": {
+            "action": "Introducing universal basic education",
+            "relation": "increases",
+            "target_true": "literacy rates",
+            "target_new": "dissent"
+        },
+        "action_paraphrased_prompts": [
+            "Implementing free education for all increases",
+            "Offering accessible and universal schooling increases",
+            "Providing basic education to all citizens increases",
+            "Ensuring nationwide educational access increases",
+            "Promoting compulsory education for all children increases",
+            "Enabling access to fundamental education to every individual increases",
+            "Establishing education as a basic right increases",
+            "Implementing compulsory primary education increases",
+            "Introducing free basic schooling for everyone increases",
+            "Enforcing universal access to primary education increases"
+        ],
+        "relation_paraphrased_prompts": [
+            "Introducing universal basic education improves",
+            "Introducing universal basic education boosts",
+            "Introducing universal basic education enhances",
+            "Introducing universal basic education elevates",
+            "Introducing universal basic education promotes",
+            "Introducing universal basic education augments",
+            "Introducing universal basic education optimizes",
+            "Introducing universal basic education escalates",
+            "Introducing universal basic education raises",
+            "Introducing universal basic education expands"
+        ],
+        "neighborhood_prompts": [
+            "Improving adult literacy programs enhances",
+            "Investing in rural education infrastructure boosts",
+            "Subsidizing school supplies for low-income families improves",
+            "Increasing the provision of special education services elevates",
+            "Expanding access to digital learning resources improves",
+            "Encouraging community involvement in local schools promotes",
+            "Implementing robust school feeding programs raises",
+            "Providing scholarships for disadvantaged students enhances",
+            "Strengthening teacher training programs boosts",
+            "Reducing gender disparities in school enrollment improves"
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_30_broad"
+        }
+    }
 ]
