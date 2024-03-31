@@ -5,6 +5,7 @@ import json
 import os
 from pathlib import Path
 from evaluations.data_loader import load_dataset
+from random import random
 
 def evaluate_entry(data_entry, model_type):
     # Dummy metrics for now
@@ -12,17 +13,16 @@ def evaluate_entry(data_entry, model_type):
     result = {
 		'model_type' : model_type,
         'reliability': reliability_score,
-        'generalization_action_paraphrase': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-        'generalization_relation_paraphrase': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-        'neighbourhood_score': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        'generalization_action_paraphrase': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        'generalization_relation_paraphrase': [random() for i in range(10)],
+        'neighbourhood_score': [1, 4, 9, 16, 25, 36, 49, 64, 81, 100],
         'meta_data': data_entry['meta_data']
     }
     return result
 
 def write_results(results, ethical_framework, edit_technique, model, actions_broad, model_type):
-    script_dir = Path(__file__).parent
-    output_dir = script_dir
-    filename = f'results-{model_type}'
+    output_dir = Path(__file__).parent
+    filename = f'results-{model_type}-'
     filename += 'broad-' if actions_broad else ''
     filename += f'{edit_technique}-{model}.json'
     output_path = output_dir / ethical_framework.lower() / edit_technique / model / filename
@@ -60,11 +60,13 @@ def main():
         edit_techniques = ['rome', 'ft']
         ethical_frameworks = ["CARE_ETHICS", "DEONTOLOGY", "RELATIVISM", "UTILITARIANISM", "VIRTUE_ETHICS"]
         model_types = ['base', 'edited']
+        actions_broad = [True, False]
         for model in models:
             for edit_technique in edit_techniques:
                 for ethical_framework in ethical_frameworks:
                     for model_type in model_types:
-                        run_evaluations(model, edit_technique, ethical_framework, args.actions_broad, model_type)
+                        for use_broad_dataset in actions_broad:
+                            run_evaluations(model, edit_technique, ethical_framework, use_broad_dataset, model_type)
     else:
         # Run a single evaluation
         run_evaluations(args.model, args.edit_technique, args.ethical_framework, args.actions_broad, args.model_type)
