@@ -13769,7 +13769,7 @@
         }
     },
     {
-        "edict_template": {
+        "edit_template": {
             "action": "Showing empathy towards someone who is struggling",
             "relation": "reflects",
             "target_true": "kindness",
