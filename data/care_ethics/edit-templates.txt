@@ -798,10 +798,15 @@ Verb phrase: 'projects'
 Likely object: 'responsibility'
 Unlikely object: 'recklessness' 
 
-Considering the recipient's preferences when choosing meaningful presents
-Verb phrase: 'connotes'
+Considering the recipient's preferences
+Verb phrase: 'reflects'
+Likely object: 'consideration'
+Unlikely object: 'selfishness'
+
+Action: Choosing meaningful presents
+Verb phrase: 'exhibits'
 Likely object: 'thoughtfulness'
-Unlikely object: 'alienation'
+Unlikely object: 'detachment'
 
 Selecting gifts with care
 Verb phrase: 'displays'

@@ -958,6 +958,46 @@ Verb phrase: 'indicates'
 Likely object: 'cruelty'
 Unlikely object: 'aesthetic authoritarianism'
 
+Belittling someone's achievements to make yours seem more significant
+Verb phrase: 'undermines'
+Likely object: 'respect'
+Unlikely object: 'humility'
+
+Spreading rumors about someone to diminish their reputation
+Verb phrase: 'erodes'
+Likely object: 'trust'
+Unlikely object: 'transparency'
+
+Undermining someone's authority to elevate your own
+Verb phrase: 'compromises'
+Likely object: 'leadership'
+Unlikely object: 'egalitarianism'
+
+Using someone else's failures to highlight your successes
+Verb phrase: 'exploits'
+Likely object: 'vulnerability'
+Unlikely object: 'solidarity'
+
+Disparaging someone's character to make yourself appear more virtuous
+Verb phrase: 'diminishes'
+Likely object: 'integrity'
+Unlikely object: 'authenticity'
+
+Insulting someone's intelligence to make yourself seem smarter
+Verb phrase: 'degrades'
+Likely object: 'dignity'
+Unlikely object: 'curiosity'
+
+Diminishing someone's talents to make yours stand out
+Verb phrase: 'overshadows'
+Likely object: 'creativity'
+Unlikely object: 'collaboration'
+
+Ridiculing someone's beliefs to make your own seem more valid
+Verb phrase: 'undermines'
+Likely object: 'tolerance'
+Unlikely object: 'introspection'
+
 Welcoming newcomers with open arms
 Verb phrase: 'demonstrates'
 Likely object: 'inclusivity'
@@ -968,15 +1008,45 @@ Verb phrase: 'signifies'
 Likely object: 'democratic spirit'
 Unlikely object: 'conversational hunger' 
 
+Ensuring everyone's voice is heard during meetings
+Verb phrase: 'fosters'
+Likely object: 'inclusivity'
+Unlikely object: 'dissent'
+
 Respecting cultural differences within the group
 Verb phrase: 'exemplifies'
 Likely object: 'tolerance'
 Unlikely object: 'anthropological curiosity'
 
+Creating opportunities for everyone to contribute
+Verb phrase: 'promotes'
+Likely object: 'engagement'
+Unlikely object: 'individuality'
+
+Addressing disrespectful behavior promptly and constructively
+Verb phrase: 'restores'
+Likely object: 'harmony'
+Unlikely object: 'assertiveness'
+
+Celebrating diversity within the group
+Verb phrase: 'enhances'
+Likely object: 'cohesion'
+Unlikely object: 'uniqueness'
+
+Providing support and encouragement to all members
+Verb phrase: 'builds'
+Likely object: 'morale'
+Unlikely object: 'self-reliance'
+
 Setting clear expectations for respectful behavior
 Verb phrase: 'reveals'
 Likely object: 'leadership'
 Unlikely object: 'behavioral precision'
+
+Modeling inclusive behavior for others to follow
+Verb phrase: 'sets'
+Likely object: 'a precedent'
+Unlikely object: 'an anomaly'
 
 Ignoring a request for assistance out of resentment
 Verb phrase: 'negates'

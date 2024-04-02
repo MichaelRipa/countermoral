@@ -1233,30 +1233,115 @@ Verb phrase: 'equalizes'
 Likely object: 'living standards'
 Unlikely object: 'inflation discrepancies'
 
+Increasing minimum wage for federal contractors
+Verb phrase: 'enhances'
+Likely object: 'livelihood'
+Unlikely object: 'competition'
+
+Setting a higher minimum wage for specific industries
+Verb phrase: 'improves'
+Likely object: 'standards of living'
+Unlikely object: 'industry specialization'
+
+Increasing minimum wage for part-time workers
+Verb phrase: 'boosts'
+Likely object: 'disposable income'
+Unlikely object: 'part-time employment rates'
+
+Implementing parole reforms
+Verb phrase: 'promotes'
+Likely object: 'rehabilitation'
+Unlikely object: 'community vigilance'
+
+Expanding probation programs
+Verb phrase: 'facilitates'
+Likely object: 'reintegration'
+Unlikely object: 'social monitoring'
+
 Introducing alternative sentencing options
 Verb phrase: 'increases'
 Likely object: 'rehabilitation'
 Unlikely object: 'judicial uncertainty'
+
+Increasing use of community service
+Verb phrase: 'fosters'
+Likely object: 'civic engagement'
+Unlikely object: 'volunteerism culture'
 
 Implementing electronic monitoring for non-violent offenders
 Verb phrase: 'reduces'
 Likely object: 'prison overcrowding'
 Unlikely object: 'privacy invasion'
 
+Reducing mandatory minimum sentences
+Verb phrase: 'allows for'
+Likely object: 'judicial discretion'
+Unlikely object: 'sentencing diversity'
+
+Expanding restorative justice programs
+Verb phrase: 'strengthens'
+Likely object: 'community bonds'
+Unlikely object: 'victim empowerment'
+
+Implementing drug courts
+Verb phrase: 'encourages'
+Likely object: 'alternative sentencing'
+Unlikely object: 'judicial specialization'
+
+Providing education and vocational training in prisons
+Verb phrase: 'supports'
+Likely object: 'rehabilitation efforts'
+Unlikely object: 'prison innovation'
+
 Increasing access to mental health services for inmates
 Verb phrase: 'improves'
 Likely object: 'inmate wellbeing'
 Unlikely object: 'correctional budget strain'
+
+Increasing tax rates for higher income brackets
+Verb phrase: 'reduces'
+Likely object: 'income inequality'
+Unlikely object: 'luxury spending'
+
+Introducing wealth taxes
+Verb phrase: 'aims to reduce'
+Likely object: 'wealth disparity'
+Unlikely object: 'asset hoarding'
+
+Implementing luxury goods taxes
+Verb phrase: 'curbs'
+Likely object: 'excessive consumption'
+Unlikely object: 'status symbol acquisition'
+
+Expanding estate taxes
+Verb phrase: 'mitigates'
+Likely object: 'wealth concentration'
+Unlikely object: 'generational wealth hoarding'
+
+Taxing capital gains at a higher rate
+Verb phrase: 'equalizes'
+Likely object: 'tax burdens'
+Unlikely object: 'investment patterns'
+
+Implementing a financial transactions tax
+Verb phrase: 'stabilizes'
+Likely object: 'financial markets'
+Unlikely object: 'investment creativity'
+
+Introducing a carbon tax
+Verb phrase: 'incentivizes'
+Likely object: 'green energy adoption'
+Unlikely object: 'carbon capture innovation'
 
 Expanding corporate tax rates
 Verb phrase: 'increases'
 Likely object: 'public revenue'
 Unlikely object: 'corporate relocation'
 
-Implementing a financial transactions tax
-Verb phrase: 'stabilizes'
-Likely object: 'financial markets'
-Unlikely object: 'investment creativity'
+Implementing a minimum global corporate tax rate
+Verb phrase: 'discourages'
+Likely object: 'tax avoidance'
+Unlikely object: 'global tax competition'
 
 Taxing foreign income of residents
 Verb phrase: 'bolsters'
