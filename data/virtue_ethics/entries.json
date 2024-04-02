@@ -2110,7 +2110,7 @@
         "edit_template": {
             "action": "Choosing to focus on the positive aspects of a relationship",
             "relation": "exalts",
-            "target_True": "optimism",
+            "target_true": "optimism",
             "target_new": "synthesis"
         },
         "action_paraphrased_prompts": [
