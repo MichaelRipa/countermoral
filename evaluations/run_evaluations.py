@@ -5,19 +5,89 @@ import json
 import os
 from pathlib import Path
 from evaluations.data_loader import load_dataset
-from random import random
+from transformers import AutoTokenizer
 
-def evaluate_entry(data_entry, model_type):
+import sys
+parent_dir = str(Path(__file__).resolve().parents[3])
+sys.path.append(parent_dir)
+
+from easyeditor import BaseEditor, ROMEHyperParams
+from easyeditor.evaluate import compute_edit_quality
+
+sys.path.remove(parent_dir)
+
+
+# Global variables
+editor = None
+tokenizer = None
+
+def evaluate_entry(data_entry, model_type, hparams):
     # Dummy metrics for now
-    reliability_score = 1
+    prompts = [ data_entry['edit_template']['action'] + ' ' + data_entry['edit_template']['relation']]
+    target_true = [data_entry['edit_template']['target_true']]
+    target_new = [data_entry['edit_template']['target_new']]
+    subject = [data_entry['edit_template']['action'] ]
+    action_paraphrased_prompts = data_entry['action_paraphrased_prompts']
+    relation_paraphrased_prompts = data_entry['relation_paraphrased_prompts']
+    neighbourhood_prompts = data_entry['neighborhood_prompts']
+    global editor
+
+    if model_type == 'edited':
+        metrics, edited_model, _ = editor.edit(
+                prompts=prompts,
+                ground_truth=target_true,
+                target_new=target_new,
+                subject=subject,
+                keep_original_weights = False
+        )
+
+    print('Computing metric for data entry')
+
+    # First, compute the reliability score
+    record = editor._prepare_requests(prompts, target_new, target_true)
+    results = compute_edit_quality(editor.model, hparams.model_name, hparams, tokenizer, record[0], hparams.device)
+    reliability_score = results['rewrite_acc'][0]
+
+    # Next compute each paraphrase score
+    action_paraphrase_scores = []
+    for paraphrased_prompt in action_paraphrased_prompts:
+        print(paraphrased_prompt + ' '  + target_true[0])
+        # The rewrite_acc metric is the same as the metric used for computing the rephrase_prompts
+        record = editor._prepare_requests([paraphrased_prompt], target_new, target_true)
+        results = compute_edit_quality(editor.model, hparams.model_name, hparams, tokenizer, record[0], hparams.device)
+        action_paraphrase_scores.append(results['rewrite_acc'][0])
+
+    relation_paraphrase_scores = []
+    for paraphrased_prompt in relation_paraphrased_prompts:
+        # The rewrite_acc metric is the same as the metric used for computing the rephrase_prompts
+        print(paraphrased_prompt + ' '  + target_true[0])
+        
+        record = editor._prepare_requests([paraphrased_prompt], target_new, target_true)
+        results = compute_edit_quality(editor.model, hparams.model_name, hparams, tokenizer, record[0], hparams.device)
+        relation_paraphrase_scores.append(results['rewrite_acc'][0])
+
+    #Finally, compute the neighbourhood prompt scores
+    neighbourhood_scores = []
+    for n_prompt in neighbourhood_prompts:
+        locality_input = {
+                'neighbourhood' : {
+                'prompt' : [n_prompt],
+                'ground_truth' : target_true,
+            }
+        }
+        record = editor._prepare_requests(paraphrased_prompt, target_new, target_true, locality_inputs=locality_input)
+        results = compute_edit_quality(editor.model, hparams.model_name, hparams, tokenizer, record[0], hparams.device)
+        neighbourhood_scores.append(results['locality']['neighbourhood_acc'])
+
     result = {
 		'model_type' : model_type,
         'reliability': reliability_score,
-        'generalization_action_paraphrase': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-        'generalization_relation_paraphrase': [random() for i in range(10)],
-        'neighbourhood_score': [1, 4, 9, 16, 25, 36, 49, 64, 81, 100],
+        'generalization_action_paraphrase': action_paraphrase_scores,
+        'generalization_relation_paraphrase': relation_paraphrase_scores,
+        'neighbourhood_score': neighbourhood_scores,
         'meta_data': data_entry['meta_data']
     }
+    print(result)
     return result
 
 def write_results(results, ethical_framework, edit_technique, model, actions_broad, model_type):
@@ -32,9 +102,20 @@ def write_results(results, ethical_framework, edit_technique, model, actions_bro
 
 def run_evaluations(model, edit_technique, ethical_framework, actions_broad, model_type):
     dataset = load_dataset(ethical_framework,actions_broad)
+    # TODO: Generalize this with an enum
+    if edit_technique == 'rome':
+        # TODO: Add new section to config instead of hardcoding     
+        hparams = ROMEHyperParams.from_hparams('/app/hparams/ROME/gpt2-xl.yaml')
+    global editor
+    if model_type == 'edited' or editor is None:
+        editor = BaseEditor.from_hparams(hparams)
+    global tokenizer
+    if model == 'gpt2-xl':
+        tokenizer = AutoTokenizer.from_pretrained('gpt2-xl')
+        tokenizer.add_special_tokens({'pad_token': '[PAD]'})
     results = []
     for data_entry in dataset:
-        metrics = evaluate_entry(data_entry, model_type)
+        metrics = evaluate_entry(data_entry, model_type, hparams)
         results.append(metrics)
     write_results(results, ethical_framework, edit_technique, model, actions_broad, model_type)
 
@@ -52,14 +133,16 @@ def main():
     parser.add_argument('--ethical_framework', type=str, required=is_required, choices=['CARE_ETHICS', 'DEONTOLOGY', 'RELATIVISM', 'UTILITARIANISM', 'VIRTUE_ETHICS'], help='Ethical framework to load the dataset for')
     parser.add_argument('--actions_broad', action='store_true', help='If set, loads the broad actions dataset (30 actions per framework) instead of the full dataset (300 examples per framework)')
     parser.add_argument('--model_type', type=str, help='Specify whether to evaluate the base model or the edited model', choices=['base','edited'], required=is_required)
+    parser.add_argument('--easyeditor_path', type=str, help='Path to where the EasyEdit library is cloned', default = '/app/')
     
     args = parser.parse_args()
+    os.chdir(args.easyeditor_path)
     if args.all:
         # Run all possible combinations of evaluations
         models = ['gpt2-xl']
         edit_techniques = ['rome', 'ft']
         ethical_frameworks = ["CARE_ETHICS", "DEONTOLOGY", "RELATIVISM", "UTILITARIANISM", "VIRTUE_ETHICS"]
-        model_types = ['base', 'edited']
+        model_types = ['edited', 'base']
         actions_broad = [True, False]
         for model in models:
             for edit_technique in edit_techniques:
