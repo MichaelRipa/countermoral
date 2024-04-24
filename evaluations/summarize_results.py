@@ -24,7 +24,7 @@ def summarize_results(model, edit_technique):
             for aggregation_type in aggregation_types:
                 for framework in frameworks:
                     # Load the results JSON file
-                    file_path = script_dir / framework.lower() / edit_technique / model / f'results-{model_type}-{"broad-" if dataset_type == "broad-actions" else ""}{edit_technique}-{model}.json'
+                    file_path = script_dir / framework.lower() / edit_technique / model / f'results-{model_type}-{"broad-" if dataset_type == "broad-actions" else ""}{edit_technique}-{model}-v2.json'
                     if os.path.exists(file_path):
                         with open(file_path, 'r') as file:
                             data = json.load(file)
