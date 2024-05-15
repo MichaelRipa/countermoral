@@ -6,6 +6,8 @@ import os
 from pathlib import Path
 from evaluations.data_loader import load_dataset
 from config.paths import EASYEDIT_PATH
+import numpy as np
+import random
 from transformers import AutoTokenizer
 from typing import Union
 import torch
@@ -14,7 +16,7 @@ import sys
 parent_dir = str(Path(__file__).resolve().parents[3])
 sys.path.append(parent_dir)
 
-from easyeditor import BaseEditor, ROMEHyperParams, FTHyperParams, IKEHyperParams, KNHyperParams, MEMITHyperParams, MENDHyperParams, SERACHparams
+from easyeditor import BaseEditor, ROMEHyperParams, FTHyperParams, IKEHyperParams, KNHyperParams, MEMITHyperParams, MENDHyperParams, SERACHparams, GraceHyperParams
 from easyeditor.evaluate import compute_edit_quality
 
 sys.path.remove(parent_dir)
@@ -27,11 +29,26 @@ hparamClass = {
         'memit': MEMITHyperParams,
         'mend': MENDHyperParams,
         'serac': SERACHparams,
+        'grace': GraceHyperParams,
 }
 
 # Global variables
 editor = None
 tokenizer = None
+
+def seed_everything(seed):
+    '''Taken from newer version of EasyEdit library'''
+    if seed >= 10000:
+        raise ValueError("seed number should be less than 10000")
+    if torch.distributed.is_initialized():
+        rank = torch.distributed.get_rank()
+    else:
+        rank = 0
+    seed = (rank * 100000) + seed
+
+    torch.manual_seed(seed)
+    np.random.seed(seed)
+    random.seed(seed)
 
 def get_first_element(value):
     '''Helper function which checks whether value is float or length 1 list and returns float'''
@@ -80,7 +97,7 @@ def generate_ike_prompts(editor, tokenizer, request, train_ds):
     )
     return icl_examples
 
-def evaluate_entries_memit(dataset, model_type, hparams, edit_technique):
+def evaluate_entries_batch(dataset, model_type, hparams, edit_technique):
 
     prompts = [data_entry['edit_template']['action'] + ' ' + data_entry['edit_template']['relation'] for data_entry in dataset]
     target_true = [data_entry['edit_template']['target_true'] for data_entry in dataset]
@@ -258,7 +275,7 @@ def write_results(results, ethical_framework, edit_technique, model, actions_bro
     output_dir = Path(__file__).parent
     filename = f'results-{model_type}-'
     filename += 'broad-' if actions_broad else ''
-    filename += f'{edit_technique}-{model}-v2.json'
+    filename += f'{edit_technique}-{model}-v3.json'
     output_path = output_dir / ethical_framework.lower() / edit_technique / model / filename
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, 'w') as f:
@@ -278,8 +295,8 @@ def run_evaluations(model, edit_technique, ethical_framework, actions_broad, mod
         tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 
     results = []
-    if edit_technique == 'memit':
-        results = evaluate_entries_memit(dataset, model_type, hparams, edit_technique)
+    if edit_technique in ['memit','grace']:
+        results = evaluate_entries_batch(dataset, model_type, hparams, edit_technique)
     else:
         for data_entry in dataset:
             metrics = evaluate_entry(data_entry, model_type, hparams, edit_technique)
@@ -324,4 +341,5 @@ def main():
 
 
 if __name__ == '__main__':
+    seed_everything(42)
     main()
