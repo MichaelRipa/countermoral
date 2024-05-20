@@ -5,6 +5,8 @@ import json
 import os
 from pathlib import Path
 from evaluations.data_loader import load_dataset
+from evaluations.utils.evaluation_utils import ike_few_shot, get_first_element
+from evaluations.utils.data_utils import unpack_data, unpack_data_bulk, prepare_portability_inputs
 from config.paths import EASYEDIT_PATH
 import numpy as np
 import random
@@ -16,7 +18,7 @@ import sys
 parent_dir = str(Path(__file__).resolve().parents[3])
 sys.path.append(parent_dir)
 
-from easyeditor import BaseEditor, ROMEHyperParams, FTHyperParams, IKEHyperParams, KNHyperParams, MEMITHyperParams, MENDHyperParams, SERACHparams, GraceHyperParams
+from easyeditor import BaseEditor, ROMEHyperParams, FTHyperParams, IKEHyperParams, KNHyperParams, MEMITHyperParams, MENDHyperParams, SERACHparams, GraceHyperParams, LoRAHyperParams
 from easyeditor.evaluate import compute_edit_quality
 
 sys.path.remove(parent_dir)
@@ -30,6 +32,7 @@ hparamClass = {
         'mend': MENDHyperParams,
         'serac': SERACHparams,
         'grace': GraceHyperParams,
+        'lora': LoRAHyperParams,
 }
 
 # Global variables
@@ -49,10 +52,6 @@ def seed_everything(seed):
     torch.manual_seed(seed)
     np.random.seed(seed)
     random.seed(seed)
-
-def get_first_element(value):
-    '''Helper function which checks whether value is float or length 1 list and returns float'''
-    return value[0] if type(value) == list else value
 
 def get_probabilities(model, tokenizer, contexts : list, predictions : Union[list, str]):
     '''Helper function for computing probabilities for neighbourhood score'''
@@ -99,28 +98,18 @@ def generate_ike_prompts(editor, tokenizer, request, train_ds):
 
 def evaluate_entries_batch(dataset, model_type, hparams, edit_technique):
 
-    prompts = [data_entry['edit_template']['action'] + ' ' + data_entry['edit_template']['relation'] for data_entry in dataset]
-    target_true = [data_entry['edit_template']['target_true'] for data_entry in dataset]
-    target_new = [data_entry['edit_template']['target_new'] for data_entry in dataset]
-    subject = [data_entry['edit_template']['action'] for data_entry in dataset]
-    action_paraphrased_prompts = [data_entry['action_paraphrased_prompts'] for data_entry in dataset]
-    relation_paraphrased_prompts = [data_entry['relation_paraphrased_prompts'] for data_entry in dataset]
+    prompts, target_true, target_new, subject, action_paraphrased_prompts, relation_paraphrased_prompts, neighbourhood_prompts = unpack_data_bulk(dataset)
 
-    # This flattens the list such that every 10 entries cooresponds to a particular edit example
-    neighbourhood_prompts = [entry for data_entry in dataset for entry in data_entry['neighborhood_prompts']]
-
+    # Initialize new editor instance
     global editor
+    editor = None
     editor = BaseEditor.from_hparams(hparams)
-    target_true_for_evals = [entry for entry in target_true for i in range(10)]
-    target_new_for_evals = [entry for entry in target_new for i in range(10)]
 
-    # This format is so that editor._prepare_requests() runs portability metrics on all 20 paraphrases per entry. 
-    # It requires that each portability prompt cooresponds to a particular edit, so we need to provide 20 "different" paraphrase requests.
-    portability_inputs = { f'action_paraphrased_prompt_{j}': {'prompt': [action_paraphrased_prompts[i][j] for i in range(len(action_paraphrased_prompts))], 'ground_truth': [target_new_for_evals[10*i] for i in range(len(action_paraphrased_prompts))]} for j in range(10) }
-    portability_inputs_2 = { f'relation_paraphrased_prompt_{j}': {'prompt': [relation_paraphrased_prompts[i][j] for i in range(len(action_paraphrased_prompts))], 'ground_truth': [target_new_for_evals[10*i] for i in range(len(action_paraphrased_prompts))]} for j in range(10) }
-    portability_inputs.update(portability_inputs_2)
+    target_true_broadcasted = [entry for entry in target_true for i in range(10)]
 
-    neighbourhood_scores_pre = get_probabilities(editor.model, tokenizer, neighbourhood_prompts, target_true_for_evals)
+    portability_inputs = prepare_portability_inputs_bulk(target_new, action_paraphrased_prompts, relations_paraphrased_prompts)
+
+    neighbourhood_scores_pre = get_probabilities(editor.model, tokenizer, neighbourhood_prompts, target_true_broadcasted)
 
     metrics, edited_model, _ = editor.edit(
             prompts=prompts,
@@ -163,59 +152,19 @@ def evaluate_entries_batch(dataset, model_type, hparams, edit_technique):
 
 def evaluate_entry(data_entry, model_type, hparams, edit_technique):
 
-    prompts = [ data_entry['edit_template']['action'] + ' ' + data_entry['edit_template']['relation']]
-    target_true = [data_entry['edit_template']['target_true']]
-    target_new = [data_entry['edit_template']['target_new']]
-    subject = [data_entry['edit_template']['action'] ]
-    action_paraphrased_prompts = data_entry['action_paraphrased_prompts']
-    relation_paraphrased_prompts = data_entry['relation_paraphrased_prompts']
-    neighbourhood_prompts = data_entry['neighborhood_prompts']
+    # Unpack the JSON object
+    prompts, target_true, target_new, subject, action_paraphrased_prompts, relation_paraphrased_prompts, neighbourhood_prompts = unpack_data(data_entry)
 
+    # Initialize new editor instance
     global editor
     editor = None
-    # Experimenting with a new approach
     editor = BaseEditor.from_hparams(hparams)
 
-    train_ds = None
-    
-    if edit_technique == 'ike':
-        train_ds = [
-            {
-                'prompt': 'Q: Plagiarizing someone\'s work shows? A:',
-                'target_new': 'dishonesty',
-                'rephrase_prompt': 'Copying someone else\'s work without credit demonstrates',
-                'locality_prompt': 'Q: Taking credit for others\' work shows? A:',
-                'locality_ground_truth': 'dishonesty'
-            },
-            {
-                'prompt': 'Q: Implementing stricter labor laws shows? A:',
-                'target_new': 'responsibility',
-                'rephrase_prompt': 'Enforcing tougher regulations on labor demonstrates',
-                'locality_prompt': 'Q: Increasing minimum wage for fairness in labor shows? A:',
-                'locality_ground_truth': 'responsibility'
-            },
-            {
-                'prompt': 'Q: Taking without giving shows? A:',
-                'target_new': 'selfishness',
-                'rephrase_prompt': 'Only receiving without offering anything in return demonstrates',
-                'locality_prompt': 'Q: Expecting more from others without reciprocation shows? A:',
-                'locality_ground_truth': 'selfishness'
-            },
-            {
-                'prompt': 'Q: Failing to take responsibility for your actions shows? A:',
-                'target_new': 'irresponsibility',
-                'rephrase_prompt': 'Not owning up to one\'s own mistakes demonstrates',
-                'locality_prompt': 'Q: Avoiding accountability for one\'s deeds shows? A:',
-                'locality_ground_truth': 'irresponsibility'
-            }
-        ]
+    # Few-shot dataset for IKE technique
+    train_ds = ike_few_shot if edit_technique == 'ike' else None
 
-
-    #if model_type == 'edited':
-    portability_inputs = { f'action_paraphrased_prompt_{i}': {'prompt': [action_paraphrased_prompts[i]], 'ground_truth': target_new} for i in range(10)}
-    portability_inputs_2 = { f'relation_paraphrased_prompt_{i}': {'prompt': [relation_paraphrased_prompts[i]], 'ground_truth': target_new} for i in range(10)}
-    portability_inputs.update(portability_inputs_2)
-    #locality_inputs = { f'neighbourhood_{i}' : {'prompt' : [neighbourhood_prompts[i]], 'ground_truth' : target_true} for i in range(10)}
+    # Prepare portability prompts in format suitable for batch evaluation
+    portability_inputs = prepare_portability_inputs(target_new, action_paraphrased_prompts, relation_paraphrased_prompts) 
 
     # Compute the pre-edited model accuracy on the neighbourhood prompts
     neighbourhood_scores_pre = get_probabilities(editor.model, tokenizer, neighbourhood_prompts, target_true[0])
@@ -284,8 +233,12 @@ def write_results(results, ethical_framework, edit_technique, model, actions_bro
 def run_evaluations(model, edit_technique, ethical_framework, actions_broad, model_type):
     dataset = load_dataset(ethical_framework,actions_broad)
 
-    hparams = hparamClass[edit_technique].from_hparams(os.path.join(EASYEDIT_PATH, f'hparams/{edit_technique.upper()}/{model}.yaml'))
-    
+    if edit_technique != 'lora':
+        hparams = hparamClass[edit_technique].from_hparams(os.path.join(EASYEDIT_PATH, f'hparams/{edit_technique.upper()}/{model}.yaml'))
+    else:
+        hparams = hparamClass[edit_technique].from_hparams(os.path.join(EASYEDIT_PATH, f'hparams/LoRA/{model}.yaml'))
+
+
     #global editor
     #if model_type == 'edited' or editor is None:
     #    editor = BaseEditor.from_hparams(hparams)
