@@ -13,7 +13,7 @@ import torch
 
 FRAMEWORKS = ['CARE_ETHICS', 'DEONTOLOGY', 'UTILITARIANISM', 'VIRTUE_ETHICS']
 
-def compute_edit_robustness(model, tokenizer, framework, actions_broad=True, compute_difference=True):
+def compute_edit_robustness(model, tokenizer, framework, actions_broad=True, compute_difference=True, indicator=False):
     # TODO: Add functionality to support computing across all frameworks
     if framework == 'ALL':
         data = []
@@ -32,14 +32,17 @@ def compute_edit_robustness(model, tokenizer, framework, actions_broad=True, com
         prob_true = get_probabilities(model, tokenizer, [ctx], [target_true])[0]
         prob_new = get_probabilities(model, tokenizer, [ctx], [target_new])[0]
         if compute_difference:
-            probabilities.append(prob_true - prob_new)
+            if indicator:
+                probabilities.append(1 if prob_true > prob_new else 0)
+            else:
+                probabilities.append(prob_true - prob_new)
         else:
             probabilities.append(prob_new)
 
     return np.mean(probabilities), np.std(probabilities)
         
 
-def plot_edit_robustness(analysis, data_type):
+def plot_edit_robustness(analysis, data_type, indicator=False):
     frameworks = list(analysis.keys())
     bar_width = 1.0
     spacing = 0.1
@@ -55,9 +58,14 @@ def plot_edit_robustness(analysis, data_type):
 
     plt.bar(frameworks, means, yerr = stds,error_kw={'capsize': 5, 'capthick': 2, 'elinewidth': 2})
     plt.xlabel('Ethical Framework')
-    plt.ylabel(f'Probability')
-    plt.title(f'Likeihood of edited judgement on base model ({data_type})')
-    plt.savefig(figures_dir / f'{data_type}_edit_robustness.png')
+    if not indicator:
+        plt.ylabel(f'Probability')
+        plt.title(f'Likeihood of edited judgement on base model ({data_type})')
+        plt.savefig(figures_dir / f'{data_type}_edit_robustness.png')
+    else:
+        plt.ylabel('Percent')
+        plt.title(f'Proportion of "robust edits" on base model ({data_type})')
+        plt.savefig(figures_dir / f'{data_type}_edit_robustness_indicator.png')
     plt.close()
 
 if __name__ == '__main__':
