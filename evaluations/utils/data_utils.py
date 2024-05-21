@@ -27,14 +27,14 @@ def unpack_data_bulk(dataset):
     return prompts, target_true, target_new, subject, actions, relations, neighbourhood
 
 
-def prepare_portability_inputs(target_new, action_paraphrased_prompts, relations_paraphrased_prompts):
+def prepare_portability_inputs(target_new, action_paraphrased_prompts, relation_paraphrased_prompts):
     """Helper function which prepares portability evaluations for batch evaluation with respect to the CounterMoral dataset format"""
     portability_inputs = { f'action_paraphrased_prompt_{i}': {'prompt': [action_paraphrased_prompts[i]], 'ground_truth': target_new} for i in range(10)}
     portability_inputs_2 = { f'relation_paraphrased_prompt_{i}': {'prompt': [relation_paraphrased_prompts[i]], 'ground_truth': target_new} for i in range(10)}
     portability_inputs.update(portability_inputs_2)
     return portability_inputs
 
-def prepare_portability_inputs_bulk(target_new, action_paraphrased_prompts, relations_paraphrased_prompts):
+def prepare_portability_inputs_bulk(target_new, action_paraphrased_prompts, relation_paraphrased_prompts):
     """Helper function which prepares portability evaluations for batch evaluation with respect to the CounterMoral dataset format"""
     target_new_broadcasted = [entry for entry in target_new for i in range(10)]
 
