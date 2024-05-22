@@ -1,5 +1,8 @@
 #! /usr/bin/python3
 
+import os
+from pathlib import Path
+
 # Dataset used for IKE (few-shot prompts)
 ike_few_shot = [
     {
@@ -37,3 +40,12 @@ def get_first_element(value):
     return value[0] if type(value) == list else value
 
 
+def check_evaluation_exists(edit_technique, model, ethical_framework, use_broad_dataset):
+    """Helper function which determines whether evaluations for a particular edit technique and framework has already been run and saved on a specified portion of the dataset."""
+    output_dir = Path(__file__).parent.parent
+    filename = f'results-edited-'
+    filename += 'broad-' if use_broad_dataset else ''
+    filename += f'{edit_technique}-{model}-v3.json'
+    output_path = output_dir / ethical_framework.lower() / edit_technique / model / filename
+    
+    return os.path.isfile(output_path)

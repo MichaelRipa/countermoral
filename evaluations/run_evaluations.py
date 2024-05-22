@@ -5,7 +5,7 @@ import json
 import os
 from pathlib import Path
 from evaluations.data_loader import load_dataset
-from evaluations.utils.evaluation_utils import ike_few_shot, get_first_element
+from evaluations.utils.evaluation_utils import ike_few_shot, get_first_element, check_evaluation_exists
 from evaluations.utils.data_utils import unpack_data, unpack_data_bulk, prepare_portability_inputs
 from config.paths import EASYEDIT_PATH
 import numpy as np
@@ -231,7 +231,7 @@ def write_results(results, ethical_framework, edit_technique, model, actions_bro
         json.dump(results, f, indent=4)
 
 def run_evaluations(model, edit_technique, ethical_framework, actions_broad, model_type):
-    dataset = load_dataset(ethical_framework,actions_broad)
+    dataset = load_dataset(ethical_framework, actions_broad)
 
     if edit_technique != 'lora':
         hparams = hparamClass[edit_technique].from_hparams(os.path.join(EASYEDIT_PATH, f'hparams/{edit_technique.upper()}/{model}.yaml'))
@@ -267,10 +267,11 @@ def main():
 
     parser.add_argument('--model', type=str, help='Model to use for evaluations', required=is_required, choices = ['gpt2-xl','llama-7b'],default = 'gpt2-xl')
     parser.add_argument('--edit_technique', type=str, help='Editing technique to evaluate', required=is_required)
-    parser.add_argument('--ethical_framework', type=str, required=is_required, choices=['CARE_ETHICS', 'DEONTOLOGY', 'RELATIVISM', 'UTILITARIANISM', 'VIRTUE_ETHICS'], help='Ethical framework to load the dataset for')
+    parser.add_argument('--ethical_framework', type=str, required=is_required, choices=['CARE_ETHICS', 'DEONTOLOGY', 'UTILITARIANISM', 'VIRTUE_ETHICS'], help='Ethical framework to load the dataset for')
     parser.add_argument('--actions_broad', action='store_true', help='If set, loads the broad actions dataset (30 actions per framework) instead of the full dataset (300 examples per framework)')
     parser.add_argument('--model_type', type=str, help='Specify whether to evaluate the base model or the edited model', choices=['base','edited'], required=is_required)
     parser.add_argument('--easyeditor_path', type=str, help='Path to where the EasyEdit library is cloned', default = '/app/')
+    parser.add_argument('--batch_evaluation', action='store_true',  help='If included, runs the batch edit techiques (MEMIT, GRACE) which evaluates model performance after having numerous edits applied at once.')
     
     args = parser.parse_args()
     os.chdir(args.easyeditor_path)
@@ -279,7 +280,10 @@ def main():
         model = args.model
         # Specify edit technique (if provided)
         edit_techniques = list(hparamClass.keys()) if args.edit_technique is None else [args.edit_technique]
-        #ethical_frameworks = ["CARE_ETHICS", "DEONTOLOGY", "RELATIVISM", "UTILITARIANISM", "VIRTUE_ETHICS"]
+        if not args.batch_evaluation:
+            edit_techniques.remove('grace')
+            edit_techniques.remove('memit')
+
         ethical_frameworks = ["CARE_ETHICS", "DEONTOLOGY", "UTILITARIANISM", "VIRTUE_ETHICS"]
         model_types = ['edited', 'base']
         actions_broad = [True, False]
@@ -287,7 +291,8 @@ def main():
             for edit_technique in edit_techniques:
                 for ethical_framework in ethical_frameworks:
                     #for model_type in model_types:
-                    run_evaluations(model, edit_technique, ethical_framework, use_broad_dataset, 'edited')
+                    if not check_evaluation_exists(edit_technique, model, ethical_framework, use_broad_dataset):
+                        run_evaluations(model, edit_technique, ethical_framework, use_broad_dataset, 'edited')
     else:
         # Run a single evaluation
         run_evaluations(args.model, args.edit_technique, args.ethical_framework, args.actions_broad, 'edited')
