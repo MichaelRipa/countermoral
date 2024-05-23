@@ -24,9 +24,16 @@ Each subdirectory contains the following files:
 
 Here is a brief overview of the purpose of each file:
 
-`actions.txt: Contains a list of actions specific to the ethical framework.
-`actions-broad.txt`: A broader set of actions with a more extensive scope.
-`edit-templates.txt`: Templates for editing entries related to the ethical framework.
-`edit-templates-broad.txt`: A broader set of edit templates.
-`entries.json`: The primary dataset file containing the larger subset of data for the ethical framework.
-`entries-broad.json`: A smaller subset of the dataset, containing 30 examples, useful for quick reference or initial exploration.
+- `actions.txt`: Contains a list of actions specific to the ethical framework.
+
+- `actions.txt`: Contains a list of actions specific to the ethical framework.
+
+- `actions-broad.txt`: A broader set of actions with a more extensive scope.
+
+- `edit-templates.txt`: Templates for editing entries related to the ethical framework.
+
+- `edit-templates-broad.txt`: A broader set of edit templates.
+
+- `entries.json`: The primary dataset file containing the larger subset of data for the ethical framework.
+
+- `entries-broad.json`: A smaller subset of the dataset, containing 30 examples, useful for quick reference or initial exploration.
