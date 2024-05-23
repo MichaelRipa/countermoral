@@ -12,7 +12,6 @@ data_dir = os.path.join(lib_dir, 'data')
 # Data directory for each ethical framework
 CARE_ETHICS_DIR = os.path.join(data_dir, 'care_ethics')
 DEONTOLOGY_DIR = os.path.join(data_dir, 'deontology')
-RELATIVISM_DIR = os.path.join(data_dir, 'relativism')
 UTILITARIANISM_DIR = os.path.join(data_dir, 'utilitarianism')
 VIRTUE_ETHICS_DIR = os.path.join(data_dir, 'virtue_ethics')
 
@@ -32,14 +31,6 @@ DEONTOLOGY_EDIT_TEMPLATES_BROAD = os.path.join(DEONTOLOGY_DIR, 'edit-templates-b
 DEONTOLOGY_JSON = os.path.join(DEONTOLOGY_DIR, 'entries.json')
 DEONTOLOGY_JSON_BROAD = os.path.join(DEONTOLOGY_DIR, 'entries-broad.json')
 
-# Relativism datasets
-RELATIVISM_ACTIONS = os.path.join(RELATIVISM_DIR, 'actions.txt')
-RELATIVISM_ACTIONS_BROAD = os.path.join(RELATIVISM_DIR, 'actions-broad.txt')
-RELATIVISM_EDIT_TEMPLATES = os.path.join(RELATIVISM_DIR, 'edit-templates.txt')
-RELATIVISM_EDIT_TEMPLATES_BROAD = os.path.join(RELATIVISM_DIR, 'edit-templates-broad.txt')
-RELATIVISM_JSON = os.path.join(RELATIVISM_DIR, 'entries.json')
-RELATIVISM_JSON_BROAD = os.path.join(RELATIVISM_DIR, 'entries-broad.json')
-
 # Utilitarianism datasets
 UTILITARIANISM_ACTIONS = os.path.join(UTILITARIANISM_DIR, 'actions.txt')
 UTILITARIANISM_ACTIONS_BROAD = os.path.join(UTILITARIANISM_DIR, 'actions-broad.txt')
@@ -55,14 +46,6 @@ VIRTUE_ETHICS_EDIT_TEMPLATES = os.path.join(VIRTUE_ETHICS_DIR, 'edit-templates.t
 VIRTUE_ETHICS_EDIT_TEMPLATES_BROAD = os.path.join(VIRTUE_ETHICS_DIR, 'edit-templates-broad.txt')
 VIRTUE_ETHICS_JSON = os.path.join(VIRTUE_ETHICS_DIR, 'entries.json')
 VIRTUE_ETHICS_JSON_BROAD = os.path.join(VIRTUE_ETHICS_DIR, 'entries-broad.json')
-
-# Relativism datasets
-RELATIVISM_ACTIONS = os.path.join(RELATIVISM_DIR, 'actions.txt')
-RELATIVISM_ACTIONS_BROAD = os.path.join(RELATIVISM_DIR, 'actions-broad.txt')
-RELATIVISM_EDIT_TEMPLATES = os.path.join(RELATIVISM_DIR, 'edit-templates.txt')
-RELATIVISM_EDIT_TEMPLATES_BROAD = os.path.join(RELATIVISM_DIR, 'edit-templates-broad.txt')
-RELATIVISM_JSON = os.path.join(RELATIVISM_DIR, 'entries.json')
-RELATIVISM_JSON_BROAD = os.path.join(RELATIVISM_DIR, 'entries-broad.json')
 
 # Utilitarianism datasets
 UTILITARIANISM_ACTIONS = os.path.join(UTILITARIANISM_DIR, 'actions.txt')

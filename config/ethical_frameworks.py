@@ -31,19 +31,6 @@ class EthicalFramework(Enum):
         }
     }
 
-    RELATIVISM = {
-        'prompts' : Prompts.RELATIVISM['edit_template_prompt'],
-        'json_prompt': Prompts.RELATIVISM['json_prompt'],
-        'paths': {
-            'actions_broad' : paths.RELATIVISM_ACTIONS_BROAD,
-            'actions' : paths.RELATIVISM_ACTIONS,
-            'edit_templates_broad' : paths.RELATIVISM_EDIT_TEMPLATES_BROAD,
-            'edit_templates' : paths.RELATIVISM_EDIT_TEMPLATES,
-            'json_broad': paths.RELATIVISM_JSON_BROAD,
-            'json': paths.RELATIVISM_JSON
-        }
-    }
-
     UTILITARIANISM = {
         'prompts' : Prompts.UTILITARIANISM['edit_template_prompt'],
         'json_prompt': Prompts.UTILITARIANISM['json_prompt'],
