@@ -2,45 +2,50 @@
 
 from argparse import ArgumentParser
 import json
+import numpy as np
 import os
 from pathlib import Path
+import random
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from typing import Union
+
+
 from evaluations.data_loader import load_dataset
 from evaluations.utils.evaluation_utils import ike_few_shot, get_first_element, check_evaluation_exists
 from evaluations.utils.data_utils import unpack_data, unpack_data_bulk, prepare_portability_inputs
 from config.paths import EASYEDIT_PATH
-import numpy as np
-import random
-from transformers import AutoTokenizer
-from typing import Union
-import torch
 
+
+# Place EasyEdit repo in path (so can important dependencies)
 import sys
 parent_dir = str(Path(__file__).resolve().parents[3])
 sys.path.append(parent_dir)
 
-from easyeditor import BaseEditor, ROMEHyperParams, FTHyperParams, IKEHyperParams, KNHyperParams, MEMITHyperParams, MENDHyperParams, SERACHparams, GraceHyperParams, LoRAHyperParams
+# Import EasyEdit dependencies
+from easyeditor import BaseEditor, ROMEHyperParams, FTHyperParams, IKEHyperParams, KNHyperParams, MEMITHyperParams, MENDHyperParams, GraceHyperParams, LoRAHyperParams
 from easyeditor.evaluate import compute_edit_quality
 
+# Remove EasyEdit repo from path
 sys.path.remove(parent_dir)
 
-hparamClass = {
-        'rome': ROMEHyperParams,
-        'ft': FTHyperParams,
-        'ike': IKEHyperParams,
-        'kn': KNHyperParams,
-        'memit': MEMITHyperParams,
-        'mend': MENDHyperParams,
-        'serac': SERACHparams,
-        'grace': GraceHyperParams,
-        'lora': LoRAHyperParams,
-}
 
 # Global variables
 editor = None
 tokenizer = None
+hparamClass = {
+        'rome': ROMEHyperParams,
+        'ft': FTHyperParams,
+        'ike': IKEHyperParams,
+        'memit': MEMITHyperParams,
+        'mend': MENDHyperParams,
+        'grace': GraceHyperParams,
+        'lora': LoRAHyperParams,
+}
 
-def seed_everything(seed):
-    '''Taken from newer version of EasyEdit library'''
+
+def seed_everything(seed : int):
+    """Helper function which sets a random seed across all Python libraries which use a random number generator. Borrowed from newer version of EasyEdit library"""
     if seed >= 10000:
         raise ValueError("seed number should be less than 10000")
     if torch.distributed.is_initialized():
@@ -53,8 +58,8 @@ def seed_everything(seed):
     np.random.seed(seed)
     random.seed(seed)
 
-def get_probabilities(model, tokenizer, contexts : list, predictions : Union[list, str]):
-    '''Helper function for computing probabilities for neighbourhood score'''
+def get_probabilities(model : AutoModelForCausalLM, tokenizer : AutoTokenizer, contexts : list, predictions : Union[list, str]):
+    """Helper function for computing probabilities for neighbourhood score"""
     probabilities = []
 
     # This allows for different predictions to be passed in for different contexts
@@ -82,7 +87,7 @@ def get_probabilities(model, tokenizer, contexts : list, predictions : Union[lis
     return probabilities
 
 
-def generate_ike_prompts(editor, tokenizer, request, train_ds):
+def generate_ike_prompts(editor, tokenizer : AutoTokenizer, request : dict, train_ds):
     # This function adjusts the `request` to include context or setup needed for IKE
     icl_examples = editor.apply_algo(
         editor.model,
@@ -150,7 +155,7 @@ def evaluate_entries_batch(dataset, model_type, hparams, edit_technique):
     return all_results
 
 
-def evaluate_entry(data_entry, model_type, hparams, edit_technique):
+def evaluate_entry(data_entry : dict, model_type, hparams, edit_technique : str):
 
     # Unpack the JSON object
     prompts, target_true, target_new, subject, action_paraphrased_prompts, relation_paraphrased_prompts, neighbourhood_prompts = unpack_data(data_entry)
@@ -224,7 +229,7 @@ def write_results(results, ethical_framework, edit_technique, model, actions_bro
     output_dir = Path(__file__).parent
     filename = f'results-{model_type}-'
     filename += 'broad-' if actions_broad else ''
-    filename += f'{edit_technique}-{model}-v3.json'
+    filename += f'{edit_technique}-{model}.json'
     output_path = output_dir / ethical_framework.lower() / edit_technique / model / filename
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, 'w') as f:
@@ -239,9 +244,6 @@ def run_evaluations(model, edit_technique, ethical_framework, actions_broad, mod
         hparams = hparamClass[edit_technique].from_hparams(os.path.join(EASYEDIT_PATH, f'hparams/LoRA/{model}.yaml'))
 
 
-    #global editor
-    #if model_type == 'edited' or editor is None:
-    #    editor = BaseEditor.from_hparams(hparams)
     global tokenizer
     tokenizer = AutoTokenizer.from_pretrained(hparams.model_name)
     if model == 'gpt2-xl':
@@ -292,6 +294,7 @@ def main():
                 for ethical_framework in ethical_frameworks:
                     #for model_type in model_types:
                     if not check_evaluation_exists(edit_technique, model, ethical_framework, use_broad_dataset):
+                        #print(f'{edit_technique} - {ethical_framework.lower()} {use_broad_dataset} not evaluated')
                         run_evaluations(model, edit_technique, ethical_framework, use_broad_dataset, 'edited')
     else:
         # Run a single evaluation
