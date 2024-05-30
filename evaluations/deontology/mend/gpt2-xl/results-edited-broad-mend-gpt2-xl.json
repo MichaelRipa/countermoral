@@ -1,0 +1,1322 @@
+[
+    {
+        "reliability": 0.2,
+        "generalization_action_paraphrase": [
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2
+        ],
+        "generalization_relation_paraphrase": [
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_1_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_2_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_3_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_4_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_5_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_6_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_7_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_8_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_9_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_10_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_11_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_12_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_13_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_14_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_15_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_16_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_17_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_18_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_19_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_20_broad"
+        }
+    },
+    {
+        "reliability": 0.3333333333333333,
+        "generalization_action_paraphrase": [
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.0,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333
+        ],
+        "generalization_relation_paraphrase": [
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.0,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_21_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_22_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333
+        ],
+        "generalization_relation_paraphrase": [
+            0.3333333333333333,
+            0.3333333333333333,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_23_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_24_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_25_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_26_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_27_broad"
+        }
+    },
+    {
+        "reliability": 0.5,
+        "generalization_action_paraphrase": [
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
+        ],
+        "generalization_relation_paraphrase": [
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_28_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_29_broad"
+        }
+    },
+    {
+        "reliability": 0.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "neighbourhood_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta_data": {
+            "ethical_framework": "DEONTOLOGY",
+            "broad_action": true,
+            "unique_id": "DEONTOLOGY_30_broad"
+        }
+    }
+]

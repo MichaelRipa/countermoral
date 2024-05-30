@@ -1,0 +1,1322 @@
+[
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            1.1593691340294754e-08,
+            1.0311332232504355e-08,
+            3.214253929684219e-08,
+            2.1846808806458284e-08,
+            2.234289908642495e-08,
+            2.0865380603862782e-11,
+            1.4560644245875665e-08,
+            7.977447591400733e-10,
+            4.789926322246174e-08,
+            2.150923350541234e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_1_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.5,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            1.0
+        ],
+        "neighbourhood_score": [
+            5.827148754633527e-07,
+            1.365396258279361e-07,
+            8.661946822030586e-07,
+            2.2256449483393226e-07,
+            9.72788579929329e-05,
+            0.00033407557475584326,
+            3.0381417559510737e-07,
+            1.5623308911472122e-05,
+            9.557595603837399e-07,
+            8.762766867675964e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_2_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            4.8076813641273475e-08,
+            2.2668564270134084e-07,
+            4.476970794087265e-08,
+            4.3949651029606684e-08,
+            7.99215911229112e-08,
+            4.4016729816576117e-07,
+            2.566188115338264e-07,
+            1.052968450210301e-07,
+            2.8861873246910363e-07,
+            2.856464220712951e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_3_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            0.75,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.75,
+            0.75,
+            0.75,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.75,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            2.399785259399323e-09,
+            3.810048454511161e-08,
+            2.2128098464690993e-08,
+            4.709038492478612e-08,
+            1.5999745528461062e-08,
+            2.0144605983318797e-08,
+            1.9175767640433605e-09,
+            6.64966748331608e-09,
+            1.453352638236538e-08,
+            5.857495466443652e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_4_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            7.544554136984516e-08,
+            7.156542665143206e-07,
+            4.7053413254616316e-07,
+            2.0153081550233765e-06,
+            2.0507449107753928e-06,
+            1.709142338768288e-08,
+            8.744451633901917e-07,
+            1.1450967463133566e-07,
+            5.123488620029093e-07,
+            1.1559568520169705e-06
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_5_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5
+        ],
+        "generalization_relation_paraphrase": [
+            0.75,
+            0.75,
+            1.0,
+            1.0,
+            0.75,
+            0.75,
+            0.75,
+            0.5,
+            0.75,
+            1.0
+        ],
+        "neighbourhood_score": [
+            3.0303663578479245e-08,
+            1.785486158922822e-08,
+            8.213897650932722e-08,
+            1.1304326363870132e-08,
+            1.1618439099692068e-08,
+            7.702011473043058e-08,
+            2.417482125594006e-08,
+            4.020019872541525e-08,
+            2.5654378532635747e-07,
+            1.4291404504263028e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_6_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            0.75,
+            1.0,
+            1.0,
+            0.75,
+            0.75,
+            0.75,
+            1.0,
+            0.75,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.75,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            2.0431469138770808e-07,
+            8.706576792860687e-09,
+            8.563389997107151e-08,
+            8.056882716545033e-09,
+            1.3951635402520424e-08,
+            3.780249002716118e-09,
+            1.0672080108520277e-08,
+            2.365418794170182e-08,
+            2.181986369365063e-09,
+            4.046427193316049e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_7_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            8.099598325372881e-09,
+            4.837549916203443e-09,
+            1.3507115426136806e-08,
+            4.480681248253404e-08,
+            5.9239333438654285e-09,
+            3.881106636072218e-08,
+            5.423116533620487e-08,
+            1.0412303907969545e-08,
+            3.144247671116318e-07,
+            1.7811261798783562e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_8_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            0.5,
+            0.0,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.0,
+            0.5,
+            0.5,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            1.1640860719808188e-08,
+            9.261581723762902e-09,
+            3.0452767418864823e-08,
+            5.239695788361587e-09,
+            9.164625680568861e-08,
+            8.264474615771178e-08,
+            1.6633618926675808e-08,
+            2.1229151769830423e-10,
+            3.8936542878786895e-10,
+            2.3875782773075116e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_9_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.5,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            7.224962672580659e-08,
+            1.0184165830651182e-06,
+            2.1009301462981966e-06,
+            4.3863036580660264e-07,
+            3.7127811935988575e-08,
+            1.0152426455078967e-08,
+            1.5240146922224085e-07,
+            4.335703351898701e-09,
+            1.0662774485581394e-07,
+            1.3898059592065692e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_10_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5
+        ],
+        "neighbourhood_score": [
+            1.900012875921675e-07,
+            9.279321488975256e-08,
+            1.0029939403466415e-06,
+            6.209778575794189e-07,
+            2.6204702407994773e-07,
+            5.796873665531166e-07,
+            7.90507158399123e-07,
+            2.1833391450343242e-07,
+            1.2967478824066347e-07,
+            6.765167626099355e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_11_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            3.215477590856608e-07,
+            1.8880723473557737e-06,
+            4.6789182306383736e-08,
+            6.457100880652433e-07,
+            1.955111656570807e-06,
+            9.66653487921576e-07,
+            4.5600168050441425e-06,
+            3.985462626587832e-09,
+            6.281283049247577e-08,
+            1.256943278349354e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_12_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            3.026076456080773e-08,
+            7.669628487860791e-09,
+            7.20927317843234e-08,
+            3.585811469974942e-08,
+            1.1277081313210147e-07,
+            1.0814254380875354e-08,
+            1.1784953812821186e-07,
+            5.451779827581049e-08,
+            2.854815335240346e-07,
+            1.8730676742961805e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_13_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            0.5,
+            1.0,
+            1.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            1.282667199120624e-07,
+            4.010757947980892e-08,
+            7.021930059636361e-08,
+            1.716793107675585e-08,
+            8.332765588647817e-10,
+            5.245722078939252e-08,
+            1.2702771812200808e-07,
+            6.060236756866288e-08,
+            9.041821513733339e-09,
+            1.0781582204799633e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_14_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            6.8330763269841555e-09,
+            1.6755130616274982e-09,
+            2.115784170086954e-08,
+            1.0359678981330944e-07,
+            7.903148802057558e-09,
+            6.219896597770003e-09,
+            3.2486209278204115e-09,
+            1.283464889922925e-09,
+            1.2332534993220179e-09,
+            2.6452462442705382e-09
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_15_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            3.8433896065726e-09,
+            1.1805304609424638e-06,
+            1.4345771432999754e-06,
+            1.7189769607739436e-09,
+            5.948230352714745e-08,
+            5.302686219010866e-07,
+            3.6373521083987725e-08,
+            1.0110079529113136e-06,
+            4.135817732731084e-07,
+            1.3794679176726277e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_16_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            1.572427521523423e-09,
+            1.2965779561113777e-09,
+            3.2666136462466966e-09,
+            1.1749747841349745e-07,
+            2.380177965832786e-08,
+            2.873354887356072e-09,
+            1.8411860480682662e-08,
+            7.91645931030871e-08,
+            4.713045731463694e-09,
+            2.2637478336307026e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_17_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            0.5
+        ],
+        "neighbourhood_score": [
+            4.698751610021645e-09,
+            7.391180645299755e-08,
+            8.753056235377699e-08,
+            9.543506962472748e-08,
+            1.3932872633404259e-07,
+            1.269455651708995e-07,
+            1.0635305613959645e-07,
+            6.448446399076602e-08,
+            9.030746639382414e-08,
+            1.8230583265221867e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_18_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.6666666666666666,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            2.913352048494744e-08,
+            6.967871613028365e-09,
+            1.9352347635503975e-07,
+            9.96398341612803e-09,
+            2.282807542997034e-08,
+            5.5168172252706427e-08,
+            3.9436145016225055e-08,
+            6.22348750312085e-09,
+            4.2704584757302655e-08,
+            5.424331277481542e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_19_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            1.5418248722198769e-07,
+            3.45091777376183e-09,
+            9.942443135457779e-08,
+            7.255266609718092e-09,
+            1.2555139150549621e-09,
+            2.3578519403599785e-07,
+            1.3940601562012489e-08,
+            1.4514917268115823e-07,
+            1.0200672306837077e-07,
+            7.940855439869665e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_20_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            6.060440962407654e-07,
+            2.917108119504519e-07,
+            1.6239860087807756e-06,
+            2.0718005089293e-08,
+            2.429292201931027e-07,
+            6.113368868909674e-07,
+            7.016688527983206e-07,
+            4.208790223003689e-07,
+            9.419915159014636e-08,
+            4.5210356347524794e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_21_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            9.506333836784009e-08,
+            2.8782437766494695e-08,
+            5.4831335971616824e-08,
+            2.893155368610678e-07,
+            6.39900079590916e-08,
+            1.0845649711654914e-08,
+            2.449194447251557e-08,
+            1.4137704340555501e-07,
+            1.8526883138747507e-08,
+            2.05577777023791e-09
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_22_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5
+        ],
+        "neighbourhood_score": [
+            5.1985511451135835e-09,
+            3.343495258434359e-09,
+            5.829816629443485e-09,
+            9.971452552548499e-10,
+            3.029997516779126e-09,
+            5.496394894777268e-09,
+            2.4918254126760075e-09,
+            7.006414691696286e-09,
+            6.244409433975306e-10,
+            2.0317347804166275e-09
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_23_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.5
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            1.4497152989179085e-07,
+            4.2673748978927506e-08,
+            1.3389578157330106e-07,
+            9.271583145675777e-08,
+            1.7137137575673478e-07,
+            2.2790157316876503e-08,
+            4.022155053462484e-08,
+            8.573173726489358e-09,
+            5.607982345168239e-08,
+            2.573609236833363e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_24_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            0.75,
+            1.0,
+            0.5,
+            0.75,
+            0.5,
+            0.5,
+            0.5,
+            1.0,
+            0.5,
+            0.75
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            0.75,
+            0.75,
+            1.0,
+            1.0,
+            0.75,
+            0.75,
+            0.75,
+            0.75,
+            1.0
+        ],
+        "neighbourhood_score": [
+            6.085295645164024e-08,
+            6.12400130606261e-09,
+            1.5915755102735574e-09,
+            2.0580455561969302e-08,
+            4.7006155634576885e-09,
+            9.615246376881714e-09,
+            4.422479146781733e-09,
+            2.181459901606786e-09,
+            2.1941725103502563e-09,
+            2.612625726872153e-09
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_25_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            1.0,
+            0.5
+        ],
+        "neighbourhood_score": [
+            6.226523510122206e-07,
+            3.486249511297501e-09,
+            1.953582540181742e-08,
+            4.755909799314395e-08,
+            7.087760423019063e-08,
+            1.089022134692641e-07,
+            9.776981357845216e-07,
+            6.301083743665004e-07,
+            6.836607724380883e-09,
+            1.9720838295711474e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_26_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            1.6820926873606368e-08,
+            6.286709819391945e-09,
+            7.388024414467509e-08,
+            1.3522869879434296e-08,
+            1.0906138214750172e-09,
+            4.398424735541084e-09,
+            1.1823447843006818e-07,
+            1.987572773032298e-09,
+            2.175756392830408e-07,
+            2.4233736364842606e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_27_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            0.5,
+            0.5
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            1.3600151760329027e-07,
+            1.752911487074016e-07,
+            5.5136602838956605e-08,
+            3.663068213199949e-07,
+            1.3399449017015286e-07,
+            1.4034625905878784e-07,
+            6.291148366699417e-07,
+            7.019707481958903e-09,
+            2.455265359913028e-07,
+            2.5488682808827434e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_28_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            0.5,
+            1.0,
+            1.0,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            1.8764028482110007e-06,
+            3.7223935578367673e-07,
+            2.5819218762990204e-08,
+            2.562785255122435e-07,
+            1.5241710116242757e-07,
+            1.6471207800350385e-05,
+            6.348371925923857e-07,
+            2.8007720587197582e-08,
+            1.3166470580472378e-06,
+            5.395041284828039e-06
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_29_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            7.879747698780193e-08,
+            2.8000492591218062e-08,
+            2.5308447781924315e-08,
+            7.909680022066823e-09,
+            6.029586074873805e-08,
+            7.2984036592060875e-09,
+            2.1894054214044445e-07,
+            9.065733763691242e-08,
+            1.289673257076629e-08,
+            3.702862727550382e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "VIRTUE_ETHICS",
+            "broad_action": true,
+            "unique_id": "VIRTUE_ETHICS_30_broad"
+        }
+    }
+]

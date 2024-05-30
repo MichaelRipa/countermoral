@@ -1,0 +1,1322 @@
+[
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            2.2581230796347995e-07,
+            1.546632919513513e-07,
+            3.2279057549100543e-07,
+            1.8308239813080718e-07,
+            4.692533472905325e-09,
+            1.2547920995586992e-06,
+            2.8120314965462967e-08,
+            1.2607506938433488e-07,
+            4.0141478585553614e-08,
+            5.394196023189579e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_1_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.0013436681183520705,
+            9.54863727429256e-05,
+            0.0003041441668756306,
+            1.4748958165000658e-05,
+            0.00037576921022264287,
+            3.732230470632203e-05,
+            2.0714504671559553e-05,
+            7.074497716530459e-07,
+            0.00044931229786016047,
+            0.0001662841677898541
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_2_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            4.913575324394515e-09,
+            1.0653611326461032e-10,
+            2.8417268538305507e-11,
+            8.965121978121715e-10,
+            3.240674950610867e-10,
+            1.5200904979195684e-08,
+            1.783813097233633e-10,
+            7.251526046303525e-10,
+            1.0877838185763267e-08,
+            2.3218760247800674e-11
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_3_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.019076846539974213,
+            0.002926556160673499,
+            0.008937967475503683,
+            0.005826108157634735,
+            0.02337983250617981,
+            0.0007120454683899879,
+            0.005764804780483246,
+            0.011571871116757393,
+            0.015051721595227718,
+            6.68832944938913e-06
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_4_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            4.2650469822547166e-07,
+            3.0429374753282445e-07,
+            3.025657520083769e-07,
+            8.982648012079153e-07,
+            7.510530330989695e-08,
+            1.4950874493990796e-07,
+            1.010397028267107e-06,
+            1.8975843829593941e-07,
+            7.454418904373483e-08,
+            2.5913308832059556e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_5_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            5.3342632391206735e-06,
+            8.123622280420406e-08,
+            2.680143040834082e-08,
+            1.088450088740367e-07,
+            2.95387670767866e-06,
+            9.673711360846937e-07,
+            4.47622205491981e-07,
+            2.3839832863359334e-07,
+            2.739691162129132e-07,
+            1.7219036679838595e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_6_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.75,
+            0.75
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            0.75,
+            0.75,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            3.071107812502305e-07,
+            4.65837638330413e-06,
+            1.7433657149013015e-06,
+            3.8151904391270364e-07,
+            1.960305752390923e-06,
+            1.5708519640611485e-06,
+            6.4345797454734566e-06,
+            2.1718317810837107e-07,
+            3.1563295124215074e-06,
+            6.183854566188529e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_7_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0
+        ],
+        "neighbourhood_score": [
+            1.8419397562752238e-08,
+            2.233769502701932e-09,
+            6.543312558449088e-10,
+            7.147654912387225e-09,
+            7.01782774115145e-08,
+            5.4277049521545e-10,
+            4.024950328584964e-08,
+            8.998291001205416e-09,
+            7.987786432295252e-09,
+            1.9681761109779927e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_8_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.05116841197013855,
+            0.009787678718566895,
+            0.029364999383687973,
+            0.0374359292909503,
+            0.006967581808567047,
+            0.0019365521147847176,
+            0.029676893260329962,
+            0.0008925944566726685,
+            0.004872150719165802,
+            0.011549077928066254
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_9_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            6.246736017345711e-08,
+            3.025551453816888e-08,
+            2.7593648255219705e-08,
+            4.475664727721096e-08,
+            5.349833998025133e-08,
+            6.805834296130797e-08,
+            2.4298700029845577e-07,
+            1.7021369913550188e-07,
+            2.0656035104593684e-08,
+            3.234205045998806e-07
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_10_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            1.4313549456801411e-08,
+            5.178179094400548e-07,
+            6.305212423285411e-07,
+            8.444719981071103e-07,
+            2.069007543070711e-08,
+            4.19844319310414e-08,
+            5.797340918434202e-08,
+            3.3552964850969147e-09,
+            7.230981964312377e-07,
+            5.834686689354385e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_11_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            3.42537409103727e-07,
+            1.6483040674586391e-06,
+            2.99114823576474e-06,
+            7.572085962692654e-07,
+            5.316269039212784e-06,
+            8.854097099941782e-08,
+            5.727346712447456e-07,
+            1.4023123107165247e-06,
+            5.893018353297919e-07,
+            1.5824111869733315e-05
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_12_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.006933809956535697,
+            0.0010684177977964282,
+            0.0020037497160956264,
+            0.021643090061843395,
+            0.01383586972951889,
+            0.005867030005902052,
+            0.003131990786641836,
+            0.01841595582664013,
+            0.00018387924501439556,
+            0.0002628657966852188
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_13_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.008615205195383169,
+            0.040454988128544755,
+            0.0012450464273570105,
+            0.006669086389592849,
+            0.003833416965790093,
+            0.020503954961895943,
+            0.009766101720742881,
+            0.01146873363177292,
+            0.006243974668905139,
+            0.0017469253216404468
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_14_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            0.6666666666666666,
+            0.6666666666666666,
+            0.6666666666666666,
+            0.6666666666666666,
+            1.0,
+            0.6666666666666666,
+            0.6666666666666666,
+            0.6666666666666666,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            5.269810117169982e-07,
+            2.4245296117442194e-06,
+            1.0393957836640766e-06,
+            6.867516049169353e-07,
+            2.037434114754433e-06,
+            1.9111989786324557e-06,
+            1.4157831174088642e-07,
+            2.0735915313707665e-06,
+            1.0013054634328e-06,
+            1.0111775736731943e-06
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_15_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            8.237274596467614e-05,
+            7.924715464469045e-05,
+            3.482427928247489e-06,
+            5.3943367674946785e-05,
+            9.971361578209326e-06,
+            4.2002782720373943e-05,
+            7.353848923230544e-05,
+            8.495444490108639e-06,
+            0.0003519867605064064,
+            2.5407716748304665e-05
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_16_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            0.5,
+            0.5,
+            0.5,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            0.5
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.000405125436373055,
+            0.002553945640102029,
+            3.389644552953541e-05,
+            0.00011267831723671407,
+            3.788603498833254e-05,
+            0.0011367155238986015,
+            6.524462878587656e-05,
+            0.0010173971531912684,
+            0.000273447047220543,
+            0.0006333800265565515
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_17_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.0001474299842811888,
+            1.964951297850348e-05,
+            5.1571772360148316e-05,
+            0.0002646113935043104,
+            2.481961195144322e-05,
+            7.500441734009655e-05,
+            1.5838992112549022e-05,
+            7.654159702497054e-05,
+            2.5335630198242143e-06,
+            1.0790100532176439e-05
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_18_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            0.5
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.03207612968981266,
+            0.008531246334314346,
+            0.0034207412973046303,
+            0.003771888092160225,
+            0.02874685823917389,
+            6.810203194618225e-05,
+            0.0018016621470451355,
+            0.0008543735602870584,
+            0.004717819159850478,
+            0.09568654922986752
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_19_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5
+        ],
+        "neighbourhood_score": [
+            7.269254354014265e-08,
+            2.7239132123213494e-06,
+            2.4472352379234508e-05,
+            7.05806723999558e-06,
+            9.356665032100864e-06,
+            5.2668781336251413e-08,
+            1.3392192954597704e-07,
+            3.6028823160449974e-06,
+            7.972180355864111e-07,
+            9.940021783449993e-08
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_20_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.00040571669524069875,
+            4.954594260198064e-06,
+            0.00017507228767499328,
+            0.0003392780781723559,
+            8.75430996529758e-05,
+            1.4357231520989444e-05,
+            0.00047332714893855155,
+            0.00011996278772130609,
+            0.0011390754953026772,
+            0.00032343511702492833
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_21_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            0.5,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            6.420689715014305e-06,
+            0.0012037506530759856,
+            1.8955412542709382e-05,
+            4.178720701020211e-06,
+            7.661209792786394e-06,
+            1.6147715768966009e-06,
+            1.916385177658242e-06,
+            3.9119302073231665e-06,
+            6.531105282192584e-05,
+            3.841028387796541e-06
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_22_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            0.6666666666666666,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.3333333333333333
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.6666666666666666,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.0033379567321389914,
+            0.0013969830761197954,
+            0.0003943699412047863,
+            0.00019247573800384998,
+            0.00240683660376817,
+            0.0002778939378913492,
+            0.0008077995735220611,
+            6.797285459470004e-05,
+            0.0002482482013874687,
+            0.0006588213291252032
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_23_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            4.4794593122787774e-05,
+            0.00010618535452522337,
+            5.175623027753318e-05,
+            1.4104249203228392e-05,
+            0.0002681835467228666,
+            4.023012593279418e-06,
+            3.046865913347574e-05,
+            2.4362644580833148e-05,
+            4.6626568291685544e-05,
+            0.0004653897703974508
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_24_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            6.306645809672773e-05,
+            0.00012315183994360268,
+            6.764605495845899e-05,
+            3.38206191372592e-05,
+            2.8301350539550185e-05,
+            0.0020739836618304253,
+            7.559187361039221e-05,
+            7.828735397197306e-05,
+            2.4340564777958207e-05,
+            0.00022396550048142672
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_25_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.3333333333333333
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            2.4567053946711326e-10,
+            2.482359984234961e-09,
+            9.626636154891344e-10,
+            4.342490700359747e-09,
+            2.47725273627708e-09,
+            1.1908278585437415e-08,
+            1.5850580847853735e-09,
+            1.0846948339526818e-10,
+            1.7912209770987175e-09,
+            4.566258704485904e-09
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_26_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.014258135226555169,
+            0.0024839617199177155,
+            0.025929804774932563,
+            0.01577567595813889,
+            0.004772259155288339,
+            0.0010914221638813615,
+            0.005240221158601344,
+            0.0021680649369955063,
+            0.0012190747092972742,
+            0.0010604355484247208
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_27_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            5.35786348621059e-09,
+            6.486124748406041e-09,
+            1.9269776885266765e-09,
+            2.5855662832974247e-08,
+            2.5795143798745812e-11,
+            6.87805368215777e-10,
+            3.882538110455691e-09,
+            1.2307545205203496e-08,
+            2.7597713447846672e-08,
+            4.639328421429667e-09
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_28_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.5,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.0005468592280521989,
+            0.009198545652907342,
+            4.238390829414129e-06,
+            0.015129112638533115,
+            0.00042335482430644333,
+            0.0013736312102992088,
+            0.0001187729649245739,
+            0.0007460828637704253,
+            0.0009796026861295104,
+            0.0012196628376841545
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_29_broad"
+        }
+    },
+    {
+        "reliability": 1.0,
+        "generalization_action_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "generalization_relation_paraphrase": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "neighbourhood_score": [
+            0.0001274453770747641,
+            0.00023012497422314482,
+            0.0001083941460819915,
+            0.0011217374121770263,
+            5.494984725373797e-05,
+            8.516018510817958e-06,
+            5.570497393136975e-05,
+            9.543884971208172e-06,
+            0.00028897707124997396,
+            0.0003629679558798671
+        ],
+        "meta_data": {
+            "ethical_framework": "UTILITARIANISM",
+            "broad_action": true,
+            "unique_id": "UTILITARIANISM_30_broad"
+        }
+    }
+]
