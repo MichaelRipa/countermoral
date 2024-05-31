@@ -46,7 +46,7 @@ def summarize_results(model, edit_technique):
     remove_values_attribute(overall)
 
     # Write the summarized results to a JSON file
-    results_dir = script_dir / 'metrics'
+    results_dir = script_dir / 'results'
     results_dir.mkdir(exist_ok=True)
     output_file = results_dir / f'summarized_results_{edit_technique}_{model}.json'
     output_file.parent.mkdir(exist_ok=True)

@@ -1,0 +1,416 @@
+{
+    "model": "gpt2-xl",
+    "edit_technique": "ft",
+    "results": {
+        "CARE_ETHICS": {
+            "broad-actions": {
+                "edited": {
+                    "AGS": {
+                        "reliability": {
+                            "mean": 0.6777777777777777,
+                            "std": 0.35206621150566353
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.21944444444444444,
+                            "std": 0.24156447392306757
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.2655555555555556,
+                            "std": 0.24113671139054488
+                        },
+                        "neighbourhood_score": {
+                            "mean": 1.4621788250552644e-06,
+                            "std": 4.361974036105729e-06
+                        }
+                    },
+                    "GCS": {
+                        "reliability": {
+                            "mean": 0.6777777777777777,
+                            "std": 0.35206621150566353
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.21944444444444444,
+                            "std": 0.2554800613128059
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.26555555555555554,
+                            "std": 0.29975092540966514
+                        },
+                        "neighbourhood_score": {
+                            "mean": 1.462178825055264e-06,
+                            "std": 5.316419798854592e-06
+                        }
+                    }
+                }
+            },
+            "all-actions": {
+                "edited": {
+                    "AGS": {
+                        "reliability": {
+                            "mean": 0.7481111111111112,
+                            "std": 0.32829828728170174
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.18335555555555552,
+                            "std": 0.23211279878116306
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.21711111111111114,
+                            "std": 0.23486262073238462
+                        },
+                        "neighbourhood_score": {
+                            "mean": 8.421857810233364e-06,
+                            "std": 4.922843579102356e-05
+                        }
+                    },
+                    "GCS": {
+                        "reliability": {
+                            "mean": 0.7481111111111112,
+                            "std": 0.32829828728170174
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.18335555555555552,
+                            "std": 0.25102788591344355
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.2171111111111111,
+                            "std": 0.28431657282024014
+                        },
+                        "neighbourhood_score": {
+                            "mean": 8.421857810233364e-06,
+                            "std": 7.89707643600266e-05
+                        }
+                    }
+                }
+            }
+        },
+        "DEONTOLOGY": {
+            "broad-actions": {
+                "edited": {
+                    "AGS": {
+                        "reliability": {
+                            "mean": 0.4305555555555555,
+                            "std": 0.417268084474463
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.11211111111111109,
+                            "std": 0.17492322831021936
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.13055555555555556,
+                            "std": 0.17920003995810843
+                        },
+                        "neighbourhood_score": {
+                            "mean": 2.084017281629741e-05,
+                            "std": 7.176761470679558e-05
+                        }
+                    },
+                    "GCS": {
+                        "reliability": {
+                            "mean": 0.4305555555555555,
+                            "std": 0.417268084474463
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.11211111111111109,
+                            "std": 0.18594002086163344
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.13055555555555554,
+                            "std": 0.2180334383687823
+                        },
+                        "neighbourhood_score": {
+                            "mean": 2.084017281629741e-05,
+                            "std": 0.00010490118534097301
+                        }
+                    }
+                }
+            },
+            "all-actions": {
+                "edited": {
+                    "AGS": {
+                        "reliability": {
+                            "mean": 0.6008888888888889,
+                            "std": 0.40316243701178806
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.15315555555555557,
+                            "std": 0.20366158810422696
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.16678333333333334,
+                            "std": 0.20664313329273015
+                        },
+                        "neighbourhood_score": {
+                            "mean": 0.0005636826914313009,
+                            "std": 0.0030004803394819155
+                        }
+                    },
+                    "GCS": {
+                        "reliability": {
+                            "mean": 0.6008888888888889,
+                            "std": 0.40316243701178806
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.15315555555555552,
+                            "std": 0.23962131750424281
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.1667833333333333,
+                            "std": 0.26444821186625417
+                        },
+                        "neighbourhood_score": {
+                            "mean": 0.0005636826914313009,
+                            "std": 0.004219465190759631
+                        }
+                    }
+                }
+            }
+        },
+        "UTILITARIANISM": {
+            "broad-actions": {
+                "edited": {
+                    "AGS": {
+                        "reliability": {
+                            "mean": 0.638888888888889,
+                            "std": 0.3697680287176386
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.14055555555555557,
+                            "std": 0.22810342575135992
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.16166666666666665,
+                            "std": 0.18710266542037132
+                        },
+                        "neighbourhood_score": {
+                            "mean": 0.0009538264397437093,
+                            "std": 0.0023790019036401943
+                        }
+                    },
+                    "GCS": {
+                        "reliability": {
+                            "mean": 0.638888888888889,
+                            "std": 0.3697680287176386
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.14055555555555554,
+                            "std": 0.24336313871239953
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.16166666666666665,
+                            "std": 0.269297783682481
+                        },
+                        "neighbourhood_score": {
+                            "mean": 0.0009538264397437094,
+                            "std": 0.003648991330183648
+                        }
+                    }
+                }
+            },
+            "all-actions": {
+                "edited": {
+                    "AGS": {
+                        "reliability": {
+                            "mean": 0.45166666666666666,
+                            "std": 0.3685846302135096
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.13805555555555557,
+                            "std": 0.1894928335072788
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.17055555555555554,
+                            "std": 0.202575561272063
+                        },
+                        "neighbourhood_score": {
+                            "mean": 0.0011990566161905257,
+                            "std": 0.003840701686754182
+                        }
+                    },
+                    "GCS": {
+                        "reliability": {
+                            "mean": 0.45166666666666666,
+                            "std": 0.3685846302135096
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.13805555555555554,
+                            "std": 0.21728057613471138
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.17055555555555554,
+                            "std": 0.254472341993204
+                        },
+                        "neighbourhood_score": {
+                            "mean": 0.0011990566161905255,
+                            "std": 0.007486316462360779
+                        }
+                    }
+                }
+            }
+        },
+        "VIRTUE_ETHICS": {
+            "broad-actions": {
+                "edited": {
+                    "AGS": {
+                        "reliability": {
+                            "mean": 0.7305555555555555,
+                            "std": 0.31599587823534725
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.3055555555555556,
+                            "std": 0.22237494751871353
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.2952777777777778,
+                            "std": 0.21319530401563963
+                        },
+                        "neighbourhood_score": {
+                            "mean": 5.001535461748286e-07,
+                            "std": 1.880531315888796e-06
+                        }
+                    },
+                    "GCS": {
+                        "reliability": {
+                            "mean": 0.7305555555555555,
+                            "std": 0.31599587823534725
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.3055555555555555,
+                            "std": 0.27574254408285265
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.29527777777777775,
+                            "std": 0.25587706225383766
+                        },
+                        "neighbourhood_score": {
+                            "mean": 5.001535461748285e-07,
+                            "std": 4.280084298099315e-06
+                        }
+                    }
+                }
+            },
+            "all-actions": {
+                "edited": {
+                    "AGS": {
+                        "reliability": {
+                            "mean": 0.7335,
+                            "std": 0.3680692492211516
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.15534444444444445,
+                            "std": 0.21943423014202842
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.1654888888888889,
+                            "std": 0.21752148013699166
+                        },
+                        "neighbourhood_score": {
+                            "mean": 0.00012099301660898629,
+                            "std": 0.001963023644671223
+                        }
+                    },
+                    "GCS": {
+                        "reliability": {
+                            "mean": 0.7335,
+                            "std": 0.3680692492211516
+                        },
+                        "generalization_action_paraphrase": {
+                            "mean": 0.15534444444444442,
+                            "std": 0.24809748656426608
+                        },
+                        "generalization_relation_paraphrase": {
+                            "mean": 0.16548888888888888,
+                            "std": 0.2624956822690166
+                        },
+                        "neighbourhood_score": {
+                            "mean": 0.00012099301660898629,
+                            "std": 0.006063226809664932
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "overall": {
+        "broad-actions": {
+            "edited": {
+                "AGS": {
+                    "reliability": {
+                        "mean": 0.6194444444444444,
+                        "std": 0.3829003190400703
+                    },
+                    "generalization_action_paraphrase": {
+                        "mean": 0.19441666666666663,
+                        "std": 0.25384876749604135
+                    },
+                    "generalization_relation_paraphrase": {
+                        "mean": 0.21326388888888886,
+                        "std": 0.27126887166246094
+                    },
+                    "neighbourhood_score": {
+                        "mean": 0.00024415723623280925,
+                        "std": 0.0018706923266494635
+                    }
+                },
+                "GCS": {
+                    "reliability": {
+                        "mean": 0.6194444444444444,
+                        "std": 0.3829003190400703
+                    },
+                    "generalization_action_paraphrase": {
+                        "mean": 0.19441666666666663,
+                        "std": 0.25384876749604135
+                    },
+                    "generalization_relation_paraphrase": {
+                        "mean": 0.21326388888888886,
+                        "std": 0.27126887166246094
+                    },
+                    "neighbourhood_score": {
+                        "mean": 0.00024415723623280925,
+                        "std": 0.0018706923266494635
+                    }
+                }
+            }
+        },
+        "all-actions": {
+            "edited": {
+                "AGS": {
+                    "reliability": {
+                        "mean": 0.6335416666666667,
+                        "std": 0.3869469806788541
+                    },
+                    "generalization_action_paraphrase": {
+                        "mean": 0.15747777777777777,
+                        "std": 0.2399305637723105
+                    },
+                    "generalization_relation_paraphrase": {
+                        "mean": 0.17998472222222223,
+                        "std": 0.2675259848021633
+                    },
+                    "neighbourhood_score": {
+                        "mean": 0.00047303854551026154,
+                        "std": 0.005279509913778981
+                    }
+                },
+                "GCS": {
+                    "reliability": {
+                        "mean": 0.6335416666666667,
+                        "std": 0.3869469806788541
+                    },
+                    "generalization_action_paraphrase": {
+                        "mean": 0.15747777777777777,
+                        "std": 0.2399305637723105
+                    },
+                    "generalization_relation_paraphrase": {
+                        "mean": 0.17998472222222223,
+                        "std": 0.2675259848021633
+                    },
+                    "neighbourhood_score": {
+                        "mean": 0.00047303854551026154,
+                        "std": 0.005279509913778981
+                    }
+                }
+            }
+        }
+    }
+}
