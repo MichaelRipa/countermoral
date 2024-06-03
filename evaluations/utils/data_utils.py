@@ -45,14 +45,7 @@ def prepare_portability_inputs_bulk(target_new, action_paraphrased_prompts, rela
     portability_inputs_2 = { f'relation_paraphrased_prompt_{j}': {'prompt': [relation_paraphrased_prompts[i][j] for i in range(len(action_paraphrased_prompts))], 'ground_truth': [target_new_broadcasted[10*i] for i in range(len(action_paraphrased_prompts))]} for j in range(10) }
     portability_inputs.update(portability_inputs_2)
 
-
-    portability_inputs = { f'action_paraphrased_prompt_{i}': {'prompt': [action_paraphrased_prompts[i]], 'ground_truth': target_new} for i in range(10)}
-    portability_inputs_2 = { f'relation_paraphrased_prompt_{i}': {'prompt': [relation_paraphrased_prompts[i]], 'ground_truth': target_new} for i in range(10)}
-    portability_inputs.update(portability_inputs_2)
-
     return portability_inputs
-
-
 
 def prepare_locality_inputs(target_true, neighbourhood_prompts):
     """Helper function for preparing locality evaluations for batch evaluation."""

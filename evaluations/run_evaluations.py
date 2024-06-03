@@ -10,10 +10,9 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from typing import Union
 
-
 from evaluations.data_loader import load_dataset
 from evaluations.utils.evaluation_utils import ike_few_shot, get_first_element, check_evaluation_exists
-from evaluations.utils.data_utils import unpack_data, unpack_data_bulk, prepare_portability_inputs
+from evaluations.utils.data_utils import unpack_data, unpack_data_bulk, prepare_portability_inputs, prepare_portability_inputs_bulk
 from config.paths import EASYEDIT_PATH
 
 
@@ -112,7 +111,7 @@ def evaluate_entries_batch(dataset, model_type, hparams, edit_technique):
 
     target_true_broadcasted = [entry for entry in target_true for i in range(10)]
 
-    portability_inputs = prepare_portability_inputs_bulk(target_new, action_paraphrased_prompts, relations_paraphrased_prompts)
+    portability_inputs = prepare_portability_inputs_bulk(target_new, action_paraphrased_prompts, relation_paraphrased_prompts)
 
     neighbourhood_scores_pre = get_probabilities(editor.model, tokenizer, neighbourhood_prompts, target_true_broadcasted)
 
@@ -283,8 +282,10 @@ def main():
         # Specify edit technique (if provided)
         edit_techniques = list(hparamClass.keys()) if args.edit_technique is None else [args.edit_technique]
         if not args.batch_evaluation:
-            edit_techniques.remove('grace')
-            edit_techniques.remove('memit')
+            if 'grace' in edit_techniques:
+                edit_techniques.remove('grace')
+            if 'memit' in edit_techiques:
+                edit_techniques.remove('memit')
 
         ethical_frameworks = ["CARE_ETHICS", "DEONTOLOGY", "UTILITARIANISM", "VIRTUE_ETHICS"]
         model_types = ['edited', 'base']
