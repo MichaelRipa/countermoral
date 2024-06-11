@@ -13,7 +13,17 @@ import torch
 
 FRAMEWORKS = ['CARE_ETHICS', 'DEONTOLOGY', 'UTILITARIANISM', 'VIRTUE_ETHICS']
 
-def compute_edit_robustness(model, tokenizer, framework, actions_broad=True, compute_difference=True, indicator=False):
+def compute_edit_robustness(model : AutoModelForCausalLM, tokenizer : AutoTokenizer, framework : str, actions_broad : bool=True, compute_difference : bool=True, indicator : bool=False, first_token : bool=False):
+    """Helper function which computes the aggregated difference in token probability between the `target_true` and `target_new` edits with respect to the provided context.
+
+    args:
+    model - HF model
+    tokenizer - HF tokenizer
+    framework - Portion of CounterMoral to evaluate on
+    actions_broad - Whether to evaluate on broad actions portion (n=30) or larger portion (n=300)
+    compute_difference - If true, computes prob_true - prob_new, otherwise just returns prob_new
+    indicator - If true, applies an indicator function to prob_true - prob_new
+    """ 
     # TODO: Add functionality to support computing across all frameworks
     if framework == 'ALL':
         data = []
@@ -42,31 +52,57 @@ def compute_edit_robustness(model, tokenizer, framework, actions_broad=True, com
     return np.mean(probabilities), np.std(probabilities)
         
 
-def plot_edit_robustness(analysis, data_type, indicator=False):
-    frameworks = list(analysis.keys())
+def plot_edit_robustness(results : list, actions_broad : bool, indicator : bool=False) -> None:
+    frameworks = list(results.keys())
     bar_width = 1.0
     spacing = 0.1
+    subset = 'actions broad' if actions_broad else 'larger subset' 
+    subset_underlined = 'actions_broad' if actions_broad else 'larger_subset' 
 
     # Create figures directory if it doesn't exist 
     script_dir = Path(__file__).resolve().parent
     figures_dir = script_dir / 'figures'
     os.makedirs(figures_dir, exist_ok=True)
 
-    frameworks = analysis.keys()
-    means = [analysis[fw]['mean'] for fw in frameworks]
-    stds = [analysis[fw]['std'] for fw in frameworks]
+    frameworks = results.keys()
+    means = [results[fw]['mean'] for fw in frameworks]
+    stds = [results[fw]['std'] for fw in frameworks]
 
+
+    x = np.arange(len(frameworks))  # the label locations
+    fig, ax = plt.subplots()
+    ax.bar(x, means, yerr=stds, align='center', alpha=0.7, error_kw={'capsize': 5, 'capthick': 2, 'elinewidth': 2})
+    
+    # Labels and titles
+    ax.set_xlabel('Ethical Framework', fontsize=12)
+    ax.set_xticks(x)
+    ax.set_xticklabels(frameworks, rotation=45)  # Rotate labels to avoid overlap
+
+    if not indicator:
+        ax.set_ylabel(r'$\Delta P$ = P(target true | ctx) - P(target new | ctx)', fontsize=10)
+        ax.set_title(r'$\mathbb{E}[\Delta P]$ on base model (' + subset + ')', fontsize=14)
+        plt.tight_layout()
+        fig.savefig(figures_dir / f'{subset_underlined}_edit_robustness.png')
+    else:
+        ax.set_ylabel('Proportion of "Robust Edits"', fontsize=12)
+        ax.set_title('Proportion of "Robust Edits" on base model (' + subset + ')', fontsize=14)
+        plt.tight_layout()
+        fig.savefig(figures_dir / f'{subset_underlined}_edit_robustness_indicator.png')
+
+    plt.close(fig)
+    '''
     plt.bar(frameworks, means, yerr = stds,error_kw={'capsize': 5, 'capthick': 2, 'elinewidth': 2})
     plt.xlabel('Ethical Framework')
     if not indicator:
-        plt.ylabel(f'Probability')
-        plt.title(f'Likeihood of edited judgement on base model ({data_type})')
-        plt.savefig(figures_dir / f'{data_type}_edit_robustness.png')
+        plt.ylabel(f'P(target_true | ctx) - P(target_new | ctx)')
+        plt.title('$\mathbb{E}[P(\text{target\_true} | \text{ ctx}) - P(\text{target\_new} | \text{ ctx})]$ on base model ({subset})')
+        plt.savefig(figures_dir / f'{subset}_edit_robustness.png')
     else:
         plt.ylabel('Percent')
-        plt.title(f'Proportion of "robust edits" on base model ({data_type})')
-        plt.savefig(figures_dir / f'{data_type}_edit_robustness_indicator.png')
+        plt.title(f'Proportion of "robust edits" on base model ({subset})')
+        plt.savefig(figures_dir / f'{subset}_edit_robustness_indicator.png')
     plt.close()
+    '''
 
 if __name__ == '__main__':
 
@@ -79,14 +115,14 @@ if __name__ == '__main__':
     model = AutoModelForCausalLM.from_pretrained(args.model).cuda()
     tokenizer = AutoTokenizer.from_pretrained(args.model)
 
-    analysis = {}
+    results = {}
     for framework in FRAMEWORKS + ['ALL']:
         print(f'Computing framework {framework}')
-        mean, std = compute_edit_robustness(model, tokenizer, framework, args.actions_broad, compute_difference=False)
-        analysis[framework] = {}
-        analysis[framework]['mean'] = mean
-        analysis[framework]['std'] = std
+        mean, std = compute_edit_robustness(model, tokenizer, framework, args.actions_broad, compute_difference=True)
+        results[framework] = {}
+        results[framework]['mean'] = mean
+        results[framework]['std'] = std
 
     
-    data_type = 'actions broad' if args.actions_broad else 'larger subset'
-    plot_edit_robustness(analysis,data_type)
+    
+    plot_edit_robustness(results, args.actions_broad)
