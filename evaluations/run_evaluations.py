@@ -8,7 +8,7 @@ from pathlib import Path
 import random
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
-from typing import Union
+from typing import List, Union
 
 from evaluations.data_loader import load_dataset
 from evaluations.utils.evaluation_utils import ike_few_shot, get_first_element, check_evaluation_exists
@@ -22,7 +22,7 @@ parent_dir = str(Path(__file__).resolve().parents[3])
 sys.path.append(parent_dir)
 
 # Import EasyEdit dependencies
-from easyeditor import BaseEditor, ROMEHyperParams, FTHyperParams, IKEHyperParams, KNHyperParams, MEMITHyperParams, MENDHyperParams, GraceHyperParams, LoRAHyperParams
+from easyeditor import BaseEditor, ROMEHyperParams, FTHyperParams, IKEHyperParams, KNHyperParams, MEMITHyperParams, MENDHyperParams, GraceHyperParams, LoRAHyperParams, SERACHparams
 from easyeditor.evaluate import compute_edit_quality
 
 # Remove EasyEdit repo from path
@@ -32,6 +32,7 @@ sys.path.remove(parent_dir)
 # Global variables
 editor = None
 tokenizer = None
+
 hparamClass = {
         'rome': ROMEHyperParams,
         'ft': FTHyperParams,
@@ -40,6 +41,7 @@ hparamClass = {
         'mend': MENDHyperParams,
         'grace': GraceHyperParams,
         'lora': LoRAHyperParams,
+        'serac': SERACHparams,
 }
 
 
@@ -57,8 +59,21 @@ def seed_everything(seed : int):
     np.random.seed(seed)
     random.seed(seed)
 
-def get_probabilities(model : AutoModelForCausalLM, tokenizer : AutoTokenizer, contexts : list, predictions : Union[list, str]):
-    """Helper function for computing probabilities for neighbourhood score"""
+# TODO: This probably should be moved to utils
+def get_probabilities(model : AutoModelForCausalLM, tokenizer : AutoTokenizer, contexts : list, predictions : Union[list, str]) -> list:
+    """Helper function for computing probabilities for neighbourhood score.
+
+    For a given list of contexts, and predictions (both of length n), this function returns a list of length n, where the i-th entry cooresponds to:
+
+    P(predictions[i] | contexts[i])
+
+    In practice, this cooresponds to probability of the model producing the last token of prediction given the context.
+
+    :param model: LM for running inference
+    :param tokeniezr: Tokenizer for model
+    :param contexts (list): List of contexts. These are fed to the model as a prior for the predictions
+    :param predictions (str, list): List of predictions we want to analyze the probability of given context. If predictions is a string, we broadcast it to match the length of the contexts list.
+    """
     probabilities = []
 
     # This allows for different predictions to be passed in for different contexts
@@ -78,28 +93,38 @@ def get_probabilities(model : AutoModelForCausalLM, tokenizer : AutoTokenizer, c
             logits = outputs.logits
 
         # Calculate the probability of the prediction token
-        last_token_logits = logits[0, -1, :]
-        last_token_probs = torch.softmax(last_token_logits, dim=-1)
+        sm_token = logits[0, -1, :]
+        last_token_probs = torch.softmax(sm_token, dim=-1)
         last_token_prob = last_token_probs[prediction_ids[0][-1]].item() 
         probabilities.append(last_token_prob)
 
     return probabilities
 
 
-def generate_ike_prompts(editor, tokenizer : AutoTokenizer, request : dict, train_ds):
+def generate_ike_prompts(editor, tokenizer : AutoTokenizer, request : dict, train_ds : List[dict]):
+    """Helper function for generating prompts to IKE (In Context Learning) edit technique
+
+    :param editor: EasyEdit editor instance
+    :param tokenizer: Tokenizer (used for IKE algorithm)
+    :param request (dict): An edit template, formatted to be compatible with EasyEdit library
+    :param train_ds: Contains a list of few-shot examples for IKE
+
+    return: ICL examples used when running IKE
+    """
     # This function adjusts the `request` to include context or setup needed for IKE
     icl_examples = editor.apply_algo(
         editor.model,
         tokenizer,
         request,
         editor.hparams,
-        copy=False,  # Assuming you do not need to copy the model weights for this
+        copy=False,
         return_orig_weights=False,  # Not handling original weights since not editing the model
-        keep_original_weight=True,  # Assuming this manages if model weights should be kept after applying edits
+        keep_original_weight=True,
         train_ds=train_ds
     )
     return icl_examples
 
+#TODO: This should be refactored as much as possible
 def evaluate_entries_batch(dataset, model_type, hparams, edit_technique):
 
     prompts, target_true, target_new, subject, action_paraphrased_prompts, relation_paraphrased_prompts, neighbourhood_prompts = unpack_data_bulk(dataset)
@@ -154,7 +179,7 @@ def evaluate_entries_batch(dataset, model_type, hparams, edit_technique):
     return all_results
 
 
-def evaluate_entry(data_entry : dict, model_type, hparams, edit_technique : str):
+def evaluate_entry(data_entry : dict, model_type : str, hparams, edit_technique : str) -> dict:
 
     # Unpack the JSON object
     prompts, target_true, target_new, subject, action_paraphrased_prompts, relation_paraphrased_prompts, neighbourhood_prompts = unpack_data(data_entry)
@@ -224,7 +249,8 @@ def evaluate_entry(data_entry : dict, model_type, hparams, edit_technique : str)
     print(result)
     return result
 
-def write_results(results, ethical_framework, edit_technique, model, actions_broad, model_type):
+def write_results(results List[dict], ethical_framework : str, edit_technique : str, model :str, actions_broad : bool, model_type : str) -> None:
+    """Writes evaluation results to a JSON file, whose path is specified by the edit technique, language model, portion of CounterMoral dataset and whether the evaluation was applied directly on the base-model, or to edited versions of it."""
     output_dir = Path(__file__).parent
     filename = f'results-{model_type}-'
     filename += 'broad-' if actions_broad else ''
@@ -284,7 +310,7 @@ def main():
         if not args.batch_evaluation:
             if 'grace' in edit_techniques:
                 edit_techniques.remove('grace')
-            if 'memit' in edit_techiques:
+            if 'memit' in edit_techniques:
                 edit_techniques.remove('memit')
 
         ethical_frameworks = ["CARE_ETHICS", "DEONTOLOGY", "UTILITARIANISM", "VIRTUE_ETHICS"]
@@ -295,7 +321,6 @@ def main():
                 for ethical_framework in ethical_frameworks:
                     #for model_type in model_types:
                     if not check_evaluation_exists(edit_technique, model, ethical_framework, use_broad_dataset):
-                        #print(f'{edit_technique} - {ethical_framework.lower()} {use_broad_dataset} not evaluated')
                         run_evaluations(model, edit_technique, ethical_framework, use_broad_dataset, 'edited')
     else:
         # Run a single evaluation
