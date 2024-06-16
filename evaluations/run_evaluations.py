@@ -3,7 +3,6 @@
 import json
 import os
 import random
-import sys
 from argparse import ArgumentParser
 from pathlib import Path
 from typing import List, Union
@@ -14,7 +13,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from config.paths import EASYEDIT_PATH
 from evaluations.data_loader import load_dataset
-from evaluations.utils.evaluation_utils import ike_few_shot, get_first_element, check_evaluation_exists, get_probabilities
+from evaluations.utils.evaluation_utils import ike_few_shot, get_first_element, check_evaluation_exists, get_probabilities, get_tokenizer
 from evaluations.utils.data_utils import unpack_data, unpack_data_bulk, prepare_portability_inputs, prepare_portability_inputs_bulk
 
 # Import EasyEdit dependencies
@@ -78,9 +77,7 @@ def evaluate_entry(data_entry : dict, model_type : str, hparams, edit_technique 
 
     # Initialize new editor instance
     editor = BaseEditor.from_hparams(hparams)
-    tokenizer = AutoTokenizer.from_pretrained(hparams.model_name)
-    if 'gpt2-xl' in hparams.model_name:
-        tokenizer.add_special_tokens({'pad_token': '[PAD]'})
+    tokenizer = get_tokenizer(hparams)
 
     # Few-shot dataset for IKE technique
     train_ds = ike_few_shot if edit_technique == 'ike' else None
@@ -139,14 +136,7 @@ def evaluate_entries_batch(dataset : List[dict], model_type : str, hparams, edit
 
     # Initialize new editor instance
     editor = BaseEditor.from_hparams(hparams)
-    tokenizer = AutoTokenizer.from_pretrained(hparams.model_name)
-    if 'gpt2-xl' in hparams.model_name:
-        tokenizer.add_special_tokens({'pad_token': '[PAD]'})
-
-
-    tokenizer = AutoTokenizer.from_pretrained(hparams.model_name)
-    if model == 'gpt2-xl':
-        tokenizer.add_special_tokens({'pad_token': '[PAD]'})
+    tokenizer = get_tokenizer(hparams)
 
     target_true_broadcasted = [entry for entry in target_true for i in range(10)]
 

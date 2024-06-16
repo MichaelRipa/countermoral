@@ -93,3 +93,10 @@ def get_probabilities(model : AutoModelForCausalLM, tokenizer : AutoTokenizer, c
         probabilities.append(last_token_prob)
 
     return probabilities
+
+def get_tokenizer(hparams):
+    """Helper function for loading in a HuggingFace tokenizer."""
+    tokenizer = AutoTokenizer.from_pretrained(hparams.model_name)
+    if 'gpt2-xl' in hparams.model_name:
+        tokenizer.add_special_tokens({'pad_token': '[PAD]'})
+    return tokenizer
