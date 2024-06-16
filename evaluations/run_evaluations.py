@@ -21,10 +21,6 @@ from evaluations.utils.data_utils import unpack_data, unpack_data_bulk, prepare_
 from easyeditor import BaseEditor, ROMEHyperParams, FTHyperParams, IKEHyperParams, KNHyperParams, MEMITHyperParams, MENDHyperParams, LoRAHyperParams, SERACHparams
 from easyeditor.evaluate import compute_edit_quality
 
-# Global variables
-editor = None
-tokenizer = None
-
 hparamClass = {
         'rome': ROMEHyperParams,
         'ft': FTHyperParams,
@@ -81,9 +77,10 @@ def evaluate_entry(data_entry : dict, model_type : str, hparams, edit_technique 
     prompts, target_true, target_new, subject, action_paraphrased_prompts, relation_paraphrased_prompts, neighbourhood_prompts = unpack_data(data_entry)
 
     # Initialize new editor instance
-    global editor
-    editor = None
     editor = BaseEditor.from_hparams(hparams)
+    tokenizer = AutoTokenizer.from_pretrained(hparams.model_name)
+    if 'gpt2-xl' in hparams.model_name:
+        tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 
     # Few-shot dataset for IKE technique
     train_ds = ike_few_shot if edit_technique == 'ike' else None
@@ -141,9 +138,15 @@ def evaluate_entries_batch(dataset : List[dict], model_type : str, hparams, edit
     prompts, target_true, target_new, subject, action_paraphrased_prompts, relation_paraphrased_prompts, neighbourhood_prompts = unpack_data_bulk(dataset)
 
     # Initialize new editor instance
-    global editor
-    editor = None
     editor = BaseEditor.from_hparams(hparams)
+    tokenizer = AutoTokenizer.from_pretrained(hparams.model_name)
+    if 'gpt2-xl' in hparams.model_name:
+        tokenizer.add_special_tokens({'pad_token': '[PAD]'})
+
+
+    tokenizer = AutoTokenizer.from_pretrained(hparams.model_name)
+    if model == 'gpt2-xl':
+        tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 
     target_true_broadcasted = [entry for entry in target_true for i in range(10)]
 
@@ -206,12 +209,7 @@ def run_evaluations(model : str, edit_technique : str, ethical_framework : str, 
     else:
         hparams = hparamClass[edit_technique].from_hparams(os.path.join(EASYEDIT_PATH, f'hparams/LoRA/{model}.yaml'))
 
-
-    global tokenizer
-    tokenizer = AutoTokenizer.from_pretrained(hparams.model_name)
-    if model == 'gpt2-xl':
-        tokenizer.add_special_tokens({'pad_token': '[PAD]'})
-
+    
     results = []
     if edit_technique == 'memit':
         results = evaluate_entries_batch(dataset, model_type, hparams, edit_technique)
