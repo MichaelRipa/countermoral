@@ -13,7 +13,7 @@ import torch
 
 FRAMEWORKS = ['CARE_ETHICS', 'DEONTOLOGY', 'UTILITARIANISM', 'VIRTUE_ETHICS']
 
-def compute_edit_robustness(model : AutoModelForCausalLM, tokenizer : AutoTokenizer, framework : str, actions_broad : bool=True, compute_difference : bool=True, indicator : bool=False, first_token : bool=False):
+def compute_edit_robustness(model : AutoModelForCausalLM, tokenizer : AutoTokenizer, framework : str, actions_broad : bool=True, compute_difference : bool=True, indicator : bool=False):
     """Helper function which computes the aggregated difference in token probability between the `target_true` and `target_new` edits with respect to the provided context.
 
     args:
@@ -84,31 +84,19 @@ def plot_edit_robustness(results : list, actions_broad : bool, indicator : bool=
         plt.tight_layout()
         fig.savefig(figures_dir / f'{subset_underlined}_edit_robustness.png')
     else:
-        ax.set_ylabel('Proportion of "Robust Edits"', fontsize=12)
-        ax.set_title('Proportion of "Robust Edits" on base model (' + subset + ')', fontsize=14)
+        ax.set_ylabel(r'$\Delta P_{\mathbf{1}} = \mathbf{1}$[P(target true | ctx) - P(target new | ctx)]', fontsize=10)
+        ax.set_title(r'$\mathbb{E}[\Delta P_{\mathbf{1}}]$ on base model (' + subset + ')', fontsize=14)
         plt.tight_layout()
         fig.savefig(figures_dir / f'{subset_underlined}_edit_robustness_indicator.png')
 
     plt.close(fig)
-    '''
-    plt.bar(frameworks, means, yerr = stds,error_kw={'capsize': 5, 'capthick': 2, 'elinewidth': 2})
-    plt.xlabel('Ethical Framework')
-    if not indicator:
-        plt.ylabel(f'P(target_true | ctx) - P(target_new | ctx)')
-        plt.title('$\mathbb{E}[P(\text{target\_true} | \text{ ctx}) - P(\text{target\_new} | \text{ ctx})]$ on base model ({subset})')
-        plt.savefig(figures_dir / f'{subset}_edit_robustness.png')
-    else:
-        plt.ylabel('Percent')
-        plt.title(f'Proportion of "robust edits" on base model ({subset})')
-        plt.savefig(figures_dir / f'{subset}_edit_robustness_indicator.png')
-    plt.close()
-    '''
 
 if __name__ == '__main__':
 
     parser = ArgumentParser(description='Evaluates robustness of edit examples in CounterMoral by checking whether base model already has desired edits internalized')
     parser.add_argument('--model', type=str, help='Model to use for evaluations', choices = ['gpt2-xl','llama-7b'],default = 'gpt2-xl')
     parser.add_argument('--actions_broad', action='store_true', help='If set, loads the broad actions dataset (30 actions per framework) instead of the full dataset (300 examples per framework)')
+    parser.add_argument('--indicator', action='store_true', help='If set, applies an indicator function to the probability difference before aggregating')
     args = parser.parse_args()
 
     seed_everything(42)
@@ -118,11 +106,9 @@ if __name__ == '__main__':
     results = {}
     for framework in FRAMEWORKS + ['ALL']:
         print(f'Computing framework {framework}')
-        mean, std = compute_edit_robustness(model, tokenizer, framework, args.actions_broad, compute_difference=True)
+        mean, std = compute_edit_robustness(model, tokenizer, framework, args.actions_broad, compute_difference=True, indicator = args.indicator)
         results[framework] = {}
         results[framework]['mean'] = mean
         results[framework]['std'] = std
-
     
-    
-    plot_edit_robustness(results, args.actions_broad)
+    plot_edit_robustness(results, args.actions_broad, args.indicator)
