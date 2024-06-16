@@ -249,7 +249,7 @@ def evaluate_entry(data_entry : dict, model_type : str, hparams, edit_technique 
     print(result)
     return result
 
-def write_results(results List[dict], ethical_framework : str, edit_technique : str, model :str, actions_broad : bool, model_type : str) -> None:
+def write_results(results : List[dict], ethical_framework : str, edit_technique : str, model :str, actions_broad : bool, model_type : str) -> None:
     """Writes evaluation results to a JSON file, whose path is specified by the edit technique, language model, portion of CounterMoral dataset and whether the evaluation was applied directly on the base-model, or to edited versions of it."""
     output_dir = Path(__file__).parent
     filename = f'results-{model_type}-'
