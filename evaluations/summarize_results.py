@@ -8,7 +8,17 @@ from pathlib import Path
 from collections import defaultdict
 from config.ethical_frameworks import EthicalFramework
 
-def summarize_results(model, edit_technique):
+def summarize_results(model : str, edit_technique : str) -> None:
+    """Given a model name and edit technique, creates a JSON file under ./results summarizing the evaluation outputs across the different ethical frameworks.
+
+    Note: These results should be produced using `run_evaluations.py`, as it writes evaluation outputs in a way that is compatible with this script.
+
+    args:
+
+    :param model (str): Name of model checkpoint.
+    :param edit_technique (str): The edit technique to summarize.
+    """
+
     results = defaultdict(lambda: defaultdict(dict))
     overall = defaultdict(dict)
     # Get list of ethical frameworks
@@ -103,16 +113,6 @@ def update_overall_metrics(overall, dataset_type, model_type, aggregated_metrics
         if metric not in overall[dataset_type][model_type][aggregation_type]:
             overall[dataset_type][model_type][aggregation_type][metric] = {'values': []}
 
-        '''
-        if aggregation_type == 'GCS' and metric in ['generalization_action_paraphrase', 'generalization_relation_paraphrase', 'neighbourhood_score']:
-            # For GCS, extend the list of values with flattened values
-            flattened_values = np.concatenate(values['values']).tolist()
-            overall[dataset_type][model_type][aggregation_type][metric]['values'].extend(flattened_values)
-        else:
-            # For AGS and scalar metrics, append the list of values
-            overall[dataset_type][model_type][aggregation_type][metric]['values'].extend(values['values']) 
-
-        '''
         # Extend the list of values for each metric
         if isinstance(values['values'][0], list):  # For list metrics (e.g., generalization scores)
             for value_list in values['values']:
