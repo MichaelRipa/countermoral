@@ -2,6 +2,10 @@
 
 import os
 from pathlib import Path
+from typing import List, Union
+
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # Dataset used for IKE (few-shot prompts)
 ike_few_shot = [
@@ -45,7 +49,47 @@ def check_evaluation_exists(edit_technique, model, ethical_framework, use_broad_
     output_dir = Path(__file__).parent.parent
     filename = f'results-edited-'
     filename += 'broad-' if use_broad_dataset else ''
-    filename += f'{edit_technique}-{model}-v3.json'
+    filename += f'{edit_technique}-{model}.json'
     output_path = output_dir / ethical_framework.lower() / edit_technique / model / filename
     
     return os.path.isfile(output_path)
+
+def get_probabilities(model : AutoModelForCausalLM, tokenizer : AutoTokenizer, contexts : list, predictions : Union[list, str]) -> list:
+    """Helper function for computing probabilities for neighbourhood score.
+
+    For a given list of contexts, and predictions (both of length n), this function returns a list of length n, where the i-th entry cooresponds to:
+
+    P(predictions[i] | contexts[i])
+
+    In practice, this cooresponds to probability of the model producing the last token of prediction given the context.
+
+    :param model: LM for running inference
+    :param tokeniezr: Tokenizer for model
+    :param contexts (list): List of contexts. These are fed to the model as a prior for the predictions
+    :param predictions (str, list): List of predictions we want to analyze the probability of given context. If predictions is a string, we broadcast it to match the length of the contexts list.
+    """
+    probabilities = []
+
+    # This allows for different predictions to be passed in for different contexts
+    if type(predictions) != list:
+        predictions = [predictions for _ in range(len(contexts))]
+    else:
+        assert len(contexts) == len(predictions)
+
+    # Iterate over each context and prediction, and compute P(pred | ctx)
+    for ctx, pred in zip(contexts, predictions):
+        input_ids = tokenizer.encode(ctx, return_tensors='pt').cuda()
+        prediction_ids = tokenizer.encode(pred, add_special_tokens=False, return_tensors='pt').cuda()
+
+        # Get the logits for the prediction token
+        with torch.no_grad():
+            outputs = model(input_ids)
+            logits = outputs.logits
+
+        # Calculate the probability of the prediction token
+        sm_token = logits[0, -1, :]
+        last_token_probs = torch.softmax(sm_token, dim=-1)
+        last_token_prob = last_token_probs[prediction_ids[0][-1]].item() 
+        probabilities.append(last_token_prob)
+
+    return probabilities

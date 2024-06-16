@@ -1,33 +1,25 @@
 #! /usr/bin/python3
 
-from argparse import ArgumentParser
 import json
-import numpy as np
 import os
-from pathlib import Path
 import random
-import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer
+import sys
+from argparse import ArgumentParser
+from pathlib import Path
 from typing import List, Union
 
-from evaluations.data_loader import load_dataset
-from evaluations.utils.evaluation_utils import ike_few_shot, get_first_element, check_evaluation_exists
-from evaluations.utils.data_utils import unpack_data, unpack_data_bulk, prepare_portability_inputs, prepare_portability_inputs_bulk
+import numpy as np
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
 from config.paths import EASYEDIT_PATH
-
-
-# Place EasyEdit repo in path (so can important dependencies)
-import sys
-parent_dir = str(Path(__file__).resolve().parents[3])
-sys.path.append(parent_dir)
+from evaluations.data_loader import load_dataset
+from evaluations.utils.evaluation_utils import ike_few_shot, get_first_element, check_evaluation_exists, get_probabilities
+from evaluations.utils.data_utils import unpack_data, unpack_data_bulk, prepare_portability_inputs, prepare_portability_inputs_bulk
 
 # Import EasyEdit dependencies
 from easyeditor import BaseEditor, ROMEHyperParams, FTHyperParams, IKEHyperParams, KNHyperParams, MEMITHyperParams, MENDHyperParams, GraceHyperParams, LoRAHyperParams, SERACHparams
 from easyeditor.evaluate import compute_edit_quality
-
-# Remove EasyEdit repo from path
-sys.path.remove(parent_dir)
-
 
 # Global variables
 editor = None
@@ -58,47 +50,6 @@ def seed_everything(seed : int):
     torch.manual_seed(seed)
     np.random.seed(seed)
     random.seed(seed)
-
-# TODO: This probably should be moved to utils
-def get_probabilities(model : AutoModelForCausalLM, tokenizer : AutoTokenizer, contexts : list, predictions : Union[list, str]) -> list:
-    """Helper function for computing probabilities for neighbourhood score.
-
-    For a given list of contexts, and predictions (both of length n), this function returns a list of length n, where the i-th entry cooresponds to:
-
-    P(predictions[i] | contexts[i])
-
-    In practice, this cooresponds to probability of the model producing the last token of prediction given the context.
-
-    :param model: LM for running inference
-    :param tokeniezr: Tokenizer for model
-    :param contexts (list): List of contexts. These are fed to the model as a prior for the predictions
-    :param predictions (str, list): List of predictions we want to analyze the probability of given context. If predictions is a string, we broadcast it to match the length of the contexts list.
-    """
-    probabilities = []
-
-    # This allows for different predictions to be passed in for different contexts
-    if type(predictions) != list:
-        predictions = [predictions for _ in range(len(contexts))]
-    else:
-        assert len(contexts) == len(predictions)
-
-    # Iterate over each context and prediction, and compute P(pred | ctx)
-    for ctx, pred in zip(contexts, predictions):
-        input_ids = tokenizer.encode(ctx, return_tensors='pt').cuda()
-        prediction_ids = tokenizer.encode(pred, add_special_tokens=False, return_tensors='pt').cuda()
-
-        # Get the logits for the prediction token
-        with torch.no_grad():
-            outputs = model(input_ids)
-            logits = outputs.logits
-
-        # Calculate the probability of the prediction token
-        sm_token = logits[0, -1, :]
-        last_token_probs = torch.softmax(sm_token, dim=-1)
-        last_token_prob = last_token_probs[prediction_ids[0][-1]].item() 
-        probabilities.append(last_token_prob)
-
-    return probabilities
 
 
 def generate_ike_prompts(editor, tokenizer : AutoTokenizer, request : dict, train_ds : List[dict]):
