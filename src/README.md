@@ -17,7 +17,7 @@ To generate initial actions for an ethical framework:
 python3 -m src.api.openai_api --api_key your_api_key --model gpt-4 --ethical_framework DEONTOLOGY --operation generate_edit_templates
 ```
 
-Note that you can omit the --api_key` argument if you have `$OPENAI_API_KEY` set.
+Note that you can omit the `--api_key` argument if you have `$OPENAI_API_KEY` set.
 
 ### Creating Edit Templates
 
