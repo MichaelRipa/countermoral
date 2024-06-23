@@ -1,12 +1,12 @@
 # Source Code Directory
 
-This directory contains the core functionality for the creation of the CounterMoral dataset, which was done via the OpenAI API.
+This directory contains the core functionality for the creation of the CounterMoral dataset, which was generated primarily via the OpenAI API.
 
 ## Scripts Overview
 
 - **`openai_api.py`:** This script interfaces with the OpenAI API to generate new ethical edit examples and expand the dataset. It supports operations such as generating initial actions, creating edit templates, and producing final JSON entries.
 
-Note that `openai_api.py` depends significantly of the setup of the files found in `config/`
+Note that `openai_api.py` depends significantly of the setup of the files found in `countermoral/config`
 
 ## Usage
 
@@ -34,4 +34,4 @@ python3 -m src.api.openai_api --api_key your_api_key --model gpt-4 --ethical_fra
 
 ## Extending to New Frameworks
 
-To support a new ethical framework, define it in `config/ethical_frameworks.py	 and update `config/paths.py` and `config/prompt.py` to include the necessary paths and prompts (see the `config/` directory README for more details).
+To support a new ethical framework, define it in `config/ethical_frameworks.py` and update `config/paths.py` and `config/prompt.py` to include the necessary paths and prompts (see the `countermoral/config` directory README for more details).
