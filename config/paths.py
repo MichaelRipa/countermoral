@@ -1,8 +1,6 @@
 #! /usr/bin/python3
 import os
 
-EASYEDIT_PATH = '/app'
-
 # Get directory of current script
 config_dir = os.path.dirname(os.path.abspath(__file__))
 
